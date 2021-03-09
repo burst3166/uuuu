@@ -49,7 +49,7 @@ if ($.isNode()) {
 }
 let wantProduct = ``;//心仪商品名称
 const JD_API_HOST = 'https://api.m.jd.com/client.action';
-const inviteCodes = [`T0195KQtF0pGqwPRIhzxlvYCjVWnYaS5kRrbA@T0225KkcRRoRoVXSKBqml6IKIACjVWnYaS5kRrbA@T0085qI2GE9GCjVWnYaS5kRrbA@T0087aUiGVxGCjVWnYaS5kRrbA@T0167agsQh4Z_VXVIxvxCjVWnYaS5kRrbA@T014_aMsBwNdoAWVYwCjVWnYaS5kRrbA@T0225KkcRh4Y9VeBdBunnKRefQCjVWnYaS5kRrbA`, 'T0195KQtF0pGqwPRIhzxlvYCjVWnYaS5kRrbA'];
+const inviteCodes = [`P04z54XCjVWnYaS5u2ak7ZCdan1Bdd2GGiWvC6_uERj`, 'P04z54XCjVWnYaS5m9cZ2ariXVJwHf0bgkG7Uo'];
 !(async () => {
   await requireConfig();
   if (!cookiesArr[0]) {
@@ -730,7 +730,7 @@ function TotalBean() {
               return
             }
             if (data['retcode'] === 0) {
-              $.nickName = data['base'].nickname;
+              $.nickName = (data['base'] && data['base'].nickname) || $.UserName;
             } else {
               $.nickName = $.UserName
             }
