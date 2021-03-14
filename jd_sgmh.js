@@ -29,8 +29,8 @@ const jdCookieNode = $.isNode() ? require('./jdCookie.js') : '';
 let appId = '1EFRXxg' , homeDataFunPrefix = 'interact_template', collectScoreFunPrefix = 'harmony', message = ''
 let lotteryResultFunPrefix = homeDataFunPrefix, browseTime = 6
 const inviteCodes = [
-  'T0195KQtF0pGqwPRIhzxlvYCjVWmIaW5kRrbA@T0225KkcRRoRoVXSKBqml6IKIACjVWmIaW5kRrbA@T0085qI2GE9GCjVWmIaW5kRrbA@T0087aUiGVxGCjVWmIaW5kRrbA@T0167agsQh4Z_VXVIxvxCjVWmIaW5kRrbA@T014_aMsBwNdoAWVYwCjVWmIaW5kRrbA@T0225KkcRh4Y9VeBdBunnKRefQCjVWmIaW5kRrbA',
-  'T0195KQtF0pGqwPRIhzxlvYCjVWmIaW5kRrbA@T0225KkcRRoRoVXSKBqml6IKIACjVWmIaW5kRrbA@T0085qI2GE9GCjVWmIaW5kRrbA@T0087aUiGVxGCjVWmIaW5kRrbA@T0167agsQh4Z_VXVIxvxCjVWmIaW5kRrbA@T014_aMsBwNdoAWVYwCjVWmIaW5kRrbA@T0225KkcRh4Y9VeBdBunnKRefQCjVWmIaW5kRrbA'
+  'T0225KkcRRoRoVXSKBqml6IKIACjVQmoaT5kRrbA@T014_aMsBwNdoAWVYwCjVQmoaT5kRrbA@T0085qI2GE9GCjVQmoaT5kRrbA@T0195KQtF0pGqwPRIhzxlvYCjVQmoaT5kRrbA@T0087aUiGVxGCjVQmoaT5kRrbA@T0167agsQh4Z_VXVIxvxCjVQmoaT5kRrbA@T0225KkcRh4Y9VeBdBunnKRefQCjVQmoaT5kRrbA@T0127LgxA1oa9FLRCjVQmoaT5kRrbA',
+  'T0225KkcRRoRoVXSKBqml6IKIACjVQmoaT5kRrbA@T014_aMsBwNdoAWVYwCjVQmoaT5kRrbA@T0085qI2GE9GCjVQmoaT5kRrbA@T0195KQtF0pGqwPRIhzxlvYCjVQmoaT5kRrbA@T0087aUiGVxGCjVQmoaT5kRrbA@T0167agsQh4Z_VXVIxvxCjVQmoaT5kRrbA@T0225KkcRh4Y9VeBdBunnKRefQCjVQmoaT5kRrbA@T0127LgxA1oa9FLRCjVQmoaT5kRrbA'
 ];
 const randomCount = $.isNode() ? 20 : 5;
 const notify = $.isNode() ? require('./sendNotify') : '';

@@ -29,8 +29,8 @@ let cookiesArr = [], cookie = '', message;
 let helpAuthor = true;
 const randomCount = $.isNode() ? 20 : 5;
 const inviteCodes = [
-  `YFjh6Vll-l3zb9cCf_U@aURoM7PtY_Q@eU9YL5XqGLxSmRSAkwxR@eU9YaO7jMvwh-W_VzyUX0Q@eU9YaurkY69zoj3UniVAgg@eU9YaOnjYK4j-GvWmXIWhA@eU9YMZ_gPpRurC-foglg`,
-  `-4msulYas0O2JsRhE-2TA5XZmBQ@eU9Yar_mb_9z92_WmXNG0w@eU9YaO7jMvwh-W_VzyUX0Q@eU9YaurkY69zoj3UniVAgg@eU9YaOnjYK4j-GvWmXIWhA`
+  'eU9Yaei6Mv0j-W6HyCYTgg@YEVoK_H2M61ksg@e0RyNL3t@eUJpO7jtOKsg82jQyXI@cENmNa7t@cE5obuyybv0k8m_Q@eU9YauyzZv9wpW-GwyBH3w@cV51L6ixZ_og',
+  'eU9Yaei6Mv0j-W6HyCYTgg@YEVoK_H2M61ksg@e0RyNL3t@eUJpO7jtOKsg82jQyXI@cENmNa7t@cE5obuyybv0k8m_Q@eU9YauyzZv9wpW-GwyBH3w@cV51L6ixZ_og'
 ]
 if ($.isNode()) {
   Object.keys(jdCookieNode).forEach((item) => {
