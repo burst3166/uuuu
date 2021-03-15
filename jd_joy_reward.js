@@ -37,7 +37,7 @@ cron "0 0-16/8 * * *" script-path=https://gitee.com/lxk0301/jd_scripts/raw/maste
 
 const $ = new Env('宠汪汪积分兑换奖品');
 let allMessage = '';
-let joyRewardName = 20;//是否兑换京豆，默认开启兑换功能，其中20为兑换20京豆,500为兑换500京豆，0为不兑换京豆.数量有限先到先得
+let joyRewardName = 500;//是否兑换京豆，默认开启兑换功能，其中20为兑换20京豆,500为兑换500京豆，0为不兑换京豆.数量有限先到先得
 //Node.js用户请在jdCookie.js处填写京东ck;
 const jdCookieNode = $.isNode() ? require('./jdCookie.js') : '';
 const notify = $.isNode() ? require('./sendNotify') : '';
@@ -116,13 +116,13 @@ async function joyReward() {
       }
       let giftSaleInfos = 'beanConfigs0';
       let time = new Date($.getExchangeRewardsRes['currentTime']).getHours();
-      if (time >= 23 && time < 7) {
+      if (time >= 0 && time < 8) {
         giftSaleInfos = 'beanConfigs0';
       }
-      if (time >= 7 && time < 15) {
+      if (time >= 8 && time < 16) {
         giftSaleInfos = 'beanConfigs8';
       }
-      if (time >= 15 && time < 23) {
+      if (time >= 16 && time < 24) {
         giftSaleInfos = 'beanConfigs16';
       }
       console.log(`\ndebug场次:${giftSaleInfos}\n`)
