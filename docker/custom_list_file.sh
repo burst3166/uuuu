@@ -1,0 +1,1 @@
+50 * * * * sleep $((RANDOM % $RANDOM_DELAY_MAX)); node /scripts/jd_dreamFactorymy.js |ts >> /scripts/logs/jd_dreamFactory.log 2>&1
