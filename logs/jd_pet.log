@@ -1,177 +1,701 @@
-Mar 22 06:35:06 
-Mar 22 06:35:06 🔔东东萌宠, 开始!
-Mar 22 06:35:06 开始获取东东萌宠配置文件
-Mar 22 06:35:06 
-Mar 22 06:35:06 
-Mar 22 06:35:06 ====================共1个京东账号Cookie=========
-Mar 22 06:35:06 
-Mar 22 06:35:06 ==================脚本执行- 北京时间(UTC+8)：3/22/2021, 6:35:06 AM=====================
-Mar 22 06:35:06 
-Mar 22 06:35:06 共1个京东账号
-Mar 22 06:35:06 
-Mar 22 06:35:06 您提供了1个账号的东东萌宠助力码
-Mar 22 06:35:06 
-Mar 22 06:35:07 
-Mar 22 06:35:07 开始【京东账号1】burst3166
-Mar 22 06:35:07 
-Mar 22 06:35:08 随机取个20码放到您固定的互助码后面(不影响已有固定互助)
-Mar 22 06:35:08 第1个京东账号将要助力的好友["MTE1NDUwMTI0MDAwMDAwMDQ2NTg5MjMx","MTE1NDUwMTI0MDAwMDAwMDQ0MjAwNDQz","MTE1NDUwMTI0MDAwMDAwMDQ0MTg3NTQz","MTE1NDAxNzgwMDAwMDAwNDQ2MTc1MDk=","MTE1NDUyMjEwMDAwMDAwNDQ2MzMyNjc=","MTE1NDUwMTI0MDAwMDAwMDQ0NjU5OTUx","MTE1NDQ5OTIwMDAwMDAwNDQ2NjgzNTc=","MTAxODc2NTEzNDAwMDAwMDAxMjQ0MjU1MQ==","MTE1NDUwMTI0MDAwMDAwMDQyODcxOTQ5","MTE1NDUyMjEwMDAwMDAwMzg1MDM3NjU=","MTE1NDQ5OTIwMDAwMDAwNDM3Njc5Njc=","MTE1NDQ5OTIwMDAwMDAwNDM3OTE3NDc=","MTE1NDQ5OTUwMDAwMDAwNDM4MzE0MDk=","MTE1NDQ5MzYwMDAwMDAwNDQ1MDkyMDE=","MTE1NDQ5MzYwMDAwMDAwNDQ4NDEwNDM=","MTE1NDUwMTI0MDAwMDAwMDQ0NjM5MTk1","MTE1NDQ5MzYwMDAwMDAwNDE2MTg2ODk=","MTE1NDQ5OTUwMDAwMDAwNDE5MDQxMDk=","MTE1NDUyMjEwMDAwMDAwNDIwMjEzOTk=","MTAxODExNDYxMTAwMDAwMDAwMzkzMjU3Mzk=","MTAxODc2NTEzMjAwMDAwMDAxMDU0ODk2NQ==","MTAxODc2NTEzNTAwMDAwMDAyODY0MjMyNw==","MTE1NDQ5OTIwMDAwMDAwNDI1MzE4NTM=","MTE1NDQ5OTUwMDAwMDAwNDM2OTMzMzc=","MTAxODc2NTEzMjAwMDAwMDAyOTU1NjE0MQ==","MTEzMzI0OTE0NTAwMDAwMDA0MzkzMzg4MQ==","MTE1NDUwMTI0MDAwMDAwMDQwNDYzNTA1","MTE1NDUwMTI0MDAwMDAwMDM5NTQ5NDM1"]
-Mar 22 06:35:11 
-Mar 22 06:35:11 【京东账号1（burst3166）的东东萌宠好友互助码】MTAxODc2NTEzNDAwMDAwMDAxMjQ0MjU1MQ==
-Mar 22 06:35:11 
-Mar 22 06:35:11 开始任务初始化
-Mar 22 06:35:14 开始遛弯
-Mar 22 06:35:17 第1次遛狗完成: {"code":"0","resultCode":"0","message":"success","result":{"petSportStatus":2,"rewardName":"10g狗粮","foodReward":10,"rewardImage":"https://m.360buyimg.com/babel/jfs/t1/93013/7/15949/8468/5e7db3e6E7736d837/2e3a5bda881dce0b.png","energyReward":0}}
-Mar 22 06:35:20 领取遛狗奖励完成: {"code":"0","resultCode":"0","message":"success","result":{"petSportStatus":3,"foodAmount":86}}
-Mar 22 06:35:23 第2次遛狗完成: {"code":"0","resultCode":"0","message":"success","result":{"petSportStatus":2,"rewardName":"两块骨头","foodReward":0,"rewardImage":"https://m.360buyimg.com/babel/jfs/t1/92236/37/16497/15518/5e7db3f6E15c243f9/56fb583bdb0280c9.png","energyReward":0}}
-Mar 22 06:35:26 领取遛狗奖励完成: {"code":"0","resultCode":"0","message":"success","result":{"petSportStatus":3,"foodAmount":86}}
-Mar 22 06:35:29 第3次遛狗完成: {"code":"0","resultCode":"0","message":"success","result":{"petSportStatus":2,"rewardName":"一只被遗忘的球","foodReward":0,"rewardImage":"https://m.360buyimg.com/babel/jfs/t1/113654/22/86/12226/5e86dfd0E5fee8100/d2d637b67e3aba6c.png","energyReward":0}}
-Mar 22 06:35:33 领取遛狗奖励完成: {"code":"0","resultCode":"0","message":"success","result":{"petSportStatus":3,"foodAmount":86}}
-Mar 22 06:35:36 第4次遛狗完成: {"code":"0","resultCode":"0","message":"success","result":{"petSportStatus":2,"rewardName":"10g狗粮","foodReward":10,"rewardImage":"https://m.360buyimg.com/babel/jfs/t1/93013/7/15949/8468/5e7db3e6E7736d837/2e3a5bda881dce0b.png","energyReward":0}}
-Mar 22 06:35:39 领取遛狗奖励完成: {"code":"0","resultCode":"0","message":"success","result":{"petSportStatus":3,"foodAmount":96}}
-Mar 22 06:35:42 第5次遛狗完成: {"code":"0","resultCode":"0","message":"success","result":{"petSportStatus":2,"rewardName":"一只爱唱歌的鸟","foodReward":0,"rewardImage":"https://m.360buyimg.com/babel/jfs/t1/85513/18/17679/15749/5e86dfbaE7d12ef75/945573cc9fb9a045.png","energyReward":0}}
-Mar 22 06:35:45 领取遛狗奖励完成: {"code":"0","resultCode":"0","message":"success","result":{"petSportStatus":3,"foodAmount":96}}
-Mar 22 06:35:48 第6次遛狗完成: {"code":"0","resultCode":"0","message":"success","result":{"petSportStatus":2,"rewardName":"一双可爱拖鞋","foodReward":0,"rewardImage":"https://m.360buyimg.com/babel/jfs/t1/110796/9/2715/20773/5e86dfe7E65833d91/fe3a24dc594591c0.png","energyReward":0}}
-Mar 22 06:35:51 领取遛狗奖励完成: {"code":"0","resultCode":"0","message":"success","result":{"petSportStatus":3,"foodAmount":96}}
-Mar 22 06:35:54 第7次遛狗完成: {"code":"0","resultCode":"0","message":"success","result":{"petSportStatus":2,"rewardName":"一只小熊","foodReward":0,"rewardImage":"https://m.360buyimg.com/babel/jfs/t1/118114/32/68/20561/5e86e020E4459ccd0/05df645f93ac4f9d.png","energyReward":0}}
-Mar 22 06:35:57 领取遛狗奖励完成: {"code":"0","resultCode":"0","message":"success","result":{"petSportStatus":3,"foodAmount":96}}
-Mar 22 06:36:00 第8次遛狗完成: {"code":"0","resultCode":"0","message":"success","result":{"petSportStatus":2,"rewardName":"一个有味道的东西","foodReward":0,"rewardImage":"https://m.360buyimg.com/babel/jfs/t1/111138/29/83/16957/5e86dffcE36c35d62/447f461cef5acaa9.png","energyReward":0}}
-Mar 22 06:36:03 领取遛狗奖励完成: {"code":"0","resultCode":"0","message":"success","result":{"petSportStatus":3,"foodAmount":96}}
-Mar 22 06:36:06 第9次遛狗完成: {"code":"0","resultCode":"0","message":"success","result":{"petSportStatus":2,"rewardName":"一个有味道的东西","foodReward":0,"rewardImage":"https://m.360buyimg.com/babel/jfs/t1/111138/29/83/16957/5e86dffcE36c35d62/447f461cef5acaa9.png","energyReward":0}}
-Mar 22 06:36:09 领取遛狗奖励完成: {"code":"0","resultCode":"0","message":"success","result":{"petSportStatus":3,"foodAmount":96}}
-Mar 22 06:36:12 第10次遛狗完成: {"code":"0","resultCode":"0","message":"success","result":{"petSportStatus":2,"rewardName":"一坨奇怪的东西","foodReward":0,"rewardImage":"https://m.360buyimg.com/babel/jfs/t1/103590/22/16630/14548/5e7db3feE5a57385e/9253e7b39c2d7a0d.png","energyReward":0}}
-Mar 22 06:36:15 领取遛狗奖励完成: {"code":"0","resultCode":"0","message":"success","result":{"petSportStatus":3,"foodAmount":96}}
-Mar 22 06:36:18 第11次遛狗完成: {"code":"0","resultCode":"3001","message":"达到宠物运动次数上限"}
-Mar 22 06:36:18 开始助力京东账号1 - burst3166的好友: MTE1NDUwMTI0MDAwMDAwMDQ2NTg5MjMx
-Mar 22 06:36:22 已给好友: 【jd_sscLGYyNvmRD】助力成功
-Mar 22 06:36:22 开始助力京东账号1 - burst3166的好友: MTE1NDUwMTI0MDAwMDAwMDQ0MjAwNDQz
-Mar 22 06:36:25 已给好友: 【晨曦】助力成功
-Mar 22 06:36:25 开始助力京东账号1 - burst3166的好友: MTE1NDUwMTI0MDAwMDAwMDQ0MTg3NTQz
-Mar 22 06:36:28 该好友zacky1230已满5人助力，无需您再次助力
-Mar 22 06:36:28 开始助力京东账号1 - burst3166的好友: MTE1NDAxNzgwMDAwMDAwNDQ2MTc1MDk=
-Mar 22 06:36:31 该好友京东用户已满5人助力，无需您再次助力
-Mar 22 06:36:31 开始助力京东账号1 - burst3166的好友: MTE1NDUyMjEwMDAwMDAwNDQ2MzMyNjc=
-Mar 22 06:36:34 该好友酷哥ds已满5人助力，无需您再次助力
-Mar 22 06:36:34 开始助力京东账号1 - burst3166的好友: MTE1NDUwMTI0MDAwMDAwMDQ0NjU5OTUx
-Mar 22 06:36:37 该好友jingdong626521已满5人助力，无需您再次助力
-Mar 22 06:36:37 开始助力京东账号1 - burst3166的好友: MTE1NDQ5OTIwMDAwMDAwNDQ2NjgzNTc=
-Mar 22 06:36:40 该好友小中族已满5人助力，无需您再次助力
-Mar 22 06:36:40 开始助力京东账号1 - burst3166的好友: MTAxODc2NTEzNDAwMDAwMDAxMjQ0MjU1MQ==
-Mar 22 06:36:43 助力好友结果: 不能助力自己
-Mar 22 06:36:43 开始助力京东账号1 - burst3166的好友: MTE1NDUwMTI0MDAwMDAwMDQyODcxOTQ5
-Mar 22 06:36:46 该好友门前大桥下走过一只猪已满5人助力，无需您再次助力
-Mar 22 06:36:46 开始助力京东账号1 - burst3166的好友: MTE1NDUyMjEwMDAwMDAwMzg1MDM3NjU=
-Mar 22 06:36:49 该好友kop_shawn已满5人助力，无需您再次助力
-Mar 22 06:36:49 开始助力京东账号1 - burst3166的好友: MTE1NDQ5OTIwMDAwMDAwNDM3Njc5Njc=
-Mar 22 06:36:52 该好友宮廷玉液酒已满5人助力，无需您再次助力
-Mar 22 06:36:52 开始助力京东账号1 - burst3166的好友: MTE1NDQ5OTIwMDAwMDAwNDM3OTE3NDc=
-Mar 22 06:36:55 该好友葫芦娃ming_已满5人助力，无需您再次助力
-Mar 22 06:36:55 开始助力京东账号1 - burst3166的好友: MTE1NDQ5OTUwMDAwMDAwNDM4MzE0MDk=
-Mar 22 06:36:58 该好友Wi-Yu已满5人助力，无需您再次助力
-Mar 22 06:36:58 开始助力京东账号1 - burst3166的好友: MTE1NDQ5MzYwMDAwMDAwNDQ1MDkyMDE=
-Mar 22 06:37:01 该好友lysoul147已满5人助力，无需您再次助力
-Mar 22 06:37:01 开始助力京东账号1 - burst3166的好友: MTE1NDQ5MzYwMDAwMDAwNDQ4NDEwNDM=
-Mar 22 06:37:04 该好友绿海白杨已满5人助力，无需您再次助力
-Mar 22 06:37:04 开始助力京东账号1 - burst3166的好友: MTE1NDUwMTI0MDAwMDAwMDQ0NjM5MTk1
-Mar 22 06:37:08 该好友世界第二酷已满5人助力，无需您再次助力
-Mar 22 06:37:08 开始助力京东账号1 - burst3166的好友: MTE1NDQ5MzYwMDAwMDAwNDE2MTg2ODk=
-Mar 22 06:37:11 该好友strike863925已满5人助力，无需您再次助力
-Mar 22 06:37:11 开始助力京东账号1 - burst3166的好友: MTE1NDQ5OTUwMDAwMDAwNDE5MDQxMDk=
-Mar 22 06:37:14 该好友尤金哥（阳光保险）已满5人助力，无需您再次助力
-Mar 22 06:37:14 开始助力京东账号1 - burst3166的好友: MTE1NDUyMjEwMDAwMDAwNDIwMjEzOTk=
-Mar 22 06:37:17 该好友ZWQ已满5人助力，无需您再次助力
-Mar 22 06:37:17 开始助力京东账号1 - burst3166的好友: MTAxODExNDYxMTAwMDAwMDAwMzkzMjU3Mzk=
-Mar 22 06:37:20 该好友A李亚平已满5人助力，无需您再次助力
-Mar 22 06:37:20 开始助力京东账号1 - burst3166的好友: MTAxODc2NTEzMjAwMDAwMDAxMDU0ODk2NQ==
-Mar 22 06:37:23 该好友快乐的程序猿已满5人助力，无需您再次助力
-Mar 22 06:37:23 开始助力京东账号1 - burst3166的好友: MTAxODc2NTEzNTAwMDAwMDAyODY0MjMyNw==
-Mar 22 06:37:26 该好友水果妹    贝贝已满5人助力，无需您再次助力
-Mar 22 06:37:26 开始助力京东账号1 - burst3166的好友: MTE1NDQ5OTIwMDAwMDAwNDI1MzE4NTM=
-Mar 22 06:37:29 该好友想象无止境已满5人助力，无需您再次助力
-Mar 22 06:37:29 开始助力京东账号1 - burst3166的好友: MTE1NDQ5OTUwMDAwMDAwNDM2OTMzMzc=
-Mar 22 06:37:32 该好友青春已满5人助力，无需您再次助力
-Mar 22 06:37:32 开始助力京东账号1 - burst3166的好友: MTAxODc2NTEzMjAwMDAwMDAyOTU1NjE0MQ==
-Mar 22 06:37:35 该好友再再-listen已满5人助力，无需您再次助力
-Mar 22 06:37:35 开始助力京东账号1 - burst3166的好友: MTEzMzI0OTE0NTAwMDAwMDA0MzkzMzg4MQ==
-Mar 22 06:37:38 该好友tutuchenyi已满5人助力，无需您再次助力
-Mar 22 06:37:38 开始助力京东账号1 - burst3166的好友: MTE1NDUwMTI0MDAwMDAwMDQwNDYzNTA1
-Mar 22 06:37:41 该好友郁甜饼已满5人助力，无需您再次助力
-Mar 22 06:37:41 开始助力京东账号1 - burst3166的好友: MTE1NDUwMTI0MDAwMDAwMDM5NTQ5NDM1
-Mar 22 06:37:44 该好友MAX_Max_已满5人助力，无需您再次助力
-Mar 22 06:37:47 助力好友未达到5个
-Mar 22 06:37:47 帮您助力的好友的名单开始
-Mar 22 06:37:47 准备每日签到
-Mar 22 06:37:50 每日签到结果: {"code":"0","resultCode":"0","message":"success","result":{"couponImage":"","signReward":20,"foodAmount":146,"signDay":6}}
-Mar 22 06:37:50 【每日签到成功】奖励20g狗粮
-Mar 22 06:37:50 
-Mar 22 06:37:50 首次投食任务合并到10次喂食任务中
-Mar 22 06:37:50 
-Mar 22 06:37:50 准备三餐签到
-Mar 22 06:37:54 三餐签到结果: {"code":"0","resultCode":"0","message":"success","result":{"couponImage":"","foodAmount":151,"threeMealReward":5}}
-Mar 22 06:37:54 【定时领狗粮】获得5g
-Mar 22 06:37:54 
-Mar 22 06:37:54 开始做 去逛逛好货会场 任务， 奖励5g狗粮，每天1次
-Mar 22 06:38:00 【浏览指定店铺】获取5g
-Mar 22 06:38:00 
-Mar 22 06:38:00 开始做 领点点券兑红包 任务， 奖励5g狗粮，每天1次
-Mar 22 06:38:06 【浏览指定店铺】获取5g
-Mar 22 06:38:06 
-Mar 22 06:38:06 开始做 肾宝片低至252 任务， 奖励5g狗粮，每天1次
-Mar 22 06:38:12 【浏览指定店铺】获取5g
-Mar 22 06:38:12 
-Mar 22 06:38:12 投食任务开始...
-Mar 22 06:38:12 还需要投食10次
-Mar 22 06:38:15 本次投食结果: {"code":"0","resultCode":"0","message":"success","result":{"petSportStatus":3,"feedAmount":10,"petPlaceInfoList":[{"place":1,"updateSign":true,"energy":5},{"place":2,"energy":0},{"place":3,"energy":0},{"place":4,"energy":0},{"place":5,"energy":0}],"updatePlace":1,"foodAmount":164,"firstFeedReward":8,"feedReachReward":0,"showNeedCollectPop":false,"energyReward":5,"firstFeedFinishedPop":true,"feedReachFinishedPop":false,"showForceCollectPop":false}}
-Mar 22 06:38:15 还需要投食9次
-Mar 22 06:38:18 本次投食结果: {"code":"0","resultCode":"0","message":"success","result":{"petSportStatus":3,"feedAmount":10,"petPlaceInfoList":[{"place":1,"energy":5},{"place":2,"updateSign":true,"energy":6},{"place":3,"energy":0},{"place":4,"energy":0},{"place":5,"energy":0}],"updatePlace":2,"foodAmount":154,"firstFeedReward":0,"feedReachReward":0,"showNeedCollectPop":false,"energyReward":6,"firstFeedFinishedPop":false,"feedReachFinishedPop":false,"showForceCollectPop":false}}
-Mar 22 06:38:18 还需要投食8次
-Mar 22 06:38:21 本次投食结果: {"code":"0","resultCode":"0","message":"success","result":{"petSportStatus":3,"feedAmount":10,"petPlaceInfoList":[{"place":1,"energy":5},{"place":2,"energy":6},{"place":3,"updateSign":true,"energy":7},{"place":4,"energy":0},{"place":5,"energy":0}],"updatePlace":3,"foodAmount":144,"firstFeedReward":0,"feedReachReward":0,"showNeedCollectPop":false,"energyReward":7,"firstFeedFinishedPop":false,"feedReachFinishedPop":false,"showForceCollectPop":false}}
-Mar 22 06:38:21 还需要投食7次
-Mar 22 06:38:24 本次投食结果: {"code":"0","resultCode":"0","message":"success","result":{"petSportStatus":3,"feedAmount":10,"petPlaceInfoList":[{"place":1,"energy":5},{"place":2,"energy":6},{"place":3,"energy":7},{"place":4,"updateSign":true,"energy":6},{"place":5,"energy":0}],"updatePlace":4,"foodAmount":134,"firstFeedReward":0,"feedReachReward":0,"showNeedCollectPop":false,"energyReward":6,"firstFeedFinishedPop":false,"feedReachFinishedPop":false,"showForceCollectPop":false}}
-Mar 22 06:38:24 还需要投食6次
-Mar 22 06:38:27 本次投食结果: {"code":"0","resultCode":"0","message":"success","result":{"petSportStatus":3,"feedAmount":10,"petPlaceInfoList":[{"place":1,"energy":5},{"place":2,"energy":6},{"place":3,"energy":7},{"place":4,"energy":6},{"place":5,"updateSign":true,"energy":4}],"updatePlace":5,"foodAmount":124,"firstFeedReward":0,"feedReachReward":0,"showNeedCollectPop":false,"energyReward":4,"firstFeedFinishedPop":false,"feedReachFinishedPop":false,"showForceCollectPop":false}}
-Mar 22 06:38:27 还需要投食5次
-Mar 22 06:38:30 本次投食结果: {"code":"0","resultCode":"0","message":"success","result":{"petSportStatus":3,"feedAmount":10,"petPlaceInfoList":[{"place":1,"updateSign":true,"energy":11},{"place":2,"energy":6},{"place":3,"energy":7},{"place":4,"energy":6},{"place":5,"energy":4}],"updatePlace":1,"foodAmount":114,"firstFeedReward":0,"feedReachReward":0,"showNeedCollectPop":false,"energyReward":6,"firstFeedFinishedPop":false,"feedReachFinishedPop":false,"showForceCollectPop":false}}
-Mar 22 06:38:30 还需要投食4次
-Mar 22 06:38:33 本次投食结果: {"code":"0","resultCode":"0","message":"success","result":{"petSportStatus":3,"feedAmount":10,"petPlaceInfoList":[{"place":1,"energy":11},{"place":2,"updateSign":true,"energy":11},{"place":3,"energy":7},{"place":4,"energy":6},{"place":5,"energy":4}],"updatePlace":2,"foodAmount":104,"firstFeedReward":0,"feedReachReward":0,"showNeedCollectPop":false,"energyReward":5,"firstFeedFinishedPop":false,"feedReachFinishedPop":false,"showForceCollectPop":false}}
-Mar 22 06:38:33 还需要投食3次
-Mar 22 06:38:36 本次投食结果: {"code":"0","resultCode":"0","message":"success","result":{"petSportStatus":3,"feedAmount":10,"petPlaceInfoList":[{"place":1,"energy":11},{"place":2,"energy":11},{"place":3,"updateSign":true,"energy":14},{"place":4,"energy":6},{"place":5,"energy":4}],"updatePlace":3,"foodAmount":94,"firstFeedReward":0,"feedReachReward":0,"showNeedCollectPop":false,"energyReward":7,"firstFeedFinishedPop":false,"feedReachFinishedPop":false,"showForceCollectPop":false}}
-Mar 22 06:38:36 还需要投食2次
-Mar 22 06:38:39 本次投食结果: {"code":"0","resultCode":"0","message":"success","result":{"petSportStatus":3,"feedAmount":10,"petPlaceInfoList":[{"place":1,"energy":11},{"place":2,"energy":11},{"place":3,"energy":14},{"place":4,"updateSign":true,"energy":13},{"place":5,"energy":4}],"updatePlace":4,"foodAmount":84,"firstFeedReward":0,"feedReachReward":0,"showNeedCollectPop":false,"energyReward":7,"firstFeedFinishedPop":false,"feedReachFinishedPop":false,"showForceCollectPop":false}}
-Mar 22 06:38:39 还需要投食1次
-Mar 22 06:38:43 本次投食结果: {"code":"0","resultCode":"0","message":"success","result":{"petSportStatus":3,"feedAmount":10,"petPlaceInfoList":[{"place":1,"energy":11},{"place":2,"energy":11},{"place":3,"energy":14},{"place":4,"energy":13},{"place":5,"updateSign":true,"energy":10}],"updatePlace":5,"foodAmount":82,"firstFeedReward":0,"feedReachReward":8,"showNeedCollectPop":false,"energyReward":6,"firstFeedFinishedPop":false,"feedReachFinishedPop":true,"showForceCollectPop":false}}
-Mar 22 06:38:43 投食任务结束...
-Mar 22 06:38:43 
-Mar 22 06:38:46 目前剩余狗粮：【82】g,不再继续投食,保留部分狗粮用于完成第二天任务
-Mar 22 06:38:46 开始收取任务奖励好感度
-Mar 22 06:38:49 
-Mar 22 06:38:49 ==============📣系统通知📣==============
-Mar 22 06:38:49 东东萌宠
-Mar 22 06:38:49 5斤红心蜜柚
-Mar 22 06:38:49 【京东账号1】burst3166
-Mar 22 06:38:49 【您助力的好友】jd_sscLGYyNvmRD，晨曦
-Mar 22 06:38:49 【额外奖励】领取失败，原因：给您助力的人未达5个
-Mar 22 06:38:49 【助力您的好友】晨曦，京东用户，jd_sscLGYyNvmRD
-Mar 22 06:38:49 【第4块勋章完成进度】5.5%，还需收集3542好感
-Mar 22 06:38:49 【已获得勋章】3块，还需收集1块即可兑换奖品“5斤红心蜜柚”
-Mar 22 06:38:49 
-Mar 22 06:38:49 全部任务完成, 如果帮助到您可以点下🌟STAR鼓励我一下, 明天见~
-Mar 22 06:38:49 您未提供server酱的SCKEY，取消微信推送消息通知🚫
-Mar 22 06:38:49 
-Mar 22 06:38:49 您未提供push+推送所需的PUSH_PLUS_TOKEN，取消push+推送消息通知🚫
-Mar 22 06:38:49 
-Mar 22 06:38:49 您未提供Bark的APP推送BARK_PUSH，取消Bark推送消息通知🚫
-Mar 22 06:38:49 
-Mar 22 06:38:49 您未提供telegram机器人推送所需的TG_BOT_TOKEN和TG_USER_ID，取消telegram推送消息通知🚫
-Mar 22 06:38:49 
-Mar 22 06:38:49 您未提供企业微信机器人推送所需的QYWX_KEY，取消企业微信推送消息通知🚫
-Mar 22 06:38:49 
-Mar 22 06:38:49 您未提供企业微信应用消息推送所需的QYWX_AM，取消企业微信应用消息推送消息通知🚫
-Mar 22 06:38:49 
-Mar 22 06:38:49 您未提供iGot的推送IGOT_PUSH_KEY，取消iGot推送消息通知🚫
-Mar 22 06:38:49 
-Mar 22 06:38:49 钉钉发送通知消息成功🎉。
-Mar 22 06:38:49 
-Mar 22 06:38:49 
-Mar 22 06:38:49 🔔东东萌宠, 结束! 🕛 223.096 秒
-Mar 22 06:38:49 
+Mar 25 06:35:05 
+Mar 25 06:35:05 🔔东东萌宠, 开始!
+Mar 25 06:35:05 开始获取东东萌宠配置文件
+Mar 25 06:35:05 
+Mar 25 06:35:05 
+Mar 25 06:35:05 ====================共1个京东账号Cookie=========
+Mar 25 06:35:05 
+Mar 25 06:35:05 ==================脚本执行- 北京时间(UTC+8)：3/25/2021, 6:35:05 AM=====================
+Mar 25 06:35:05 
+Mar 25 06:35:05 共1个京东账号
+Mar 25 06:35:05 
+Mar 25 06:35:05 您提供了1个账号的东东萌宠助力码
+Mar 25 06:35:05 
+Mar 25 06:35:05 
+Mar 25 06:35:05 开始【京东账号1】burst3166
+Mar 25 06:35:05 
+Mar 25 06:35:07 随机取个20码放到您固定的互助码后面(不影响已有固定互助)
+Mar 25 06:35:07 第1个京东账号将要助力的好友["MTE1NDUwMTI0MDAwMDAwMDQ2NTg5MjMx","MTE1NDUwMTI0MDAwMDAwMDQ0MjAwNDQz","MTE1NDUwMTI0MDAwMDAwMDQ0MTg3NTQz","MTE1NDAxNzgwMDAwMDAwNDQ2MTc1MDk=","MTE1NDUyMjEwMDAwMDAwNDQ2MzMyNjc=","MTE1NDUwMTI0MDAwMDAwMDQ0NjU5OTUx","MTE1NDQ5OTIwMDAwMDAwNDQ2NjgzNTc=","MTAxODc2NTEzNDAwMDAwMDAxMjQ0MjU1MQ==","MTE1NDUyMjEwMDAwMDAwNDM5NDU0NDU=","MTE1NDAxNzgwMDAwMDAwNDA4OTQ5MjU=","MTE1NDQ5OTIwMDAwMDAwNDM4MzU4ODc=","MTE1NDAxNzYwMDAwMDAwMzY3ODU3MjU=","MTAxODExNTM5NDAwMDAwMDA0MDA0NDUxMQ==","MTAxODc2NTEzNTAwMDAwMDAyMjQyMTM3Nw==","MTE1NDQ5MzYwMDAwMDAwNDM4NjMzNjc=","MTE1NDQ5OTUwMDAwMDAwNDQwNzI5NTU=","MTE1NDUwMTI0MDAwMDAwMDQ0MjU4MjQ1","MTE1NDUyMjEwMDAwMDAwNDI5NjQ4Njc=","MTE1NDQ5OTIwMDAwMDAwMzkzODIxNjc=","MTE1NDQ5MzYwMDAwMDAwNDM1NDA0Mzk=","MTAxODc2NTEzOTAwMDAwMDAzMjU5MDEwNQ==","MTE1NDAxNzgwMDAwMDAwNDQ3MjA4OTE=","MTE1NDAxNzgwMDAwMDAwNDQxMjU5MjM=","MTAxODcxOTI2NTAwMDAwMDAyMzQ2MTA2Mw==","MTAxODcxOTI2NTAwMDAwMDAyNjc3NTQ1NQ==","MTE1NDUwMTI0MDAwMDAwMDQxNTgzNzgx","MTE1NDUwMTI0MDAwMDAwMDQ0MDE2NTAx","MTAxODc2NTEzMTAwMDAwMDAzMDI4MTQzMw=="]
+Mar 25 06:35:10 
+Mar 25 06:35:10 【京东账号1（burst3166）的东东萌宠好友互助码】MTAxODc2NTEzNDAwMDAwMDAxMjQ0MjU1MQ==
+Mar 25 06:35:10 
+Mar 25 06:35:10 开始任务初始化
+Mar 25 06:35:13 开始遛弯
+Mar 25 06:35:16 第1次遛狗完成: {"code":"0","resultCode":"0","message":"success","result":{"petSportStatus":2,"rewardName":"10g狗粮","foodReward":10,"rewardImage":"https://m.360buyimg.com/babel/jfs/t1/93013/7/15949/8468/5e7db3e6E7736d837/2e3a5bda881dce0b.png","energyReward":0}}
+Mar 25 06:35:19 领取遛狗奖励完成: {"code":"0","resultCode":"0","message":"success","result":{"petSportStatus":3,"foodAmount":116}}
+Mar 25 06:35:22 第2次遛狗完成: {"code":"0","resultCode":"0","message":"success","result":{"petSportStatus":2,"rewardName":"10g狗粮","foodReward":10,"rewardImage":"https://m.360buyimg.com/babel/jfs/t1/93013/7/15949/8468/5e7db3e6E7736d837/2e3a5bda881dce0b.png","energyReward":0}}
+Mar 25 06:35:25 领取遛狗奖励完成: {"code":"0","resultCode":"0","message":"success","result":{"petSportStatus":3,"foodAmount":126}}
+Mar 25 06:35:28 第3次遛狗完成: {"code":"0","resultCode":"0","message":"success","result":{"petSportStatus":2,"rewardName":"一只爱唱歌的鸟","foodReward":0,"rewardImage":"https://m.360buyimg.com/babel/jfs/t1/85513/18/17679/15749/5e86dfbaE7d12ef75/945573cc9fb9a045.png","energyReward":0}}
+Mar 25 06:35:31 领取遛狗奖励完成: {"code":"0","resultCode":"0","message":"success","result":{"petSportStatus":3,"foodAmount":126}}
+Mar 25 06:35:34 第4次遛狗完成: {"code":"0","resultCode":"0","message":"success","result":{"petSportStatus":2,"rewardName":"两块骨头","foodReward":0,"rewardImage":"https://m.360buyimg.com/babel/jfs/t1/92236/37/16497/15518/5e7db3f6E15c243f9/56fb583bdb0280c9.png","energyReward":0}}
+Mar 25 06:35:37 领取遛狗奖励完成: {"code":"0","resultCode":"0","message":"success","result":{"petSportStatus":3,"foodAmount":126}}
+Mar 25 06:35:40 第5次遛狗完成: {"code":"0","resultCode":"0","message":"success","result":{"petSportStatus":2,"rewardName":"一支向日葵","foodReward":0,"rewardImage":"https://m.360buyimg.com/babel/jfs/t1/93222/15/17406/20266/5e86df9fE990a8436/75973ad3c8c154b0.png","energyReward":0}}
+Mar 25 06:35:44 领取遛狗奖励完成: {"code":"0","resultCode":"0","message":"success","result":{"petSportStatus":3,"foodAmount":126}}
+Mar 25 06:35:47 第6次遛狗完成: {"code":"0","resultCode":"0","message":"success","result":{"petSportStatus":2,"rewardName":"一个有味道的东西","foodReward":0,"rewardImage":"https://m.360buyimg.com/babel/jfs/t1/111138/29/83/16957/5e86dffcE36c35d62/447f461cef5acaa9.png","energyReward":0}}
+Mar 25 06:35:50 领取遛狗奖励完成: {"code":"0","resultCode":"0","message":"success","result":{"petSportStatus":3,"foodAmount":126}}
+Mar 25 06:35:53 第7次遛狗完成: {"code":"0","resultCode":"0","message":"success","result":{"petSportStatus":2,"rewardName":"一只爱唱歌的鸟","foodReward":0,"rewardImage":"https://m.360buyimg.com/babel/jfs/t1/85513/18/17679/15749/5e86dfbaE7d12ef75/945573cc9fb9a045.png","energyReward":0}}
+Mar 25 06:35:56 领取遛狗奖励完成: {"code":"0","resultCode":"0","message":"success","result":{"petSportStatus":3,"foodAmount":126}}
+Mar 25 06:35:59 第8次遛狗完成: {"code":"0","resultCode":"0","message":"success","result":{"petSportStatus":2,"rewardName":"一只被遗忘的球","foodReward":0,"rewardImage":"https://m.360buyimg.com/babel/jfs/t1/113654/22/86/12226/5e86dfd0E5fee8100/d2d637b67e3aba6c.png","energyReward":0}}
+Mar 25 06:36:02 领取遛狗奖励完成: {"code":"0","resultCode":"0","message":"success","result":{"petSportStatus":3,"foodAmount":126}}
+Mar 25 06:36:05 第9次遛狗完成: {"code":"0","resultCode":"0","message":"success","result":{"petSportStatus":2,"rewardName":"一只爱唱歌的鸟","foodReward":0,"rewardImage":"https://m.360buyimg.com/babel/jfs/t1/85513/18/17679/15749/5e86dfbaE7d12ef75/945573cc9fb9a045.png","energyReward":0}}
+Mar 25 06:36:08 领取遛狗奖励完成: {"code":"0","resultCode":"0","message":"success","result":{"petSportStatus":3,"foodAmount":126}}
+Mar 25 06:36:11 第10次遛狗完成: {"code":"0","resultCode":"0","message":"success","result":{"petSportStatus":2,"rewardName":"一双可爱拖鞋","foodReward":0,"rewardImage":"https://m.360buyimg.com/babel/jfs/t1/110796/9/2715/20773/5e86dfe7E65833d91/fe3a24dc594591c0.png","energyReward":0}}
+Mar 25 06:36:14 领取遛狗奖励完成: {"code":"0","resultCode":"0","message":"success","result":{"petSportStatus":3,"foodAmount":126}}
+Mar 25 06:36:17 第11次遛狗完成: {"code":"0","resultCode":"3001","message":"达到宠物运动次数上限"}
+Mar 25 06:36:17 开始助力京东账号1 - burst3166的好友: MTE1NDUwMTI0MDAwMDAwMDQ2NTg5MjMx
+Mar 25 06:36:20 已给好友: 【jd_sscLGYyNvmRD】助力成功
+Mar 25 06:36:20 开始助力京东账号1 - burst3166的好友: MTE1NDUwMTI0MDAwMDAwMDQ0MjAwNDQz
+Mar 25 06:36:23 已给好友: 【晨曦】助力成功
+Mar 25 06:36:23 开始助力京东账号1 - burst3166的好友: MTE1NDUwMTI0MDAwMDAwMDQ0MTg3NTQz
+Mar 25 06:36:26 该好友zacky1230已满5人助力，无需您再次助力
+Mar 25 06:36:26 开始助力京东账号1 - burst3166的好友: MTE1NDAxNzgwMDAwMDAwNDQ2MTc1MDk=
+Mar 25 06:36:30 该好友京东用户已满5人助力，无需您再次助力
+Mar 25 06:36:30 开始助力京东账号1 - burst3166的好友: MTE1NDUyMjEwMDAwMDAwNDQ2MzMyNjc=
+Mar 25 06:36:33 该好友酷哥ds已满5人助力，无需您再次助力
+Mar 25 06:36:33 开始助力京东账号1 - burst3166的好友: MTE1NDUwMTI0MDAwMDAwMDQ0NjU5OTUx
+Mar 25 06:36:36 该好友jingdong626521已满5人助力，无需您再次助力
+Mar 25 06:36:36 开始助力京东账号1 - burst3166的好友: MTE1NDQ5OTIwMDAwMDAwNDQ2NjgzNTc=
+Mar 25 06:36:39 该好友小中族已满5人助力，无需您再次助力
+Mar 25 06:36:39 开始助力京东账号1 - burst3166的好友: MTAxODc2NTEzNDAwMDAwMDAxMjQ0MjU1MQ==
+Mar 25 06:36:42 助力好友结果: 不能助力自己
+Mar 25 06:36:42 开始助力京东账号1 - burst3166的好友: MTE1NDUyMjEwMDAwMDAwNDM5NDU0NDU=
+Mar 25 06:36:45 该好友噜哟吼已满5人助力，无需您再次助力
+Mar 25 06:36:45 开始助力京东账号1 - burst3166的好友: MTE1NDAxNzgwMDAwMDAwNDA4OTQ5MjU=
+Mar 25 06:36:48 该好友风流王03已满5人助力，无需您再次助力
+Mar 25 06:36:48 开始助力京东账号1 - burst3166的好友: MTE1NDQ5OTIwMDAwMDAwNDM4MzU4ODc=
+Mar 25 06:36:51 该好友KAKA已满5人助力，无需您再次助力
+Mar 25 06:36:51 开始助力京东账号1 - burst3166的好友: MTE1NDAxNzYwMDAwMDAwMzY3ODU3MjU=
+Mar 25 06:36:54 该好友合衬已满5人助力，无需您再次助力
+Mar 25 06:36:54 开始助力京东账号1 - burst3166的好友: MTAxODExNTM5NDAwMDAwMDA0MDA0NDUxMQ==
+Mar 25 06:36:57 该好友Mr_Purity已满5人助力，无需您再次助力
+Mar 25 06:36:57 开始助力京东账号1 - burst3166的好友: MTAxODc2NTEzNTAwMDAwMDAyMjQyMTM3Nw==
+Mar 25 06:37:00 该好友Keith+丶已满5人助力，无需您再次助力
+Mar 25 06:37:00 开始助力京东账号1 - burst3166的好友: MTE1NDQ5MzYwMDAwMDAwNDM4NjMzNjc=
+Mar 25 06:37:03 该好友zhazha2590已满5人助力，无需您再次助力
+Mar 25 06:37:03 开始助力京东账号1 - burst3166的好友: MTE1NDQ5OTUwMDAwMDAwNDQwNzI5NTU=
+Mar 25 06:37:06 该好友clifu已满5人助力，无需您再次助力
+Mar 25 06:37:06 开始助力京东账号1 - burst3166的好友: MTE1NDUwMTI0MDAwMDAwMDQ0MjU4MjQ1
+Mar 25 06:37:09 该好友jd_4057aa0f87afa已满5人助力，无需您再次助力
+Mar 25 06:37:09 开始助力京东账号1 - burst3166的好友: MTE1NDUyMjEwMDAwMDAwNDI5NjQ4Njc=
+Mar 25 06:37:12 该好友抑郁症患者已满5人助力，无需您再次助力
+Mar 25 06:37:12 开始助力京东账号1 - burst3166的好友: MTE1NDQ5OTIwMDAwMDAwMzkzODIxNjc=
+Mar 25 06:37:16 该好友jd_我卖酱油的路过已满5人助力，无需您再次助力
+Mar 25 06:37:16 开始助力京东账号1 - burst3166的好友: MTE1NDQ5MzYwMDAwMDAwNDM1NDA0Mzk=
+Mar 25 06:37:19 该好友oowlFwJBFsxA已满5人助力，无需您再次助力
+Mar 25 06:37:19 开始助力京东账号1 - burst3166的好友: MTAxODc2NTEzOTAwMDAwMDAzMjU5MDEwNQ==
+Mar 25 06:37:22 该好友fw已满5人助力，无需您再次助力
+Mar 25 06:37:22 开始助力京东账号1 - burst3166的好友: MTE1NDAxNzgwMDAwMDAwNDQ3MjA4OTE=
+Mar 25 06:37:25 该好友jd_JHcJvrPiClGH已满5人助力，无需您再次助力
+Mar 25 06:37:25 开始助力京东账号1 - burst3166的好友: MTE1NDAxNzgwMDAwMDAwNDQxMjU5MjM=
+Mar 25 06:37:28 该好友小号1914已满5人助力，无需您再次助力
+Mar 25 06:37:28 开始助力京东账号1 - burst3166的好友: MTAxODcxOTI2NTAwMDAwMDAyMzQ2MTA2Mw==
+Mar 25 06:37:31 该好友菲儿汤已满5人助力，无需您再次助力
+Mar 25 06:37:31 开始助力京东账号1 - burst3166的好友: MTAxODcxOTI2NTAwMDAwMDAyNjc3NTQ1NQ==
+Mar 25 06:37:34 该好友诚实可靠小奶狗已满5人助力，无需您再次助力
+Mar 25 06:37:34 开始助力京东账号1 - burst3166的好友: MTE1NDUwMTI0MDAwMDAwMDQxNTgzNzgx
+Mar 25 06:37:37 该好友huns已满5人助力，无需您再次助力
+Mar 25 06:37:37 开始助力京东账号1 - burst3166的好友: MTE1NDUwMTI0MDAwMDAwMDQ0MDE2NTAx
+Mar 25 06:37:40 该好友jd_136661qaj已满5人助力，无需您再次助力
+Mar 25 06:37:40 开始助力京东账号1 - burst3166的好友: MTAxODc2NTEzMTAwMDAwMDAzMDI4MTQzMw==
+Mar 25 06:37:43 该好友祥已满5人助力，无需您再次助力
+Mar 25 06:37:46 助力好友未达到5个
+Mar 25 06:37:46 帮您助力的好友的名单开始
+Mar 25 06:37:46 准备每日签到
+Mar 25 06:37:49 每日签到结果: {"code":"0","resultCode":"0","message":"success","result":{"couponImage":"","signReward":10,"foodAmount":176,"signDay":2}}
+Mar 25 06:37:49 【每日签到成功】奖励10g狗粮
+Mar 25 06:37:49 
+Mar 25 06:37:49 首次投食任务合并到10次喂食任务中
+Mar 25 06:37:49 
+Mar 25 06:37:49 准备三餐签到
+Mar 25 06:37:52 三餐签到结果: {"code":"0","resultCode":"0","message":"success","result":{"couponImage":"","foodAmount":182,"threeMealReward":6}}
+Mar 25 06:37:52 【定时领狗粮】获得6g
+Mar 25 06:37:52 
+Mar 25 06:37:52 开始做 去逛逛好货会场 任务， 奖励5g狗粮，每天1次
+Mar 25 06:37:58 【浏览指定店铺】获取5g
+Mar 25 06:37:58 
+Mar 25 06:37:58 开始做 领点点券兑红包 任务， 奖励5g狗粮，每天1次
+Mar 25 06:38:05 【浏览指定店铺】获取5g
+Mar 25 06:38:05 
+Mar 25 06:38:05 投食任务开始...
+Mar 25 06:38:05 还需要投食10次
+Mar 25 06:38:08 本次投食结果: {"code":"0","resultCode":"0","message":"success","result":{"petSportStatus":3,"feedAmount":10,"petPlaceInfoList":[{"place":1,"updateSign":true,"energy":4},{"place":2,"energy":0},{"place":3,"energy":0},{"place":4,"energy":0},{"place":5,"energy":0}],"updatePlace":1,"foodAmount":190,"firstFeedReward":8,"feedReachReward":0,"showNeedCollectPop":false,"energyReward":4,"firstFeedFinishedPop":true,"feedReachFinishedPop":false,"showForceCollectPop":false}}
+Mar 25 06:38:08 还需要投食9次
+Mar 25 06:38:11 本次投食结果: {"code":"0","resultCode":"0","message":"success","result":{"petSportStatus":3,"feedAmount":10,"petPlaceInfoList":[{"place":1,"energy":4},{"place":2,"updateSign":true,"energy":5},{"place":3,"energy":0},{"place":4,"energy":0},{"place":5,"energy":0}],"updatePlace":2,"foodAmount":180,"firstFeedReward":0,"feedReachReward":0,"showNeedCollectPop":false,"energyReward":5,"firstFeedFinishedPop":false,"feedReachFinishedPop":false,"showForceCollectPop":false}}
+Mar 25 06:38:11 还需要投食8次
+Mar 25 06:38:14 本次投食结果: {"code":"0","resultCode":"0","message":"success","result":{"petSportStatus":3,"feedAmount":10,"petPlaceInfoList":[{"place":1,"energy":4},{"place":2,"energy":5},{"place":3,"updateSign":true,"energy":8},{"place":4,"energy":0},{"place":5,"energy":0}],"updatePlace":3,"foodAmount":170,"firstFeedReward":0,"feedReachReward":0,"showNeedCollectPop":false,"energyReward":8,"firstFeedFinishedPop":false,"feedReachFinishedPop":false,"showForceCollectPop":false}}
+Mar 25 06:38:14 还需要投食7次
+Mar 25 06:38:17 本次投食结果: {"code":"0","resultCode":"0","message":"success","result":{"petSportStatus":3,"feedAmount":10,"petPlaceInfoList":[{"place":1,"energy":4},{"place":2,"energy":5},{"place":3,"energy":8},{"place":4,"updateSign":true,"energy":5},{"place":5,"energy":0}],"updatePlace":4,"foodAmount":160,"firstFeedReward":0,"feedReachReward":0,"showNeedCollectPop":false,"energyReward":5,"firstFeedFinishedPop":false,"feedReachFinishedPop":false,"showForceCollectPop":false}}
+Mar 25 06:38:17 还需要投食6次
+Mar 25 06:38:20 本次投食结果: {"code":"0","resultCode":"0","message":"success","result":{"petSportStatus":3,"feedAmount":10,"petPlaceInfoList":[{"place":1,"energy":4},{"place":2,"energy":5},{"place":3,"energy":8},{"place":4,"energy":5},{"place":5,"updateSign":true,"energy":8}],"updatePlace":5,"foodAmount":150,"firstFeedReward":0,"feedReachReward":0,"showNeedCollectPop":false,"energyReward":8,"firstFeedFinishedPop":false,"feedReachFinishedPop":false,"showForceCollectPop":false}}
+Mar 25 06:38:20 还需要投食5次
+Mar 25 06:38:23 本次投食结果: {"code":"0","resultCode":"0","message":"success","result":{"petSportStatus":3,"feedAmount":10,"petPlaceInfoList":[{"place":1,"updateSign":true,"energy":10},{"place":2,"energy":5},{"place":3,"energy":8},{"place":4,"energy":5},{"place":5,"energy":8}],"updatePlace":1,"foodAmount":140,"firstFeedReward":0,"feedReachReward":0,"showNeedCollectPop":false,"energyReward":6,"firstFeedFinishedPop":false,"feedReachFinishedPop":false,"showForceCollectPop":false}}
+Mar 25 06:38:23 还需要投食4次
+Mar 25 06:38:26 本次投食结果: {"code":"0","resultCode":"0","message":"success","result":{"petSportStatus":3,"feedAmount":10,"petPlaceInfoList":[{"place":1,"energy":10},{"place":2,"updateSign":true,"energy":13},{"place":3,"energy":8},{"place":4,"energy":5},{"place":5,"energy":8}],"updatePlace":2,"foodAmount":130,"firstFeedReward":0,"feedReachReward":0,"showNeedCollectPop":false,"energyReward":8,"firstFeedFinishedPop":false,"feedReachFinishedPop":false,"showForceCollectPop":false}}
+Mar 25 06:38:26 还需要投食3次
+Mar 25 06:38:29 本次投食结果: {"code":"0","resultCode":"0","message":"success","result":{"petSportStatus":3,"feedAmount":10,"petPlaceInfoList":[{"place":1,"energy":10},{"place":2,"energy":13},{"place":3,"updateSign":true,"energy":14},{"place":4,"energy":5},{"place":5,"energy":8}],"updatePlace":3,"foodAmount":120,"firstFeedReward":0,"feedReachReward":0,"showNeedCollectPop":false,"energyReward":6,"firstFeedFinishedPop":false,"feedReachFinishedPop":false,"showForceCollectPop":false}}
+Mar 25 06:38:29 还需要投食2次
+Mar 25 06:38:32 本次投食结果: {"code":"0","resultCode":"0","message":"success","result":{"petSportStatus":3,"feedAmount":10,"petPlaceInfoList":[{"place":1,"energy":10},{"place":2,"energy":13},{"place":3,"energy":14},{"place":4,"updateSign":true,"energy":12},{"place":5,"energy":8}],"updatePlace":4,"foodAmount":110,"firstFeedReward":0,"feedReachReward":0,"showNeedCollectPop":false,"energyReward":7,"firstFeedFinishedPop":false,"feedReachFinishedPop":false,"showForceCollectPop":false}}
+Mar 25 06:38:32 还需要投食1次
+Mar 25 06:38:35 本次投食结果: {"code":"0","resultCode":"0","message":"success","result":{"petSportStatus":3,"feedAmount":10,"petPlaceInfoList":[{"place":1,"energy":10},{"place":2,"energy":13},{"place":3,"energy":14},{"place":4,"energy":12},{"place":5,"updateSign":true,"energy":13}],"updatePlace":5,"foodAmount":108,"firstFeedReward":0,"feedReachReward":8,"showNeedCollectPop":false,"energyReward":5,"firstFeedFinishedPop":false,"feedReachFinishedPop":true,"showForceCollectPop":false}}
+Mar 25 06:38:35 投食任务结束...
+Mar 25 06:38:35 
+Mar 25 06:38:38 目前剩余狗粮：【108】g,不再继续投食,保留部分狗粮用于完成第二天任务
+Mar 25 06:38:38 开始收取任务奖励好感度
+Mar 25 06:38:41 
+Mar 25 06:38:41 ==============📣系统通知📣==============
+Mar 25 06:38:41 东东萌宠
+Mar 25 06:38:41 5斤红心蜜柚
+Mar 25 06:38:41 【京东账号1】burst3166
+Mar 25 06:38:41 【您助力的好友】jd_sscLGYyNvmRD，晨曦
+Mar 25 06:38:41 【额外奖励】领取失败，原因：给您助力的人未达5个
+Mar 25 06:38:41 【助力您的好友】晨曦，京东用户，zacky1230，jd_sscLGYyNvmRD
+Mar 25 06:38:41 【第4块勋章完成进度】10.5%，还需收集3353好感
+Mar 25 06:38:41 【已获得勋章】3块，还需收集1块即可兑换奖品“5斤红心蜜柚”
+Mar 25 06:38:41 
+Mar 25 06:38:41 全部任务完成, 如果帮助到您可以点下🌟STAR鼓励我一下, 明天见~
+Mar 25 06:38:41 您未提供server酱的SCKEY，取消微信推送消息通知🚫
+Mar 25 06:38:41 
+Mar 25 06:38:41 您未提供push+推送所需的PUSH_PLUS_TOKEN，取消push+推送消息通知🚫
+Mar 25 06:38:41 
+Mar 25 06:38:41 您未提供Bark的APP推送BARK_PUSH，取消Bark推送消息通知🚫
+Mar 25 06:38:41 
+Mar 25 06:38:41 您未提供telegram机器人推送所需的TG_BOT_TOKEN和TG_USER_ID，取消telegram推送消息通知🚫
+Mar 25 06:38:41 
+Mar 25 06:38:41 您未提供企业微信机器人推送所需的QYWX_KEY，取消企业微信推送消息通知🚫
+Mar 25 06:38:41 
+Mar 25 06:38:41 您未提供企业微信应用消息推送所需的QYWX_AM，取消企业微信应用消息推送消息通知🚫
+Mar 25 06:38:41 
+Mar 25 06:38:41 您未提供iGot的推送IGOT_PUSH_KEY，取消iGot推送消息通知🚫
+Mar 25 06:38:41 
+Mar 25 06:38:42 钉钉发送通知消息成功🎉。
+Mar 25 06:38:42 
+Mar 25 06:38:42 
+Mar 25 06:38:42 🔔东东萌宠, 结束! 🕛 216.969 秒
+Mar 25 06:38:42 
+Mar 25 12:35:09 
+Mar 25 12:35:09 🔔东东萌宠, 开始!
+Mar 25 12:35:09 开始获取东东萌宠配置文件
+Mar 25 12:35:09 
+Mar 25 12:35:09 
+Mar 25 12:35:09 ====================共1个京东账号Cookie=========
+Mar 25 12:35:09 
+Mar 25 12:35:09 ==================脚本执行- 北京时间(UTC+8)：3/25/2021, 12:35:09 PM=====================
+Mar 25 12:35:09 
+Mar 25 12:35:09 共1个京东账号
+Mar 25 12:35:09 
+Mar 25 12:35:09 您提供了1个账号的东东萌宠助力码
+Mar 25 12:35:09 
+Mar 25 12:35:10 
+Mar 25 12:35:10 开始【京东账号1】burst3166
+Mar 25 12:35:10 
+Mar 25 12:35:13 随机取个20码放到您固定的互助码后面(不影响已有固定互助)
+Mar 25 12:35:13 第1个京东账号将要助力的好友["MTE1NDUwMTI0MDAwMDAwMDQ2NTg5MjMx","MTE1NDUwMTI0MDAwMDAwMDQ0MjAwNDQz","MTE1NDUwMTI0MDAwMDAwMDQ0MTg3NTQz","MTE1NDAxNzgwMDAwMDAwNDQ2MTc1MDk=","MTE1NDUyMjEwMDAwMDAwNDQ2MzMyNjc=","MTE1NDUwMTI0MDAwMDAwMDQ0NjU5OTUx","MTE1NDQ5OTIwMDAwMDAwNDQ2NjgzNTc=","MTAxODc2NTEzNDAwMDAwMDAxMjQ0MjU1MQ==","MTAxODc2NTEzNDAwMDAwMDAyMDIxNTgyMw==","MTE1NDAxNzgwMDAwMDAwNDMwNzkzODM=","MTE1NDQ5MzYwMDAwMDAwNDI3MTcxODk=","MTAxODc2NTEzNDAwMDAwMDAyNTg2MDkxMw==","MTEzMzI0OTE0NTAwMDAwMDAzOTIyNjkxOQ==","MTE1NDUyMjEwMDAwMDAwMzgxMzA2NTk=","MTE1NDQ5OTIwMDAwMDAwMzkwNTY0OTc=","MTE1NDQ5OTIwMDAwMDAwNDMwMzgxOTM=","MTE1NDUyMjEwMDAwMDAwNDE3OTk5OTM=","MTE1NDAxNzgwMDAwMDAwNDMwNTM5Mjc=","MTE1NDQ5OTIwMDAwMDAwNDI5Njk4MzM=","MTE1NDQ5OTIwMDAwMDAwNDYyMjcxNjE=","MTAxODcxOTI2NTAwMDAwMDAwNTkyNTk2OQ==","MTE1NDQ5OTUwMDAwMDAwMzk5MTU0NTE=","MTAxODc2NTEzMzAwMDAwMDAzMTg2NjgxNw==","MTE1NDUwMTI0MDAwMDAwMDQ0MTM2NjIz","MTE1NDQ5MzYwMDAwMDAwNDM2MTMxOTU=","MTEzMzI0OTE0NTAwMDAwMDA0MjYxMjI3MQ==","MTAxODEyMjkxMDAwMDAwMDQwNzI4NzQx","MTE1NDUyMjEwMDAwMDAwNDQwODQzOTE="]
+Mar 25 12:35:16 
+Mar 25 12:35:16 【京东账号1（burst3166）的东东萌宠好友互助码】MTAxODc2NTEzNDAwMDAwMDAxMjQ0MjU1MQ==
+Mar 25 12:35:16 
+Mar 25 12:35:16 开始任务初始化
+Mar 25 12:35:19 开始遛弯
+Mar 25 12:35:22 第1次遛狗完成: {"code":"0","resultCode":"3001","message":"达到宠物运动次数上限"}
+Mar 25 12:35:22 开始助力京东账号1 - burst3166的好友: MTE1NDUwMTI0MDAwMDAwMDQ2NTg5MjMx
+Mar 25 12:35:25 助力好友结果: 已经助过力
+Mar 25 12:35:25 开始助力京东账号1 - burst3166的好友: MTE1NDUwMTI0MDAwMDAwMDQ0MjAwNDQz
+Mar 25 12:35:28 助力好友结果: 已经助过力
+Mar 25 12:35:28 开始助力京东账号1 - burst3166的好友: MTE1NDUwMTI0MDAwMDAwMDQ0MTg3NTQz
+Mar 25 12:35:31 该好友zacky1230已满5人助力，无需您再次助力
+Mar 25 12:35:31 开始助力京东账号1 - burst3166的好友: MTE1NDAxNzgwMDAwMDAwNDQ2MTc1MDk=
+Mar 25 12:35:34 该好友京东用户已满5人助力，无需您再次助力
+Mar 25 12:35:34 开始助力京东账号1 - burst3166的好友: MTE1NDUyMjEwMDAwMDAwNDQ2MzMyNjc=
+Mar 25 12:35:38 该好友酷哥ds已满5人助力，无需您再次助力
+Mar 25 12:35:38 开始助力京东账号1 - burst3166的好友: MTE1NDUwMTI0MDAwMDAwMDQ0NjU5OTUx
+Mar 25 12:35:41 该好友jingdong626521已满5人助力，无需您再次助力
+Mar 25 12:35:41 开始助力京东账号1 - burst3166的好友: MTE1NDQ5OTIwMDAwMDAwNDQ2NjgzNTc=
+Mar 25 12:35:44 该好友小中族已满5人助力，无需您再次助力
+Mar 25 12:35:44 开始助力京东账号1 - burst3166的好友: MTAxODc2NTEzNDAwMDAwMDAxMjQ0MjU1MQ==
+Mar 25 12:35:47 助力好友结果: 不能助力自己
+Mar 25 12:35:47 开始助力京东账号1 - burst3166的好友: MTAxODc2NTEzNDAwMDAwMDAyMDIxNTgyMw==
+Mar 25 12:35:50 该好友欢欣_已满5人助力，无需您再次助力
+Mar 25 12:35:50 开始助力京东账号1 - burst3166的好友: MTE1NDAxNzgwMDAwMDAwNDMwNzkzODM=
+Mar 25 12:35:53 该好友我浩了已满5人助力，无需您再次助力
+Mar 25 12:35:53 开始助力京东账号1 - burst3166的好友: MTE1NDQ5MzYwMDAwMDAwNDI3MTcxODk=
+Mar 25 12:35:56 该好友@h¡已满5人助力，无需您再次助力
+Mar 25 12:35:56 开始助力京东账号1 - burst3166的好友: MTAxODc2NTEzNDAwMDAwMDAyNTg2MDkxMw==
+Mar 25 12:35:59 该好友Jder已满5人助力，无需您再次助力
+Mar 25 12:35:59 开始助力京东账号1 - burst3166的好友: MTEzMzI0OTE0NTAwMDAwMDAzOTIyNjkxOQ==
+Mar 25 12:36:02 该好友RoooooC🤙🤙🤙已满5人助力，无需您再次助力
+Mar 25 12:36:02 开始助力京东账号1 - burst3166的好友: MTE1NDUyMjEwMDAwMDAwMzgxMzA2NTk=
+Mar 25 12:36:05 该好友xzh的大号已满5人助力，无需您再次助力
+Mar 25 12:36:05 开始助力京东账号1 - burst3166的好友: MTE1NDQ5OTIwMDAwMDAwMzkwNTY0OTc=
+Mar 25 12:36:08 该好友jd_fthbcnApLOnb已满5人助力，无需您再次助力
+Mar 25 12:36:08 开始助力京东账号1 - burst3166的好友: MTE1NDQ5OTIwMDAwMDAwNDMwMzgxOTM=
+Mar 25 12:36:11 该好友又是一个外星人已满5人助力，无需您再次助力
+Mar 25 12:36:11 开始助力京东账号1 - burst3166的好友: MTE1NDUyMjEwMDAwMDAwNDE3OTk5OTM=
+Mar 25 12:36:14 该好友jd_186897bss已满5人助力，无需您再次助力
+Mar 25 12:36:14 开始助力京东账号1 - burst3166的好友: MTE1NDAxNzgwMDAwMDAwNDMwNTM5Mjc=
+Mar 25 12:36:17 该好友淡定已满5人助力，无需您再次助力
+Mar 25 12:36:17 开始助力京东账号1 - burst3166的好友: MTE1NDQ5OTIwMDAwMDAwNDI5Njk4MzM=
+Mar 25 12:36:20 该好友啾啾Zqy已满5人助力，无需您再次助力
+Mar 25 12:36:20 开始助力京东账号1 - burst3166的好友: MTE1NDQ5OTIwMDAwMDAwNDYyMjcxNjE=
+Mar 25 12:36:24 该好友jd_45ed3501df37b已满5人助力，无需您再次助力
+Mar 25 12:36:24 开始助力京东账号1 - burst3166的好友: MTAxODcxOTI2NTAwMDAwMDAwNTkyNTk2OQ==
+Mar 25 12:36:27 该好友L大胆已满5人助力，无需您再次助力
+Mar 25 12:36:27 开始助力京东账号1 - burst3166的好友: MTE1NDQ5OTUwMDAwMDAwMzk5MTU0NTE=
+Mar 25 12:36:30 该好友助眠曲_已满5人助力，无需您再次助力
+Mar 25 12:36:30 开始助力京东账号1 - burst3166的好友: MTAxODc2NTEzMzAwMDAwMDAzMTg2NjgxNw==
+Mar 25 12:36:33 该好友hzg317477458已满5人助力，无需您再次助力
+Mar 25 12:36:33 开始助力京东账号1 - burst3166的好友: MTE1NDUwMTI0MDAwMDAwMDQ0MTM2NjIz
+Mar 25 12:36:36 该好友周航冬已满5人助力，无需您再次助力
+Mar 25 12:36:36 开始助力京东账号1 - burst3166的好友: MTE1NDQ5MzYwMDAwMDAwNDM2MTMxOTU=
+Mar 25 12:36:39 该好友mom0mo已满5人助力，无需您再次助力
+Mar 25 12:36:39 开始助力京东账号1 - burst3166的好友: MTEzMzI0OTE0NTAwMDAwMDA0MjYxMjI3MQ==
+Mar 25 12:36:42 该好友游戏人生19860211已满5人助力，无需您再次助力
+Mar 25 12:36:42 开始助力京东账号1 - burst3166的好友: MTAxODEyMjkxMDAwMDAwMDQwNzI4NzQx
+Mar 25 12:36:45 该好友breezelol已满5人助力，无需您再次助力
+Mar 25 12:36:45 开始助力京东账号1 - burst3166的好友: MTE1NDUyMjEwMDAwMDAwNDQwODQzOTE=
+Mar 25 12:36:48 该好友jd_vniwYGkaANKg已满5人助力，无需您再次助力
+Mar 25 12:36:51 开始领取额外奖励
+Mar 25 12:36:54 领取30g额外奖励结果：【success】
+Mar 25 12:36:54 帮您助力的好友的名单开始
+Mar 25 12:36:54 任务 signInit 已完成
+Mar 25 12:36:54 任务 firstFeedInit 已完成
+Mar 25 12:36:54 任务 feedReachInit 已完成
+Mar 25 12:36:54 任务 browseSingleShopInit 已完成
+Mar 25 12:36:54 任务 browseSingleShopInit1 已完成
+Mar 25 12:36:54 准备三餐签到
+Mar 25 12:36:57 三餐签到结果: {"code":"0","resultCode":"0","message":"success","result":{"couponImage":"","foodAmount":153,"threeMealReward":5}}
+Mar 25 12:36:57 【定时领狗粮】获得5g
+Mar 25 12:36:57 
+Mar 25 12:37:04 投食feedPetRes
+Mar 25 12:37:04 投食成功
+Mar 25 12:37:07 投食feedPetRes
+Mar 25 12:37:07 投食成功
+Mar 25 12:37:10 投食feedPetRes
+Mar 25 12:37:10 投食成功
+Mar 25 12:37:13 投食feedPetRes
+Mar 25 12:37:13 投食成功
+Mar 25 12:37:16 投食feedPetRes
+Mar 25 12:37:16 投食成功
+Mar 25 12:37:19 开始收取任务奖励好感度
+Mar 25 12:37:22 
+Mar 25 12:37:22 ==============📣系统通知📣==============
+Mar 25 12:37:22 东东萌宠
+Mar 25 12:37:22 5斤红心蜜柚
+Mar 25 12:37:22 【京东账号1】burst3166
+Mar 25 12:37:22 【额外奖励30领取】success
+Mar 25 12:37:22 【助力您的好友】jd_74442ef3efc54，晨曦，京东用户，zacky1230，jd_sscLGYyNvmRD
+Mar 25 12:37:22 【第4块勋章完成进度】11.3%，还需收集3326好感
+Mar 25 12:37:22 【已获得勋章】3块，还需收集1块即可兑换奖品“5斤红心蜜柚”
+Mar 25 12:37:22 
+Mar 25 12:37:22 全部任务完成, 如果帮助到您可以点下🌟STAR鼓励我一下, 明天见~
+Mar 25 12:37:22 您未提供server酱的SCKEY，取消微信推送消息通知🚫
+Mar 25 12:37:22 
+Mar 25 12:37:22 您未提供push+推送所需的PUSH_PLUS_TOKEN，取消push+推送消息通知🚫
+Mar 25 12:37:22 
+Mar 25 12:37:22 您未提供Bark的APP推送BARK_PUSH，取消Bark推送消息通知🚫
+Mar 25 12:37:22 
+Mar 25 12:37:22 您未提供telegram机器人推送所需的TG_BOT_TOKEN和TG_USER_ID，取消telegram推送消息通知🚫
+Mar 25 12:37:22 
+Mar 25 12:37:22 您未提供企业微信机器人推送所需的QYWX_KEY，取消企业微信推送消息通知🚫
+Mar 25 12:37:22 
+Mar 25 12:37:22 您未提供企业微信应用消息推送所需的QYWX_AM，取消企业微信应用消息推送消息通知🚫
+Mar 25 12:37:22 
+Mar 25 12:37:22 您未提供iGot的推送IGOT_PUSH_KEY，取消iGot推送消息通知🚫
+Mar 25 12:37:22 
+Mar 25 12:37:22 钉钉发送通知消息成功🎉。
+Mar 25 12:37:22 
+Mar 25 12:37:22 
+Mar 25 12:37:22 🔔东东萌宠, 结束! 🕛 132.993 秒
+Mar 25 12:37:22 
+Mar 25 18:35:22 
+Mar 25 18:35:22 🔔东东萌宠, 开始!
+Mar 25 18:35:22 开始获取东东萌宠配置文件
+Mar 25 18:35:22 
+Mar 25 18:35:22 
+Mar 25 18:35:22 ====================共1个京东账号Cookie=========
+Mar 25 18:35:22 
+Mar 25 18:35:22 ==================脚本执行- 北京时间(UTC+8)：3/25/2021, 6:35:22 PM=====================
+Mar 25 18:35:22 
+Mar 25 18:35:22 共1个京东账号
+Mar 25 18:35:22 
+Mar 25 18:35:22 您提供了1个账号的东东萌宠助力码
+Mar 25 18:35:22 
+Mar 25 18:35:22 
+Mar 25 18:35:22 开始【京东账号1】burst3166
+Mar 25 18:35:22 
+Mar 25 18:35:24 随机取个20码放到您固定的互助码后面(不影响已有固定互助)
+Mar 25 18:35:24 第1个京东账号将要助力的好友["MTE1NDUwMTI0MDAwMDAwMDQ2NTg5MjMx","MTE1NDUwMTI0MDAwMDAwMDQ0MjAwNDQz","MTE1NDUwMTI0MDAwMDAwMDQ0MTg3NTQz","MTE1NDAxNzgwMDAwMDAwNDQ2MTc1MDk=","MTE1NDUyMjEwMDAwMDAwNDQ2MzMyNjc=","MTE1NDUwMTI0MDAwMDAwMDQ0NjU5OTUx","MTE1NDQ5OTIwMDAwMDAwNDQ2NjgzNTc=","MTAxODc2NTEzNDAwMDAwMDAxMjQ0MjU1MQ==","MTAxODExNDYxMTEwMDAwMDAwMzkyNjQ3Mjc=","MTAxODc2NTEzMTAwMDAwMDAzMjk0ODAxMw==","MTEzMzI0OTE0NTAwMDAwMDA0MjUwNTQ5Mw==","MTE1NDQ5MzYwMDAwMDAwMzkzNjM2OTE=","MTE1NDQ5OTUwMDAwMDAwNDQ2MjAzODM=","MTAxODc2NTEzNTAwMDAwMDAzMTg3MzIxNQ==","MTE1NDUwMTI0MDAwMDAwMDQzNzA4NjQx","MTE1NDAxNzYwMDAwMDAwMzUwMTM3NDE=","MTE1NDAxNzcwMDAwMDAwMzkxNTc3Njk=","MTE1NDUyMjEwMDAwMDAwNDIyMTc1MTc=","MTE1NDQ5OTUwMDAwMDAwNDQzMDIzMzU=","MTE1NDAxNzYwMDAwMDAwMzY0NDA1MTk=","MTEzMzI0OTE0NTAwMDAwMDA0NDEyMzc3Mw==","MTAxODc2NTEzMDAwMDAwMDAwMDA0MjYwOQ==","MTE1NDQ5OTIwMDAwMDAwMzcwMTc5Nzc=","MTEzMzI0OTE0NTAwMDAwMDA0MzI5NTQxMw==","MTAxODc2NTEzNTAwMDAwMDAyMDU3ODc1Mw==","MTE1NDUwMTI0MDAwMDAwMDQzMDQ1NjY5","MTE1NDUyMjEwMDAwMDAwMzkxNjY2NDc=","MTE1NDAxNzgwMDAwMDAwNDMxMTY1Mjk="]
+Mar 25 18:35:27 
+Mar 25 18:35:27 【京东账号1（burst3166）的东东萌宠好友互助码】MTAxODc2NTEzNDAwMDAwMDAxMjQ0MjU1MQ==
+Mar 25 18:35:27 
+Mar 25 18:35:27 开始任务初始化
+Mar 25 18:35:30 开始遛弯
+Mar 25 18:35:34 第1次遛狗完成: {"code":"0","resultCode":"3001","message":"达到宠物运动次数上限"}
+Mar 25 18:35:34 开始助力京东账号1 - burst3166的好友: MTE1NDUwMTI0MDAwMDAwMDQ2NTg5MjMx
+Mar 25 18:35:37 助力好友结果: 已经助过力
+Mar 25 18:35:37 开始助力京东账号1 - burst3166的好友: MTE1NDUwMTI0MDAwMDAwMDQ0MjAwNDQz
+Mar 25 18:35:40 助力好友结果: 已经助过力
+Mar 25 18:35:40 开始助力京东账号1 - burst3166的好友: MTE1NDUwMTI0MDAwMDAwMDQ0MTg3NTQz
+Mar 25 18:35:43 该好友zacky1230已满5人助力，无需您再次助力
+Mar 25 18:35:43 开始助力京东账号1 - burst3166的好友: MTE1NDAxNzgwMDAwMDAwNDQ2MTc1MDk=
+Mar 25 18:35:46 该好友京东用户已满5人助力，无需您再次助力
+Mar 25 18:35:46 开始助力京东账号1 - burst3166的好友: MTE1NDUyMjEwMDAwMDAwNDQ2MzMyNjc=
+Mar 25 18:35:49 该好友酷哥ds已满5人助力，无需您再次助力
+Mar 25 18:35:49 开始助力京东账号1 - burst3166的好友: MTE1NDUwMTI0MDAwMDAwMDQ0NjU5OTUx
+Mar 25 18:35:52 该好友jingdong626521已满5人助力，无需您再次助力
+Mar 25 18:35:52 开始助力京东账号1 - burst3166的好友: MTE1NDQ5OTIwMDAwMDAwNDQ2NjgzNTc=
+Mar 25 18:35:55 该好友小中族已满5人助力，无需您再次助力
+Mar 25 18:35:55 开始助力京东账号1 - burst3166的好友: MTAxODc2NTEzNDAwMDAwMDAxMjQ0MjU1MQ==
+Mar 25 18:35:58 助力好友结果: 不能助力自己
+Mar 25 18:35:58 开始助力京东账号1 - burst3166的好友: MTAxODExNDYxMTEwMDAwMDAwMzkyNjQ3Mjc=
+Mar 25 18:36:01 该好友放肆的梦已满5人助力，无需您再次助力
+Mar 25 18:36:01 开始助力京东账号1 - burst3166的好友: MTAxODc2NTEzMTAwMDAwMDAzMjk0ODAxMw==
+Mar 25 18:36:04 该好友佳已满5人助力，无需您再次助力
+Mar 25 18:36:04 开始助力京东账号1 - burst3166的好友: MTEzMzI0OTE0NTAwMDAwMDA0MjUwNTQ5Mw==
+Mar 25 18:36:07 该好友慈已满5人助力，无需您再次助力
+Mar 25 18:36:07 开始助力京东账号1 - burst3166的好友: MTE1NDQ5MzYwMDAwMDAwMzkzNjM2OTE=
+Mar 25 18:36:10 该好友故事在九三已满5人助力，无需您再次助力
+Mar 25 18:36:10 开始助力京东账号1 - burst3166的好友: MTE1NDQ5OTUwMDAwMDAwNDQ2MjAzODM=
+Mar 25 18:36:13 该好友京东用户已满5人助力，无需您再次助力
+Mar 25 18:36:13 开始助力京东账号1 - burst3166的好友: MTAxODc2NTEzNTAwMDAwMDAzMTg3MzIxNQ==
+Mar 25 18:36:16 该好友Jeremiah_Le已满5人助力，无需您再次助力
+Mar 25 18:36:16 开始助力京东账号1 - burst3166的好友: MTE1NDUwMTI0MDAwMDAwMDQzNzA4NjQx
+Mar 25 18:36:20 该好友死鬼水庫已满5人助力，无需您再次助力
+Mar 25 18:36:20 开始助力京东账号1 - burst3166的好友: MTE1NDAxNzYwMDAwMDAwMzUwMTM3NDE=
+Mar 25 18:36:23 该好友jd_135502qja已满5人助力，无需您再次助力
+Mar 25 18:36:23 开始助力京东账号1 - burst3166的好友: MTE1NDAxNzcwMDAwMDAwMzkxNTc3Njk=
+Mar 25 18:36:26 该好友梦里什么都有已满5人助力，无需您再次助力
+Mar 25 18:36:26 开始助力京东账号1 - burst3166的好友: MTE1NDUyMjEwMDAwMDAwNDIyMTc1MTc=
+Mar 25 18:36:29 该好友香满的外公已满5人助力，无需您再次助力
+Mar 25 18:36:29 开始助力京东账号1 - burst3166的好友: MTE1NDQ5OTUwMDAwMDAwNDQzMDIzMzU=
+Mar 25 18:36:32 该好友我不知道我的名字叫啥已满5人助力，无需您再次助力
+Mar 25 18:36:32 开始助力京东账号1 - burst3166的好友: MTE1NDAxNzYwMDAwMDAwMzY0NDA1MTk=
+Mar 25 18:36:35 该好友jd_6c0734b088c21已满5人助力，无需您再次助力
+Mar 25 18:36:35 开始助力京东账号1 - burst3166的好友: MTEzMzI0OTE0NTAwMDAwMDA0NDEyMzc3Mw==
+Mar 25 18:36:38 该好友jd_506060b862a01已满5人助力，无需您再次助力
+Mar 25 18:36:38 开始助力京东账号1 - burst3166的好友: MTAxODc2NTEzMDAwMDAwMDAwMDA0MjYwOQ==
+Mar 25 18:36:41 该好友無約已满5人助力，无需您再次助力
+Mar 25 18:36:41 开始助力京东账号1 - burst3166的好友: MTE1NDQ5OTIwMDAwMDAwMzcwMTc5Nzc=
+Mar 25 18:36:44 该好友一二一二亿已满5人助力，无需您再次助力
+Mar 25 18:36:44 开始助力京东账号1 - burst3166的好友: MTEzMzI0OTE0NTAwMDAwMDA0MzI5NTQxMw==
+Mar 25 18:36:47 该好友jd_151023rwj已满5人助力，无需您再次助力
+Mar 25 18:36:47 开始助力京东账号1 - burst3166的好友: MTAxODc2NTEzNTAwMDAwMDAyMDU3ODc1Mw==
+Mar 25 18:36:50 该好友O  EN 已满5人助力，无需您再次助力
+Mar 25 18:36:50 开始助力京东账号1 - burst3166的好友: MTE1NDUwMTI0MDAwMDAwMDQzMDQ1NjY5
+Mar 25 18:36:53 该好友Yyy大朋哥已满5人助力，无需您再次助力
+Mar 25 18:36:53 开始助力京东账号1 - burst3166的好友: MTE1NDUyMjEwMDAwMDAwMzkxNjY2NDc=
+Mar 25 18:36:56 该好友Amway0623已满5人助力，无需您再次助力
+Mar 25 18:36:56 开始助力京东账号1 - burst3166的好友: MTE1NDAxNzgwMDAwMDAwNDMxMTY1Mjk=
+Mar 25 18:36:59 该好友。。。已满5人助力，无需您再次助力
+Mar 25 18:37:03 已经领取过5好友助力额外奖励
+Mar 25 18:37:03 帮您助力的好友的名单开始
+Mar 25 18:37:03 任务 signInit 已完成
+Mar 25 18:37:03 任务 firstFeedInit 已完成
+Mar 25 18:37:03 任务 feedReachInit 已完成
+Mar 25 18:37:03 任务 browseSingleShopInit 已完成
+Mar 25 18:37:03 任务 browseSingleShopInit1 已完成
+Mar 25 18:37:03 准备三餐签到
+Mar 25 18:37:06 三餐签到结果: {"code":"0","resultCode":"0","message":"success","result":{"couponImage":"","foodAmount":111,"threeMealReward":8}}
+Mar 25 18:37:06 【定时领狗粮】获得8g
+Mar 25 18:37:06 
+Mar 25 18:37:12 投食feedPetRes
+Mar 25 18:37:12 投食成功
+Mar 25 18:37:15 开始收取任务奖励好感度
+Mar 25 18:37:18 
+Mar 25 18:37:18 ==============📣系统通知📣==============
+Mar 25 18:37:18 东东萌宠
+Mar 25 18:37:18 5斤红心蜜柚
+Mar 25 18:37:18 【京东账号1】burst3166
+Mar 25 18:37:18 【额外奖励】已领取
+Mar 25 18:37:18 【助力您的好友】jd_74442ef3efc54，晨曦，京东用户，zacky1230，jd_sscLGYyNvmRD
+Mar 25 18:37:18 【第4块勋章完成进度】11.4%，还需收集3321好感
+Mar 25 18:37:18 【已获得勋章】3块，还需收集1块即可兑换奖品“5斤红心蜜柚”
+Mar 25 18:37:18 
+Mar 25 18:37:18 全部任务完成, 如果帮助到您可以点下🌟STAR鼓励我一下, 明天见~
+Mar 25 18:37:18 您未提供server酱的SCKEY，取消微信推送消息通知🚫
+Mar 25 18:37:18 
+Mar 25 18:37:18 您未提供push+推送所需的PUSH_PLUS_TOKEN，取消push+推送消息通知🚫
+Mar 25 18:37:18 
+Mar 25 18:37:18 您未提供Bark的APP推送BARK_PUSH，取消Bark推送消息通知🚫
+Mar 25 18:37:18 
+Mar 25 18:37:18 您未提供telegram机器人推送所需的TG_BOT_TOKEN和TG_USER_ID，取消telegram推送消息通知🚫
+Mar 25 18:37:18 
+Mar 25 18:37:18 您未提供企业微信机器人推送所需的QYWX_KEY，取消企业微信推送消息通知🚫
+Mar 25 18:37:18 
+Mar 25 18:37:18 您未提供企业微信应用消息推送所需的QYWX_AM，取消企业微信应用消息推送消息通知🚫
+Mar 25 18:37:18 
+Mar 25 18:37:18 您未提供iGot的推送IGOT_PUSH_KEY，取消iGot推送消息通知🚫
+Mar 25 18:37:18 
+Mar 25 18:37:18 钉钉发送通知消息成功🎉。
+Mar 25 18:37:18 
+Mar 25 18:37:18 
+Mar 25 18:37:18 🔔东东萌宠, 结束! 🕛 116.311 秒
+Mar 25 18:37:18 
+Mar 26 06:35:04 
+Mar 26 06:35:04 🔔东东萌宠, 开始!
+Mar 26 06:35:04 开始获取东东萌宠配置文件
+Mar 26 06:35:04 
+Mar 26 06:35:04 
+Mar 26 06:35:04 ====================共1个京东账号Cookie=========
+Mar 26 06:35:04 
+Mar 26 06:35:04 ==================脚本执行- 北京时间(UTC+8)：3/26/2021, 6:35:04 AM=====================
+Mar 26 06:35:04 
+Mar 26 06:35:04 共1个京东账号
+Mar 26 06:35:04 
+Mar 26 06:35:04 您提供了1个账号的东东萌宠助力码
+Mar 26 06:35:04 
+Mar 26 06:35:04 
+Mar 26 06:35:04 开始【京东账号1】burst3166
+Mar 26 06:35:04 
+Mar 26 06:35:05 随机取个20码放到您固定的互助码后面(不影响已有固定互助)
+Mar 26 06:35:05 第1个京东账号将要助力的好友["MTE1NDUwMTI0MDAwMDAwMDQ2NTg5MjMx","MTE1NDUwMTI0MDAwMDAwMDQ0MjAwNDQz","MTE1NDUwMTI0MDAwMDAwMDQ0MTg3NTQz","MTE1NDAxNzgwMDAwMDAwNDQ2MTc1MDk=","MTE1NDUyMjEwMDAwMDAwNDQ2MzMyNjc=","MTE1NDUwMTI0MDAwMDAwMDQ0NjU5OTUx","MTE1NDQ5OTIwMDAwMDAwNDQ2NjgzNTc=","MTAxODc2NTEzNDAwMDAwMDAxMjQ0MjU1MQ==","MTE1NDUwMTI0MDAwMDAwMDQxODE1ODIz","MTE1NDAxNzgwMDAwMDAwNDM4MTQyMjc=","MTE1NDQ5MzYwMDAwMDAwNDQ4NzQ2MzE=","MTAxODc2NTEzMDAwMDAwMDAzMDQ4MDgxOQ==","MTE1NDQ5OTUwMDAwMDAwNDUyNzY5ODc=","MTE1NDQ5OTIwMDAwMDAwNDIwMzM1NTk=","MTAxODc2NTEzMjAwMDAwMDAxMTE5ODgzMw==","MTAxODc2NTEzOTAwMDAwMDAxODcxNzYxMQ==","MTAxODc2NTE0NzAwMDAwMDAwMDA4MjA4Nw==","MTAxODc2NTEzMjAwMDAwMDAwMjY3NjkzOQ==","MTAxODExNDYxMTAwMDAwMDAwMzk4MDk4MTM=","MTAxODExNTM5NDAwMDAwMDAzOTMyNTc1Mw==","MTEzMzI0OTE0NTAwMDAwMDA0MzgxMzI2Mw==","MTE1NDQ5OTUwMDAwMDAwNDQxNTg5MTc=","MTE1NDAxNzgwMDAwMDAwNDIzNTQ1MDk=","MTAxODcxOTI2NTAwMDAwMDAwMzU2OTI1Mw==","MTE1NDQ5OTUwMDAwMDAwNDMyNjc3NDE=","MTAxODc2NTEzNDAwMDAwMDAxNTY3MjY3OQ==","MTE1NDUyMjEwMDAwMDAwNDI4NzU3NTc=","MTAxODc2NTEzNDAwMDAwMDAyNzQ4OTAxMQ=="]
+Mar 26 06:35:08 
+Mar 26 06:35:08 【京东账号1（burst3166）的东东萌宠好友互助码】MTAxODc2NTEzNDAwMDAwMDAxMjQ0MjU1MQ==
+Mar 26 06:35:08 
+Mar 26 06:35:08 开始任务初始化
+Mar 26 06:35:12 开始遛弯
+Mar 26 06:35:15 第1次遛狗完成: {"code":"0","resultCode":"0","message":"success","result":{"petSportStatus":2,"rewardName":"10g狗粮","foodReward":10,"rewardImage":"https://m.360buyimg.com/babel/jfs/t1/93013/7/15949/8468/5e7db3e6E7736d837/2e3a5bda881dce0b.png","energyReward":0}}
+Mar 26 06:35:18 领取遛狗奖励完成: {"code":"0","resultCode":"0","message":"success","result":{"petSportStatus":3,"foodAmount":111}}
+Mar 26 06:35:21 第2次遛狗完成: {"code":"0","resultCode":"0","message":"success","result":{"petSportStatus":2,"rewardName":"10g狗粮","foodReward":10,"rewardImage":"https://m.360buyimg.com/babel/jfs/t1/93013/7/15949/8468/5e7db3e6E7736d837/2e3a5bda881dce0b.png","energyReward":0}}
+Mar 26 06:35:24 领取遛狗奖励完成: {"code":"0","resultCode":"0","message":"success","result":{"petSportStatus":3,"foodAmount":121}}
+Mar 26 06:35:27 第3次遛狗完成: {"code":"0","resultCode":"0","message":"success","result":{"petSportStatus":2,"rewardName":"一只爱唱歌的鸟","foodReward":0,"rewardImage":"https://m.360buyimg.com/babel/jfs/t1/85513/18/17679/15749/5e86dfbaE7d12ef75/945573cc9fb9a045.png","energyReward":0}}
+Mar 26 06:35:30 领取遛狗奖励完成: {"code":"0","resultCode":"0","message":"success","result":{"petSportStatus":3,"foodAmount":131}}
+Mar 26 06:35:33 第4次遛狗完成: {"code":"0","resultCode":"0","message":"success","result":{"petSportStatus":2,"rewardName":"一个有味道的东西","foodReward":0,"rewardImage":"https://m.360buyimg.com/babel/jfs/t1/111138/29/83/16957/5e86dffcE36c35d62/447f461cef5acaa9.png","energyReward":0}}
+Mar 26 06:35:36 领取遛狗奖励完成: {"code":"0","resultCode":"0","message":"success","result":{"petSportStatus":3,"foodAmount":141}}
+Mar 26 06:35:39 第5次遛狗完成: {"code":"0","resultCode":"0","message":"success","result":{"petSportStatus":2,"rewardName":"一个有味道的东西","foodReward":0,"rewardImage":"https://m.360buyimg.com/babel/jfs/t1/111138/29/83/16957/5e86dffcE36c35d62/447f461cef5acaa9.png","energyReward":0}}
+Mar 26 06:35:42 领取遛狗奖励完成: {"code":"0","resultCode":"0","message":"success","result":{"petSportStatus":3,"foodAmount":141}}
+Mar 26 06:35:45 第6次遛狗完成: {"code":"0","resultCode":"0","message":"success","result":{"petSportStatus":2,"rewardName":"一只小熊","foodReward":0,"rewardImage":"https://m.360buyimg.com/babel/jfs/t1/118114/32/68/20561/5e86e020E4459ccd0/05df645f93ac4f9d.png","energyReward":0}}
+Mar 26 06:35:48 领取遛狗奖励完成: {"code":"0","resultCode":"0","message":"success","result":{"petSportStatus":3,"foodAmount":141}}
+Mar 26 06:35:51 第7次遛狗完成: {"code":"0","resultCode":"0","message":"success","result":{"petSportStatus":2,"rewardName":"一只爱唱歌的鸟","foodReward":0,"rewardImage":"https://m.360buyimg.com/babel/jfs/t1/85513/18/17679/15749/5e86dfbaE7d12ef75/945573cc9fb9a045.png","energyReward":0}}
+Mar 26 06:35:54 领取遛狗奖励完成: {"code":"0","resultCode":"0","message":"success","result":{"petSportStatus":3,"foodAmount":141}}
+Mar 26 06:35:57 第8次遛狗完成: {"code":"0","resultCode":"0","message":"success","result":{"petSportStatus":2,"rewardName":"一双可爱拖鞋","foodReward":0,"rewardImage":"https://m.360buyimg.com/babel/jfs/t1/110796/9/2715/20773/5e86dfe7E65833d91/fe3a24dc594591c0.png","energyReward":0}}
+Mar 26 06:36:00 领取遛狗奖励完成: {"code":"0","resultCode":"0","message":"success","result":{"petSportStatus":3,"foodAmount":141}}
+Mar 26 06:36:04 第9次遛狗完成: {"code":"0","resultCode":"0","message":"success","result":{"petSportStatus":2,"rewardName":"一只爱唱歌的鸟","foodReward":0,"rewardImage":"https://m.360buyimg.com/babel/jfs/t1/85513/18/17679/15749/5e86dfbaE7d12ef75/945573cc9fb9a045.png","energyReward":0}}
+Mar 26 06:36:07 领取遛狗奖励完成: {"code":"0","resultCode":"0","message":"success","result":{"petSportStatus":3,"foodAmount":141}}
+Mar 26 06:36:10 第10次遛狗完成: {"code":"0","resultCode":"0","message":"success","result":{"petSportStatus":2,"rewardName":"一只小熊","foodReward":0,"rewardImage":"https://m.360buyimg.com/babel/jfs/t1/118114/32/68/20561/5e86e020E4459ccd0/05df645f93ac4f9d.png","energyReward":0}}
+Mar 26 06:36:13 领取遛狗奖励完成: {"code":"0","resultCode":"0","message":"success","result":{"petSportStatus":3,"foodAmount":141}}
+Mar 26 06:36:16 第11次遛狗完成: {"code":"0","resultCode":"3001","message":"达到宠物运动次数上限"}
+Mar 26 06:36:16 开始助力京东账号1 - burst3166的好友: MTE1NDUwMTI0MDAwMDAwMDQ2NTg5MjMx
+Mar 26 06:36:19 已给好友: 【jd_sscLGYyNvmRD】助力成功
+Mar 26 06:36:19 开始助力京东账号1 - burst3166的好友: MTE1NDUwMTI0MDAwMDAwMDQ0MjAwNDQz
+Mar 26 06:36:22 已给好友: 【晨曦】助力成功
+Mar 26 06:36:22 开始助力京东账号1 - burst3166的好友: MTE1NDUwMTI0MDAwMDAwMDQ0MTg3NTQz
+Mar 26 06:36:25 已给好友: 【zacky1230】助力成功
+Mar 26 06:36:25 开始助力京东账号1 - burst3166的好友: MTE1NDAxNzgwMDAwMDAwNDQ2MTc1MDk=
+Mar 26 06:36:28 已给好友: 【京东用户】助力成功
+Mar 26 06:36:28 开始助力京东账号1 - burst3166的好友: MTE1NDUyMjEwMDAwMDAwNDQ2MzMyNjc=
+Mar 26 06:36:31 已给好友: 【酷哥ds】助力成功
+Mar 26 06:36:31 开始助力京东账号1 - burst3166的好友: MTE1NDUwMTI0MDAwMDAwMDQ0NjU5OTUx
+Mar 26 06:36:34 助力好友jingdong626521失败，您今日已无助力机会
+Mar 26 06:36:37 助力好友未达到5个
+Mar 26 06:36:37 帮您助力的好友的名单开始
+Mar 26 06:36:37 准备每日签到
+Mar 26 06:36:40 每日签到结果: {"code":"0","resultCode":"0","message":"success","result":{"couponImage":"","signReward":10,"foodAmount":171,"signDay":3}}
+Mar 26 06:36:40 【每日签到成功】奖励10g狗粮
+Mar 26 06:36:40 
+Mar 26 06:36:40 首次投食任务合并到10次喂食任务中
+Mar 26 06:36:40 
+Mar 26 06:36:40 准备三餐签到
+Mar 26 06:36:43 三餐签到结果: {"code":"0","resultCode":"0","message":"success","result":{"couponImage":"","foodAmount":175,"threeMealReward":4}}
+Mar 26 06:36:43 【定时领狗粮】获得4g
+Mar 26 06:36:43 
+Mar 26 06:36:43 开始做 去逛逛好货会场 任务， 奖励5g狗粮，每天1次
+Mar 26 06:36:49 【浏览指定店铺】获取5g
+Mar 26 06:36:49 
+Mar 26 06:36:49 开始做 领点点券兑红包 任务， 奖励5g狗粮，每天1次
+Mar 26 06:36:56 【浏览指定店铺】获取5g
+Mar 26 06:36:56 
+Mar 26 06:36:56 开始做 去京曝新品会场 任务， 奖励5g狗粮，每天1次
+Mar 26 06:37:02 【浏览指定店铺】获取5g
+Mar 26 06:37:02 
+Mar 26 06:37:02 开始做 最高抢888京豆 任务， 奖励5g狗粮，每天1次
+Mar 26 06:37:08 【浏览指定店铺】获取5g
+Mar 26 06:37:08 
+Mar 26 06:37:08 投食任务开始...
+Mar 26 06:37:08 还需要投食10次
+Mar 26 06:37:11 本次投食结果: {"code":"0","resultCode":"0","message":"success","result":{"petSportStatus":3,"feedAmount":10,"petPlaceInfoList":[{"place":1,"updateSign":true,"energy":6},{"place":2,"energy":0},{"place":3,"energy":0},{"place":4,"energy":0},{"place":5,"energy":0}],"updatePlace":1,"foodAmount":203,"firstFeedReward":8,"feedReachReward":0,"showNeedCollectPop":false,"energyReward":6,"firstFeedFinishedPop":true,"feedReachFinishedPop":false,"showForceCollectPop":false}}
+Mar 26 06:37:11 还需要投食9次
+Mar 26 06:37:14 本次投食结果: {"code":"0","resultCode":"0","message":"success","result":{"petSportStatus":3,"feedAmount":10,"petPlaceInfoList":[{"place":1,"energy":6},{"place":2,"updateSign":true,"energy":8},{"place":3,"energy":0},{"place":4,"energy":0},{"place":5,"energy":0}],"updatePlace":2,"foodAmount":193,"firstFeedReward":0,"feedReachReward":0,"showNeedCollectPop":false,"energyReward":8,"firstFeedFinishedPop":false,"feedReachFinishedPop":false,"showForceCollectPop":false}}
+Mar 26 06:37:14 还需要投食8次
+Mar 26 06:37:17 本次投食结果: {"code":"0","resultCode":"0","message":"success","result":{"petSportStatus":3,"feedAmount":10,"petPlaceInfoList":[{"place":1,"energy":6},{"place":2,"energy":8},{"place":3,"updateSign":true,"energy":7},{"place":4,"energy":0},{"place":5,"energy":0}],"updatePlace":3,"foodAmount":183,"firstFeedReward":0,"feedReachReward":0,"showNeedCollectPop":false,"energyReward":7,"firstFeedFinishedPop":false,"feedReachFinishedPop":false,"showForceCollectPop":false}}
+Mar 26 06:37:17 还需要投食7次
+Mar 26 06:37:20 本次投食结果: {"code":"0","resultCode":"0","message":"success","result":{"petSportStatus":3,"feedAmount":10,"petPlaceInfoList":[{"place":1,"energy":6},{"place":2,"energy":8},{"place":3,"energy":7},{"place":4,"updateSign":true,"energy":8},{"place":5,"energy":0}],"updatePlace":4,"foodAmount":173,"firstFeedReward":0,"feedReachReward":0,"showNeedCollectPop":false,"energyReward":8,"firstFeedFinishedPop":false,"feedReachFinishedPop":false,"showForceCollectPop":false}}
+Mar 26 06:37:20 还需要投食6次
+Mar 26 06:37:23 本次投食结果: {"code":"0","resultCode":"0","message":"success","result":{"petSportStatus":3,"feedAmount":10,"petPlaceInfoList":[{"place":1,"energy":6},{"place":2,"energy":8},{"place":3,"energy":7},{"place":4,"energy":8},{"place":5,"updateSign":true,"energy":8}],"updatePlace":5,"foodAmount":163,"firstFeedReward":0,"feedReachReward":0,"showNeedCollectPop":false,"energyReward":8,"firstFeedFinishedPop":false,"feedReachFinishedPop":false,"showForceCollectPop":false}}
+Mar 26 06:37:23 还需要投食5次
+Mar 26 06:37:26 本次投食结果: {"code":"0","resultCode":"0","message":"success","result":{"petSportStatus":3,"feedAmount":10,"petPlaceInfoList":[{"place":1,"updateSign":true,"energy":13},{"place":2,"energy":8},{"place":3,"energy":7},{"place":4,"energy":8},{"place":5,"energy":8}],"updatePlace":1,"foodAmount":153,"firstFeedReward":0,"feedReachReward":0,"showNeedCollectPop":false,"energyReward":7,"firstFeedFinishedPop":false,"feedReachFinishedPop":false,"showForceCollectPop":false}}
+Mar 26 06:37:26 还需要投食4次
+Mar 26 06:37:29 本次投食结果: {"code":"0","resultCode":"0","message":"success","result":{"petSportStatus":3,"feedAmount":10,"petPlaceInfoList":[{"place":1,"energy":13},{"place":2,"updateSign":true,"energy":16},{"place":3,"energy":7},{"place":4,"energy":8},{"place":5,"energy":8}],"updatePlace":2,"foodAmount":143,"firstFeedReward":0,"feedReachReward":0,"showNeedCollectPop":false,"energyReward":8,"firstFeedFinishedPop":false,"feedReachFinishedPop":false,"showForceCollectPop":false}}
+Mar 26 06:37:29 还需要投食3次
+Mar 26 06:37:32 本次投食结果: {"code":"0","resultCode":"0","message":"success","result":{"petSportStatus":3,"feedAmount":10,"petPlaceInfoList":[{"place":1,"energy":13},{"place":2,"energy":16},{"place":3,"updateSign":true,"energy":13},{"place":4,"energy":8},{"place":5,"energy":8}],"updatePlace":3,"foodAmount":133,"firstFeedReward":0,"feedReachReward":0,"showNeedCollectPop":false,"energyReward":6,"firstFeedFinishedPop":false,"feedReachFinishedPop":false,"showForceCollectPop":false}}
+Mar 26 06:37:32 还需要投食2次
+Mar 26 06:37:35 本次投食结果: {"code":"0","resultCode":"0","message":"success","result":{"petSportStatus":3,"feedAmount":10,"petPlaceInfoList":[{"place":1,"energy":13},{"place":2,"energy":16},{"place":3,"energy":13},{"place":4,"updateSign":true,"energy":14},{"place":5,"energy":8}],"updatePlace":4,"foodAmount":123,"firstFeedReward":0,"feedReachReward":0,"showNeedCollectPop":false,"energyReward":6,"firstFeedFinishedPop":false,"feedReachFinishedPop":false,"showForceCollectPop":false}}
+Mar 26 06:37:35 还需要投食1次
+Mar 26 06:37:38 本次投食结果: {"code":"0","resultCode":"0","message":"success","result":{"petSportStatus":3,"feedAmount":10,"petPlaceInfoList":[{"place":1,"energy":13},{"place":2,"energy":16},{"place":3,"energy":13},{"place":4,"energy":14},{"place":5,"updateSign":true,"energy":13}],"updatePlace":5,"foodAmount":121,"firstFeedReward":0,"feedReachReward":8,"showNeedCollectPop":false,"energyReward":5,"firstFeedFinishedPop":false,"feedReachFinishedPop":true,"showForceCollectPop":false}}
+Mar 26 06:37:38 投食任务结束...
+Mar 26 06:37:38 
+Mar 26 06:37:45 投食feedPetRes
+Mar 26 06:37:45 投食成功
+Mar 26 06:37:48 投食feedPetRes
+Mar 26 06:37:48 投食成功
+Mar 26 06:37:51 开始收取任务奖励好感度
+Mar 26 06:37:54 
+Mar 26 06:37:54 ==============📣系统通知📣==============
+Mar 26 06:37:54 东东萌宠
+Mar 26 06:37:54 5斤红心蜜柚
+Mar 26 06:37:54 【京东账号1】burst3166
+Mar 26 06:37:54 【您助力的好友】jd_sscLGYyNvmRD，晨曦，zacky1230，京东用户，酷哥ds
+Mar 26 06:37:54 【额外奖励】领取失败，原因：给您助力的人未达5个
+Mar 26 06:37:54 【助力您的好友】陌专属，jd_SWmcWcmJJNkd，jd_587726e72efba
+Mar 26 06:37:54 【第4块勋章完成进度】13.4%，还需收集3244好感
+Mar 26 06:37:54 【已获得勋章】3块，还需收集1块即可兑换奖品“5斤红心蜜柚”
+Mar 26 06:37:54 
+Mar 26 06:37:54 全部任务完成, 如果帮助到您可以点下🌟STAR鼓励我一下, 明天见~
+Mar 26 06:37:54 您未提供server酱的SCKEY，取消微信推送消息通知🚫
+Mar 26 06:37:54 
+Mar 26 06:37:54 您未提供push+推送所需的PUSH_PLUS_TOKEN，取消push+推送消息通知🚫
+Mar 26 06:37:54 
+Mar 26 06:37:54 您未提供Bark的APP推送BARK_PUSH，取消Bark推送消息通知🚫
+Mar 26 06:37:54 
+Mar 26 06:37:54 您未提供telegram机器人推送所需的TG_BOT_TOKEN和TG_USER_ID，取消telegram推送消息通知🚫
+Mar 26 06:37:54 
+Mar 26 06:37:54 您未提供企业微信机器人推送所需的QYWX_KEY，取消企业微信推送消息通知🚫
+Mar 26 06:37:54 
+Mar 26 06:37:54 您未提供企业微信应用消息推送所需的QYWX_AM，取消企业微信应用消息推送消息通知🚫
+Mar 26 06:37:54 
+Mar 26 06:37:54 您未提供iGot的推送IGOT_PUSH_KEY，取消iGot推送消息通知🚫
+Mar 26 06:37:54 
+Mar 26 06:37:54 钉钉发送通知消息成功🎉。
+Mar 26 06:37:54 
+Mar 26 06:37:54 
+Mar 26 06:37:54 🔔东东萌宠, 结束! 🕛 170.291 秒
+Mar 26 06:37:54 
+Mar 26 12:35:04 
+Mar 26 12:35:04 🔔东东萌宠, 开始!
+Mar 26 12:35:04 开始获取东东萌宠配置文件
+Mar 26 12:35:04 
+Mar 26 12:35:04 
+Mar 26 12:35:04 ====================共1个京东账号Cookie=========
+Mar 26 12:35:04 
+Mar 26 12:35:04 ==================脚本执行- 北京时间(UTC+8)：3/26/2021, 12:35:04 PM=====================
+Mar 26 12:35:04 
+Mar 26 12:35:04 共1个京东账号
+Mar 26 12:35:04 
+Mar 26 12:35:04 您提供了1个账号的东东萌宠助力码
+Mar 26 12:35:04 
+Mar 26 12:35:05 
+Mar 26 12:35:05 开始【京东账号1】burst3166
+Mar 26 12:35:05 
+Mar 26 12:35:08 随机取个20码放到您固定的互助码后面(不影响已有固定互助)
+Mar 26 12:35:08 第1个京东账号将要助力的好友["MTE1NDUwMTI0MDAwMDAwMDQ2NTg5MjMx","MTE1NDUwMTI0MDAwMDAwMDQ0MjAwNDQz","MTE1NDUwMTI0MDAwMDAwMDQ0MTg3NTQz","MTE1NDAxNzgwMDAwMDAwNDQ2MTc1MDk=","MTE1NDUyMjEwMDAwMDAwNDQ2MzMyNjc=","MTE1NDUwMTI0MDAwMDAwMDQ0NjU5OTUx","MTE1NDQ5OTIwMDAwMDAwNDQ2NjgzNTc=","MTAxODc2NTEzNDAwMDAwMDAxMjQ0MjU1MQ==","MTAxODc2NTE0NzAwMDAwMDAyNjkwMzYzMw==","MTAxODc2NTEzOTAwMDAwMDAzMjE4OTQ1MQ==","MTE1NDQ5MzYwMDAwMDAwNDU0MzYwMDM=","MTAxODc2NTEzOTAwMDAwMDAxODYxODQ4Nw==","MTAxODc2NTEzNDAwMDAwMDAxODgxMzQ3MQ==","MTE1NDQ5OTUwMDAwMDAwNDUwNjUyMzc=","MTAxODc2NTEzMzAwMDAwMDAyNTY2NjMyNQ==","MTEzMzI0OTE0NTAwMDAwMDA0MTI3MjUyMw==","MTE1NDAxNzYwMDAwMDAwMzk4MDk4NDM=","MTAxODc2NTEzMzAwMDAwMDAwNzEwMTc4MQ==","MTE1NDQ5OTUwMDAwMDAwNDM3ODAwMDU=","MTE1NDQ5MzYwMDAwMDAwNDM2MDQ3ODU=","MTAxODc2NTEzNDAwMDAwMDAyMTkxODE1OQ==","MTEzMzI0OTE0NTAwMDAwMDA0MzcyOTY1Nw==","MTEzMzI0OTE0NTAwMDAwMDA0MjgwMTY3NQ==","MTE1NDAxNzgwMDAwMDAwNDQxNjQwMTM=","MTEzMzI0OTE0NTAwMDAwMDA0MzUzMzM0OQ==","MTE1NDUyMjEwMDAwMDAwNDI4NzU3NTc=","MTE1NDQ5MzYwMDAwMDAwNDI0NDIyODE=","MTAxODc2NTEzMTAwMDAwMDAxMTkzMDEzNQ=="]
+Mar 26 12:35:11 
+Mar 26 12:35:11 【京东账号1（burst3166）的东东萌宠好友互助码】MTAxODc2NTEzNDAwMDAwMDAxMjQ0MjU1MQ==
+Mar 26 12:35:11 
+Mar 26 12:35:11 开始任务初始化
+Mar 26 12:35:14 开始遛弯
+Mar 26 12:35:17 第1次遛狗完成: {"code":"0","resultCode":"3001","message":"达到宠物运动次数上限"}
+Mar 26 12:35:17 开始助力京东账号1 - burst3166的好友: MTE1NDUwMTI0MDAwMDAwMDQ2NTg5MjMx
+Mar 26 12:35:20 助力好友结果: 已经助过力
+Mar 26 12:35:20 开始助力京东账号1 - burst3166的好友: MTE1NDUwMTI0MDAwMDAwMDQ0MjAwNDQz
+Mar 26 12:35:23 助力好友结果: 已经助过力
+Mar 26 12:35:23 开始助力京东账号1 - burst3166的好友: MTE1NDUwMTI0MDAwMDAwMDQ0MTg3NTQz
+Mar 26 12:35:26 助力好友结果: 已经助过力
+Mar 26 12:35:26 开始助力京东账号1 - burst3166的好友: MTE1NDAxNzgwMDAwMDAwNDQ2MTc1MDk=
+Mar 26 12:35:29 助力好友结果: 已经助过力
+Mar 26 12:35:29 开始助力京东账号1 - burst3166的好友: MTE1NDUyMjEwMDAwMDAwNDQ2MzMyNjc=
+Mar 26 12:35:32 助力好友结果: 已经助过力
+Mar 26 12:35:32 开始助力京东账号1 - burst3166的好友: MTE1NDUwMTI0MDAwMDAwMDQ0NjU5OTUx
+Mar 26 12:35:36 该好友jingdong626521已满5人助力，无需您再次助力
+Mar 26 12:35:36 开始助力京东账号1 - burst3166的好友: MTE1NDQ5OTIwMDAwMDAwNDQ2NjgzNTc=
+Mar 26 12:35:39 该好友小中族已满5人助力，无需您再次助力
+Mar 26 12:35:39 开始助力京东账号1 - burst3166的好友: MTAxODc2NTEzNDAwMDAwMDAxMjQ0MjU1MQ==
+Mar 26 12:35:42 助力好友结果: 不能助力自己
+Mar 26 12:35:42 开始助力京东账号1 - burst3166的好友: MTAxODc2NTE0NzAwMDAwMDAyNjkwMzYzMw==
+Mar 26 12:35:45 该好友习惯有你已满5人助力，无需您再次助力
+Mar 26 12:35:45 开始助力京东账号1 - burst3166的好友: MTAxODc2NTEzOTAwMDAwMDAzMjE4OTQ1MQ==
+Mar 26 12:35:48 该好友Sunshine已满5人助力，无需您再次助力
+Mar 26 12:35:48 开始助力京东账号1 - burst3166的好友: MTE1NDQ5MzYwMDAwMDAwNDU0MzYwMDM=
+Mar 26 12:35:51 该好友MIRROR廖梓曦已满5人助力，无需您再次助力
+Mar 26 12:35:51 开始助力京东账号1 - burst3166的好友: MTAxODc2NTEzOTAwMDAwMDAxODYxODQ4Nw==
+Mar 26 12:35:54 该好友美丽世界已满5人助力，无需您再次助力
+Mar 26 12:35:54 开始助力京东账号1 - burst3166的好友: MTAxODc2NTEzNDAwMDAwMDAxODgxMzQ3MQ==
+Mar 26 12:35:57 该好友qwerty已满5人助力，无需您再次助力
+Mar 26 12:35:57 开始助力京东账号1 - burst3166的好友: MTE1NDQ5OTUwMDAwMDAwNDUwNjUyMzc=
+Mar 26 12:36:00 该好友风之云yy已满5人助力，无需您再次助力
+Mar 26 12:36:00 开始助力京东账号1 - burst3166的好友: MTAxODc2NTEzMzAwMDAwMDAyNTY2NjMyNQ==
+Mar 26 12:36:03 该好友小杨杨已满5人助力，无需您再次助力
+Mar 26 12:36:03 开始助力京东账号1 - burst3166的好友: MTEzMzI0OTE0NTAwMDAwMDA0MTI3MjUyMw==
+Mar 26 12:36:06 该好友冷月-无情已满5人助力，无需您再次助力
+Mar 26 12:36:06 开始助力京东账号1 - burst3166的好友: MTE1NDAxNzYwMDAwMDAwMzk4MDk4NDM=
+Mar 26 12:36:09 该好友关府二夫人已满5人助力，无需您再次助力
+Mar 26 12:36:09 开始助力京东账号1 - burst3166的好友: MTAxODc2NTEzMzAwMDAwMDAwNzEwMTc4MQ==
+Mar 26 12:36:12 该好友心宝已满5人助力，无需您再次助力
+Mar 26 12:36:12 开始助力京东账号1 - burst3166的好友: MTE1NDQ5OTUwMDAwMDAwNDM3ODAwMDU=
+Mar 26 12:36:15 该好友19115SAir2已满5人助力，无需您再次助力
+Mar 26 12:36:15 开始助力京东账号1 - burst3166的好友: MTE1NDQ5MzYwMDAwMDAwNDM2MDQ3ODU=
+Mar 26 12:36:19 该好友下天天已满5人助力，无需您再次助力
+Mar 26 12:36:19 开始助力京东账号1 - burst3166的好友: MTAxODc2NTEzNDAwMDAwMDAyMTkxODE1OQ==
+Mar 26 12:36:22 该好友Fonning已满5人助力，无需您再次助力
+Mar 26 12:36:22 开始助力京东账号1 - burst3166的好友: MTEzMzI0OTE0NTAwMDAwMDA0MzcyOTY1Nw==
+Mar 26 12:36:25 该好友jd_avEdvUJnPjfx已满5人助力，无需您再次助力
+Mar 26 12:36:25 开始助力京东账号1 - burst3166的好友: MTEzMzI0OTE0NTAwMDAwMDA0MjgwMTY3NQ==
+Mar 26 12:36:28 该好友总是落枕已满5人助力，无需您再次助力
+Mar 26 12:36:28 开始助力京东账号1 - burst3166的好友: MTE1NDAxNzgwMDAwMDAwNDQxNjQwMTM=
+Mar 26 12:36:31 该好友野区安琪拉-已满5人助力，无需您再次助力
+Mar 26 12:36:31 开始助力京东账号1 - burst3166的好友: MTEzMzI0OTE0NTAwMDAwMDA0MzUzMzM0OQ==
+Mar 26 12:36:34 该好友salltree已满5人助力，无需您再次助力
+Mar 26 12:36:34 开始助力京东账号1 - burst3166的好友: MTE1NDUyMjEwMDAwMDAwNDI4NzU3NTc=
+Mar 26 12:36:37 该好友大虾 7e已满5人助力，无需您再次助力
+Mar 26 12:36:37 开始助力京东账号1 - burst3166的好友: MTE1NDQ5MzYwMDAwMDAwNDI0NDIyODE=
+Mar 26 12:36:40 该好友jd_GjDoNlBQBNWl已满5人助力，无需您再次助力
+Mar 26 12:36:40 开始助力京东账号1 - burst3166的好友: MTAxODc2NTEzMTAwMDAwMDAxMTkzMDEzNQ==
+Mar 26 12:36:43 该好友黄钧123已满5人助力，无需您再次助力
+Mar 26 12:36:46 开始领取额外奖励
+Mar 26 12:36:49 领取30g额外奖励结果：【success】
+Mar 26 12:36:49 帮您助力的好友的名单开始
+Mar 26 12:36:49 任务 signInit 已完成
+Mar 26 12:36:49 任务 firstFeedInit 已完成
+Mar 26 12:36:49 任务 feedReachInit 已完成
+Mar 26 12:36:49 任务 browseSingleShopInit 已完成
+Mar 26 12:36:49 任务 browseSingleShopInit1 已完成
+Mar 26 12:36:49 任务 browseSingleShopInit2 已完成
+Mar 26 12:36:49 任务 browseSingleShopInit3 已完成
+Mar 26 12:36:49 准备三餐签到
+Mar 26 12:36:52 三餐签到结果: {"code":"0","resultCode":"0","message":"success","result":{"couponImage":"","foodAmount":136,"threeMealReward":5}}
+Mar 26 12:36:52 【定时领狗粮】获得5g
+Mar 26 12:36:52 
+Mar 26 12:36:58 投食feedPetRes
+Mar 26 12:36:58 投食成功
+Mar 26 12:37:01 投食feedPetRes
+Mar 26 12:37:01 投食成功
+Mar 26 12:37:05 投食feedPetRes
+Mar 26 12:37:05 投食成功
+Mar 26 12:37:08 开始收取任务奖励好感度
+Mar 26 12:37:11 
+Mar 26 12:37:11 ==============📣系统通知📣==============
+Mar 26 12:37:11 东东萌宠
+Mar 26 12:37:11 5斤红心蜜柚
+Mar 26 12:37:11 【京东账号1】burst3166
+Mar 26 12:37:11 【额外奖励30领取】success
+Mar 26 12:37:11 【助力您的好友】小中族，晨曦，陌专属，jd_SWmcWcmJJNkd，jd_587726e72efba
+Mar 26 12:37:11 【第4块勋章完成进度】13.9%，还需收集3227好感
+Mar 26 12:37:11 【已获得勋章】3块，还需收集1块即可兑换奖品“5斤红心蜜柚”
+Mar 26 12:37:11 
+Mar 26 12:37:11 全部任务完成, 如果帮助到您可以点下🌟STAR鼓励我一下, 明天见~
+Mar 26 12:37:11 您未提供server酱的SCKEY，取消微信推送消息通知🚫
+Mar 26 12:37:11 
+Mar 26 12:37:11 您未提供push+推送所需的PUSH_PLUS_TOKEN，取消push+推送消息通知🚫
+Mar 26 12:37:11 
+Mar 26 12:37:11 您未提供Bark的APP推送BARK_PUSH，取消Bark推送消息通知🚫
+Mar 26 12:37:11 
+Mar 26 12:37:11 您未提供telegram机器人推送所需的TG_BOT_TOKEN和TG_USER_ID，取消telegram推送消息通知🚫
+Mar 26 12:37:11 
+Mar 26 12:37:11 您未提供企业微信机器人推送所需的QYWX_KEY，取消企业微信推送消息通知🚫
+Mar 26 12:37:11 
+Mar 26 12:37:11 您未提供企业微信应用消息推送所需的QYWX_AM，取消企业微信应用消息推送消息通知🚫
+Mar 26 12:37:11 
+Mar 26 12:37:11 您未提供iGot的推送IGOT_PUSH_KEY，取消iGot推送消息通知🚫
+Mar 26 12:37:11 
+Mar 26 12:37:11 钉钉发送通知消息成功🎉。
+Mar 26 12:37:11 
+Mar 26 12:37:11 
+Mar 26 12:37:11 🔔东东萌宠, 结束! 🕛 126.507 秒
+Mar 26 12:37:11 

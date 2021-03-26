@@ -29,7 +29,7 @@ first=\$1
 cmd=\$*
 echo \${cmd/\$1/}
 if [ \$1 == "conc" ]; then
-    for job in \$(paste -d" " -s - <\$COOKIES_LIST); do
+    for job in \$(cat \$COOKIES_LIST | grep -v "#" | paste -s -d ' '); do
         { export JD_COOKIE=\$job && node \${cmd/\$1/}
         }&
     done
@@ -42,7 +42,7 @@ elif [ -n "\$(cat \$COOKIES_LIST  | grep "pt_pin=\$first")" ];then
     { export JD_COOKIE=\$(cat \$COOKIES_LIST | grep "pt_pin=\$first") && node \${cmd/\$1/}
     }&
 else
-    { export JD_COOKIE=\$(cat \$COOKIES_LIST | paste -s -d '&') && node \$*
+    { export JD_COOKIE=\$(cat \$COOKIES_LIST | grep -v "#" | paste -s -d '&') && node \$*
     }&
 fi
 EOF
@@ -61,7 +61,7 @@ EOF
       echo "cookies.conf文件已经存在跳过,如果需要更新cookie请修改$COOKIES_LIST文件内容"
     else
       echo "环境变量 cookies写入$COOKIES_LIST文件,如果需要更新cookie请修改cookies.conf文件内容"
-      echo $JD_COOKIE | sed "s/\( &\|&\)/\\n/g" >$COOKIES_LIST
+      echo $JD_COOKIE | sed "s/[ &]/\\n/g" | sed "/^$/d" >$COOKIES_LIST
     fi
   fi
 
@@ -111,6 +111,9 @@ EOF
   curl -sX POST "https://api.telegram.org/bot$TG_BOT_TOKEN/sendMessage" -d "chat_id=$TG_USER_ID&text=恭喜🎉你获得feature容器jd_bot交互所需环境已配置安装已完成，并启用。请发送 /help 查看使用帮助。如需禁用请在docker-compose.yml配置 DISABLE_BOT_COMMAND=True" >>/dev/null
 
 fi
+
+echo "暂停更新配置，不要尝试删掉这个文件，你的容器可能会起不来"
+echo '' >/scripts/logs/pull.lock
 
 echo "定义定时任务合并处理用到的文件路径..."
 defaultListFile="/scripts/docker/$DEFAULT_LIST_FILE"
@@ -232,7 +235,7 @@ echo "第9步执行proc_file.sh脚本任务..."
 sh /scripts/docker/proc_file.sh
 
 echo "第10步加载最新的定时任务文件..."
-if [[ "$1" == "True" && -z "$DISABLE_SPNODE" ]]; then
+if [[ -f /usr/bin/jd_bot && -z "$DISABLE_SPNODE" ]]; then
   echo "bot交互与spnode 前置条件成立，替换任务列表的node指令为spnode"
   sed -i "s/ node / spnode /g" $mergedListFile
   #conc每个cookies独立并行执行脚本示例，cookies数量多使用该功能可能导致内存爆掉，默认不开启 有需求，请在自定义shell里面实现

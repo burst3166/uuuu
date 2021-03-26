@@ -1,342 +1,280 @@
-Mar 22 00:40:23 
-Mar 22 00:40:23 🔔城城领现金, 开始!
-Mar 22 00:40:23 
-Mar 22 00:40:23 ====================共1个京东账号Cookie=========
-Mar 22 00:40:23 
-Mar 22 00:40:23 ==================脚本执行- 北京时间(UTC+8)：3/22/2021, 12:40:23 AM=====================
-Mar 22 00:40:23 
-Mar 22 00:40:23 开始获取城城领现金配置文件
-Mar 22 00:40:23 
-Mar 22 00:40:23 共1个京东账号
-Mar 22 00:40:23 
-Mar 22 00:40:23 您提供了0个账号的城城领现金助力码
-Mar 22 00:40:23 
-Mar 22 00:40:23 脚本不会自动抽奖，建议活动快结束开启，默认关闭
-Mar 22 00:40:24 
-Mar 22 00:40:24 ******开始【京东账号1】burst3166*********
-Mar 22 00:40:24 
-Mar 22 00:40:24 由于您第1个京东账号未提供shareCode,将采纳本脚本自带的助力码
-Mar 22 00:40:24 
-Mar 22 00:40:24 开始
-Mar 22 00:40:26 第1个京东账号将要助力的好友["RtGKzLisEAykfYuTRYI21Ml4RE6mjcMk1xs01xFkY7-HBDpvUQ","RMDtye6tRwymfc_WW9R_mmxhheQoNoU-oz7hkzLZfw","RtGKtY7NOlDDIPvrU7VimsxUm9mnBiKFnMQqFX7KpER4NJ4t","RtGKzL-jE1nwfoCSENU00D0lAdU5qCsu1dp1H83aBp3cKDx6Hg","HoTiwe-iQAq-fIabE9c7mngHtdKHNP-xuz4UYbxo6jLI-03O","RtGKz72sSQ6jd4KTH4Ay0vz8gPOJEOOoJ_7NYoD2kVh59CIG3Q","Tse0n7P6E1v_IoefW5h_1rYDf00PL8bZpVyFV7alxOIj","W9C7jLX6FgKges_WW9R_mgqJwcli4KgqakVgrGtuuw","RtGKkLn7B3D6J-fBUalHms3H5t6TIduRbqUctdwMbPdKER2t","QNy4ke-iQkbvMoPWW5hqiLpSUaHUiouICyqUCg","HY3gzu2hQgiifIH1V5h_mvPR4V7tD866z3AGAWmhEjqrlg"]
-Mar 22 00:40:26 
-Mar 22 00:40:26 
-Mar 22 00:40:26 
-Mar 22 00:40:26 好友助力码：TsCni6inQAylMs_WF5h_mnDVlzlz2_LHH12vB5Qm
-Mar 22 00:40:26 
-Mar 22 00:40:26 
-Mar 22 00:40:26 
-Mar 22 00:40:26 开始助力 【RtGKzLisEAykfYuTRYI21Ml4RE6mjcMk1xs01xFkY7-HBDpvUQ】
-Mar 22 00:40:26 助力结果:
-Mar 22 00:40:26 {"code":0,"data":{"bizCode":0,"bizMsg":"success","result":{"cashCandidateNum":["0.05","2.11","0.35","99.00","66.00","0.12","88.00","111.00","8.80","0.11"],"koiStatus":"0","mainInfos":[{"assistList":[],"city":"江苏","cityBackgroundLeft":"https://m.360buyimg.com/babel/jfs/t1/121616/16/14047/92520/5f7569f4Ef48597a1/606a329688334192.png","cityBackgroundRight":"https://m.360buyimg.com/babel/jfs/t1/143222/23/9810/96133/5f7569e7Edeb1e431/4cf56c1c1999a0e6.png","cityCode":12,"cityTotalMoney":"54.51万","curCityImg":"https://m.360buyimg.com/babel/jfs/t1/146548/21/10570/16690/5f83f0ddE9c5622db/01e354f8e11513c7.png","lastCityImg":"https://m.360buyimg.com/babel/jfs/t1/130967/29/12136/17265/5f83f025Ea54c0511/5d3ff72571999dc4.png","maxAcquireCash":"88","nextCityImg":"https://m.360buyimg.com/babel/jfs/t1/139806/22/10545/14319/5f83effeE126e26d7/7575d8e1eec9f04c.png","remaingAssistNum":2,"remaingAssistThreshold":5,"requestedInviteeNum":2,"roundNum":1,"status":"0"}],"popWindows":[{"code":"202","data":{"cash":"0.10","curCityName":"江苏"},"type":"dailycash_second"}],"remainTime":0,"toasts":[{"msg":"你的好友已经邀满人啦~","status":"6","type":"0"}],"userActBaseInfo":{"actStatus":1,"headImg":"https://storage.360buyimg.com/i.imageUpload/62757273743331363631343235393737363737353836_big.jpg","inviteId":"TsCni6inQAylMs_WF5h_mnDVlzlz2_LHH12vB5Qm","isFirstPurchase":false,"nickname":"I****M","poolMoney":"5.10","threshold":"10","wechatWithdrawStatus":"1","withdrawBarNum":51}},"success":true},"msg":"调用成功"}
-Mar 22 00:40:26 
-Mar 22 00:40:26 开始助力 【RMDtye6tRwymfc_WW9R_mmxhheQoNoU-oz7hkzLZfw】
-Mar 22 00:40:26 助力结果:
-Mar 22 00:40:26 {"code":0,"data":{"bizCode":0,"bizMsg":"success","result":{"cashCandidateNum":["0.05","2.11","0.35","99.00","66.00","0.12","88.00","111.00","8.80","0.11"],"koiStatus":"0","mainInfos":[{"assistList":[],"city":"江苏","cityBackgroundLeft":"https://m.360buyimg.com/babel/jfs/t1/121616/16/14047/92520/5f7569f4Ef48597a1/606a329688334192.png","cityBackgroundRight":"https://m.360buyimg.com/babel/jfs/t1/143222/23/9810/96133/5f7569e7Edeb1e431/4cf56c1c1999a0e6.png","cityCode":12,"cityTotalMoney":"54.51万","curCityImg":"https://m.360buyimg.com/babel/jfs/t1/146548/21/10570/16690/5f83f0ddE9c5622db/01e354f8e11513c7.png","lastCityImg":"https://m.360buyimg.com/babel/jfs/t1/130967/29/12136/17265/5f83f025Ea54c0511/5d3ff72571999dc4.png","maxAcquireCash":"88","nextCityImg":"https://m.360buyimg.com/babel/jfs/t1/139806/22/10545/14319/5f83effeE126e26d7/7575d8e1eec9f04c.png","remaingAssistNum":2,"remaingAssistThreshold":5,"requestedInviteeNum":2,"roundNum":1,"status":"0"}],"popWindows":[{"code":"202","data":{"cash":"0.10","curCityName":"江苏"},"type":"dailycash_second"}],"remainTime":0,"toasts":[{"msg":"感谢你的助力~","status":"4","type":"0"}],"userActBaseInfo":{"actStatus":1,"headImg":"https://storage.360buyimg.com/i.imageUpload/62757273743331363631343235393737363737353836_big.jpg","inviteId":"TsCni6inQAylMs_WF5h_mnDVlzlz2_LHH12vB5Qm","isFirstPurchase":false,"nickname":"I****M","poolMoney":"5.10","threshold":"10","wechatWithdrawStatus":"1","withdrawBarNum":51}},"success":true},"msg":"调用成功"}
-Mar 22 00:40:26 
-Mar 22 00:40:26 开始助力 【RtGKtY7NOlDDIPvrU7VimsxUm9mnBiKFnMQqFX7KpER4NJ4t】
-Mar 22 00:40:26 助力结果:
-Mar 22 00:40:26 {"code":0,"data":{"bizCode":0,"bizMsg":"success","result":{"cashCandidateNum":["0.05","2.11","0.35","99.00","66.00","0.12","88.00","111.00","8.80","0.11"],"koiStatus":"0","mainInfos":[{"assistList":[],"city":"江苏","cityBackgroundLeft":"https://m.360buyimg.com/babel/jfs/t1/121616/16/14047/92520/5f7569f4Ef48597a1/606a329688334192.png","cityBackgroundRight":"https://m.360buyimg.com/babel/jfs/t1/143222/23/9810/96133/5f7569e7Edeb1e431/4cf56c1c1999a0e6.png","cityCode":12,"cityTotalMoney":"54.51万","curCityImg":"https://m.360buyimg.com/babel/jfs/t1/146548/21/10570/16690/5f83f0ddE9c5622db/01e354f8e11513c7.png","lastCityImg":"https://m.360buyimg.com/babel/jfs/t1/130967/29/12136/17265/5f83f025Ea54c0511/5d3ff72571999dc4.png","maxAcquireCash":"88","nextCityImg":"https://m.360buyimg.com/babel/jfs/t1/139806/22/10545/14319/5f83effeE126e26d7/7575d8e1eec9f04c.png","remaingAssistNum":2,"remaingAssistThreshold":5,"requestedInviteeNum":2,"roundNum":1,"status":"0"}],"popWindows":[{"code":"202","data":{"cash":"0.10","curCityName":"江苏"},"type":"dailycash_second"}],"remainTime":0,"toasts":[{"msg":"感谢你的助力~","status":"4","type":"0"}],"userActBaseInfo":{"actStatus":1,"headImg":"https://storage.360buyimg.com/i.imageUpload/62757273743331363631343235393737363737353836_big.jpg","inviteId":"TsCni6inQAylMs_WF5h_mnDVlzlz2_LHH12vB5Qm","isFirstPurchase":false,"nickname":"I****M","poolMoney":"5.10","threshold":"10","wechatWithdrawStatus":"1","withdrawBarNum":51}},"success":true},"msg":"调用成功"}
-Mar 22 00:40:26 
-Mar 22 00:40:26 开始助力 【RtGKzL-jE1nwfoCSENU00D0lAdU5qCsu1dp1H83aBp3cKDx6Hg】
-Mar 22 00:40:27 助力结果:
-Mar 22 00:40:27 {"code":0,"data":{"bizCode":0,"bizMsg":"success","result":{"cashCandidateNum":["0.05","2.11","0.35","99.00","66.00","0.12","88.00","111.00","8.80","0.11"],"koiStatus":"0","mainInfos":[{"assistList":[],"city":"江苏","cityBackgroundLeft":"https://m.360buyimg.com/babel/jfs/t1/121616/16/14047/92520/5f7569f4Ef48597a1/606a329688334192.png","cityBackgroundRight":"https://m.360buyimg.com/babel/jfs/t1/143222/23/9810/96133/5f7569e7Edeb1e431/4cf56c1c1999a0e6.png","cityCode":12,"cityTotalMoney":"54.51万","curCityImg":"https://m.360buyimg.com/babel/jfs/t1/146548/21/10570/16690/5f83f0ddE9c5622db/01e354f8e11513c7.png","lastCityImg":"https://m.360buyimg.com/babel/jfs/t1/130967/29/12136/17265/5f83f025Ea54c0511/5d3ff72571999dc4.png","maxAcquireCash":"88","nextCityImg":"https://m.360buyimg.com/babel/jfs/t1/139806/22/10545/14319/5f83effeE126e26d7/7575d8e1eec9f04c.png","remaingAssistNum":2,"remaingAssistThreshold":5,"requestedInviteeNum":2,"roundNum":1,"status":"0"}],"popWindows":[{"code":"202","data":{"cash":"0.10","curCityName":"江苏"},"type":"dailycash_second"}],"remainTime":0,"toasts":[{"msg":"感谢你的助力~","status":"4","type":"0"}],"userActBaseInfo":{"actStatus":1,"headImg":"https://storage.360buyimg.com/i.imageUpload/62757273743331363631343235393737363737353836_big.jpg","inviteId":"TsCni6inQAylMs_WF5h_mnDVlzlz2_LHH12vB5Qm","isFirstPurchase":false,"nickname":"I****M","poolMoney":"5.10","threshold":"10","wechatWithdrawStatus":"1","withdrawBarNum":51}},"success":true},"msg":"调用成功"}
-Mar 22 00:40:27 
-Mar 22 00:40:27 开始助力 【HoTiwe-iQAq-fIabE9c7mngHtdKHNP-xuz4UYbxo6jLI-03O】
-Mar 22 00:40:27 助力结果:
-Mar 22 00:40:27 {"code":0,"data":{"bizCode":0,"bizMsg":"success","result":{"cashCandidateNum":["0.05","2.11","0.35","99.00","66.00","0.12","88.00","111.00","8.80","0.11"],"koiStatus":"0","mainInfos":[{"assistList":[],"city":"江苏","cityBackgroundLeft":"https://m.360buyimg.com/babel/jfs/t1/121616/16/14047/92520/5f7569f4Ef48597a1/606a329688334192.png","cityBackgroundRight":"https://m.360buyimg.com/babel/jfs/t1/143222/23/9810/96133/5f7569e7Edeb1e431/4cf56c1c1999a0e6.png","cityCode":12,"cityTotalMoney":"54.51万","curCityImg":"https://m.360buyimg.com/babel/jfs/t1/146548/21/10570/16690/5f83f0ddE9c5622db/01e354f8e11513c7.png","lastCityImg":"https://m.360buyimg.com/babel/jfs/t1/130967/29/12136/17265/5f83f025Ea54c0511/5d3ff72571999dc4.png","maxAcquireCash":"88","nextCityImg":"https://m.360buyimg.com/babel/jfs/t1/139806/22/10545/14319/5f83effeE126e26d7/7575d8e1eec9f04c.png","remaingAssistNum":2,"remaingAssistThreshold":5,"requestedInviteeNum":2,"roundNum":1,"status":"0"}],"popWindows":[{"code":"202","data":{"cash":"0.10","curCityName":"江苏"},"type":"dailycash_second"}],"remainTime":0,"toasts":[{"msg":"今天的助力次数已用完啦~","status":"3","type":"0"}],"userActBaseInfo":{"actStatus":1,"headImg":"https://storage.360buyimg.com/i.imageUpload/62757273743331363631343235393737363737353836_big.jpg","inviteId":"TsCni6inQAylMs_WF5h_mnDVlzlz2_LHH12vB5Qm","isFirstPurchase":false,"nickname":"I****M","poolMoney":"5.10","threshold":"10","wechatWithdrawStatus":"1","withdrawBarNum":51}},"success":true},"msg":"调用成功"}
-Mar 22 00:40:27 
-Mar 22 00:40:27 助力次数已耗尽，跳出
-Mar 22 00:40:28 
-Mar 22 00:40:28 🔔城城领现金, 结束! 🕛 4.45 秒
-Mar 22 00:40:28 
-Mar 22 01:40:21 
-Mar 22 01:40:21 🔔城城领现金, 开始!
-Mar 22 01:40:21 
-Mar 22 01:40:21 ====================共1个京东账号Cookie=========
-Mar 22 01:40:21 
-Mar 22 01:40:21 ==================脚本执行- 北京时间(UTC+8)：3/22/2021, 1:40:21 AM=====================
-Mar 22 01:40:21 
-Mar 22 01:40:21 开始获取城城领现金配置文件
-Mar 22 01:40:21 
-Mar 22 01:40:21 共1个京东账号
-Mar 22 01:40:21 
-Mar 22 01:40:21 您提供了0个账号的城城领现金助力码
-Mar 22 01:40:21 
-Mar 22 01:40:21 脚本不会自动抽奖，建议活动快结束开启，默认关闭
-Mar 22 01:40:22 
-Mar 22 01:40:22 ******开始【京东账号1】burst3166*********
-Mar 22 01:40:22 
-Mar 22 01:40:22 由于您第1个京东账号未提供shareCode,将采纳本脚本自带的助力码
-Mar 22 01:40:22 
-Mar 22 01:40:22 开始
-Mar 22 01:40:23 第1个京东账号将要助力的好友["RtGKzLisEAykfYuTRYI21Ml4RE6mjcMk1xs01xFkY7-HBDpvUQ","RtGKz7-kQAzxKNHIF9Nng6Zu5yLKU6QeWPhEgSL2OkBW9aMEpw","xDt-H1gilYIlpyklwluAmrTtot9yG3RuN3ERXfTNzWKMtwc1","yyFNHlgrmbE1qzYcz2OpDpgIIUxlRmq9KGY5VGO5vvMbGhw_FwPc","RtGKr7TFNlvKAdzHd6BhmsSv2IwT5dOC-MYoLWml1ZTHYqwY","RtGKv7fuCVbDCNvQRpJwmhMUvPtn-F6OluFwWMhfA8ZI-Jtv","RtGKzb73EF-le9aTENA61xwOZMPpnGzAB0yxvzRyZUUmJzymzg","HYzhzuilSAOjY4KbEtw61-oNlhmnryjVCbCm6ZngayIMVBDsOgpm","RtGKnavNMmj3I8bBXbVLmivdQ2ykItV7ybFmj7o1ZXqasDOh","RtGKrJrWHnDFAcbCT55zmsKTKKcJOGbMDi5J5bucKQmJz28m","RtGKzL7yRQ6lL4eeQ9Y21tiX7x42YfZ9ZsgJqqaoMnTC3vRH6w"]
-Mar 22 01:40:23 
-Mar 22 01:40:23 
-Mar 22 01:40:23 
-Mar 22 01:40:23 好友助力码：TsCni6inQAylMs_WF5h_mnDVlzlz2_LHH12vB5Qm
-Mar 22 01:40:23 
-Mar 22 01:40:23 
-Mar 22 01:40:23 
-Mar 22 01:40:23 开始助力 【RtGKzLisEAykfYuTRYI21Ml4RE6mjcMk1xs01xFkY7-HBDpvUQ】
-Mar 22 01:40:23 助力结果:
-Mar 22 01:40:23 {"code":0,"data":{"bizCode":0,"bizMsg":"success","result":{"cashCandidateNum":["0.05","2.11","0.35","99.00","66.00","0.12","88.00","111.00","8.80","0.11"],"koiStatus":"0","mainInfos":[{"assistList":[],"city":"江苏","cityBackgroundLeft":"https://m.360buyimg.com/babel/jfs/t1/121616/16/14047/92520/5f7569f4Ef48597a1/606a329688334192.png","cityBackgroundRight":"https://m.360buyimg.com/babel/jfs/t1/143222/23/9810/96133/5f7569e7Edeb1e431/4cf56c1c1999a0e6.png","cityCode":12,"cityTotalMoney":"54.75万","curCityImg":"https://m.360buyimg.com/babel/jfs/t1/146548/21/10570/16690/5f83f0ddE9c5622db/01e354f8e11513c7.png","lastCityImg":"https://m.360buyimg.com/babel/jfs/t1/130967/29/12136/17265/5f83f025Ea54c0511/5d3ff72571999dc4.png","maxAcquireCash":"88","nextCityImg":"https://m.360buyimg.com/babel/jfs/t1/139806/22/10545/14319/5f83effeE126e26d7/7575d8e1eec9f04c.png","remaingAssistNum":2,"remaingAssistThreshold":5,"requestedInviteeNum":2,"roundNum":1,"status":"0"}],"popWindows":[{"code":"202","data":{"cash":"0.10","curCityName":"江苏"},"type":"dailycash_second"}],"remainTime":0,"toasts":[{"msg":"今天的助力次数已用完啦~","status":"3","type":"0"}],"userActBaseInfo":{"actStatus":1,"headImg":"https://storage.360buyimg.com/i.imageUpload/62757273743331363631343235393737363737353836_big.jpg","inviteId":"TsCni6inQAylMs_WF5h_mnDVlzlz2_LHH12vB5Qm","isFirstPurchase":false,"nickname":"I****M","poolMoney":"5.10","threshold":"10","wechatWithdrawStatus":"1","withdrawBarNum":51}},"success":true},"msg":"调用成功"}
-Mar 22 01:40:23 
-Mar 22 01:40:23 助力次数已耗尽，跳出
-Mar 22 01:40:24 
-Mar 22 01:40:24 🔔城城领现金, 结束! 🕛 3.144 秒
-Mar 22 01:40:24 
-Mar 22 02:40:07 
-Mar 22 02:40:07 🔔城城领现金, 开始!
-Mar 22 02:40:07 
-Mar 22 02:40:07 ====================共1个京东账号Cookie=========
-Mar 22 02:40:07 
-Mar 22 02:40:07 ==================脚本执行- 北京时间(UTC+8)：3/22/2021, 2:40:07 AM=====================
-Mar 22 02:40:07 
-Mar 22 02:40:07 开始获取城城领现金配置文件
-Mar 22 02:40:07 
-Mar 22 02:40:07 共1个京东账号
-Mar 22 02:40:07 
-Mar 22 02:40:07 您提供了0个账号的城城领现金助力码
-Mar 22 02:40:07 
-Mar 22 02:40:07 脚本不会自动抽奖，建议活动快结束开启，默认关闭
-Mar 22 02:40:08 
-Mar 22 02:40:08 ******开始【京东账号1】burst3166*********
-Mar 22 02:40:08 
-Mar 22 02:40:08 由于您第1个京东账号未提供shareCode,将采纳本脚本自带的助力码
-Mar 22 02:40:08 
-Mar 22 02:40:08 开始
-Mar 22 02:40:09 第1个京东账号将要助力的好友["RtGKzLisEAykfYuTRYI21Ml4RE6mjcMk1xs01xFkY7-HBDpvUQ","GozhweikQQm-e4abEdA3mgYVIWv7vsg_zpr8tFHSbM220zvH","tGKz--sSAqqKIKdE9w007SEeNpfMkyFeAgN05FdfSJSriVWFQ","RtGKip7lPmLaBOLBUK5ImlWI-_i2spw5AbZQTzYifW_D5oUf","HYbtyOWsQgylfYX1V5h_mlaRArB78XOu6CNpycFMJX5xtQ","RtGKzu6hEgqjeobJHtAw15yHBjRyFTjsYWkcf52tukxE0lsyOw","RtGKzL6sEA2jKIDIF9Jg1WB3f2R0mqDTAdQdFUZ2xuwVZGVClA","RtGKoK3ZOVbJD-Xdc511mhEYG-QeuCrXDERvw258UyxmQ6dp","xSdKHmgVmbYqPMbWW5gzmjSCXmYtif5VBz--41K84ek","X8y7i6_oDUajMs_WTop3gwWgzWDA3YALE5c","S9Snj7X6SQ3vMs-aW5h_j3YO1kXwuAjeUcr7kMA"]
-Mar 22 02:40:09 
-Mar 22 02:40:09 
-Mar 22 02:40:09 
-Mar 22 02:40:09 好友助力码：TsCni6inQAylMs_WF5h_mnDVlzlz2_LHH12vB5Qm
-Mar 22 02:40:09 
-Mar 22 02:40:09 
-Mar 22 02:40:09 
-Mar 22 02:40:09 开始助力 【RtGKzLisEAykfYuTRYI21Ml4RE6mjcMk1xs01xFkY7-HBDpvUQ】
-Mar 22 02:40:09 助力结果:
-Mar 22 02:40:09 {"code":0,"data":{"bizCode":0,"bizMsg":"success","result":{"cashCandidateNum":["0.05","2.11","0.35","99.00","66.00","0.12","88.00","111.00","8.80","0.11"],"koiStatus":"0","mainInfos":[{"assistList":[],"city":"江苏","cityBackgroundLeft":"https://m.360buyimg.com/babel/jfs/t1/121616/16/14047/92520/5f7569f4Ef48597a1/606a329688334192.png","cityBackgroundRight":"https://m.360buyimg.com/babel/jfs/t1/143222/23/9810/96133/5f7569e7Edeb1e431/4cf56c1c1999a0e6.png","cityCode":12,"cityTotalMoney":"54.79万","curCityImg":"https://m.360buyimg.com/babel/jfs/t1/146548/21/10570/16690/5f83f0ddE9c5622db/01e354f8e11513c7.png","lastCityImg":"https://m.360buyimg.com/babel/jfs/t1/130967/29/12136/17265/5f83f025Ea54c0511/5d3ff72571999dc4.png","maxAcquireCash":"88","nextCityImg":"https://m.360buyimg.com/babel/jfs/t1/139806/22/10545/14319/5f83effeE126e26d7/7575d8e1eec9f04c.png","remaingAssistNum":2,"remaingAssistThreshold":5,"requestedInviteeNum":2,"roundNum":1,"status":"0"}],"popWindows":[{"code":"202","data":{"cash":"0.10","curCityName":"江苏"},"type":"dailycash_second"}],"remainTime":0,"toasts":[{"msg":"今天的助力次数已用完啦~","status":"3","type":"0"}],"userActBaseInfo":{"actStatus":1,"headImg":"https://storage.360buyimg.com/i.imageUpload/62757273743331363631343235393737363737353836_big.jpg","inviteId":"TsCni6inQAylMs_WF5h_mnDVlzlz2_LHH12vB5Qm","isFirstPurchase":false,"nickname":"I****M","poolMoney":"5.10","threshold":"10","wechatWithdrawStatus":"1","withdrawBarNum":51}},"success":true},"msg":"调用成功"}
-Mar 22 02:40:09 
-Mar 22 02:40:09 助力次数已耗尽，跳出
-Mar 22 02:40:10 
-Mar 22 02:40:10 🔔城城领现金, 结束! 🕛 3.43 秒
-Mar 22 02:40:10 
-Mar 22 03:40:17 
-Mar 22 03:40:17 🔔城城领现金, 开始!
-Mar 22 03:40:17 
-Mar 22 03:40:17 ====================共1个京东账号Cookie=========
-Mar 22 03:40:17 
-Mar 22 03:40:17 ==================脚本执行- 北京时间(UTC+8)：3/22/2021, 3:40:17 AM=====================
-Mar 22 03:40:17 
-Mar 22 03:40:17 开始获取城城领现金配置文件
-Mar 22 03:40:17 
-Mar 22 03:40:17 共1个京东账号
-Mar 22 03:40:17 
-Mar 22 03:40:17 您提供了0个账号的城城领现金助力码
-Mar 22 03:40:17 
-Mar 22 03:40:17 脚本不会自动抽奖，建议活动快结束开启，默认关闭
-Mar 22 03:40:18 
-Mar 22 03:40:18 ******开始【京东账号1】burst3166*********
-Mar 22 03:40:18 
-Mar 22 03:40:18 由于您第1个京东账号未提供shareCode,将采纳本脚本自带的助力码
-Mar 22 03:40:18 
-Mar 22 03:40:18 开始
-Mar 22 03:40:21 第1个京东账号将要助力的好友["RtGKzLisEAykfYuTRYI21Ml4RE6mjcMk1xs01xFkY7-HBDpvUQ","RtGKzO6jQA2jdtLLH907hH3vbI6hkPp6yiOuMmA3vCc-QntIbA","RtGKip7lPmLaBOLBUK5ImlWI-_i2spw5AbZQTzYifW_D5oUf","ZNq7naW5BlX9Kc_WW9R_mi9WqaeLRae8pMWPa7KiSQ","RtGKz-33Rw72fdCeEIc13oL42sAKBGOa6_cLAzwDGcbDQqED6A","QNy4ke-iQkbvMoPWW5hqiLpSUaHUiouICyqUCg","RtGKzO6nQg2kL4ScRt00hCkiCF8_WX84enwVtjMJCVHsEpIObg","StOzmb31QQyjds_WW9R_mscAk9aDA50iPEJh02Elcw","RtGKzOX3Q1zxfNCbRtc019ckqoqJdL4mrXVW_knAOapWcl6szg","W9a9le2tSQ2ifoOfW5h_1v1TTdttsOU_duOzVpkBnRRN","RtGKz76tEgjwK4bLQtxh1YETBysWY7H1NTyebQbHP0Pd1GtUFA"]
-Mar 22 03:40:21 
-Mar 22 03:40:21 
-Mar 22 03:40:21 
-Mar 22 03:40:21 好友助力码：TsCni6inQAylMs_WF5h_mnDVlzlz2_LHH12vB5Qm
-Mar 22 03:40:21 
-Mar 22 03:40:21 
-Mar 22 03:40:21 
-Mar 22 03:40:21 开始助力 【RtGKzLisEAykfYuTRYI21Ml4RE6mjcMk1xs01xFkY7-HBDpvUQ】
-Mar 22 03:40:21 助力结果:
-Mar 22 03:40:21 {"code":0,"data":{"bizCode":0,"bizMsg":"success","result":{"cashCandidateNum":["0.05","2.11","0.35","99.00","66.00","0.12","88.00","111.00","8.80","0.11"],"koiStatus":"0","mainInfos":[{"assistList":[],"city":"江苏","cityBackgroundLeft":"https://m.360buyimg.com/babel/jfs/t1/121616/16/14047/92520/5f7569f4Ef48597a1/606a329688334192.png","cityBackgroundRight":"https://m.360buyimg.com/babel/jfs/t1/143222/23/9810/96133/5f7569e7Edeb1e431/4cf56c1c1999a0e6.png","cityCode":12,"cityTotalMoney":"18.27万","curCityImg":"https://m.360buyimg.com/babel/jfs/t1/146548/21/10570/16690/5f83f0ddE9c5622db/01e354f8e11513c7.png","lastCityImg":"https://m.360buyimg.com/babel/jfs/t1/130967/29/12136/17265/5f83f025Ea54c0511/5d3ff72571999dc4.png","maxAcquireCash":"88","nextCityImg":"https://m.360buyimg.com/babel/jfs/t1/139806/22/10545/14319/5f83effeE126e26d7/7575d8e1eec9f04c.png","remaingAssistNum":2,"remaingAssistThreshold":5,"requestedInviteeNum":2,"roundNum":1,"status":"0"}],"popWindows":[{"code":"202","data":{"cash":"0.10","curCityName":"江苏"},"type":"dailycash_second"}],"remainTime":0,"toasts":[{"msg":"今天的助力次数已用完啦~","status":"3","type":"0"}],"userActBaseInfo":{"actStatus":1,"headImg":"https://storage.360buyimg.com/i.imageUpload/62757273743331363631343235393737363737353836_big.jpg","inviteId":"TsCni6inQAylMs_WF5h_mnDVlzlz2_LHH12vB5Qm","isFirstPurchase":false,"nickname":"I****M","poolMoney":"5.10","threshold":"10","wechatWithdrawStatus":"1","withdrawBarNum":51}},"success":true},"msg":"调用成功"}
-Mar 22 03:40:21 
-Mar 22 03:40:21 助力次数已耗尽，跳出
-Mar 22 03:40:22 
-Mar 22 03:40:22 🔔城城领现金, 结束! 🕛 5.012 秒
-Mar 22 03:40:22 
-Mar 22 04:40:29 
-Mar 22 04:40:29 🔔城城领现金, 开始!
-Mar 22 04:40:29 
-Mar 22 04:40:29 ====================共1个京东账号Cookie=========
-Mar 22 04:40:29 
-Mar 22 04:40:29 ==================脚本执行- 北京时间(UTC+8)：3/22/2021, 4:40:29 AM=====================
-Mar 22 04:40:29 
-Mar 22 04:40:29 开始获取城城领现金配置文件
-Mar 22 04:40:29 
-Mar 22 04:40:29 共1个京东账号
-Mar 22 04:40:29 
-Mar 22 04:40:29 您提供了0个账号的城城领现金助力码
-Mar 22 04:40:29 
-Mar 22 04:40:29 脚本不会自动抽奖，建议活动快结束开启，默认关闭
-Mar 22 04:40:30 
-Mar 22 04:40:30 ******开始【京东账号1】burst3166*********
-Mar 22 04:40:30 
-Mar 22 04:40:30 由于您第1个京东账号未提供shareCode,将采纳本脚本自带的助力码
-Mar 22 04:40:30 
-Mar 22 04:40:30 开始
-Mar 22 04:40:31 第1个京东账号将要助力的好友["RtGKzLisEAykfYuTRYI21Ml4RE6mjcMk1xs01xFkY7-HBDpvUQ","Vdy7m7TxHwqjf8_WW9R_moIwNhe61DqegFBYkVaEDw","RtGKgrbFCHfiAMX6T7VUmi541Q1NXD9x0DLRjC6_F2Dhpe1P","VMC5kb_8FFSjf8_WW9R_mgbIoJadceKh3WTf2819CA","X92wlrv5FFv9Ms_WF5h_mli2fjfYQ2Zqfu10PlgU","RtGKkIXeAnHHGcLZXopvmtvANXZCFaHuCNU5CbaiWVdNGfeB","yx5sHm4xHlT2Ms_WF5h_mv3ZeNPkHMtuBdBUDT0A","HYDlz-6lRgKmeYH1V5h_mi1PPyre_FLK9UBhu1cC2RgQaQ","Rs-2kLn6E1XvMs-aW5h_jwa7xZAMoFkcutft2Kc","RtGKzL6sEA2jKIDIF9Jg1WB3f2R0mqDTAdQdFUZ2xuwVZGVClA","HYDtyOWmSAqqfoH1V5h_msCanSmNAcIG8DpF5rGRd_YW0w"]
-Mar 22 04:40:31 
-Mar 22 04:40:31 
-Mar 22 04:40:31 
-Mar 22 04:40:31 好友助力码：TsCni6inQAylMs_WF5h_mnDVlzlz2_LHH12vB5Qm
-Mar 22 04:40:31 
-Mar 22 04:40:31 
-Mar 22 04:40:31 
-Mar 22 04:40:31 开始助力 【RtGKzLisEAykfYuTRYI21Ml4RE6mjcMk1xs01xFkY7-HBDpvUQ】
-Mar 22 04:40:31 助力结果:
-Mar 22 04:40:31 {"code":0,"data":{"bizCode":0,"bizMsg":"success","result":{"cashCandidateNum":["0.05","2.11","0.35","99.00","66.00","0.12","88.00","111.00","8.80","0.11"],"koiStatus":"0","mainInfos":[{"assistList":[],"city":"江苏","cityBackgroundLeft":"https://m.360buyimg.com/babel/jfs/t1/121616/16/14047/92520/5f7569f4Ef48597a1/606a329688334192.png","cityBackgroundRight":"https://m.360buyimg.com/babel/jfs/t1/143222/23/9810/96133/5f7569e7Edeb1e431/4cf56c1c1999a0e6.png","cityCode":12,"cityTotalMoney":"54.84万","curCityImg":"https://m.360buyimg.com/babel/jfs/t1/146548/21/10570/16690/5f83f0ddE9c5622db/01e354f8e11513c7.png","lastCityImg":"https://m.360buyimg.com/babel/jfs/t1/130967/29/12136/17265/5f83f025Ea54c0511/5d3ff72571999dc4.png","maxAcquireCash":"88","nextCityImg":"https://m.360buyimg.com/babel/jfs/t1/139806/22/10545/14319/5f83effeE126e26d7/7575d8e1eec9f04c.png","remaingAssistNum":2,"remaingAssistThreshold":5,"requestedInviteeNum":2,"roundNum":1,"status":"0"}],"popWindows":[{"code":"202","data":{"cash":"0.10","curCityName":"江苏"},"type":"dailycash_second"}],"remainTime":0,"toasts":[{"msg":"今天的助力次数已用完啦~","status":"3","type":"0"}],"userActBaseInfo":{"actStatus":1,"headImg":"https://storage.360buyimg.com/i.imageUpload/62757273743331363631343235393737363737353836_big.jpg","inviteId":"TsCni6inQAylMs_WF5h_mnDVlzlz2_LHH12vB5Qm","isFirstPurchase":false,"nickname":"I****M","poolMoney":"5.10","threshold":"10","wechatWithdrawStatus":"1","withdrawBarNum":51}},"success":true},"msg":"调用成功"}
-Mar 22 04:40:31 
-Mar 22 04:40:31 助力次数已耗尽，跳出
-Mar 22 04:40:32 
-Mar 22 04:40:32 🔔城城领现金, 结束! 🕛 3.08 秒
-Mar 22 04:40:32 
-Mar 22 05:40:30 
-Mar 22 05:40:30 🔔城城领现金, 开始!
-Mar 22 05:40:30 
-Mar 22 05:40:30 ====================共1个京东账号Cookie=========
-Mar 22 05:40:30 
-Mar 22 05:40:30 ==================脚本执行- 北京时间(UTC+8)：3/22/2021, 5:40:30 AM=====================
-Mar 22 05:40:30 
-Mar 22 05:40:30 开始获取城城领现金配置文件
-Mar 22 05:40:30 
-Mar 22 05:40:30 共1个京东账号
-Mar 22 05:40:30 
-Mar 22 05:40:30 您提供了0个账号的城城领现金助力码
-Mar 22 05:40:30 
-Mar 22 05:40:30 脚本不会自动抽奖，建议活动快结束开启，默认关闭
-Mar 22 05:40:30 
-Mar 22 05:40:30 ******开始【京东账号1】burst3166*********
-Mar 22 05:40:30 
-Mar 22 05:40:31 由于您第1个京东账号未提供shareCode,将采纳本脚本自带的助力码
-Mar 22 05:40:31 
-Mar 22 05:40:31 开始
-Mar 22 05:40:32 第1个京东账号将要助力的好友["RtGKzLisEAykfYuTRYI21Ml4RE6mjcMk1xs01xFkY7-HBDpvUQ","HY3myO6lQwigY4GfFtI10DR9b8wpolHwswWBAx4rcO8VoWLI4A","HYDjze6lQAimfIL1V5h_mki4g4xkK5PjnvqBclsSQw-jAw","Tce-gaj9H13vMs-aW5h_jwOpnPPIqInBLRTC2xs","RtGKzOXxFVv2fIqcE9Uz16CLX6Kyf658DQAEBgSwAGwxBIEF3w","RtGKzb-nRA7yLYfJQdxihA6yKJJZwx_EuB6vWkgzGbsrRUCIAw","XNy7n6_8BAqjds_WW9R_mnTuMqAqnKC-uE1yM6vTnQ","RtGKzLinQln3fIWcRNE61__jyDg5G1PN7e47O1xNokm1R8i64Q","yRFaEUc8lqAXqTsbwWeGmitjPXAyyMgEUZiRP1uRwYiVcUvS","Rty7p7D9QQqiMs_WF5h_mlgozGgLconkC1Ekc1ym","WerizeijSQjyK9CcRNI6mnw2KZLOY35Of0Y-R5I3N-okhkCf"]
-Mar 22 05:40:32 
-Mar 22 05:40:32 
-Mar 22 05:40:32 
-Mar 22 05:40:32 好友助力码：TsCni6inQAylMs_WF5h_mnDVlzlz2_LHH12vB5Qm
-Mar 22 05:40:32 
-Mar 22 05:40:32 
-Mar 22 05:40:32 
-Mar 22 05:40:32 开始助力 【RtGKzLisEAykfYuTRYI21Ml4RE6mjcMk1xs01xFkY7-HBDpvUQ】
-Mar 22 05:40:32 助力结果:
-Mar 22 05:40:32 {"code":0,"data":{"bizCode":0,"bizMsg":"success","result":{"cashCandidateNum":["0.05","2.11","0.35","99.00","66.00","0.12","88.00","111.00","8.80","0.11"],"koiStatus":"0","mainInfos":[{"assistList":[],"city":"江苏","cityBackgroundLeft":"https://m.360buyimg.com/babel/jfs/t1/121616/16/14047/92520/5f7569f4Ef48597a1/606a329688334192.png","cityBackgroundRight":"https://m.360buyimg.com/babel/jfs/t1/143222/23/9810/96133/5f7569e7Edeb1e431/4cf56c1c1999a0e6.png","cityCode":12,"cityTotalMoney":"54.88万","curCityImg":"https://m.360buyimg.com/babel/jfs/t1/146548/21/10570/16690/5f83f0ddE9c5622db/01e354f8e11513c7.png","lastCityImg":"https://m.360buyimg.com/babel/jfs/t1/130967/29/12136/17265/5f83f025Ea54c0511/5d3ff72571999dc4.png","maxAcquireCash":"88","nextCityImg":"https://m.360buyimg.com/babel/jfs/t1/139806/22/10545/14319/5f83effeE126e26d7/7575d8e1eec9f04c.png","remaingAssistNum":2,"remaingAssistThreshold":5,"requestedInviteeNum":2,"roundNum":1,"status":"0"}],"popWindows":[{"code":"202","data":{"cash":"0.10","curCityName":"江苏"},"type":"dailycash_second"}],"remainTime":0,"toasts":[{"msg":"今天的助力次数已用完啦~","status":"3","type":"0"}],"userActBaseInfo":{"actStatus":1,"headImg":"https://storage.360buyimg.com/i.imageUpload/62757273743331363631343235393737363737353836_big.jpg","inviteId":"TsCni6inQAylMs_WF5h_mnDVlzlz2_LHH12vB5Qm","isFirstPurchase":false,"nickname":"I****M","poolMoney":"5.10","threshold":"10","wechatWithdrawStatus":"1","withdrawBarNum":51}},"success":true},"msg":"调用成功"}
-Mar 22 05:40:32 
-Mar 22 05:40:32 助力次数已耗尽，跳出
-Mar 22 05:40:33 
-Mar 22 05:40:33 🔔城城领现金, 结束! 🕛 3.147 秒
-Mar 22 05:40:33 
-Mar 22 06:40:02 
-Mar 22 06:40:02 🔔城城领现金, 开始!
-Mar 22 06:40:03 
-Mar 22 06:40:03 ====================共1个京东账号Cookie=========
-Mar 22 06:40:03 
-Mar 22 06:40:03 ==================脚本执行- 北京时间(UTC+8)：3/22/2021, 6:40:03 AM=====================
-Mar 22 06:40:03 
-Mar 22 06:40:03 开始获取城城领现金配置文件
-Mar 22 06:40:03 
-Mar 22 06:40:03 共1个京东账号
-Mar 22 06:40:03 
-Mar 22 06:40:03 您提供了0个账号的城城领现金助力码
-Mar 22 06:40:03 
-Mar 22 06:40:03 脚本不会自动抽奖，建议活动快结束开启，默认关闭
-Mar 22 06:40:03 
-Mar 22 06:40:03 ******开始【京东账号1】burst3166*********
-Mar 22 06:40:03 
-Mar 22 06:40:03 由于您第1个京东账号未提供shareCode,将采纳本脚本自带的助力码
-Mar 22 06:40:03 
-Mar 22 06:40:03 开始
-Mar 22 06:40:13 第1个京东账号将要助力的好友["RtGKzLisEAykfYuTRYI21Ml4RE6mjcMk1xs01xFkY7-HBDpvUQ"]
-Mar 22 06:40:13 
-Mar 22 06:40:13 
-Mar 22 06:40:13 
-Mar 22 06:40:13 好友助力码：TsCni6inQAylMs_WF5h_mnDVlzlz2_LHH12vB5Qm
-Mar 22 06:40:13 
-Mar 22 06:40:13 
-Mar 22 06:40:13 
-Mar 22 06:40:13 开始助力 【RtGKzLisEAykfYuTRYI21Ml4RE6mjcMk1xs01xFkY7-HBDpvUQ】
-Mar 22 06:40:14 助力结果:
-Mar 22 06:40:14 {"code":0,"data":{"bizCode":0,"bizMsg":"success","result":{"cashCandidateNum":["0.05","2.11","0.35","99.00","66.00","0.12","88.00","111.00","8.80","0.11"],"koiStatus":"0","mainInfos":[{"assistList":[],"city":"江苏","cityBackgroundLeft":"https://m.360buyimg.com/babel/jfs/t1/121616/16/14047/92520/5f7569f4Ef48597a1/606a329688334192.png","cityBackgroundRight":"https://m.360buyimg.com/babel/jfs/t1/143222/23/9810/96133/5f7569e7Edeb1e431/4cf56c1c1999a0e6.png","cityCode":12,"cityTotalMoney":"55.08万","curCityImg":"https://m.360buyimg.com/babel/jfs/t1/146548/21/10570/16690/5f83f0ddE9c5622db/01e354f8e11513c7.png","lastCityImg":"https://m.360buyimg.com/babel/jfs/t1/130967/29/12136/17265/5f83f025Ea54c0511/5d3ff72571999dc4.png","maxAcquireCash":"88","nextCityImg":"https://m.360buyimg.com/babel/jfs/t1/139806/22/10545/14319/5f83effeE126e26d7/7575d8e1eec9f04c.png","remaingAssistNum":2,"remaingAssistThreshold":5,"requestedInviteeNum":2,"roundNum":1,"status":"0"}],"popWindows":[{"code":"202","data":{"cash":"0.10","curCityName":"江苏"},"type":"dailycash_second"}],"remainTime":0,"toasts":[{"msg":"今天的助力次数已用完啦~","status":"3","type":"0"}],"userActBaseInfo":{"actStatus":1,"headImg":"https://storage.360buyimg.com/i.imageUpload/62757273743331363631343235393737363737353836_big.jpg","inviteId":"TsCni6inQAylMs_WF5h_mnDVlzlz2_LHH12vB5Qm","isFirstPurchase":false,"nickname":"I****M","poolMoney":"5.10","threshold":"10","wechatWithdrawStatus":"1","withdrawBarNum":51}},"success":true},"msg":"调用成功"}
-Mar 22 06:40:14 
-Mar 22 06:40:14 助力次数已耗尽，跳出
-Mar 22 06:40:15 
-Mar 22 06:40:15 🔔城城领现金, 结束! 🕛 12.098 秒
-Mar 22 06:40:15 
-Mar 22 06:40:37 "Timeout awaiting 'request' for 10000ms"
-Mar 22 06:40:37 城城领现金 API请求失败，请检查网路重试
-Mar 22 07:40:04 
-Mar 22 07:40:04 🔔城城领现金, 开始!
-Mar 22 07:40:04 
-Mar 22 07:40:04 ====================共1个京东账号Cookie=========
-Mar 22 07:40:04 
-Mar 22 07:40:04 ==================脚本执行- 北京时间(UTC+8)：3/22/2021, 7:40:04 AM=====================
-Mar 22 07:40:04 
-Mar 22 07:40:04 开始获取城城领现金配置文件
-Mar 22 07:40:04 
-Mar 22 07:40:04 共1个京东账号
-Mar 22 07:40:04 
-Mar 22 07:40:04 您提供了0个账号的城城领现金助力码
-Mar 22 07:40:04 
-Mar 22 07:40:04 脚本不会自动抽奖，建议活动快结束开启，默认关闭
-Mar 22 07:40:05 
-Mar 22 07:40:05 ******开始【京东账号1】burst3166*********
-Mar 22 07:40:05 
-Mar 22 07:40:05 由于您第1个京东账号未提供shareCode,将采纳本脚本自带的助力码
-Mar 22 07:40:05 
-Mar 22 07:40:05 开始
-Mar 22 07:40:07 第1个京东账号将要助力的好友["RtGKzLisEAykfYuTRYI21Ml4RE6mjcMk1xs01xFkY7-HBDpvUQ","RtGKzu2mFQOhedadRoE0gNnO1ILMUaCgyWymI8OuuSHlENbIDQ","RtGKornbGlv_JsD8box2mkE81p9pspsnvkIXiuNFoWs2hMpR","RtGKzuujFwmrf4CZFdxg0UuJbCBnayefIUBHlfTWlfx9aOyFDg","RM-_weysSUbvMoPWW5hqiFd3g4cQmPhe9oSfoQ","RtGKiojjF2L8PenHZq9KmiJJH01GBdBzuFqOM2Y270a9zxCB","W8CmkKntBA-nf8_WW9R_msmXquhGGXtdqax29iXkuw","RtGKz-jxEAL2eoKYF9RhgJTisVpHLIkVLXwO076Ree3thRLdFg","RtGKzL2jSVyqfoCeHtY638JFweevPPfUqa8CmY1nmMU-pY7fyQ","RtGKzuz2RA6metKZFYBhgK3ba7E-pI0VOUcFKUvYYK5l9Espwg","RtGKzOmmRg3yd4GZQdI61YEDmk6yr9aACfKhOD1husjjk5w1kQ"]
-Mar 22 07:40:07 
-Mar 22 07:40:07 
-Mar 22 07:40:07 
-Mar 22 07:40:07 好友助力码：TsCni6inQAylMs_WF5h_mnDVlzlz2_LHH12vB5Qm
-Mar 22 07:40:07 
-Mar 22 07:40:07 
-Mar 22 07:40:07 
-Mar 22 07:40:07 开始助力 【RtGKzLisEAykfYuTRYI21Ml4RE6mjcMk1xs01xFkY7-HBDpvUQ】
-Mar 22 07:40:07 助力结果:
-Mar 22 07:40:07 {"code":0,"data":{"bizCode":0,"bizMsg":"success","result":{"cashCandidateNum":["0.05","2.11","0.35","99.00","66.00","0.12","88.00","111.00","8.80","0.11"],"koiStatus":"0","mainInfos":[{"assistList":[],"city":"江苏","cityBackgroundLeft":"https://m.360buyimg.com/babel/jfs/t1/121616/16/14047/92520/5f7569f4Ef48597a1/606a329688334192.png","cityBackgroundRight":"https://m.360buyimg.com/babel/jfs/t1/143222/23/9810/96133/5f7569e7Edeb1e431/4cf56c1c1999a0e6.png","cityCode":12,"cityTotalMoney":"55.50万","curCityImg":"https://m.360buyimg.com/babel/jfs/t1/146548/21/10570/16690/5f83f0ddE9c5622db/01e354f8e11513c7.png","lastCityImg":"https://m.360buyimg.com/babel/jfs/t1/130967/29/12136/17265/5f83f025Ea54c0511/5d3ff72571999dc4.png","maxAcquireCash":"88","nextCityImg":"https://m.360buyimg.com/babel/jfs/t1/139806/22/10545/14319/5f83effeE126e26d7/7575d8e1eec9f04c.png","remaingAssistNum":2,"remaingAssistThreshold":5,"requestedInviteeNum":2,"roundNum":1,"status":"0"}],"popWindows":[{"code":"202","data":{"cash":"0.10","curCityName":"江苏"},"type":"dailycash_second"}],"remainTime":0,"toasts":[{"msg":"今天的助力次数已用完啦~","status":"3","type":"0"}],"userActBaseInfo":{"actStatus":1,"headImg":"https://storage.360buyimg.com/i.imageUpload/62757273743331363631343235393737363737353836_big.jpg","inviteId":"TsCni6inQAylMs_WF5h_mnDVlzlz2_LHH12vB5Qm","isFirstPurchase":false,"nickname":"I****M","poolMoney":"5.10","threshold":"10","wechatWithdrawStatus":"1","withdrawBarNum":51}},"success":true},"msg":"调用成功"}
-Mar 22 07:40:07 
-Mar 22 07:40:07 助力次数已耗尽，跳出
-Mar 22 07:40:08 
-Mar 22 07:40:09 🔔城城领现金, 结束! 🕛 4.16 秒
-Mar 22 07:40:09 
-Mar 22 08:40:04 
-Mar 22 08:40:04 🔔城城领现金, 开始!
-Mar 22 08:40:04 
-Mar 22 08:40:04 ====================共1个京东账号Cookie=========
-Mar 22 08:40:04 
-Mar 22 08:40:04 ==================脚本执行- 北京时间(UTC+8)：3/22/2021, 8:40:04 AM=====================
-Mar 22 08:40:04 
-Mar 22 08:40:04 开始获取城城领现金配置文件
-Mar 22 08:40:04 
-Mar 22 08:40:04 共1个京东账号
-Mar 22 08:40:04 
-Mar 22 08:40:04 您提供了0个账号的城城领现金助力码
-Mar 22 08:40:04 
-Mar 22 08:40:04 脚本不会自动抽奖，建议活动快结束开启，默认关闭
-Mar 22 08:40:05 
-Mar 22 08:40:05 ******开始【京东账号1】burst3166*********
-Mar 22 08:40:05 
-Mar 22 08:40:05 由于您第1个京东账号未提供shareCode,将采纳本脚本自带的助力码
-Mar 22 08:40:05 
-Mar 22 08:40:05 开始
-Mar 22 08:40:06 第1个京东账号将要助力的好友["RtGKzLisEAykfYuTRYI21Ml4RE6mjcMk1xs01xFkY7-HBDpvUQ","TVJXRTsX3EbvMoPWW5hqiJm4u2QBdXRhWUjLzw","RtGKzuj3RgigKIfMF9Qxgo3oL_E4yewpCkAOAwTG62na3-Vf1A","StyykKiiRwzvMs-aW5h_jzK8XujUN3xxgErKAVI","W9GbqanVCHfyA9bjf49ymidGwGWqcpaZM_wt-lYebJZ2PvpU","RtGKkbTHFUnwGvjmZLVpmhFvOUX1l9UWdqNgU4YlaZPqwVwM","HYbnyuSlSA2md4v1V5h_muba4VcS6m5I4D8h1EaVz3f8XQ","Y_6WjazoDUajMs_WTop3g3_tfsjtiU8jjmo","RtGKr4b4Nn7xF9jDTKlymkwdiEkGX2Oga3aYxuTB0VV-ndva","TYPkzumtRgKleM_WW9R_mvhDHWAnKR1I2UvsA_THSQ","RtGKzur1FwKrfYSZFdQ21W_-VdRz_0XR7zm06iZ1vWDYU-xsqg"]
-Mar 22 08:40:06 
-Mar 22 08:40:06 
-Mar 22 08:40:06 
-Mar 22 08:40:06 好友助力码：TsCni6inQAylMs_WF5h_mnDVlzlz2_LHH12vB5Qm
-Mar 22 08:40:06 
-Mar 22 08:40:06 
-Mar 22 08:40:06 
-Mar 22 08:40:06 开始助力 【RtGKzLisEAykfYuTRYI21Ml4RE6mjcMk1xs01xFkY7-HBDpvUQ】
-Mar 22 08:40:06 助力结果:
-Mar 22 08:40:06 {"code":0,"data":{"bizCode":0,"bizMsg":"success","result":{"cashCandidateNum":["0.05","2.11","0.35","99.00","66.00","0.12","88.00","111.00","8.80","0.11"],"koiStatus":"0","mainInfos":[{"assistList":[],"city":"江苏","cityBackgroundLeft":"https://m.360buyimg.com/babel/jfs/t1/121616/16/14047/92520/5f7569f4Ef48597a1/606a329688334192.png","cityBackgroundRight":"https://m.360buyimg.com/babel/jfs/t1/143222/23/9810/96133/5f7569e7Edeb1e431/4cf56c1c1999a0e6.png","cityCode":12,"cityTotalMoney":"56.08万","curCityImg":"https://m.360buyimg.com/babel/jfs/t1/146548/21/10570/16690/5f83f0ddE9c5622db/01e354f8e11513c7.png","lastCityImg":"https://m.360buyimg.com/babel/jfs/t1/130967/29/12136/17265/5f83f025Ea54c0511/5d3ff72571999dc4.png","maxAcquireCash":"88","nextCityImg":"https://m.360buyimg.com/babel/jfs/t1/139806/22/10545/14319/5f83effeE126e26d7/7575d8e1eec9f04c.png","remaingAssistNum":2,"remaingAssistThreshold":5,"requestedInviteeNum":2,"roundNum":1,"status":"0"}],"popWindows":[{"code":"202","data":{"cash":"0.10","curCityName":"江苏"},"type":"dailycash_second"}],"remainTime":0,"toasts":[{"msg":"今天的助力次数已用完啦~","status":"3","type":"0"}],"userActBaseInfo":{"actStatus":1,"headImg":"https://storage.360buyimg.com/i.imageUpload/62757273743331363631343235393737363737353836_big.jpg","inviteId":"TsCni6inQAylMs_WF5h_mnDVlzlz2_LHH12vB5Qm","isFirstPurchase":false,"nickname":"I****M","poolMoney":"5.10","threshold":"10","wechatWithdrawStatus":"1","withdrawBarNum":51}},"success":true},"msg":"调用成功"}
-Mar 22 08:40:06 
-Mar 22 08:40:06 助力次数已耗尽，跳出
-Mar 22 08:40:07 
-Mar 22 08:40:07 🔔城城领现金, 结束! 🕛 3.195 秒
-Mar 22 08:40:07 
+Mar 25 00:40:12 
+Mar 25 00:40:12 🔔城城领现金, 开始!
+Mar 25 00:40:12 
+Mar 25 00:40:12 ====================共1个京东账号Cookie=========
+Mar 25 00:40:12 
+Mar 25 00:40:12 ==================脚本执行- 北京时间(UTC+8)：3/25/2021, 12:40:12 AM=====================
+Mar 25 00:40:12 
+Mar 25 00:40:12 开始获取城城领现金配置文件
+Mar 25 00:40:12 
+Mar 25 00:40:12 共1个京东账号
+Mar 25 00:40:12 
+Mar 25 00:40:12 您提供了0个账号的城城领现金助力码
+Mar 25 00:40:12 
+Mar 25 00:40:12 脚本不会自动抽奖，建议活动快结束开启，默认关闭
+Mar 25 00:40:13 
+Mar 25 00:40:13 ******开始【京东账号1】burst3166*********
+Mar 25 00:40:13 
+Mar 25 00:40:13 由于您第1个京东账号未提供shareCode,将采纳本脚本自带的助力码
+Mar 25 00:40:13 
+Mar 25 00:40:13 开始
+Mar 25 00:40:23 第1个京东账号将要助力的好友["RtGKzO71FQqkdoKaE4I30cARhtErkWrjD1GzUCN59ZO5OCc0wQ"]
+Mar 25 00:40:23 账号已黑，看不到邀请码
+Mar 25 00:40:23 开始助力 【RtGKzO71FQqkdoKaE4I30cARhtErkWrjD1GzUCN59ZO5OCc0wQ】
+Mar 25 00:40:23 助力结果:
+Mar 25 00:40:23 {"code":0,"data":{"bizCode":0,"bizMsg":"success","result":{"mainInfos":[],"toasts":[{"msg":"助力已经结束了，快去提现吧","status":"0","type":"0"}],"userActBaseInfo":{"actStatus":2,"headImg":"https://storage.360buyimg.com/i.imageUpload/62757273743331363631343235393737363737353836_big.jpg","isFirstPurchase":false,"nickname":"I****M","poolMoney":"5.50","threshold":"10","withdrawBarNum":55}},"success":true},"msg":"调用成功"}
+Mar 25 00:40:23 
+Mar 25 00:40:23 账号已黑，看不到邀请码
+Mar 25 00:40:24 
+Mar 25 00:40:24 🔔城城领现金, 结束! 🕛 12.078 秒
+Mar 25 00:40:24 
+Mar 25 01:40:15 
+Mar 25 01:40:15 🔔城城领现金, 开始!
+Mar 25 01:40:15 
+Mar 25 01:40:15 ====================共1个京东账号Cookie=========
+Mar 25 01:40:15 
+Mar 25 01:40:15 ==================脚本执行- 北京时间(UTC+8)：3/25/2021, 1:40:15 AM=====================
+Mar 25 01:40:15 
+Mar 25 01:40:15 开始获取城城领现金配置文件
+Mar 25 01:40:15 
+Mar 25 01:40:15 共1个京东账号
+Mar 25 01:40:15 
+Mar 25 01:40:15 您提供了0个账号的城城领现金助力码
+Mar 25 01:40:15 
+Mar 25 01:40:15 脚本不会自动抽奖，建议活动快结束开启，默认关闭
+Mar 25 01:40:16 
+Mar 25 01:40:16 ******开始【京东账号1】burst3166*********
+Mar 25 01:40:16 
+Mar 25 01:40:16 由于您第1个京东账号未提供shareCode,将采纳本脚本自带的助力码
+Mar 25 01:40:16 
+Mar 25 01:40:16 开始
+Mar 25 01:40:26 第1个京东账号将要助力的好友["RtGKzO71FQqkdoKaE4I30cARhtErkWrjD1GzUCN59ZO5OCc0wQ"]
+Mar 25 01:40:26 账号已黑，看不到邀请码
+Mar 25 01:40:26 开始助力 【RtGKzO71FQqkdoKaE4I30cARhtErkWrjD1GzUCN59ZO5OCc0wQ】
+Mar 25 01:40:26 助力结果:
+Mar 25 01:40:26 {"code":0,"data":{"bizCode":0,"bizMsg":"success","result":{"mainInfos":[],"toasts":[{"msg":"助力已经结束了，快去提现吧","status":"0","type":"0"}],"userActBaseInfo":{"actStatus":2,"headImg":"https://storage.360buyimg.com/i.imageUpload/62757273743331363631343235393737363737353836_big.jpg","isFirstPurchase":false,"nickname":"I****M","poolMoney":"5.50","threshold":"10","withdrawBarNum":55}},"success":true},"msg":"调用成功"}
+Mar 25 01:40:26 
+Mar 25 01:40:26 账号已黑，看不到邀请码
+Mar 25 01:40:27 
+Mar 25 01:40:27 🔔城城领现金, 结束! 🕛 12.398 秒
+Mar 25 01:40:27 
+Mar 25 01:40:36 "Response code 520 (undefined)"
+Mar 25 01:40:36 城城领现金 API请求失败，请检查网路重试
+Mar 25 02:40:27 
+Mar 25 02:40:27 🔔城城领现金, 开始!
+Mar 25 02:40:27 
+Mar 25 02:40:27 ====================共1个京东账号Cookie=========
+Mar 25 02:40:27 
+Mar 25 02:40:27 ==================脚本执行- 北京时间(UTC+8)：3/25/2021, 2:40:27 AM=====================
+Mar 25 02:40:27 
+Mar 25 02:40:27 开始获取城城领现金配置文件
+Mar 25 02:40:27 
+Mar 25 02:40:28 共1个京东账号
+Mar 25 02:40:28 
+Mar 25 02:40:28 您提供了0个账号的城城领现金助力码
+Mar 25 02:40:28 
+Mar 25 02:40:28 脚本不会自动抽奖，建议活动快结束开启，默认关闭
+Mar 25 02:40:28 
+Mar 25 02:40:28 ******开始【京东账号1】burst3166*********
+Mar 25 02:40:28 
+Mar 25 02:40:28 由于您第1个京东账号未提供shareCode,将采纳本脚本自带的助力码
+Mar 25 02:40:28 
+Mar 25 02:40:28 开始
+Mar 25 02:40:33 第1个京东账号将要助力的好友["RtGKzO71FQqkdoKaE4I30cARhtErkWrjD1GzUCN59ZO5OCc0wQ"]
+Mar 25 02:40:33 账号已黑，看不到邀请码
+Mar 25 02:40:33 开始助力 【RtGKzO71FQqkdoKaE4I30cARhtErkWrjD1GzUCN59ZO5OCc0wQ】
+Mar 25 02:40:33 助力结果:
+Mar 25 02:40:33 {"code":0,"data":{"bizCode":0,"bizMsg":"success","result":{"mainInfos":[],"toasts":[{"msg":"助力已经结束了，快去提现吧","status":"0","type":"0"}],"userActBaseInfo":{"actStatus":2,"headImg":"https://storage.360buyimg.com/i.imageUpload/62757273743331363631343235393737363737353836_big.jpg","isFirstPurchase":false,"nickname":"I****M","poolMoney":"5.50","threshold":"10","withdrawBarNum":55}},"success":true},"msg":"调用成功"}
+Mar 25 02:40:33 
+Mar 25 02:40:33 账号已黑，看不到邀请码
+Mar 25 02:40:34 
+Mar 25 02:40:34 🔔城城领现金, 结束! 🕛 6.522 秒
+Mar 25 02:40:34 
+Mar 25 03:40:26 
+Mar 25 03:40:26 🔔城城领现金, 开始!
+Mar 25 03:40:26 
+Mar 25 03:40:26 ====================共1个京东账号Cookie=========
+Mar 25 03:40:26 
+Mar 25 03:40:26 ==================脚本执行- 北京时间(UTC+8)：3/25/2021, 3:40:26 AM=====================
+Mar 25 03:40:26 
+Mar 25 03:40:26 开始获取城城领现金配置文件
+Mar 25 03:40:26 
+Mar 25 03:40:26 共1个京东账号
+Mar 25 03:40:26 
+Mar 25 03:40:26 您提供了0个账号的城城领现金助力码
+Mar 25 03:40:26 
+Mar 25 03:40:26 脚本不会自动抽奖，建议活动快结束开启，默认关闭
+Mar 25 03:40:27 
+Mar 25 03:40:27 ******开始【京东账号1】burst3166*********
+Mar 25 03:40:27 
+Mar 25 03:40:27 由于您第1个京东账号未提供shareCode,将采纳本脚本自带的助力码
+Mar 25 03:40:27 
+Mar 25 03:40:27 开始
+Mar 25 03:40:29 第1个京东账号将要助力的好友["RtGKzO71FQqkdoKaE4I30cARhtErkWrjD1GzUCN59ZO5OCc0wQ"]
+Mar 25 03:40:29 账号已黑，看不到邀请码
+Mar 25 03:40:29 开始助力 【RtGKzO71FQqkdoKaE4I30cARhtErkWrjD1GzUCN59ZO5OCc0wQ】
+Mar 25 03:40:29 助力结果:
+Mar 25 03:40:29 {"code":0,"data":{"bizCode":0,"bizMsg":"success","result":{"mainInfos":[],"toasts":[{"msg":"助力已经结束了，快去提现吧","status":"0","type":"0"}],"userActBaseInfo":{"actStatus":2,"headImg":"https://storage.360buyimg.com/i.imageUpload/62757273743331363631343235393737363737353836_big.jpg","isFirstPurchase":false,"nickname":"I****M","poolMoney":"5.50","threshold":"10","withdrawBarNum":55}},"success":true},"msg":"调用成功"}
+Mar 25 03:40:29 
+Mar 25 03:40:29 账号已黑，看不到邀请码
+Mar 25 03:40:30 
+Mar 25 03:40:30 🔔城城领现金, 结束! 🕛 4.782 秒
+Mar 25 03:40:30 
+Mar 25 04:40:05 
+Mar 25 04:40:05 🔔城城领现金, 开始!
+Mar 25 04:40:05 
+Mar 25 04:40:05 ====================共1个京东账号Cookie=========
+Mar 25 04:40:05 
+Mar 25 04:40:05 ==================脚本执行- 北京时间(UTC+8)：3/25/2021, 4:40:05 AM=====================
+Mar 25 04:40:05 
+Mar 25 04:40:05 开始获取城城领现金配置文件
+Mar 25 04:40:05 
+Mar 25 04:40:05 共1个京东账号
+Mar 25 04:40:05 
+Mar 25 04:40:05 您提供了0个账号的城城领现金助力码
+Mar 25 04:40:05 
+Mar 25 04:40:05 脚本不会自动抽奖，建议活动快结束开启，默认关闭
+Mar 25 04:40:06 
+Mar 25 04:40:06 ******开始【京东账号1】burst3166*********
+Mar 25 04:40:06 
+Mar 25 04:40:06 由于您第1个京东账号未提供shareCode,将采纳本脚本自带的助力码
+Mar 25 04:40:06 
+Mar 25 04:40:06 开始
+Mar 25 04:40:16 第1个京东账号将要助力的好友["RtGKzO71FQqkdoKaE4I30cARhtErkWrjD1GzUCN59ZO5OCc0wQ"]
+Mar 25 04:40:16 账号已黑，看不到邀请码
+Mar 25 04:40:16 开始助力 【RtGKzO71FQqkdoKaE4I30cARhtErkWrjD1GzUCN59ZO5OCc0wQ】
+Mar 25 04:40:16 助力结果:
+Mar 25 04:40:16 {"code":0,"data":{"bizCode":0,"bizMsg":"success","result":{"mainInfos":[],"toasts":[{"msg":"助力已经结束了，快去提现吧","status":"0","type":"0"}],"userActBaseInfo":{"actStatus":2,"headImg":"https://storage.360buyimg.com/i.imageUpload/62757273743331363631343235393737363737353836_big.jpg","isFirstPurchase":false,"nickname":"I****M","poolMoney":"5.50","threshold":"10","withdrawBarNum":55}},"success":true},"msg":"调用成功"}
+Mar 25 04:40:16 
+Mar 25 04:40:16 账号已黑，看不到邀请码
+Mar 25 04:40:17 
+Mar 25 04:40:17 🔔城城领现金, 结束! 🕛 12.178 秒
+Mar 25 04:40:17 
+Mar 25 04:40:32 "Response code 500 (Internal Server Error)"
+Mar 25 04:40:32 城城领现金 API请求失败，请检查网路重试
+Mar 25 05:40:12 
+Mar 25 05:40:12 🔔城城领现金, 开始!
+Mar 25 05:40:12 
+Mar 25 05:40:12 ====================共1个京东账号Cookie=========
+Mar 25 05:40:12 
+Mar 25 05:40:12 ==================脚本执行- 北京时间(UTC+8)：3/25/2021, 5:40:12 AM=====================
+Mar 25 05:40:12 
+Mar 25 05:40:12 开始获取城城领现金配置文件
+Mar 25 05:40:12 
+Mar 25 05:40:12 共1个京东账号
+Mar 25 05:40:12 
+Mar 25 05:40:12 您提供了0个账号的城城领现金助力码
+Mar 25 05:40:12 
+Mar 25 05:40:12 脚本不会自动抽奖，建议活动快结束开启，默认关闭
+Mar 25 05:40:13 
+Mar 25 05:40:13 ******开始【京东账号1】burst3166*********
+Mar 25 05:40:13 
+Mar 25 05:40:13 由于您第1个京东账号未提供shareCode,将采纳本脚本自带的助力码
+Mar 25 05:40:13 
+Mar 25 05:40:13 开始
+Mar 25 05:40:14 第1个京东账号将要助力的好友["RtGKzO71FQqkdoKaE4I30cARhtErkWrjD1GzUCN59ZO5OCc0wQ"]
+Mar 25 05:40:14 账号已黑，看不到邀请码
+Mar 25 05:40:14 开始助力 【RtGKzO71FQqkdoKaE4I30cARhtErkWrjD1GzUCN59ZO5OCc0wQ】
+Mar 25 05:40:15 助力结果:
+Mar 25 05:40:15 {"code":0,"data":{"bizCode":0,"bizMsg":"success","result":{"mainInfos":[],"toasts":[{"msg":"助力已经结束了，快去提现吧","status":"0","type":"0"}],"userActBaseInfo":{"actStatus":2,"headImg":"https://storage.360buyimg.com/i.imageUpload/62757273743331363631343235393737363737353836_big.jpg","isFirstPurchase":false,"nickname":"I****M","poolMoney":"5.50","threshold":"10","withdrawBarNum":55}},"success":true},"msg":"调用成功"}
+Mar 25 05:40:15 
+Mar 25 05:40:15 账号已黑，看不到邀请码
+Mar 25 05:40:16 
+Mar 25 05:40:16 🔔城城领现金, 结束! 🕛 3.377 秒
+Mar 25 05:40:16 
+Mar 25 06:40:12 
+Mar 25 06:40:12 🔔城城领现金, 开始!
+Mar 25 06:40:12 
+Mar 25 06:40:12 ====================共1个京东账号Cookie=========
+Mar 25 06:40:12 
+Mar 25 06:40:12 ==================脚本执行- 北京时间(UTC+8)：3/25/2021, 6:40:12 AM=====================
+Mar 25 06:40:12 
+Mar 25 06:40:13 开始获取城城领现金配置文件
+Mar 25 06:40:13 
+Mar 25 06:40:13 共1个京东账号
+Mar 25 06:40:13 
+Mar 25 06:40:13 您提供了0个账号的城城领现金助力码
+Mar 25 06:40:13 
+Mar 25 06:40:13 脚本不会自动抽奖，建议活动快结束开启，默认关闭
+Mar 25 06:40:13 
+Mar 25 06:40:13 ******开始【京东账号1】burst3166*********
+Mar 25 06:40:13 
+Mar 25 06:40:13 由于您第1个京东账号未提供shareCode,将采纳本脚本自带的助力码
+Mar 25 06:40:13 
+Mar 25 06:40:13 开始
+Mar 25 06:40:23 第1个京东账号将要助力的好友["RtGKzO71FQqkdoKaE4I30cARhtErkWrjD1GzUCN59ZO5OCc0wQ"]
+Mar 25 06:40:23 账号已黑，看不到邀请码
+Mar 25 06:40:23 开始助力 【RtGKzO71FQqkdoKaE4I30cARhtErkWrjD1GzUCN59ZO5OCc0wQ】
+Mar 25 06:40:23 助力结果:
+Mar 25 06:40:23 {"code":0,"data":{"bizCode":0,"bizMsg":"success","result":{"mainInfos":[],"toasts":[{"msg":"助力已经结束了，快去提现吧","status":"0","type":"0"}],"userActBaseInfo":{"actStatus":2,"headImg":"https://storage.360buyimg.com/i.imageUpload/62757273743331363631343235393737363737353836_big.jpg","isFirstPurchase":false,"nickname":"I****M","poolMoney":"5.50","threshold":"10","withdrawBarNum":55}},"success":true},"msg":"调用成功"}
+Mar 25 06:40:23 
+Mar 25 06:40:23 账号已黑，看不到邀请码
+Mar 25 06:40:25 
+Mar 25 06:40:25 🔔城城领现金, 结束! 🕛 12.104 秒
+Mar 25 06:40:25 
+Mar 25 06:40:43 "Response code 500 (Internal Server Error)"
+Mar 25 06:40:43 城城领现金 API请求失败，请检查网路重试
+Mar 25 07:40:04 
+Mar 25 07:40:04 🔔城城领现金, 开始!
+Mar 25 07:40:04 
+Mar 25 07:40:04 ====================共1个京东账号Cookie=========
+Mar 25 07:40:04 
+Mar 25 07:40:04 ==================脚本执行- 北京时间(UTC+8)：3/25/2021, 7:40:04 AM=====================
+Mar 25 07:40:04 
+Mar 25 07:40:04 开始获取城城领现金配置文件
+Mar 25 07:40:04 
+Mar 25 07:40:04 共1个京东账号
+Mar 25 07:40:04 
+Mar 25 07:40:04 您提供了0个账号的城城领现金助力码
+Mar 25 07:40:04 
+Mar 25 07:40:04 脚本不会自动抽奖，建议活动快结束开启，默认关闭
+Mar 25 07:40:05 
+Mar 25 07:40:05 ******开始【京东账号1】burst3166*********
+Mar 25 07:40:05 
+Mar 25 07:40:05 由于您第1个京东账号未提供shareCode,将采纳本脚本自带的助力码
+Mar 25 07:40:05 
+Mar 25 07:40:05 开始
+Mar 25 07:40:15 第1个京东账号将要助力的好友["RtGKzO71FQqkdoKaE4I30cARhtErkWrjD1GzUCN59ZO5OCc0wQ"]
+Mar 25 07:40:15 账号已黑，看不到邀请码
+Mar 25 07:40:15 开始助力 【RtGKzO71FQqkdoKaE4I30cARhtErkWrjD1GzUCN59ZO5OCc0wQ】
+Mar 25 07:40:15 助力结果:
+Mar 25 07:40:15 {"code":0,"data":{"bizCode":0,"bizMsg":"success","result":{"mainInfos":[],"toasts":[{"msg":"助力已经结束了，快去提现吧","status":"0","type":"0"}],"userActBaseInfo":{"actStatus":2,"headImg":"https://storage.360buyimg.com/i.imageUpload/62757273743331363631343235393737363737353836_big.jpg","isFirstPurchase":false,"nickname":"I****M","poolMoney":"5.50","threshold":"10","withdrawBarNum":55}},"success":true},"msg":"调用成功"}
+Mar 25 07:40:15 
+Mar 25 07:40:15 账号已黑，看不到邀请码
+Mar 25 07:40:16 
+Mar 25 07:40:16 🔔城城领现金, 结束! 🕛 12.01 秒
+Mar 25 07:40:16 
+Mar 25 07:40:30 "Response code 500 (Internal Server Error)"
+Mar 25 07:40:30 城城领现金 API请求失败，请检查网路重试
+Mar 25 08:40:02 
+Mar 25 08:40:02 🔔城城领现金, 开始!
+Mar 25 08:40:02 
+Mar 25 08:40:02 ====================共1个京东账号Cookie=========
+Mar 25 08:40:02 
+Mar 25 08:40:02 ==================脚本执行- 北京时间(UTC+8)：3/25/2021, 8:40:02 AM=====================
+Mar 25 08:40:02 
+Mar 25 08:40:02 开始获取城城领现金配置文件
+Mar 25 08:40:02 
+Mar 25 08:40:02 共1个京东账号
+Mar 25 08:40:02 
+Mar 25 08:40:02 您提供了0个账号的城城领现金助力码
+Mar 25 08:40:02 
+Mar 25 08:40:02 脚本不会自动抽奖，建议活动快结束开启，默认关闭
+Mar 25 08:40:03 
+Mar 25 08:40:03 ******开始【京东账号1】burst3166*********
+Mar 25 08:40:03 
+Mar 25 08:40:03 由于您第1个京东账号未提供shareCode,将采纳本脚本自带的助力码
+Mar 25 08:40:03 
+Mar 25 08:40:03 开始
+Mar 25 08:40:13 第1个京东账号将要助力的好友["RtGKzO71FQqkdoKaE4I30cARhtErkWrjD1GzUCN59ZO5OCc0wQ"]
+Mar 25 08:40:13 账号已黑，看不到邀请码
+Mar 25 08:40:13 开始助力 【RtGKzO71FQqkdoKaE4I30cARhtErkWrjD1GzUCN59ZO5OCc0wQ】
+Mar 25 08:40:13 助力结果:
+Mar 25 08:40:13 {"code":0,"data":{"bizCode":0,"bizMsg":"success","result":{"mainInfos":[],"toasts":[{"msg":"助力已经结束了，快去提现吧","status":"0","type":"0"}],"userActBaseInfo":{"actStatus":2,"headImg":"https://storage.360buyimg.com/i.imageUpload/62757273743331363631343235393737363737353836_big.jpg","isFirstPurchase":false,"nickname":"I****M","poolMoney":"5.50","threshold":"10","withdrawBarNum":55}},"success":true},"msg":"调用成功"}
+Mar 25 08:40:13 
+Mar 25 08:40:13 账号已黑，看不到邀请码
+Mar 25 08:40:14 
+Mar 25 08:40:14 🔔城城领现金, 结束! 🕛 12.099 秒
+Mar 25 08:40:14 
+Mar 25 08:40:36 "Timeout awaiting 'request' for 10000ms"
+Mar 25 08:40:36 城城领现金 API请求失败，请检查网路重试
