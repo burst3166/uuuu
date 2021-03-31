@@ -1,139 +1,87 @@
-Mar 25 08:47:15 
-Mar 25 08:47:15 🔔闪购盲盒, 开始!
-Mar 25 08:47:15 
-Mar 25 08:47:15 ====================共1个京东账号Cookie=========
-Mar 25 08:47:15 
-Mar 25 08:47:15 ==================脚本执行- 北京时间(UTC+8)：3/25/2021, 8:47:15 AM=====================
-Mar 25 08:47:15 
-Mar 25 08:47:15 开始获取闪购盲盒配置文件
-Mar 25 08:47:15 
-Mar 25 08:47:15 共1个京东账号
-Mar 25 08:47:15 
-Mar 25 08:47:15 您提供了1个账号的闪购盲盒助力码
-Mar 25 08:47:15 
-Mar 25 08:47:15 开始
-Mar 25 08:47:17 第1个京东账号将要助力的好友["T0205KkcA11KiSO-aWSyyZV-CjVQmoaT5kRrbA","T0225KkcRh4Y9VeBdBunnKRefQCjVQmoaT5kRrbA","T0225KkcRRoRoVXSKBqml6IKIACjVQmoaT5kRrbA","T014_aMsBwNdoAWVYwCjVQmoaT5kRrbA","T0085qI2GE9GCjVQmoaT5kRrbA","T0195KQtF0pGqwPRIhzxlvYCjVQmoaT5kRrbA","T0087aUiGVxGCjVQmoaT5kRrbA","T0167agsQh4Z_VXVIxvxCjVQmoaT5kRrbA","T0127LgxA1oa9FLRCjVQmoaT5kRrbA"]
-Mar 25 08:47:17 
-Mar 25 08:47:17 ******开始【京东账号1】burst3166*********
-Mar 25 08:47:17 
-Mar 25 08:47:17 
-Mar 25 08:47:17 14-邀请好友助力-已完成1-未完成10
-Mar 25 08:47:17 
-Mar 25 08:47:17 【京东账号1（burst3166）的闪购盲盒好友互助码】T0127LgxA1oa9FLRCjVQmoaT5kRrbA
-Mar 25 08:47:17 
-Mar 25 08:47:18 success
-Mar 25 08:47:20 success
-Mar 25 08:47:22 success
-Mar 25 08:47:24 success
-Mar 25 08:47:26 success
-Mar 25 08:47:28 已达到助力上限
-Mar 25 08:47:30 已达到助力上限
-Mar 25 08:47:32 已达到助力上限
-Mar 25 08:47:34 不能自己给自己助力
-Mar 25 08:47:36 
-Mar 25 08:47:36 8-浏览商品任务-全部已完成
-Mar 25 08:47:36 
-Mar 25 08:47:36 7-浏览并关注店铺-全部已完成
-Mar 25 08:47:36 
-Mar 25 08:47:36 26-浏览并关注频道-全部已完成
-Mar 25 08:47:36 
-Mar 25 08:47:36 9-浏览会场任务-全部已完成
-Mar 25 08:47:36 
-Mar 25 08:47:36 开始抽奖
-Mar 25 08:47:36 
-Mar 25 08:47:36 开始抽奖
-Mar 25 08:47:36 【京东账号1】burst3166
-Mar 25 08:47:36 任务已完成，本次运行获得京豆0
-Mar 25 08:47:36 
-Mar 25 08:47:36 🔔闪购盲盒, 结束! 🕛 21.593 秒
-Mar 25 08:47:36 
-Mar 25 08:47:49 "Timeout awaiting 'request' for 10000ms"
-Mar 25 08:47:49 闪购盲盒 API请求失败，请检查网路重试
-Mar 26 08:47:11 
-Mar 26 08:47:11 🔔闪购盲盒, 开始!
-Mar 26 08:47:11 
-Mar 26 08:47:11 ====================共1个京东账号Cookie=========
-Mar 26 08:47:11 
-Mar 26 08:47:11 ==================脚本执行- 北京时间(UTC+8)：3/26/2021, 8:47:11 AM=====================
-Mar 26 08:47:11 
-Mar 26 08:47:11 开始获取闪购盲盒配置文件
-Mar 26 08:47:11 
-Mar 26 08:47:11 共1个京东账号
-Mar 26 08:47:11 
-Mar 26 08:47:11 您提供了1个账号的闪购盲盒助力码
-Mar 26 08:47:11 
-Mar 26 08:47:11 开始
-Mar 26 08:47:13 随机取20个码放到您固定的互助码后面(不影响已有固定互助)
-Mar 26 08:47:13 第1个京东账号将要助力的好友["T0205KkcA11KiSO-aWSyyZV-CjVQmoaT5kRrbA","T0225KkcRh4Y9VeBdBunnKRefQCjVQmoaT5kRrbA","T0225KkcRRoRoVXSKBqml6IKIACjVQmoaT5kRrbA","T014_aMsBwNdoAWVYwCjVQmoaT5kRrbA","T0085qI2GE9GCjVQmoaT5kRrbA","T0195KQtF0pGqwPRIhzxlvYCjVQmoaT5kRrbA","T0087aUiGVxGCjVQmoaT5kRrbA","T0167agsQh4Z_VXVIxvxCjVQmoaT5kRrbA","T0127LgxA1oa9FLRCjVQmoaT5kRrbA","T0225KkcRh4YoV2FIBPwwPZfJQCjVWmIaW5kRrbA","T0225KkcRkwZ_AeGIx31kv5efQCjVQmoaT5kRrbA","T0194qQ2HEdKrQGJdx_2lfQCjVQmoaT5kRrbA","T020anXIlp6dIv5j-Zt4QH-MCjVWmIaW5kRrbA","T018v_hyRhsc9FHRKBqb1ACjVQmoaT5kRrbA","T0225KkcRxZI91PSdRr9nP9ZdACjVQmoaT5kRrbA","T0205KkcIWtMpjSWSVy077ZQCjVWmIaW5kRrbA","T014-KQgG1cY9FXTIQCjVQmoaT5kRrbA","T0225KkcRB0aowLTdh3wxf9fJwCjVQmoaT5kRrbA","T0225KkcRhhP9FbfJB6ilaIIcQCjVWmIaW5kRrbA","T020u_9xSB8a8FfKJRz1nfYOCjVWmIaW5kRrbA","T0225KkcREsY_QCEJR72kfYKdQCjVWmIaW5kRrbA","T012a3PDlZaRI_xICjVWmIaW5kRrbA","T0225KkcRkoc8gfVIEjzxf4OJQCjVWmIaW5kRrbA","T0225KkcRhlKo1HVIEymxqUPcACjVWmIaW5kRrbA","T0225KkcRx4R9VODJBmgkvVZcgCjVWmIaW5kRrbA","T0164rp3RBoe9FfUI3WpCjVQmoaT5kRrbA","T0189iTZ_8eKS41ngMxYLACjVQmoaT5kRrbA","T0205KkcCnRuhDOrSHmLwJVtCjVQmoaT5kRrbA","T0225KkcREof91TScRqgkPBcfQCjVWmIaW5kRrbA"]
-Mar 26 08:47:13 
-Mar 26 08:47:13 ******开始【京东账号1】burst3166*********
-Mar 26 08:47:13 
-Mar 26 08:47:13 
-Mar 26 08:47:13 14-邀请好友助力-已完成2-未完成10
-Mar 26 08:47:13 
-Mar 26 08:47:13 【京东账号1（burst3166）的闪购盲盒好友互助码】T0127LgxA1oa9FLRCjVQmoaT5kRrbA
-Mar 26 08:47:13 
-Mar 26 08:47:13 success
-Mar 26 08:47:15 success
-Mar 26 08:47:17 success
-Mar 26 08:47:19 success
-Mar 26 08:47:21 success
-Mar 26 08:47:23 已达到助力上限
-Mar 26 08:47:25 已达到助力上限
-Mar 26 08:47:27 已达到助力上限
-Mar 26 08:47:29 不能自己给自己助力
-Mar 26 08:47:31 助力已满员！谢谢你哦~
-Mar 26 08:47:33 助力已满员！谢谢你哦~
-Mar 26 08:47:35 助力已满员！谢谢你哦~
-Mar 26 08:47:37 助力已满员！谢谢你哦~
-Mar 26 08:47:40 助力已满员！谢谢你哦~
-Mar 26 08:47:42 助力已满员！谢谢你哦~
-Mar 26 08:47:44 助力已满员！谢谢你哦~
-Mar 26 08:47:46 助力已满员！谢谢你哦~
-Mar 26 08:47:48 助力已满员！谢谢你哦~
-Mar 26 08:47:50 助力已满员！谢谢你哦~
-Mar 26 08:47:52 助力已满员！谢谢你哦~
-Mar 26 08:47:54 助力已满员！谢谢你哦~
-Mar 26 08:47:56 助力已满员！谢谢你哦~
-Mar 26 08:47:58 助力已满员！谢谢你哦~
-Mar 26 08:48:00 助力已满员！谢谢你哦~
-Mar 26 08:48:02 助力已满员！谢谢你哦~
-Mar 26 08:48:04 助力已满员！谢谢你哦~
-Mar 26 08:48:06 助力已满员！谢谢你哦~
-Mar 26 08:48:08 助力已满员！谢谢你哦~
-Mar 26 08:48:10 助力已满员！谢谢你哦~
-Mar 26 08:48:12 
-Mar 26 08:48:12 8-浏览商品任务-全部已完成
-Mar 26 08:48:12 
-Mar 26 08:48:12 7-浏览并关注店铺-全部已完成
-Mar 26 08:48:12 
-Mar 26 08:48:12 26-浏览并关注频道-全部已完成
-Mar 26 08:48:12 
-Mar 26 08:48:12 9-浏览会场任务-全部已完成
-Mar 26 08:48:13 
-Mar 26 08:48:13 开始抽奖
-Mar 26 08:48:13 京豆:10
-Mar 26 08:48:13 
-Mar 26 08:48:13 开始抽奖
-Mar 26 08:48:13 
-Mar 26 08:48:13 开始抽奖
-Mar 26 08:48:13 
-Mar 26 08:48:13 开始抽奖
-Mar 26 08:48:13 京豆:1
-Mar 26 08:48:13 
-Mar 26 08:48:13 开始抽奖
-Mar 26 08:48:13 京豆:2
-Mar 26 08:48:13 
-Mar 26 08:48:13 开始抽奖
-Mar 26 08:48:13 
-Mar 26 08:48:13 开始抽奖
-Mar 26 08:48:13 
-Mar 26 08:48:13 ==============📣系统通知📣==============
-Mar 26 08:48:13 闪购盲盒
-Mar 26 08:48:13 【京东账号1】burst3166
-Mar 26 08:48:13 任务已完成，本次运行获得京豆13
-Mar 26 08:48:13 【京东账号1】burst3166
-Mar 26 08:48:13 任务已完成，本次运行获得京豆13
-Mar 26 08:48:13 
-Mar 26 08:48:13 🔔闪购盲盒, 结束! 🕛 62.27 秒
-Mar 26 08:48:13 
+Mar 31 08:47:12 
+Mar 31 08:47:12 🔔闪购盲盒, 开始!
+Mar 31 08:47:12 
+Mar 31 08:47:12 ====================共1个京东账号Cookie=========
+Mar 31 08:47:12 
+Mar 31 08:47:12 ==================脚本执行- 北京时间(UTC+8)：3/31/2021, 8:47:12 AM=====================
+Mar 31 08:47:12 
+Mar 31 08:47:12 开始获取闪购盲盒配置文件
+Mar 31 08:47:12 
+Mar 31 08:47:12 共1个京东账号
+Mar 31 08:47:12 
+Mar 31 08:47:12 您提供了1个账号的闪购盲盒助力码
+Mar 31 08:47:12 
+Mar 31 08:47:13 开始
+Mar 31 08:47:14 随机取20个码放到您固定的互助码后面(不影响已有固定互助)
+Mar 31 08:47:14 第1个京东账号将要助力的好友["T0205KkcA11KiSO-aWSyyZV-CjVQmoaT5kRrbA","T0225KkcRh4Y9VeBdBunnKRefQCjVQmoaT5kRrbA","T0225KkcRRoRoVXSKBqml6IKIACjVQmoaT5kRrbA","T014_aMsBwNdoAWVYwCjVQmoaT5kRrbA","T0085qI2GE9GCjVQmoaT5kRrbA","T0195KQtF0pGqwPRIhzxlvYCjVQmoaT5kRrbA","T0087aUiGVxGCjVQmoaT5kRrbA","T0167agsQh4Z_VXVIxvxCjVQmoaT5kRrbA","T0127LgxA1oa9FLRCjVQmoaT5kRrbA","T0225KkcREhKo1yCKRPzwqIIcACjVWmIaW5kRrbA","T01576A6B09HolTeIRsCjVWmIaW5kRrbA","T0225KkcRx5N9FaDIxOgkaJfIQCjVWmIaW5kRrbA","T0225KkcRxkdoFLRcx73wPYIcQCjVWmIaW5kRrbA","T0225KkcR0wc9lbTchj8xaFcfQCjVWmIaW5kRrbA","T012uvR2QB8Q_TuKCjVQmoaT5kRrbA","T0197aQtFFdTrQWJdxL8nPYCjVWmIaW5kRrbA","T0225KkcR09N81zRIhKnlvYPcQCjVQmoaT5kRrbA","T0225KkcRRcdoVTeJRv1xqMKcQCjVQmoaT5kRrbA","T012wvx6SR4Z8FXXCjVWmIaW5kRrbA","T0225KkcRE1IoVDQKE_1naQKcwCjVWmIaW5kRrbA","T0225KkcRE9P9VLVJE_zkvYMcgCjVWmIaW5kRrbA","T012_aUmHklEoAWJCjVWmIaW5kRrbA","T0225KkcRE0Y9QDVI0jwxaJedACjVWmIaW5kRrbA","T0205KkcGFZzoAWhdkWv0alpCjVWmIaW5kRrbA","T0225KkcR0hK_VPfKEzxlqULIQCjVWmIaW5kRrbA","T019u_53Qhob9EnRJx78kvACjVQmoaT5kRrbA","T0225KkcREoa9geDIhzyx_IDdQCjVWmIaW5kRrbA","T0225KkcR0hNpwCBKRyilPEOcgCjVQmoaT5kRrbA","T0205KkcJGFzkQGgW3uA0aZcCjVWmIaW5kRrbA"]
+Mar 31 08:47:14 
+Mar 31 08:47:14 ******开始【京东账号1】burst3166*********
+Mar 31 08:47:14 
+Mar 31 08:47:14 
+Mar 31 08:47:14 14-邀请好友助力-已完成3-未完成10
+Mar 31 08:47:14 
+Mar 31 08:47:14 【京东账号1（burst3166）的闪购盲盒好友互助码】T0127LgxA1oa9FLRCjVQmoaT5kRrbA
+Mar 31 08:47:14 
+Mar 31 08:47:14 success
+Mar 31 08:47:16 success
+Mar 31 08:47:18 success
+Mar 31 08:47:20 success
+Mar 31 08:47:22 success
+Mar 31 08:47:24 已达到助力上限
+Mar 31 08:47:26 已达到助力上限
+Mar 31 08:47:28 已达到助力上限
+Mar 31 08:47:30 不能自己给自己助力
+Mar 31 08:47:33 助力已满员！谢谢你哦~
+Mar 31 08:47:35 助力已满员！谢谢你哦~
+Mar 31 08:47:37 助力已满员！谢谢你哦~
+Mar 31 08:47:39 助力已满员！谢谢你哦~
+Mar 31 08:47:41 助力已满员！谢谢你哦~
+Mar 31 08:47:43 助力已满员！谢谢你哦~
+Mar 31 08:47:45 助力已满员！谢谢你哦~
+Mar 31 08:47:47 助力已满员！谢谢你哦~
+Mar 31 08:47:49 助力已满员！谢谢你哦~
+Mar 31 08:47:51 助力已满员！谢谢你哦~
+Mar 31 08:47:53 助力已满员！谢谢你哦~
+Mar 31 08:47:55 助力已满员！谢谢你哦~
+Mar 31 08:47:57 助力已满员！谢谢你哦~
+Mar 31 08:47:59 助力已满员！谢谢你哦~
+Mar 31 08:48:01 助力已满员！谢谢你哦~
+Mar 31 08:48:04 助力已满员！谢谢你哦~
+Mar 31 08:48:06 助力已满员！谢谢你哦~
+Mar 31 08:48:08 助力已满员！谢谢你哦~
+Mar 31 08:48:10 助力已满员！谢谢你哦~
+Mar 31 08:48:12 助力已满员！谢谢你哦~
+Mar 31 08:48:14 
+Mar 31 08:48:14 8-浏览商品任务-全部已完成
+Mar 31 08:48:14 
+Mar 31 08:48:14 7-浏览并关注店铺-全部已完成
+Mar 31 08:48:14 
+Mar 31 08:48:14 26-浏览并关注频道-全部已完成
+Mar 31 08:48:14 
+Mar 31 08:48:14 9-浏览会场任务-全部已完成
+Mar 31 08:48:14 
+Mar 31 08:48:14 开始抽奖
+Mar 31 08:48:14 京豆:1
+Mar 31 08:48:14 
+Mar 31 08:48:14 开始抽奖
+Mar 31 08:48:14 
+Mar 31 08:48:14 开始抽奖
+Mar 31 08:48:14 京豆:5
+Mar 31 08:48:14 
+Mar 31 08:48:14 开始抽奖
+Mar 31 08:48:14 
+Mar 31 08:48:14 开始抽奖
+Mar 31 08:48:14 京豆:5
+Mar 31 08:48:14 
+Mar 31 08:48:14 开始抽奖
+Mar 31 08:48:14 京豆:2
+Mar 31 08:48:14 
+Mar 31 08:48:14 ==============📣系统通知📣==============
+Mar 31 08:48:14 闪购盲盒
+Mar 31 08:48:14 【京东账号1】burst3166
+Mar 31 08:48:14 任务已完成，本次运行获得京豆13
+Mar 31 08:48:14 【京东账号1】burst3166
+Mar 31 08:48:14 任务已完成，本次运行获得京豆13
+Mar 31 08:48:14 
+Mar 31 08:48:14 🔔闪购盲盒, 结束! 🕛 62.217 秒
+Mar 31 08:48:14 

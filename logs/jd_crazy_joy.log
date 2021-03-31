@@ -1,242 +1,66 @@
-Mar 25 07:30:03 
-Mar 25 07:30:03 🔔crazyJoy任务, 开始!
-Mar 25 07:30:03 
-Mar 25 07:30:03 ====================共1个京东账号Cookie=========
-Mar 25 07:30:03 
-Mar 25 07:30:03 ==================脚本执行- 北京时间(UTC+8)：3/25/2021, 7:30:03 AM=====================
-Mar 25 07:30:03 
-Mar 25 07:30:03 开始获取crazyJoy任务配置文件
-Mar 25 07:30:03 
-Mar 25 07:30:03 共1个京东账号
-Mar 25 07:30:03 
-Mar 25 07:30:03 您提供了1个账号的crazyJoy任务助力码
-Mar 25 07:30:03 
-Mar 25 07:30:04 
-Mar 25 07:30:04 开始【京东账号1】burst3166
-Mar 25 07:30:04 
-Mar 25 07:30:04 开始
-Mar 25 07:30:14 第1个京东账号将要助力的好友["Fq9psXI56q0uIFJxO7F_Iw==","ylwZoJ2uwgfXCPm39fmiUqt9zd5YaBeE","vV6G01FNHcgqa4l36VySJat9zd5YaBeE","VNeb_5r6tM0v9VRwHC7ugQ==","0r4G4ajwm0s=atdoA4uR-f6_GGamMGRUbQ==","8di6MT8e_pY=","aNJoiL85sWVQOsQVJvIaDg==","m2B1zWyRZT3GK4o1yCsXmg=="]
-Mar 25 07:30:14 用户信息获取失败
-Mar 25 07:30:16 系统异常
-Mar 25 07:30:16 助力异常:{"message":"系统异常","officialDocument":"","resultCode":"1000000","resultTips":"系统异常","success":false}
-Mar 25 07:30:19 助力异常:{"message":"系统异常","officialDocument":"","resultCode":"1000000","resultTips":"系统异常","success":false}
-Mar 25 07:30:21 助力异常:{"message":"系统异常","officialDocument":"","resultCode":"1000000","resultTips":"系统异常","success":false}
-Mar 25 07:30:24 助力异常:{"message":"系统异常","officialDocument":"","resultCode":"1000000","resultTips":"系统异常","success":false}
-Mar 25 07:30:24 助力异常:{"message":"数据异常","officialDocument":"","resultCode":"1000002","resultTips":"系统繁忙，稍后再试!","success":false}
-Mar 25 07:30:26 助力结果:{"data":{"beans":0,"coins":30064771072000,"doneTimes":5,"ext":{"count":6,"urlType":"h5"},"status":0,"taskId":50,"taskRecordId":"581745845720858624","taskTitle":"邀请好友每天助力","taskTypeId":102},"officialDocument":"","resultCode":"0","success":true}
-Mar 25 07:30:29 助力结果:{"data":{"beans":0,"coins":30064771072000,"doneTimes":6,"ext":{"count":6,"urlType":"h5"},"status":2,"taskId":50,"taskRecordId":"581745844387332096","taskTitle":"邀请好友每天助力","taskTypeId":102},"officialDocument":"","resultCode":"0","success":true}
-Mar 25 07:30:29 助力异常:{"message":"数据异常","officialDocument":"","resultCode":"1000002","resultTips":"无法给自己助力哟","success":false}
-Mar 25 07:30:31 任务【邀请好友每天助力】领奖成功，任务奖励：0京豆，30064771072000金币
-Mar 25 07:30:31 去做任务【京东数码 浏览10秒】，任务id: 581745901695160320
-Mar 25 07:30:37 "Timeout awaiting 'request' for 10000ms"
-Mar 25 07:30:37 crazyJoy任务 API请求失败，请检查网路重试
-Mar 25 07:31:01 任务【京东数码 浏览10秒】记录成功，去领奖
-Mar 25 07:31:01 任务【京东数码 浏览10秒】领奖成功，任务奖励：0京豆，25769803776000金币
-Mar 25 07:31:01 去做任务【一起宠汪汪  免费兑京豆】，任务id: 581746031059673088
-Mar 25 07:31:31 任务【一起宠汪汪  免费兑京豆】记录成功，去领奖
-Mar 25 07:31:32 任务【一起宠汪汪  免费兑京豆】领奖成功，任务奖励：undefined京豆，17179869184000金币
-Mar 25 07:31:32 去做任务【生活服务首页浏览10秒】，任务id: 581746157636816896
-Mar 25 07:32:02 任务【生活服务首页浏览10秒】记录成功，去领奖
-Mar 25 07:32:02 任务【生活服务首页浏览10秒】领奖成功，任务奖励：0京豆，25769803776000金币
-Mar 25 07:32:02 去做任务【逛韩国进口竹盐好物浏览10秒】，任务id: 581746284321509376
-Mar 25 07:32:32 任务【逛韩国进口竹盐好物浏览10秒】记录成功，去领奖
-Mar 25 07:32:32 任务【逛韩国进口竹盐好物浏览10秒】领奖成功，任务奖励：0京豆，8589934592000金币
-Mar 25 07:32:32 去做任务【集卡赢奖品游戏浏览10秒】，任务id: 581746410965032960
-Mar 25 07:33:02 任务【集卡赢奖品游戏浏览10秒】记录成功，去领奖
-Mar 25 07:33:02 任务【集卡赢奖品游戏浏览10秒】领奖成功，任务奖励：0京豆，8589934592000金币
-Mar 25 07:33:02 去做任务【东东爱消除】，任务id: 581746537588060160
-Mar 25 07:33:33 任务【东东爱消除】记录成功，去领奖
-Mar 25 07:33:33 任务【东东爱消除】领奖成功，任务奖励：undefined京豆，8589934592000金币
-Mar 25 07:33:33 
-Mar 25 07:33:33 ==============📣系统通知📣==============
-Mar 25 07:33:33 crazyJoy任务
-Mar 25 07:33:33 京东账号1 burst3166
-Mar 25 07:33:33 邀请好友每天助力：6/6
-Mar 25 07:33:33 五福汪:好物JOY(94只) 省钱JOY(96只) 快乐JOY(31只) 多多JOY(99只) 
-Mar 25 07:33:33 当前信息：793京豆，3643109374774700金币
-Mar 25 07:33:33 开始循环助力
-Mar 25 07:33:33 
-Mar 25 07:33:33 开始【京东账号1】burst3166
-Mar 25 07:33:33 
-Mar 25 07:33:33 开始
-Mar 25 07:33:34 随机取10个码放到您固定的互助码后面(不影响已有固定互助)
-Mar 25 07:33:34 第1个京东账号将要助力的好友["Fq9psXI56q0uIFJxO7F_Iw==","ylwZoJ2uwgfXCPm39fmiUqt9zd5YaBeE","vV6G01FNHcgqa4l36VySJat9zd5YaBeE","VNeb_5r6tM0v9VRwHC7ugQ==","0r4G4ajwm0s=atdoA4uR-f6_GGamMGRUbQ==","8di6MT8e_pY=","aNJoiL85sWVQOsQVJvIaDg==","m2B1zWyRZT3GK4o1yCsXmg==","lDaDgmE8urayL_4Ieoe-J6t9zd5YaBeE","SGbo2fXt7MSvYCkVxbY3lA==","F-hlBn8HyFg=","qrnt4shBpzxiL0GeDNPsMw==","WvR4OGBSxFyAXVum3XdEqw==","A_kvwPvzGh9lTNLJsz5_Zat9zd5YaBeE","EaRFy9-oJ0tNHExA4n4G4at9zd5YaBeE","BYLfuBLsO8L3XEGhz1RliA==","eAyY_hSmgqixH-SjWK_s7A==","u4ZBprAMZOKWpqBlYyvZbA=="]
-Mar 25 07:33:34 助力结果:{"data":{"beans":0,"coins":30064771072000,"doneTimes":8,"ext":{"count":6,"urlType":"h5"},"status":3,"taskId":50,"taskRecordId":"581745865641955328","taskTitle":"邀请好友每天助力","taskTypeId":102},"officialDocument":"","resultCode":"0","success":true}
-Mar 25 07:33:34 今天您已助力过了，明天再来吧
-Mar 25 07:33:35 今天您已助力过了，明天再来吧
-Mar 25 07:33:36 今天您已助力过了，明天再来吧
-Mar 25 07:33:36 助力异常:{"message":"数据异常","officialDocument":"","resultCode":"1000002","resultTips":"系统繁忙，稍后再试!","success":false}
-Mar 25 07:33:37 今天您已助力过了，明天再来吧
-Mar 25 07:33:37 今天您已助力过了，明天再来吧
-Mar 25 07:33:38 今天您已助力过了，明天再来吧
-Mar 25 07:33:39 助力结果:{"data":{"beans":0,"coins":30064771072000,"doneTimes":33,"ext":{"count":6,"urlType":"h5"},"status":2,"taskId":50,"taskRecordId":"581632690069221376","taskTitle":"邀请好友每天助力","taskTypeId":102},"officialDocument":"","resultCode":"0","success":true}
-Mar 25 07:33:40 助力结果:{"data":{"beans":0,"coins":30064771072000,"doneTimes":39,"ext":{"count":6,"urlType":"h5"},"status":3,"taskId":50,"taskRecordId":"581633666757378048","taskTitle":"邀请好友每天助力","taskTypeId":102},"officialDocument":"","resultCode":"0","success":true}
-Mar 25 07:33:41 助力结果:{"data":{"beans":0,"coins":30064771072000,"doneTimes":38,"ext":{"count":6,"urlType":"h5"},"status":3,"taskId":50,"taskRecordId":"581636675640430592","taskTitle":"邀请好友每天助力","taskTypeId":102},"officialDocument":"","resultCode":"0","success":true}
-Mar 25 07:33:42 助力结果:{"data":{"beans":0,"coins":7516192768000,"doneTimes":18,"ext":{"count":6,"urlType":"h5"},"status":3,"taskId":50,"taskRecordId":"581636119249948673","taskTitle":"邀请好友每天助力","taskTypeId":102},"officialDocument":"","resultCode":"0","success":true}
-Mar 25 07:33:43 助力结果:{"data":{"beans":0,"coins":30064771072000,"doneTimes":46,"ext":{"count":6,"urlType":"h5"},"status":3,"taskId":50,"taskRecordId":"581635060978171904","taskTitle":"邀请好友每天助力","taskTypeId":102},"officialDocument":"","resultCode":"0","success":true}
-Mar 25 07:33:44 助力结果:{"data":{"beans":0,"coins":30064771072000,"doneTimes":13,"ext":{"count":6,"urlType":"h5"},"status":2,"taskId":50,"taskRecordId":"581635774181539840","taskTitle":"邀请好友每天助力","taskTypeId":102},"officialDocument":"","resultCode":"0","success":true}
-Mar 25 07:33:45 助力结果:{"data":{"beans":0,"coins":30064771072000,"doneTimes":36,"ext":{"count":6,"urlType":"h5"},"status":2,"taskId":50,"taskRecordId":"581635290613628929","taskTitle":"邀请好友每天助力","taskTypeId":102},"officialDocument":"","resultCode":"0","success":true}
-Mar 25 07:33:46 助力结果:{"data":{"beans":0,"coins":30064771072000,"doneTimes":31,"ext":{"count":6,"urlType":"h5"},"status":2,"taskId":50,"taskRecordId":"581633126625738752","taskTitle":"邀请好友每天助力","taskTypeId":102},"officialDocument":"","resultCode":"0","success":true}
-Mar 25 07:33:47 助力结果:{"data":{"beans":0,"coins":30064771072000,"doneTimes":22,"ext":{"count":6,"urlType":"h5"},"status":2,"taskId":50,"taskRecordId":"581638141511417856","taskTitle":"邀请好友每天助力","taskTypeId":102},"officialDocument":"","resultCode":"0","success":true}
-Mar 25 07:33:48 助力结果:{"data":{"beans":0,"coins":30064771072000,"doneTimes":37,"ext":{"count":6,"urlType":"h5"},"status":2,"taskId":50,"taskRecordId":"581635055140347904","taskTitle":"邀请好友每天助力","taskTypeId":102},"officialDocument":"","resultCode":"0","success":true}
-Mar 25 07:33:48 
-Mar 25 07:33:48 开始【京东账号1】burst3166
-Mar 25 07:33:48 
-Mar 25 07:33:48 
-Mar 25 07:33:48 🔔crazyJoy任务, 结束! 🕛 225.173 秒
-Mar 25 07:33:48 
-Mar 25 07:33:48 
-Mar 25 07:33:48 🔔crazyJoy任务, 结束! 🕛 225.264 秒
-Mar 25 07:33:48 
-Mar 25 23:30:14 
-Mar 25 23:30:14 🔔crazyJoy任务, 开始!
-Mar 25 23:30:14 
-Mar 25 23:30:14 ====================共1个京东账号Cookie=========
-Mar 25 23:30:14 
-Mar 25 23:30:14 ==================脚本执行- 北京时间(UTC+8)：3/25/2021, 11:30:14 PM=====================
-Mar 25 23:30:14 
-Mar 25 23:30:14 开始获取crazyJoy任务配置文件
-Mar 25 23:30:14 
-Mar 25 23:30:14 共1个京东账号
-Mar 25 23:30:14 
-Mar 25 23:30:14 您提供了1个账号的crazyJoy任务助力码
-Mar 25 23:30:14 
-Mar 25 23:30:15 
-Mar 25 23:30:15 开始【京东账号1】burst3166
-Mar 25 23:30:15 
-Mar 25 23:30:15 开始
-Mar 25 23:30:25 第1个京东账号将要助力的好友["Fq9psXI56q0uIFJxO7F_Iw==","ylwZoJ2uwgfXCPm39fmiUqt9zd5YaBeE","vV6G01FNHcgqa4l36VySJat9zd5YaBeE","VNeb_5r6tM0v9VRwHC7ugQ==","0r4G4ajwm0s=atdoA4uR-f6_GGamMGRUbQ==","8di6MT8e_pY=","aNJoiL85sWVQOsQVJvIaDg==","m2B1zWyRZT3GK4o1yCsXmg=="]
-Mar 25 23:30:25 用户信息获取失败
-Mar 25 23:30:25 今天已签到
-Mar 25 23:30:25 今天您已助力过了，明天再来吧
-Mar 25 23:30:26 今天您已助力过了，明天再来吧
-Mar 25 23:30:26 今天您已助力过了，明天再来吧
-Mar 25 23:30:27 今天您已助力过了，明天再来吧
-Mar 25 23:30:28 助力异常:{"message":"数据异常","officialDocument":"","resultCode":"1000002","resultTips":"系统繁忙，稍后再试!","success":false}
-Mar 25 23:30:28 今天您已助力过了，明天再来吧
-Mar 25 23:30:29 今天您已助力过了，明天再来吧
-Mar 25 23:30:29 今天您已助力过了，明天再来吧
-Mar 25 23:30:30 
-Mar 25 23:30:30 ==============📣系统通知📣==============
-Mar 25 23:30:30 crazyJoy任务
-Mar 25 23:30:30 京东账号1 burst3166
-Mar 25 23:30:30 邀请好友每天助力：6/6
-Mar 25 23:30:30 五福汪:好物JOY(96只) 快乐JOY(31只) 多多JOY(99只) 省钱JOY(98只) 
-Mar 25 23:30:30 当前信息：795京豆，6086952519339535金币
-Mar 25 23:30:30 开始循环助力
-Mar 25 23:30:30 
-Mar 25 23:30:30 开始【京东账号1】burst3166
-Mar 25 23:30:30 
-Mar 25 23:30:30 开始
-Mar 25 23:30:40 第1个京东账号将要助力的好友["Fq9psXI56q0uIFJxO7F_Iw==","ylwZoJ2uwgfXCPm39fmiUqt9zd5YaBeE","vV6G01FNHcgqa4l36VySJat9zd5YaBeE","VNeb_5r6tM0v9VRwHC7ugQ==","0r4G4ajwm0s=atdoA4uR-f6_GGamMGRUbQ==","8di6MT8e_pY=","aNJoiL85sWVQOsQVJvIaDg==","m2B1zWyRZT3GK4o1yCsXmg=="]
-Mar 25 23:30:40 今天您已助力过了，明天再来吧
-Mar 25 23:30:41 今天您已助力过了，明天再来吧
-Mar 25 23:30:41 今天您已助力过了，明天再来吧
-Mar 25 23:30:42 今天您已助力过了，明天再来吧
-Mar 25 23:30:42 助力异常:{"message":"数据异常","officialDocument":"","resultCode":"1000002","resultTips":"系统繁忙，稍后再试!","success":false}
-Mar 25 23:30:43 今天您已助力过了，明天再来吧
-Mar 25 23:30:44 今天您已助力过了，明天再来吧
-Mar 25 23:30:44 今天您已助力过了，明天再来吧
-Mar 25 23:30:44 "Client network socket disconnected before secure TLS connection was established"
-Mar 25 23:30:44 crazyJoy任务 API请求失败，请检查网路重试
-Mar 25 23:30:45 
-Mar 25 23:30:45 开始【京东账号1】burst3166
-Mar 25 23:30:45 
-Mar 25 23:30:45 
-Mar 25 23:30:45 🔔crazyJoy任务, 结束! 🕛 30.773 秒
-Mar 25 23:30:45 
-Mar 25 23:30:45 
-Mar 25 23:30:45 🔔crazyJoy任务, 结束! 🕛 30.913 秒
-Mar 25 23:30:45 
-Mar 25 23:31:03 "Timeout awaiting 'request' for 10000ms"
-Mar 25 23:31:03 crazyJoy任务 API请求失败，请检查网路重试
-Mar 26 07:30:14 
-Mar 26 07:30:14 🔔crazyJoy任务, 开始!
-Mar 26 07:30:14 
-Mar 26 07:30:14 ====================共1个京东账号Cookie=========
-Mar 26 07:30:14 
-Mar 26 07:30:14 ==================脚本执行- 北京时间(UTC+8)：3/26/2021, 7:30:14 AM=====================
-Mar 26 07:30:14 
-Mar 26 07:30:14 开始获取crazyJoy任务配置文件
-Mar 26 07:30:14 
-Mar 26 07:30:14 共1个京东账号
-Mar 26 07:30:14 
-Mar 26 07:30:14 您提供了1个账号的crazyJoy任务助力码
-Mar 26 07:30:14 
-Mar 26 07:30:14 
-Mar 26 07:30:14 开始【京东账号1】burst3166
-Mar 26 07:30:14 
-Mar 26 07:30:14 开始
-Mar 26 07:30:24 第1个京东账号将要助力的好友["Fq9psXI56q0uIFJxO7F_Iw==","ylwZoJ2uwgfXCPm39fmiUqt9zd5YaBeE","vV6G01FNHcgqa4l36VySJat9zd5YaBeE","VNeb_5r6tM0v9VRwHC7ugQ==","0r4G4ajwm0s=atdoA4uR-f6_GGamMGRUbQ==","8di6MT8e_pY=","aNJoiL85sWVQOsQVJvIaDg==","m2B1zWyRZT3GK4o1yCsXmg=="]
-Mar 26 07:30:24 用户信息获取失败
-Mar 26 07:30:26 签到成功，获得1京豆，0金币
-Mar 26 07:30:28 助力结果:{"data":{"beans":0,"coins":30064771072000,"doneTimes":6,"ext":{"count":6,"urlType":"h5"},"status":2,"taskId":50,"taskRecordId":"582000035189207041","taskTitle":"邀请好友每天助力","taskTypeId":102},"officialDocument":"","resultCode":"0","success":true}
-Mar 26 07:30:29 助力结果:{"data":{"beans":0,"coins":30064771072000,"doneTimes":7,"ext":{"count":6,"urlType":"h5"},"status":2,"taskId":50,"taskRecordId":"582012842098835456","taskTitle":"邀请好友每天助力","taskTypeId":102},"officialDocument":"","resultCode":"0","success":true}
-Mar 26 07:30:30 助力结果:{"data":{"beans":0,"coins":30064771072000,"doneTimes":6,"ext":{"count":6,"urlType":"h5"},"status":2,"taskId":50,"taskRecordId":"582108220670115840","taskTitle":"邀请好友每天助力","taskTypeId":102},"officialDocument":"","resultCode":"0","success":true}
-Mar 26 07:30:31 助力结果:{"data":{"beans":0,"coins":30064771072000,"doneTimes":5,"ext":{"count":6,"urlType":"h5"},"status":0,"taskId":50,"taskRecordId":"582108229847691264","taskTitle":"邀请好友每天助力","taskTypeId":102},"officialDocument":"","resultCode":"0","success":true}
-Mar 26 07:30:32 助力异常:{"message":"数据异常","officialDocument":"","resultCode":"1000002","resultTips":"系统繁忙，稍后再试!","success":false}
-Mar 26 07:30:33 助力结果:{"data":{"beans":0,"coins":30064771072000,"doneTimes":6,"ext":{"count":6,"urlType":"h5"},"status":2,"taskId":50,"taskRecordId":"582108240515440641","taskTitle":"邀请好友每天助力","taskTypeId":102},"officialDocument":"","resultCode":"0","success":true}
-Mar 26 07:30:34 助力结果:{"data":{"beans":0,"coins":30064771072000,"doneTimes":6,"ext":{"count":6,"urlType":"h5"},"status":2,"taskId":50,"taskRecordId":"582108233297960960","taskTitle":"邀请好友每天助力","taskTypeId":102},"officialDocument":"","resultCode":"0","success":true}
-Mar 26 07:30:34 助力异常:{"message":"数据异常","officialDocument":"","resultCode":"1000002","resultTips":"无法给自己助力哟","success":false}
-Mar 26 07:30:36 任务【邀请好友每天助力】领奖成功，任务奖励：0京豆，30064771072000金币
-Mar 26 07:30:36 去做任务【京东数码 浏览10秒】，任务id: 582108311854518272
-Mar 26 07:30:48 "Timeout awaiting 'request' for 10000ms"
-Mar 26 07:30:48 crazyJoy任务 API请求失败，请检查网路重试
-Mar 26 07:31:06 任务【京东数码 浏览10秒】记录成功，去领奖
-Mar 26 07:31:06 任务【京东数码 浏览10秒】领奖成功，任务奖励：0京豆，25769803776000金币
-Mar 26 07:31:06 去做任务【一起宠汪汪  免费兑京豆】，任务id: 582108438434353153
-Mar 26 07:31:36 任务【一起宠汪汪  免费兑京豆】记录成功，去领奖
-Mar 26 07:31:36 任务【一起宠汪汪  免费兑京豆】领奖成功，任务奖励：undefined京豆，17179869184000金币
-Mar 26 07:31:36 去做任务【生活服务首页浏览10秒】，任务id: 582108564949901312
-Mar 26 07:32:06 任务【生活服务首页浏览10秒】记录成功，去领奖
-Mar 26 07:32:06 任务【生活服务首页浏览10秒】领奖成功，任务奖励：0京豆，25769803776000金币
-Mar 26 07:32:07 去做任务【逛韩国进口竹盐好物浏览10秒】，任务id: 582108691489361920
-Mar 26 07:32:37 任务【逛韩国进口竹盐好物浏览10秒】记录成功，去领奖
-Mar 26 07:32:37 任务【逛韩国进口竹盐好物浏览10秒】领奖成功，任务奖励：0京豆，8589934592000金币
-Mar 26 07:32:37 去做任务【集卡赢奖品游戏浏览10秒】，任务id: 582108818790690816
-Mar 26 07:33:07 任务【集卡赢奖品游戏浏览10秒】记录成功，去领奖
-Mar 26 07:33:07 任务【集卡赢奖品游戏浏览10秒】领奖成功，任务奖励：0京豆，8589934592000金币
-Mar 26 07:33:07 去做任务【东东爱消除】，任务id: 582108945320873985
-Mar 26 07:33:38 任务【东东爱消除】记录成功，去领奖
-Mar 26 07:33:38 任务【东东爱消除】领奖成功，任务奖励：undefined京豆，8589934592000金币
-Mar 26 07:33:38 
-Mar 26 07:33:38 ==============📣系统通知📣==============
-Mar 26 07:33:38 crazyJoy任务
-Mar 26 07:33:38 京东账号1 burst3166
-Mar 26 07:33:38 邀请好友每天助力：6/6
-Mar 26 07:33:38 五福汪:好物JOY(97只) 多多JOY(99只) 省钱JOY(99只) 快乐JOY(32只) 
-Mar 26 07:33:38 当前信息：800京豆，0金币
-Mar 26 07:33:38 开始循环助力
-Mar 26 07:33:38 
-Mar 26 07:33:38 开始【京东账号1】burst3166
-Mar 26 07:33:38 
-Mar 26 07:33:38 开始
-Mar 26 07:33:39 随机取10个码放到您固定的互助码后面(不影响已有固定互助)
-Mar 26 07:33:39 第1个京东账号将要助力的好友["Fq9psXI56q0uIFJxO7F_Iw==","ylwZoJ2uwgfXCPm39fmiUqt9zd5YaBeE","vV6G01FNHcgqa4l36VySJat9zd5YaBeE","VNeb_5r6tM0v9VRwHC7ugQ==","0r4G4ajwm0s=atdoA4uR-f6_GGamMGRUbQ==","8di6MT8e_pY=","aNJoiL85sWVQOsQVJvIaDg==","m2B1zWyRZT3GK4o1yCsXmg==","dgoz8Y-Xq207S8ow9Zf6kat9zd5YaBeE","vJ40EphIaDDJZ31z3Xkf6at9zd5YaBeE","dAa4Ea5ccIIGCet0lj5qJat9zd5YaBeE","uKhMG1_Zw8HC3oigZYrVY6t9zd5YaBeE","VNBjFaTvHQ2YRQ2lzAwdPat9zd5YaBeE","8P--9itARkF0UkTkqxJS3g==","KyLAfCD-CNXRRWsXJPdYAA","g9ziG3_JgG2Z-BlE2wNAmKt9zd5YaBeE","HNrp_-83x2yrfc3eWGgXhA==&","4zhRYRFYFGjrcj25YYvGXg=="]
-Mar 26 07:33:39 今天您已助力过了，明天再来吧
-Mar 26 07:33:40 今天您已助力过了，明天再来吧
-Mar 26 07:33:40 今天您已助力过了，明天再来吧
-Mar 26 07:33:41 今天您已助力过了，明天再来吧
-Mar 26 07:33:41 助力异常:{"message":"数据异常","officialDocument":"","resultCode":"1000002","resultTips":"系统繁忙，稍后再试!","success":false}
-Mar 26 07:33:42 今天您已助力过了，明天再来吧
-Mar 26 07:33:43 今天您已助力过了，明天再来吧
-Mar 26 07:33:43 今天您已助力过了，明天再来吧
-Mar 26 07:33:44 助力结果:{"data":{"beans":0,"coins":30064771072000,"doneTimes":56,"ext":{"count":6,"urlType":"h5"},"status":2,"taskId":50,"taskRecordId":"582003508767309824","taskTitle":"邀请好友每天助力","taskTypeId":102},"officialDocument":"","resultCode":"0","success":true}
-Mar 26 07:33:45 助力结果:{"data":{"beans":0,"coins":30064771072000,"doneTimes":33,"ext":{"count":6,"urlType":"h5"},"status":2,"taskId":50,"taskRecordId":"581996074351456256","taskTitle":"邀请好友每天助力","taskTypeId":102},"officialDocument":"","resultCode":"0","success":true}
-Mar 26 07:33:45 助力结果:{"data":{"beans":0,"coins":30064771072000,"doneTimes":42,"ext":{"count":6,"urlType":"h5"},"status":2,"taskId":50,"taskRecordId":"581998526735269889","taskTitle":"邀请好友每天助力","taskTypeId":102},"officialDocument":"","resultCode":"0","success":true}
-Mar 26 07:33:46 助力结果:{"data":{"beans":0,"coins":30064771072000,"doneTimes":37,"ext":{"count":6,"urlType":"h5"},"status":3,"taskId":50,"taskRecordId":"581997207536799744","taskTitle":"邀请好友每天助力","taskTypeId":102},"officialDocument":"","resultCode":"0","success":true}
-Mar 26 07:33:47 助力结果:{"data":{"beans":0,"coins":30064771072000,"doneTimes":34,"ext":{"count":6,"urlType":"h5"},"status":2,"taskId":50,"taskRecordId":"582008729126322176","taskTitle":"邀请好友每天助力","taskTypeId":102},"officialDocument":"","resultCode":"0","success":true}
-Mar 26 07:33:47 助力结果:{"data":{"beans":0,"coins":30064771072000,"doneTimes":39,"ext":{"count":6,"urlType":"h5"},"status":3,"taskId":50,"taskRecordId":"581996113379463168","taskTitle":"邀请好友每天助力","taskTypeId":102},"officialDocument":"","resultCode":"0","success":true}
-Mar 26 07:33:48 助力结果:{"data":{"beans":0,"coins":30064771072000,"doneTimes":28,"ext":{"count":6,"urlType":"h5"},"status":2,"taskId":50,"taskRecordId":"581998944234192896","taskTitle":"邀请好友每天助力","taskTypeId":102},"officialDocument":"","resultCode":"0","success":true}
-Mar 26 07:33:49 助力结果:{"data":{"beans":0,"coins":30064771072000,"doneTimes":23,"ext":{"count":6,"urlType":"h5"},"status":2,"taskId":50,"taskRecordId":"582010419802288128","taskTitle":"邀请好友每天助力","taskTypeId":102},"officialDocument":"","resultCode":"0","success":true}
-Mar 26 07:33:49 助力结果:{"data":{"beans":0,"coins":30064771072000,"doneTimes":6,"ext":{"count":6,"urlType":"h5"},"status":2,"taskId":50,"taskRecordId":"582078936845004800","taskTitle":"邀请好友每天助力","taskTypeId":102},"officialDocument":"","resultCode":"0","success":true}
-Mar 26 07:33:50 助力结果:{"data":{"beans":0,"coins":30064771072000,"doneTimes":41,"ext":{"count":6,"urlType":"h5"},"status":3,"taskId":50,"taskRecordId":"582003217055870976","taskTitle":"邀请好友每天助力","taskTypeId":102},"officialDocument":"","resultCode":"0","success":true}
-Mar 26 07:33:50 
-Mar 26 07:33:50 开始【京东账号1】burst3166
-Mar 26 07:33:50 
-Mar 26 07:33:50 
-Mar 26 07:33:50 🔔crazyJoy任务, 结束! 🕛 216.751 秒
-Mar 26 07:33:50 
-Mar 26 07:33:50 
-Mar 26 07:33:50 🔔crazyJoy任务, 结束! 🕛 216.853 秒
-Mar 26 07:33:50 
+Mar 31 07:30:09 
+Mar 31 07:30:09 🔔crazyJoy任务, 开始!
+Mar 31 07:30:09 
+Mar 31 07:30:09 ====================共1个京东账号Cookie=========
+Mar 31 07:30:09 
+Mar 31 07:30:09 ==================脚本执行- 北京时间(UTC+8)：3/31/2021, 7:30:09 AM=====================
+Mar 31 07:30:09 
+Mar 31 07:30:09 开始获取crazyJoy任务配置文件
+Mar 31 07:30:09 
+Mar 31 07:30:09 共1个京东账号
+Mar 31 07:30:09 
+Mar 31 07:30:09 您提供了1个账号的crazyJoy任务助力码
+Mar 31 07:30:09 
+Mar 31 07:30:10 
+Mar 31 07:30:10 开始【京东账号1】burst3166
+Mar 31 07:30:10 
+Mar 31 07:30:10 开始
+Mar 31 07:30:20 第1个京东账号将要助力的好友["Fq9psXI56q0uIFJxO7F_Iw==","ylwZoJ2uwgfXCPm39fmiUqt9zd5YaBeE","vV6G01FNHcgqa4l36VySJat9zd5YaBeE","VNeb_5r6tM0v9VRwHC7ugQ==","0r4G4ajwm0s=atdoA4uR-f6_GGamMGRUbQ==","8di6MT8e_pY=","aNJoiL85sWVQOsQVJvIaDg==","m2B1zWyRZT3GK4o1yCsXmg=="]
+Mar 31 07:30:20 
+Mar 31 07:30:20 【京东账号1（burst3166）的crazyJoy任务好友互助码】m2B1zWyRZT3GK4o1yCsXmg==
+Mar 31 07:30:20 今天已签到
+Mar 31 07:30:21 助力结果:{"data":{"beans":0,"coins":30064771072000,"doneTimes":2,"ext":{"count":6,"urlType":"h5"},"status":0,"taskId":50,"taskRecordId":"583920182334861312","taskTitle":"邀请好友每天助力","taskTypeId":102},"officialDocument":"","resultCode":"0","success":true}
+Mar 31 07:30:23 助力结果:{"data":{"beans":0,"coins":30064771072000,"doneTimes":1,"ext":{"count":6,"urlType":"h5"},"status":0,"taskId":50,"taskRecordId":"583920191004471296","taskTitle":"邀请好友每天助力","taskTypeId":102},"officialDocument":"","resultCode":"0","success":true}
+Mar 31 07:30:24 助力结果:{"data":{"beans":0,"coins":30064771072000,"doneTimes":5,"ext":{"count":6,"urlType":"h5"},"status":0,"taskId":50,"taskRecordId":"583920161750065152","taskTitle":"邀请好友每天助力","taskTypeId":102},"officialDocument":"","resultCode":"0","success":true}
+Mar 31 07:30:26 助力结果:{"data":{"beans":0,"coins":30064771072000,"doneTimes":5,"ext":{"count":6,"urlType":"h5"},"status":0,"taskId":50,"taskRecordId":"583920171794571264","taskTitle":"邀请好友每天助力","taskTypeId":102},"officialDocument":"","resultCode":"0","success":true}
+Mar 31 07:30:26 助力异常:{"message":"数据异常","officialDocument":"","resultCode":"1000002","resultTips":"系统繁忙，稍后再试!","success":false}
+Mar 31 07:30:28 助力结果:{"data":{"beans":0,"coins":30064771072000,"doneTimes":6,"ext":{"count":6,"urlType":"h5"},"status":2,"taskId":50,"taskRecordId":"583920180655296512","taskTitle":"邀请好友每天助力","taskTypeId":102},"officialDocument":"","resultCode":"0","success":true}
+Mar 31 07:30:30 助力结果:{"data":{"beans":0,"coins":30064771072000,"doneTimes":5,"ext":{"count":6,"urlType":"h5"},"status":0,"taskId":50,"taskRecordId":"583920191040270336","taskTitle":"邀请好友每天助力","taskTypeId":102},"officialDocument":"","resultCode":"0","success":true}
+Mar 31 07:30:30 今天您已助力过了，明天再来吧
+Mar 31 07:30:31 今天您已助力过了，明天再来吧
+Mar 31 07:30:32 任务【邀请好友每天助力】领奖成功，任务奖励：0京豆，30064771072000金币
+Mar 31 07:30:32 
+Mar 31 07:30:32 ==============📣系统通知📣==============
+Mar 31 07:30:32 crazyJoy任务
+Mar 31 07:30:32 京东账号1 burst3166
+Mar 31 07:30:32 IS_FREEDOM：34级JOY
+Mar 31 07:30:32 邀请好友每天助力：6/6
+Mar 31 07:30:32 五福汪:快乐JOY(33只) 好物JOY(106只) 多多JOY(106只) 省钱JOY(114只) 
+Mar 31 07:30:32 当前信息：839京豆，0金币
+Mar 31 07:30:32 开始循环助力
+Mar 31 07:30:32 
+Mar 31 07:30:32 开始【京东账号1】burst3166
+Mar 31 07:30:32 
+Mar 31 07:30:32 开始
+Mar 31 07:30:40 "Client network socket disconnected before secure TLS connection was established"
+Mar 31 07:30:40 crazyJoy任务 API请求失败，请检查网路重试
+Mar 31 07:30:42 第1个京东账号将要助力的好友["Fq9psXI56q0uIFJxO7F_Iw==","ylwZoJ2uwgfXCPm39fmiUqt9zd5YaBeE","vV6G01FNHcgqa4l36VySJat9zd5YaBeE","VNeb_5r6tM0v9VRwHC7ugQ==","0r4G4ajwm0s=atdoA4uR-f6_GGamMGRUbQ==","8di6MT8e_pY=","aNJoiL85sWVQOsQVJvIaDg==","m2B1zWyRZT3GK4o1yCsXmg=="]
+Mar 31 07:30:42 今天您已助力过了，明天再来吧
+Mar 31 07:30:43 今天您已助力过了，明天再来吧
+Mar 31 07:30:43 今天您已助力过了，明天再来吧
+Mar 31 07:30:44 今天您已助力过了，明天再来吧
+Mar 31 07:30:44 助力异常:{"message":"数据异常","officialDocument":"","resultCode":"1000002","resultTips":"系统繁忙，稍后再试!","success":false}
+Mar 31 07:30:45 今天您已助力过了，明天再来吧
+Mar 31 07:30:45 今天您已助力过了，明天再来吧
+Mar 31 07:30:46 今天您已助力过了，明天再来吧
+Mar 31 07:30:47 今天您已助力过了，明天再来吧
+Mar 31 07:30:47 
+Mar 31 07:30:47 开始【京东账号1】burst3166
+Mar 31 07:30:47 
+Mar 31 07:30:47 
+Mar 31 07:30:47 🔔crazyJoy任务, 结束! 🕛 37.977 秒
+Mar 31 07:30:47 
+Mar 31 07:30:47 
+Mar 31 07:30:47 🔔crazyJoy任务, 结束! 🕛 38.087 秒
+Mar 31 07:30:47 
+Mar 31 07:30:55 随机取10个码放到您固定的互助码后面(不影响已有固定互助)

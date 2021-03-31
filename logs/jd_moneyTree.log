@@ -1,932 +1,318 @@
-Mar 25 00:23:26 
-Mar 25 00:23:26 🔔京东摇钱树, 开始!
-Mar 25 00:23:26 
-Mar 25 00:23:26 ====================共1个京东账号Cookie=========
-Mar 25 00:23:26 
-Mar 25 00:23:26 ==================脚本执行- 北京时间(UTC+8)：3/25/2021, 12:23:26 AM=====================
-Mar 25 00:23:26 
-Mar 25 00:23:27 
-Mar 25 00:23:27 开始【京东账号1】burst3166
-Mar 25 00:23:27 
-Mar 25 00:23:27 初始化摇钱树个人信息
-Mar 25 00:23:27 resultCode为0
-Mar 25 00:23:28 每日签到条件查询:可以签到
-Mar 25 00:23:28 准备每日签到
-Mar 25 00:23:29 第6日签到结果:{"resultCode":0,"resultMsg":"操作成功","resultData":{"msg":"成功","code":"200","data":{"result":true}},"channelEncrypt":0}
-Mar 25 00:23:29 开始做任务userInfo了
-Mar 25 00:23:29 
-Mar 25 00:23:30 canTask::[{"workStatus":-1,"workContent":"每天来签到","prizeType":2,"mid":0,"workName":"每日签到","prizeAmount":200,"workType":1},{"workStatus":0,"workContent":"每天分享一下","prizeType":2,"mid":0,"workName":"每日分享","prizeAmount":500,"workType":2},{"workStatus":0,"workContent":"每天分享新用户来玩5次","prizeType":2,"mid":0,"workName":"每日分享新用户","prizeAmount":30000,"workType":3}]
-Mar 25 00:23:30 
-Mar 25 00:23:30 浏览任务列表taskInfo::[{"workStatus":0,"prizeType":0,"mapValues":[],"workLabel":"去完成","mid":666,"prizeAmount":1000,"workType":7},{"workStatus":0,"prizeType":0,"mapValues":[],"workLabel":"去完成","mid":667,"prizeAmount":1000,"workType":7}]
-Mar 25 00:23:30 
-Mar 25 00:23:30 三餐签到任务不在时间范围内
-Mar 25 00:23:30 开始做分享任务
-Mar 25 00:23:30 
-Mar 25 00:23:31 开始分享的动作:{"resultCode":0,"resultMsg":"操作成功","resultData":{"msg":"成功","code":"200","data":{"opMsg":"操作成功","nextStatus":1,"opResult":0}},"channelEncrypt":0}
-Mar 25 00:23:31 开始做领取分享后的奖励
-Mar 25 00:23:31 
-Mar 25 00:23:32 领取分享后的奖励:{"resultCode":0,"resultMsg":"操作成功","resultData":{"msg":"成功","code":"200","data":{"opMsg":"操作成功","opResult":0,"prizeAmount":500}},"channelEncrypt":0}
-Mar 25 00:23:32 开始做浏览任务
-Mar 25 00:23:33 missionId为666：：第1次浏览活动完成: {"resultCode":0,"resultMsg":"操作成功","resultData":{"msg":"成功","code":"200"},"channelEncrypt":0}
-Mar 25 00:23:34 missionId为666：：第2次浏览活动完成: {"resultCode":0,"resultMsg":"操作成功","resultData":{"msg":"成功","code":"200"},"channelEncrypt":0}
-Mar 25 00:23:36 missionId为666：：第3次浏览活动完成: {"resultCode":0,"resultMsg":"操作成功","resultData":{"msg":"成功","code":"200"},"channelEncrypt":0}
-Mar 25 00:23:37 missionId为666：：第4次浏览活动完成: {"resultCode":0,"resultMsg":"操作成功","resultData":{"msg":"成功","code":"200"},"channelEncrypt":0}
-Mar 25 00:23:38 missionId为666：：第5次浏览活动完成: {"resultCode":0,"resultMsg":"操作成功","resultData":{"msg":"成功","code":"200"},"channelEncrypt":0}
-Mar 25 00:23:39 missionId为666：：第6次浏览活动完成: {"resultCode":0,"resultMsg":"操作成功","resultData":{"msg":"成功","code":"200"},"channelEncrypt":0}
-Mar 25 00:23:40 missionId为666：：第7次浏览活动完成: {"resultCode":0,"resultMsg":"操作成功","resultData":{"msg":"成功","code":"200"},"channelEncrypt":0}
-Mar 25 00:23:40 浏览店铺任务结束
-Mar 25 00:23:40 开始领取浏览后的奖励
-Mar 25 00:23:41 领取浏览任务奖励成功：{"resultCode":0,"resultMsg":"操作成功","resultData":{"msg":"成功","code":"200","data":{"opMsg":"领取成功","opResult":0,"prizeAmount":1000,"nextStatus":2}},"channelEncrypt":0}
-Mar 25 00:23:41 aaa{"resultCode":0,"resultMsg":"操作成功","resultData":{"msg":"成功","code":"200","data":{"opMsg":"领取成功","opResult":0,"prizeAmount":1000,"nextStatus":2}},"channelEncrypt":0}
-Mar 25 00:23:41 开始做浏览任务
-Mar 25 00:23:42 missionId为667：：第1次浏览活动完成: {"resultCode":0,"resultMsg":"操作成功","resultData":{"msg":"成功","code":"200"},"channelEncrypt":0}
-Mar 25 00:23:43 missionId为667：：第2次浏览活动完成: {"resultCode":0,"resultMsg":"操作成功","resultData":{"msg":"成功","code":"200"},"channelEncrypt":0}
-Mar 25 00:23:44 missionId为667：：第3次浏览活动完成: {"resultCode":0,"resultMsg":"操作成功","resultData":{"msg":"成功","code":"200"},"channelEncrypt":0}
-Mar 25 00:23:45 missionId为667：：第4次浏览活动完成: {"resultCode":0,"resultMsg":"操作成功","resultData":{"msg":"成功","code":"200"},"channelEncrypt":0}
-Mar 25 00:23:46 missionId为667：：第5次浏览活动完成: {"resultCode":0,"resultMsg":"操作成功","resultData":{"msg":"成功","code":"200"},"channelEncrypt":0}
-Mar 25 00:23:47 missionId为667：：第6次浏览活动完成: {"resultCode":0,"resultMsg":"操作成功","resultData":{"msg":"成功","code":"200"},"channelEncrypt":0}
-Mar 25 00:23:48 missionId为667：：第7次浏览活动完成: {"resultCode":0,"resultMsg":"操作成功","resultData":{"msg":"成功","code":"200"},"channelEncrypt":0}
-Mar 25 00:23:48 浏览店铺任务结束
-Mar 25 00:23:48 开始领取浏览后的奖励
-Mar 25 00:23:49 领取浏览任务奖励成功：{"resultCode":0,"resultMsg":"操作成功","resultData":{"msg":"成功","code":"200","data":{"opMsg":"领取成功","opResult":0,"prizeAmount":1000,"nextStatus":2}},"channelEncrypt":0}
-Mar 25 00:23:49 aaa{"resultCode":0,"resultMsg":"操作成功","resultData":{"msg":"成功","code":"200","data":{"opMsg":"领取成功","opResult":0,"prizeAmount":1000,"nextStatus":2}},"channelEncrypt":0}
-Mar 25 00:23:49 收获的操作:{"userInfo":"A6A2FE63295A1E28E9C7336B9E7C6072","firstLogin":false,"nick":"IS_FREEDOM","linkMissionIds":["666","667"],"showTips":false,"sharePin":"aAO7Pedza8l_W0Zj_DRiNA","cashType":1,"isFirstLogin":false,"pushStatus":0,"workerList":[],"avatar":"https://storage.360buyimg.com/i.imageUpload/62757273743331363631343235393737363737353836_big.jpg","showUpgradeInfo":false,"stole":0,"userToken":"3DAA54F196811E3AC23436389720D33C","realName":true,"stop":1,"treeInfo":{"upgradeDemand":200000,"treeName":"15级阳光小树","progressLeft":"15.5%","level":15,"fruit":715618,"fruitHarvest":168947,"fruitOnTree":18000,"workerSum":4,"coin":0,"capacity":18000},"prodtabs":[{"tab":1,"content":"1-12级兑换区"},{"tab":2,"content":"12级以上"},{"tab":3,"content":"节日专享"},{"tab":4,"content":"精选好券"}],"newVersion":false}
-Mar 25 00:23:49 
-Mar 25 00:23:50 收获金果异常:{"resultCode":0,"resultMsg":"操作成功","resultData":{"msg":"无操作权限","code":"403"},"channelEncrypt":0}
-Mar 25 00:23:50 目前金果数量0
-Mar 25 00:23:50 
-Mar 25 00:23:50 设置的不卖出金果
-Mar 25 00:23:50 
-Mar 25 00:23:51 金币数量和金果：：{"resultCode":0,"resultMsg":"操作成功","resultData":{"msg":"成功","code":"200","data":{"gcAmount":2824,"gaAmount":719318,"canGoldcoin":1441}},"channelEncrypt":0}
-Mar 25 00:23:52 今日已偷过好友的金果了，暂无好友可偷，请明天再来
-Mar 25 00:23:52 
-Mar 25 00:23:52 
-Mar 25 00:23:52 【我的金果数量】719318
-Mar 25 00:23:52 【我的金币数量】2824
-Mar 25 00:23:52 
-Mar 25 00:23:52 
-Mar 25 00:23:52 
-Mar 25 00:23:52 🔔京东摇钱树, 结束! 🕛 26.273 秒
-Mar 25 00:23:52 
-Mar 25 02:23:19 
-Mar 25 02:23:19 🔔京东摇钱树, 开始!
-Mar 25 02:23:19 
-Mar 25 02:23:19 ====================共1个京东账号Cookie=========
-Mar 25 02:23:19 
-Mar 25 02:23:19 ==================脚本执行- 北京时间(UTC+8)：3/25/2021, 2:23:19 AM=====================
-Mar 25 02:23:19 
-Mar 25 02:23:20 
-Mar 25 02:23:20 开始【京东账号1】burst3166
-Mar 25 02:23:20 
-Mar 25 02:23:20 初始化摇钱树个人信息
-Mar 25 02:23:20 resultCode为0
-Mar 25 02:23:21 每日签到条件查询:已经签到过了
-Mar 25 02:23:21 开始做任务userInfo了
-Mar 25 02:23:21 
-Mar 25 02:23:22 canTask::[{"workStatus":-1,"workContent":"每天来签到","prizeType":2,"mid":0,"workName":"每日签到","prizeAmount":200,"workType":1},{"workStatus":2,"workContent":"每天分享一下","prizeType":2,"mid":0,"workName":"每日分享","prizeAmount":500,"workType":2},{"workStatus":0,"workContent":"每天分享新用户来玩5次","prizeType":2,"mid":0,"workName":"每日分享新用户","prizeAmount":30000,"workType":3}]
-Mar 25 02:23:22 
-Mar 25 02:23:22 浏览任务列表taskInfo::[{"workStatus":2,"mapValues":[1,1,1,1,1,1,1],"prizeType":0,"workLabel":"已完成","mid":666,"prizeAmount":1000,"workType":7},{"workStatus":2,"mapValues":[1,1,1,1,1,1,1],"prizeType":0,"workLabel":"已完成","mid":667,"prizeAmount":1000,"workType":7}]
-Mar 25 02:23:22 
-Mar 25 02:23:22 三餐签到任务不在时间范围内
-Mar 25 02:23:22 分享任务已经做过
-Mar 25 02:23:22 所有的浏览任务都做完了
-Mar 25 02:23:22 所有的浏览任务都做完了
-Mar 25 02:23:22 收获的操作:{"userInfo":"C187686D5AC9E42D6BFED0FE29703639","firstLogin":false,"nick":"IS_FREEDOM","linkMissionIds":["666","667"],"showTips":false,"sharePin":"aAO7Pedza8l_W0Zj_DRiNA","cashType":1,"isFirstLogin":false,"pushStatus":0,"workerList":[],"avatar":"https://storage.360buyimg.com/i.imageUpload/62757273743331363631343235393737363737353836_big.jpg","showUpgradeInfo":false,"stole":0,"userToken":"3F436A409C0D7ED6C30163FA41B80752","realName":true,"stop":1,"treeInfo":{"upgradeDemand":200000,"progressLeft":"15.5%","treeName":"15级阳光小树","level":15,"fruit":719318,"fruitHarvest":168947,"fruitOnTree":18000,"workerSum":4,"coin":0,"capacity":18000},"prodtabs":[{"tab":1,"content":"1-12级兑换区"},{"tab":2,"content":"12级以上"},{"tab":3,"content":"节日专享"},{"tab":4,"content":"精选好券"}],"newVersion":false}
-Mar 25 02:23:22 
-Mar 25 02:23:23 收获金果异常:{"resultCode":0,"resultMsg":"操作成功","resultData":{"msg":"无操作权限","code":"403"},"channelEncrypt":0}
-Mar 25 02:23:23 目前金果数量0
-Mar 25 02:23:23 
-Mar 25 02:23:23 设置的不卖出金果
-Mar 25 02:23:23 
-Mar 25 02:23:24 金币数量和金果：：{"resultCode":0,"resultMsg":"操作成功","resultData":{"msg":"成功","code":"200","data":{"gcAmount":2836,"gaAmount":719318,"canGoldcoin":1441}},"channelEncrypt":0}
-Mar 25 02:23:25 今日已偷过好友的金果了，暂无好友可偷，请明天再来
-Mar 25 02:23:25 
-Mar 25 02:23:25 
-Mar 25 02:23:25 【我的金果数量】719318
-Mar 25 02:23:25 【我的金币数量】2836
-Mar 25 02:23:25 
-Mar 25 02:23:25 
-Mar 25 02:23:25 
-Mar 25 02:23:25 🔔京东摇钱树, 结束! 🕛 6.093 秒
-Mar 25 02:23:25 
-Mar 25 04:23:22 
-Mar 25 04:23:22 🔔京东摇钱树, 开始!
-Mar 25 04:23:22 
-Mar 25 04:23:22 ====================共1个京东账号Cookie=========
-Mar 25 04:23:22 
-Mar 25 04:23:22 ==================脚本执行- 北京时间(UTC+8)：3/25/2021, 4:23:22 AM=====================
-Mar 25 04:23:23 
-Mar 25 04:23:23 
-Mar 25 04:23:24 开始【京东账号1】burst3166
-Mar 25 04:23:24 
-Mar 25 04:23:24 初始化摇钱树个人信息
-Mar 25 04:23:24 resultCode为0
-Mar 25 04:23:25 每日签到条件查询:已经签到过了
-Mar 25 04:23:25 开始做任务userInfo了
-Mar 25 04:23:25 
-Mar 25 04:23:26 canTask::[{"workStatus":-1,"workContent":"每天来签到","prizeType":2,"mid":0,"workName":"每日签到","prizeAmount":200,"workType":1},{"workStatus":2,"workContent":"每天分享一下","prizeType":2,"mid":0,"workName":"每日分享","prizeAmount":500,"workType":2},{"workStatus":0,"workContent":"每天分享新用户来玩5次","prizeType":2,"mid":0,"workName":"每日分享新用户","prizeAmount":30000,"workType":3}]
-Mar 25 04:23:26 
-Mar 25 04:23:26 浏览任务列表taskInfo::[{"workStatus":2,"prizeType":0,"mapValues":[1,1,1,1,1,1,1],"workLabel":"已完成","mid":666,"prizeAmount":1000,"workType":7},{"workStatus":2,"prizeType":0,"mapValues":[1,1,1,1,1,1,1],"workLabel":"已完成","mid":667,"prizeAmount":1000,"workType":7}]
-Mar 25 04:23:26 
-Mar 25 04:23:26 三餐签到任务不在时间范围内
-Mar 25 04:23:26 分享任务已经做过
-Mar 25 04:23:26 所有的浏览任务都做完了
-Mar 25 04:23:26 所有的浏览任务都做完了
-Mar 25 04:23:26 收获的操作:{"userInfo":"89B4F639082B89D0B2ED33F91D2B2B55","firstLogin":false,"nick":"IS_FREEDOM","linkMissionIds":["666","667"],"showTips":false,"sharePin":"aAO7Pedza8l_W0Zj_DRiNA","cashType":1,"isFirstLogin":false,"pushStatus":0,"workerList":[],"avatar":"https://storage.360buyimg.com/i.imageUpload/62757273743331363631343235393737363737353836_big.jpg","showUpgradeInfo":false,"stole":0,"userToken":"FEB986EDC21E6DFC8D5FE64715B6D4B6","realName":true,"stop":1,"treeInfo":{"upgradeDemand":200000,"progressLeft":"15.5%","treeName":"15级阳光小树","level":15,"fruit":719318,"fruitHarvest":168947,"fruitOnTree":18000,"workerSum":4,"coin":0,"capacity":18000},"prodtabs":[{"tab":1,"content":"1-12级兑换区"},{"tab":2,"content":"12级以上"},{"tab":3,"content":"节日专享"},{"tab":4,"content":"精选好券"}],"newVersion":false}
-Mar 25 04:23:26 
-Mar 25 04:23:27 收获金果异常:{"resultCode":0,"resultMsg":"操作成功","resultData":{"msg":"无操作权限","code":"403"},"channelEncrypt":0}
-Mar 25 04:23:27 目前金果数量0
-Mar 25 04:23:27 
-Mar 25 04:23:27 设置的不卖出金果
-Mar 25 04:23:27 
-Mar 25 04:23:28 金币数量和金果：：{"resultCode":0,"resultMsg":"操作成功","resultData":{"msg":"成功","code":"200","data":{"gcAmount":2848,"gaAmount":719318,"canGoldcoin":1441}},"channelEncrypt":0}
-Mar 25 04:23:29 今日已偷过好友的金果了，暂无好友可偷，请明天再来
-Mar 25 04:23:29 
-Mar 25 04:23:29 
-Mar 25 04:23:29 【我的金果数量】719318
-Mar 25 04:23:29 【我的金币数量】2848
-Mar 25 04:23:29 
-Mar 25 04:23:29 
-Mar 25 04:23:29 
-Mar 25 04:23:29 🔔京东摇钱树, 结束! 🕛 6.726 秒
-Mar 25 04:23:29 
-Mar 25 06:23:29 
-Mar 25 06:23:29 🔔京东摇钱树, 开始!
-Mar 25 06:23:29 
-Mar 25 06:23:29 ====================共1个京东账号Cookie=========
-Mar 25 06:23:29 
-Mar 25 06:23:29 ==================脚本执行- 北京时间(UTC+8)：3/25/2021, 6:23:29 AM=====================
-Mar 25 06:23:29 
-Mar 25 06:23:30 
-Mar 25 06:23:30 开始【京东账号1】burst3166
-Mar 25 06:23:30 
-Mar 25 06:23:30 初始化摇钱树个人信息
-Mar 25 06:23:30 resultCode为0
-Mar 25 06:23:31 每日签到条件查询:已经签到过了
-Mar 25 06:23:31 开始做任务userInfo了
-Mar 25 06:23:31 
-Mar 25 06:23:32 canTask::[{"workStatus":-1,"workContent":"每天来签到","prizeType":2,"mid":0,"workName":"每日签到","prizeAmount":200,"workType":1},{"workStatus":2,"workContent":"每天分享一下","prizeType":2,"mid":0,"workName":"每日分享","prizeAmount":500,"workType":2},{"workStatus":0,"workContent":"每天分享新用户来玩5次","prizeType":2,"mid":0,"workName":"每日分享新用户","prizeAmount":30000,"workType":3}]
-Mar 25 06:23:32 
-Mar 25 06:23:32 浏览任务列表taskInfo::[{"workStatus":2,"prizeType":0,"mapValues":[1,1,1,1,1,1,1],"workLabel":"已完成","mid":666,"prizeAmount":1000,"workType":7},{"workStatus":2,"prizeType":0,"mapValues":[1,1,1,1,1,1,1],"workLabel":"已完成","mid":667,"prizeAmount":1000,"workType":7}]
-Mar 25 06:23:32 
-Mar 25 06:23:32 三餐签到任务不在时间范围内
-Mar 25 06:23:32 分享任务已经做过
-Mar 25 06:23:32 所有的浏览任务都做完了
-Mar 25 06:23:32 所有的浏览任务都做完了
-Mar 25 06:23:32 收获的操作:{"userInfo":"FF6C57CAA66917FABCA43D2780C9D901","firstLogin":false,"nick":"IS_FREEDOM","linkMissionIds":["666","667"],"showTips":false,"sharePin":"aAO7Pedza8l_W0Zj_DRiNA","cashType":1,"isFirstLogin":false,"pushStatus":0,"workerList":[],"avatar":"https://storage.360buyimg.com/i.imageUpload/62757273743331363631343235393737363737353836_big.jpg","showUpgradeInfo":false,"stole":0,"userToken":"3E748D26420999C40048F7C6D57E51C3","realName":true,"stop":1,"treeInfo":{"upgradeDemand":200000,"progressLeft":"15.5%","treeName":"15级阳光小树","level":15,"fruit":719318,"fruitHarvest":168947,"fruitOnTree":18000,"workerSum":4,"coin":0,"capacity":18000},"prodtabs":[{"tab":1,"content":"1-12级兑换区"},{"tab":2,"content":"12级以上"},{"tab":3,"content":"节日专享"},{"tab":4,"content":"精选好券"}],"newVersion":false}
-Mar 25 06:23:32 
-Mar 25 06:23:33 收获金果异常:{"resultCode":0,"resultMsg":"操作成功","resultData":{"msg":"无操作权限","code":"403"},"channelEncrypt":0}
-Mar 25 06:23:33 目前金果数量0
-Mar 25 06:23:33 
-Mar 25 06:23:33 设置的不卖出金果
-Mar 25 06:23:33 
-Mar 25 06:23:34 金币数量和金果：：{"resultCode":0,"resultMsg":"操作成功","resultData":{"msg":"成功","code":"200","data":{"gcAmount":2860,"gaAmount":719318,"canGoldcoin":1441}},"channelEncrypt":0}
-Mar 25 06:23:35 今日已偷过好友的金果了，暂无好友可偷，请明天再来
-Mar 25 06:23:35 
-Mar 25 06:23:35 
-Mar 25 06:23:35 【我的金果数量】719318
-Mar 25 06:23:35 【我的金币数量】2860
-Mar 25 06:23:35 
-Mar 25 06:23:35 
-Mar 25 06:23:35 
-Mar 25 06:23:35 🔔京东摇钱树, 结束! 🕛 6.186 秒
-Mar 25 06:23:35 
-Mar 25 08:23:14 
-Mar 25 08:23:14 🔔京东摇钱树, 开始!
-Mar 25 08:23:14 
-Mar 25 08:23:14 ====================共1个京东账号Cookie=========
-Mar 25 08:23:14 
-Mar 25 08:23:14 ==================脚本执行- 北京时间(UTC+8)：3/25/2021, 8:23:14 AM=====================
-Mar 25 08:23:14 
-Mar 25 08:23:15 
-Mar 25 08:23:15 开始【京东账号1】burst3166
-Mar 25 08:23:15 
-Mar 25 08:23:15 初始化摇钱树个人信息
-Mar 25 08:23:15 resultCode为0
-Mar 25 08:23:16 每日签到条件查询:已经签到过了
-Mar 25 08:23:16 开始做任务userInfo了
-Mar 25 08:23:16 
-Mar 25 08:23:17 canTask::[{"workStatus":0,"workContent":"每天来签到","prizeType":2,"mid":0,"workName":"每日签到","prizeAmount":200,"workType":1},{"workStatus":2,"workContent":"每天分享一下","prizeType":2,"mid":0,"workName":"每日分享","prizeAmount":500,"workType":2},{"workStatus":0,"workContent":"每天分享新用户来玩5次","prizeType":2,"mid":0,"workName":"每日分享新用户","prizeAmount":30000,"workType":3}]
-Mar 25 08:23:17 
-Mar 25 08:23:17 浏览任务列表taskInfo::[{"workStatus":2,"prizeType":0,"mapValues":[1,1,1,1,1,1,1],"workLabel":"已完成","mid":666,"prizeAmount":1000,"workType":7},{"workStatus":2,"prizeType":0,"mapValues":[1,1,1,1,1,1,1],"workLabel":"已完成","mid":667,"prizeAmount":1000,"workType":7}]
-Mar 25 08:23:17 
-Mar 25 08:23:17 开始三餐签到
-Mar 25 08:23:18 三餐签到结果:{"resultCode":0,"resultMsg":"操作成功","resultData":{"msg":"成功","code":"200","data":{"opMsg":"操作成功","opResult":0,"prizeAmount":200}},"channelEncrypt":0}
-Mar 25 08:23:18 分享任务已经做过
-Mar 25 08:23:18 所有的浏览任务都做完了
-Mar 25 08:23:18 所有的浏览任务都做完了
-Mar 25 08:23:18 收获的操作:{"userInfo":"104B494FE2A84E1C39EDEEB44A19B177","firstLogin":false,"nick":"IS_FREEDOM","linkMissionIds":["666","667"],"showTips":false,"sharePin":"aAO7Pedza8l_W0Zj_DRiNA","cashType":1,"isFirstLogin":false,"pushStatus":0,"workerList":[],"avatar":"https://storage.360buyimg.com/i.imageUpload/62757273743331363631343235393737363737353836_big.jpg","showUpgradeInfo":false,"stole":0,"userToken":"024003E690E29A64CF2F5158A31D90A6","realName":true,"stop":1,"treeInfo":{"upgradeDemand":200000,"treeName":"15级阳光小树","progressLeft":"15.5%","level":15,"fruit":719318,"fruitHarvest":168947,"fruitOnTree":18000,"workerSum":4,"coin":0,"capacity":18000},"prodtabs":[{"tab":1,"content":"1-12级兑换区"},{"tab":2,"content":"12级以上"},{"tab":3,"content":"节日专享"},{"tab":4,"content":"精选好券"}],"newVersion":false}
-Mar 25 08:23:18 
-Mar 25 08:23:19 收获金果异常:{"resultCode":0,"resultMsg":"操作成功","resultData":{"msg":"无操作权限","code":"403"},"channelEncrypt":0}
-Mar 25 08:23:19 目前金果数量0
-Mar 25 08:23:19 
-Mar 25 08:23:19 设置的不卖出金果
-Mar 25 08:23:19 
-Mar 25 08:23:20 金币数量和金果：：{"resultCode":0,"resultMsg":"操作成功","resultData":{"msg":"成功","code":"200","data":{"gcAmount":2872,"gaAmount":719518,"canGoldcoin":1441}},"channelEncrypt":0}
-Mar 25 08:23:21 今日已偷过好友的金果了，暂无好友可偷，请明天再来
-Mar 25 08:23:21 
-Mar 25 08:23:21 
-Mar 25 08:23:21 【我的金果数量】719518
-Mar 25 08:23:21 【我的金币数量】2872
-Mar 25 08:23:21 
-Mar 25 08:23:21 
-Mar 25 08:23:21 
-Mar 25 08:23:21 🔔京东摇钱树, 结束! 🕛 7.219 秒
-Mar 25 08:23:21 
-Mar 25 10:23:11 
-Mar 25 10:23:11 🔔京东摇钱树, 开始!
-Mar 25 10:23:11 
-Mar 25 10:23:11 ====================共1个京东账号Cookie=========
-Mar 25 10:23:11 
-Mar 25 10:23:11 ==================脚本执行- 北京时间(UTC+8)：3/25/2021, 10:23:11 AM=====================
-Mar 25 10:23:11 
-Mar 25 10:23:12 
-Mar 25 10:23:12 开始【京东账号1】burst3166
-Mar 25 10:23:12 
-Mar 25 10:23:12 初始化摇钱树个人信息
-Mar 25 10:23:12 resultCode为0
-Mar 25 10:23:13 每日签到条件查询:已经签到过了
-Mar 25 10:23:13 开始做任务userInfo了
-Mar 25 10:23:13 
-Mar 25 10:23:15 canTask::[{"workStatus":-1,"workContent":"每天来签到","prizeType":2,"mid":0,"workName":"每日签到","prizeAmount":200,"workType":1},{"workStatus":2,"workContent":"每天分享一下","prizeType":2,"mid":0,"workName":"每日分享","prizeAmount":500,"workType":2},{"workStatus":0,"workContent":"每天分享新用户来玩5次","prizeType":2,"mid":0,"workName":"每日分享新用户","prizeAmount":30000,"workType":3}]
-Mar 25 10:23:15 
-Mar 25 10:23:15 浏览任务列表taskInfo::[{"workStatus":2,"prizeType":0,"mapValues":[1,1,1,1,1,1,1],"workLabel":"已完成","mid":666,"prizeAmount":1000,"workType":7},{"workStatus":2,"prizeType":0,"mapValues":[1,1,1,1,1,1,1],"workLabel":"已完成","mid":667,"prizeAmount":1000,"workType":7}]
-Mar 25 10:23:15 
-Mar 25 10:23:15 三餐签到任务不在时间范围内
-Mar 25 10:23:15 分享任务已经做过
-Mar 25 10:23:15 所有的浏览任务都做完了
-Mar 25 10:23:15 所有的浏览任务都做完了
-Mar 25 10:23:15 收获的操作:{"userInfo":"C1FDBDD70E1F0AA5752AA2F5C0ED0DF1","firstLogin":false,"nick":"IS_FREEDOM","linkMissionIds":["666","667"],"showTips":false,"sharePin":"aAO7Pedza8l_W0Zj_DRiNA","cashType":1,"isFirstLogin":false,"pushStatus":0,"workerList":[],"avatar":"https://storage.360buyimg.com/i.imageUpload/62757273743331363631343235393737363737353836_big.jpg","showUpgradeInfo":false,"stole":0,"userToken":"9565C689FD7BF3A59A7480F3CEFCA58F","realName":true,"stop":1,"treeInfo":{"upgradeDemand":200000,"treeName":"15级阳光小树","progressLeft":"15.5%","level":15,"fruit":719518,"fruitHarvest":168947,"fruitOnTree":18000,"workerSum":4,"coin":0,"capacity":18000},"prodtabs":[{"tab":1,"content":"1-12级兑换区"},{"tab":2,"content":"12级以上"},{"tab":3,"content":"节日专享"},{"tab":4,"content":"精选好券"}],"newVersion":false}
-Mar 25 10:23:15 
-Mar 25 10:23:16 收获金果异常:{"resultCode":0,"resultMsg":"操作成功","resultData":{"msg":"无操作权限","code":"403"},"channelEncrypt":0}
-Mar 25 10:23:16 目前金果数量0
-Mar 25 10:23:16 
-Mar 25 10:23:16 设置的不卖出金果
-Mar 25 10:23:16 
-Mar 25 10:23:17 金币数量和金果：：{"resultCode":0,"resultMsg":"操作成功","resultData":{"msg":"成功","code":"200","data":{"gcAmount":2875,"gaAmount":719518,"canGoldcoin":1441}},"channelEncrypt":0}
-Mar 25 10:23:18 今日已偷过好友的金果了，暂无好友可偷，请明天再来
-Mar 25 10:23:18 
-Mar 25 10:23:18 
-Mar 25 10:23:18 【我的金果数量】719518
-Mar 25 10:23:18 【我的金币数量】2875
-Mar 25 10:23:18 
-Mar 25 10:23:18 
-Mar 25 10:23:18 
-Mar 25 10:23:18 🔔京东摇钱树, 结束! 🕛 6.933 秒
-Mar 25 10:23:18 
-Mar 25 12:23:01 
-Mar 25 12:23:01 🔔京东摇钱树, 开始!
-Mar 25 12:23:01 
-Mar 25 12:23:01 ====================共1个京东账号Cookie=========
-Mar 25 12:23:01 
-Mar 25 12:23:01 ==================脚本执行- 北京时间(UTC+8)：3/25/2021, 12:23:01 PM=====================
-Mar 25 12:23:01 
-Mar 25 12:23:01 
-Mar 25 12:23:01 开始【京东账号1】burst3166
-Mar 25 12:23:01 
-Mar 25 12:23:01 初始化摇钱树个人信息
-Mar 25 12:23:02 resultCode为0
-Mar 25 12:23:03 每日签到条件查询:已经签到过了
-Mar 25 12:23:03 开始做任务userInfo了
-Mar 25 12:23:03 
-Mar 25 12:23:04 canTask::[{"workStatus":0,"workContent":"每天来签到","prizeType":2,"mid":0,"workName":"每日签到","prizeAmount":200,"workType":1},{"workStatus":2,"workContent":"每天分享一下","prizeType":2,"mid":0,"workName":"每日分享","prizeAmount":500,"workType":2},{"workStatus":0,"workContent":"每天分享新用户来玩5次","prizeType":2,"mid":0,"workName":"每日分享新用户","prizeAmount":30000,"workType":3}]
-Mar 25 12:23:04 
-Mar 25 12:23:04 浏览任务列表taskInfo::[{"workStatus":2,"prizeType":0,"mapValues":[1,1,1,1,1,1,1],"workLabel":"已完成","mid":666,"prizeAmount":1000,"workType":7},{"workStatus":2,"prizeType":0,"mapValues":[1,1,1,1,1,1,1],"workLabel":"已完成","mid":667,"prizeAmount":1000,"workType":7}]
-Mar 25 12:23:04 
-Mar 25 12:23:04 开始三餐签到
-Mar 25 12:23:05 三餐签到结果:{"resultCode":0,"resultMsg":"操作成功","resultData":{"msg":"成功","code":"200","data":{"opMsg":"操作成功","opResult":0,"prizeAmount":200}},"channelEncrypt":0}
-Mar 25 12:23:05 分享任务已经做过
-Mar 25 12:23:05 所有的浏览任务都做完了
-Mar 25 12:23:05 所有的浏览任务都做完了
-Mar 25 12:23:05 收获的操作:{"userInfo":"404B71E93ECEF87038D19BB5980FD980","firstLogin":false,"nick":"IS_FREEDOM","linkMissionIds":["666","667"],"showTips":false,"sharePin":"aAO7Pedza8l_W0Zj_DRiNA","cashType":1,"isFirstLogin":false,"pushStatus":0,"workerList":[],"avatar":"https://storage.360buyimg.com/i.imageUpload/62757273743331363631343235393737363737353836_big.jpg","showUpgradeInfo":false,"stole":0,"userToken":"5F7BA866B91F28710C886575467DA868","realName":true,"stop":1,"treeInfo":{"upgradeDemand":200000,"treeName":"15级阳光小树","progressLeft":"15.5%","level":15,"fruit":719518,"fruitHarvest":168947,"fruitOnTree":18000,"workerSum":4,"coin":0,"capacity":18000},"prodtabs":[{"tab":1,"content":"1-12级兑换区"},{"tab":2,"content":"12级以上"},{"tab":3,"content":"节日专享"},{"tab":4,"content":"精选好券"}],"newVersion":false}
-Mar 25 12:23:05 
-Mar 25 12:23:06 收获金果异常:{"resultCode":0,"resultMsg":"操作成功","resultData":{"msg":"无操作权限","code":"403"},"channelEncrypt":0}
-Mar 25 12:23:06 目前金果数量0
-Mar 25 12:23:06 
-Mar 25 12:23:06 设置的不卖出金果
-Mar 25 12:23:06 
-Mar 25 12:23:07 金币数量和金果：：{"resultCode":0,"resultMsg":"操作成功","resultData":{"msg":"成功","code":"200","data":{"gcAmount":2879,"gaAmount":719718,"canGoldcoin":1442}},"channelEncrypt":0}
-Mar 25 12:23:08 今日已偷过好友的金果了，暂无好友可偷，请明天再来
-Mar 25 12:23:08 
-Mar 25 12:23:08 
-Mar 25 12:23:08 【我的金果数量】719718
-Mar 25 12:23:08 【我的金币数量】2879
-Mar 25 12:23:08 
-Mar 25 12:23:08 
-Mar 25 12:23:08 
-Mar 25 12:23:08 🔔京东摇钱树, 结束! 🕛 7.88 秒
-Mar 25 12:23:08 
-Mar 25 14:23:17 
-Mar 25 14:23:17 🔔京东摇钱树, 开始!
-Mar 25 14:23:17 
-Mar 25 14:23:17 ====================共1个京东账号Cookie=========
-Mar 25 14:23:17 
-Mar 25 14:23:17 ==================脚本执行- 北京时间(UTC+8)：3/25/2021, 2:23:17 PM=====================
-Mar 25 14:23:17 
-Mar 25 14:23:18 
-Mar 25 14:23:18 开始【京东账号1】burst3166
-Mar 25 14:23:18 
-Mar 25 14:23:18 初始化摇钱树个人信息
-Mar 25 14:23:18 resultCode为0
-Mar 25 14:23:19 每日签到条件查询:已经签到过了
-Mar 25 14:23:19 开始做任务userInfo了
-Mar 25 14:23:19 
-Mar 25 14:23:20 canTask::[{"workStatus":-1,"workContent":"每天来签到","prizeType":2,"mid":0,"workName":"每日签到","prizeAmount":200,"workType":1},{"workStatus":2,"workContent":"每天分享一下","prizeType":2,"mid":0,"workName":"每日分享","prizeAmount":500,"workType":2},{"workStatus":0,"workContent":"每天分享新用户来玩5次","prizeType":2,"mid":0,"workName":"每日分享新用户","prizeAmount":30000,"workType":3}]
-Mar 25 14:23:20 
-Mar 25 14:23:20 浏览任务列表taskInfo::[{"workStatus":2,"prizeType":0,"mapValues":[1,1,1,1,1,1,1],"workLabel":"已完成","mid":666,"prizeAmount":1000,"workType":7},{"workStatus":2,"prizeType":0,"mapValues":[1,1,1,1,1,1,1],"workLabel":"已完成","mid":667,"prizeAmount":1000,"workType":7}]
-Mar 25 14:23:20 
-Mar 25 14:23:20 三餐签到任务不在时间范围内
-Mar 25 14:23:20 分享任务已经做过
-Mar 25 14:23:20 所有的浏览任务都做完了
-Mar 25 14:23:20 所有的浏览任务都做完了
-Mar 25 14:23:20 收获的操作:{"userInfo":"17B14DF1C0438C01178BE2124C6CFAAD","firstLogin":false,"nick":"IS_FREEDOM","linkMissionIds":["666","667"],"showTips":false,"sharePin":"aAO7Pedza8l_W0Zj_DRiNA","cashType":1,"isFirstLogin":false,"pushStatus":0,"workerList":[],"avatar":"https://storage.360buyimg.com/i.imageUpload/62757273743331363631343235393737363737353836_big.jpg","showUpgradeInfo":false,"stole":0,"userToken":"1C2CDF4F09C0AE0970A6E39A9F7F8123","realName":true,"stop":1,"treeInfo":{"upgradeDemand":200000,"progressLeft":"15.5%","treeName":"15级阳光小树","level":15,"fruit":719718,"fruitHarvest":168947,"fruitOnTree":18000,"workerSum":4,"coin":0,"capacity":18000},"prodtabs":[{"tab":1,"content":"1-12级兑换区"},{"tab":2,"content":"12级以上"},{"tab":3,"content":"节日专享"},{"tab":4,"content":"精选好券"}],"newVersion":false}
-Mar 25 14:23:20 
-Mar 25 14:23:21 收获金果异常:{"resultCode":0,"resultMsg":"操作成功","resultData":{"msg":"无操作权限","code":"403"},"channelEncrypt":0}
-Mar 25 14:23:21 目前金果数量0
-Mar 25 14:23:21 
-Mar 25 14:23:21 设置的不卖出金果
-Mar 25 14:23:21 
-Mar 25 14:23:22 金币数量和金果：：{"resultCode":0,"resultMsg":"操作成功","resultData":{"msg":"成功","code":"200","data":{"gcAmount":2882,"gaAmount":719718,"canGoldcoin":1442}},"channelEncrypt":0}
-Mar 25 14:23:23 今日已偷过好友的金果了，暂无好友可偷，请明天再来
-Mar 25 14:23:23 
-Mar 25 14:23:23 
-Mar 25 14:23:23 【我的金果数量】719718
-Mar 25 14:23:23 【我的金币数量】2882
-Mar 25 14:23:23 
-Mar 25 14:23:23 
-Mar 25 14:23:23 
-Mar 25 14:23:23 🔔京东摇钱树, 结束! 🕛 6.219 秒
-Mar 25 14:23:23 
-Mar 25 16:23:11 
-Mar 25 16:23:11 🔔京东摇钱树, 开始!
-Mar 25 16:23:11 
-Mar 25 16:23:11 ====================共1个京东账号Cookie=========
-Mar 25 16:23:11 
-Mar 25 16:23:11 ==================脚本执行- 北京时间(UTC+8)：3/25/2021, 4:23:11 PM=====================
-Mar 25 16:23:11 
-Mar 25 16:23:12 
-Mar 25 16:23:12 开始【京东账号1】burst3166
-Mar 25 16:23:12 
-Mar 25 16:23:12 初始化摇钱树个人信息
-Mar 25 16:23:12 resultCode为0
-Mar 25 16:23:13 每日签到条件查询:已经签到过了
-Mar 25 16:23:13 开始做任务userInfo了
-Mar 25 16:23:13 
-Mar 25 16:23:14 canTask::[{"workStatus":-1,"workContent":"每天来签到","prizeType":2,"mid":0,"workName":"每日签到","prizeAmount":200,"workType":1},{"workStatus":2,"workContent":"每天分享一下","prizeType":2,"mid":0,"workName":"每日分享","prizeAmount":500,"workType":2},{"workStatus":0,"workContent":"每天分享新用户来玩5次","prizeType":2,"mid":0,"workName":"每日分享新用户","prizeAmount":30000,"workType":3}]
-Mar 25 16:23:14 
-Mar 25 16:23:14 浏览任务列表taskInfo::[{"workStatus":2,"prizeType":0,"mapValues":[1,1,1,1,1,1,1],"workLabel":"已完成","mid":666,"prizeAmount":1000,"workType":7},{"workStatus":2,"prizeType":0,"mapValues":[1,1,1,1,1,1,1],"workLabel":"已完成","mid":667,"prizeAmount":1000,"workType":7}]
-Mar 25 16:23:14 
-Mar 25 16:23:14 三餐签到任务不在时间范围内
-Mar 25 16:23:14 分享任务已经做过
-Mar 25 16:23:14 所有的浏览任务都做完了
-Mar 25 16:23:14 所有的浏览任务都做完了
-Mar 25 16:23:14 收获的操作:{"userInfo":"9E73CBA6518560E9056F0ECBEFAA41E3","firstLogin":false,"nick":"IS_FREEDOM","linkMissionIds":["666","667"],"showTips":false,"sharePin":"aAO7Pedza8l_W0Zj_DRiNA","cashType":1,"isFirstLogin":false,"pushStatus":0,"workerList":[],"avatar":"https://storage.360buyimg.com/i.imageUpload/62757273743331363631343235393737363737353836_big.jpg","showUpgradeInfo":false,"stole":0,"userToken":"7E894DBC3D3EA4680ECB21205C3DA972","realName":true,"stop":1,"treeInfo":{"upgradeDemand":200000,"treeName":"15级阳光小树","progressLeft":"15.5%","level":15,"fruit":719718,"fruitHarvest":168947,"fruitOnTree":18000,"workerSum":4,"coin":0,"capacity":18000},"prodtabs":[{"tab":1,"content":"1-12级兑换区"},{"tab":2,"content":"12级以上"},{"tab":3,"content":"节日专享"},{"tab":4,"content":"精选好券"}],"newVersion":false}
-Mar 25 16:23:14 
-Mar 25 16:23:15 收获金果异常:{"resultCode":0,"resultMsg":"操作成功","resultData":{"msg":"无操作权限","code":"403"},"channelEncrypt":0}
-Mar 25 16:23:15 目前金果数量0
-Mar 25 16:23:15 
-Mar 25 16:23:15 设置的不卖出金果
-Mar 25 16:23:15 
-Mar 25 16:23:16 金币数量和金果：：{"resultCode":0,"resultMsg":"操作成功","resultData":{"msg":"成功","code":"200","data":{"gcAmount":2885,"gaAmount":719718,"canGoldcoin":1442}},"channelEncrypt":0}
-Mar 25 16:23:19 今日已偷过好友的金果了，暂无好友可偷，请明天再来
-Mar 25 16:23:19 
-Mar 25 16:23:19 
-Mar 25 16:23:19 【我的金果数量】719718
-Mar 25 16:23:19 【我的金币数量】2885
-Mar 25 16:23:19 
-Mar 25 16:23:19 
-Mar 25 16:23:19 
-Mar 25 16:23:19 🔔京东摇钱树, 结束! 🕛 7.69 秒
-Mar 25 16:23:19 
-Mar 25 18:23:13 
-Mar 25 18:23:13 🔔京东摇钱树, 开始!
-Mar 25 18:23:13 
-Mar 25 18:23:13 ====================共1个京东账号Cookie=========
-Mar 25 18:23:13 
-Mar 25 18:23:13 ==================脚本执行- 北京时间(UTC+8)：3/25/2021, 6:23:13 PM=====================
-Mar 25 18:23:13 
-Mar 25 18:23:14 
-Mar 25 18:23:14 开始【京东账号1】burst3166
-Mar 25 18:23:14 
-Mar 25 18:23:14 初始化摇钱树个人信息
-Mar 25 18:23:14 resultCode为0
-Mar 25 18:23:15 每日签到条件查询:已经签到过了
-Mar 25 18:23:15 开始做任务userInfo了
-Mar 25 18:23:15 
-Mar 25 18:23:16 canTask::[{"workStatus":0,"workContent":"每天来签到","prizeType":2,"mid":0,"workName":"每日签到","prizeAmount":200,"workType":1},{"workStatus":2,"workContent":"每天分享一下","prizeType":2,"mid":0,"workName":"每日分享","prizeAmount":500,"workType":2},{"workStatus":0,"workContent":"每天分享新用户来玩5次","prizeType":2,"mid":0,"workName":"每日分享新用户","prizeAmount":30000,"workType":3}]
-Mar 25 18:23:16 
-Mar 25 18:23:16 浏览任务列表taskInfo::[{"workStatus":2,"prizeType":0,"mapValues":[1,1,1,1,1,1,1],"workLabel":"已完成","mid":666,"prizeAmount":1000,"workType":7},{"workStatus":2,"prizeType":0,"mapValues":[1,1,1,1,1,1,1],"workLabel":"已完成","mid":667,"prizeAmount":1000,"workType":7}]
-Mar 25 18:23:16 
-Mar 25 18:23:16 开始三餐签到
-Mar 25 18:23:17 三餐签到结果:{"resultCode":0,"resultMsg":"操作成功","resultData":{"msg":"成功","code":"200","data":{"opMsg":"操作成功","opResult":0,"prizeAmount":200}},"channelEncrypt":0}
-Mar 25 18:23:17 分享任务已经做过
-Mar 25 18:23:17 所有的浏览任务都做完了
-Mar 25 18:23:17 所有的浏览任务都做完了
-Mar 25 18:23:17 收获的操作:{"userInfo":"F9FC26E0FABEF979819115355F7B7ECC","firstLogin":false,"nick":"IS_FREEDOM","linkMissionIds":["666","667"],"showTips":false,"sharePin":"aAO7Pedza8l_W0Zj_DRiNA","cashType":1,"isFirstLogin":false,"pushStatus":0,"workerList":[],"avatar":"https://storage.360buyimg.com/i.imageUpload/62757273743331363631343235393737363737353836_big.jpg","showUpgradeInfo":false,"stole":0,"userToken":"877570F26342129F6BE65DB79A3E7123","realName":true,"stop":1,"treeInfo":{"upgradeDemand":200000,"treeName":"15级阳光小树","progressLeft":"15.5%","level":15,"fruit":719718,"fruitHarvest":168947,"fruitOnTree":18000,"workerSum":4,"coin":0,"capacity":18000},"prodtabs":[{"tab":1,"content":"1-12级兑换区"},{"tab":2,"content":"12级以上"},{"tab":3,"content":"节日专享"},{"tab":4,"content":"精选好券"}],"newVersion":false}
-Mar 25 18:23:17 
-Mar 25 18:23:18 收获金果异常:{"resultCode":0,"resultMsg":"操作成功","resultData":{"msg":"无操作权限","code":"403"},"channelEncrypt":0}
-Mar 25 18:23:18 目前金果数量0
-Mar 25 18:23:18 
-Mar 25 18:23:18 设置的不卖出金果
-Mar 25 18:23:18 
-Mar 25 18:23:19 金币数量和金果：：{"resultCode":0,"resultMsg":"操作成功","resultData":{"msg":"成功","code":"200","data":{"gcAmount":2887,"gaAmount":719918,"canGoldcoin":1442}},"channelEncrypt":0}
-Mar 25 18:23:20 今日已偷过好友的金果了，暂无好友可偷，请明天再来
-Mar 25 18:23:20 
-Mar 25 18:23:20 
-Mar 25 18:23:20 【我的金果数量】719918
-Mar 25 18:23:20 【我的金币数量】2887
-Mar 25 18:23:20 
-Mar 25 18:23:20 
-Mar 25 18:23:20 
-Mar 25 18:23:20 🔔京东摇钱树, 结束! 🕛 7.224 秒
-Mar 25 18:23:20 
-Mar 25 20:23:10 
-Mar 25 20:23:10 🔔京东摇钱树, 开始!
-Mar 25 20:23:10 
-Mar 25 20:23:10 ====================共1个京东账号Cookie=========
-Mar 25 20:23:10 
-Mar 25 20:23:10 ==================脚本执行- 北京时间(UTC+8)：3/25/2021, 8:23:10 PM=====================
-Mar 25 20:23:10 
-Mar 25 20:23:11 
-Mar 25 20:23:11 开始【京东账号1】burst3166
-Mar 25 20:23:11 
-Mar 25 20:23:11 初始化摇钱树个人信息
-Mar 25 20:23:11 resultCode为0
-Mar 25 20:23:12 每日签到条件查询:已经签到过了
-Mar 25 20:23:12 开始做任务userInfo了
-Mar 25 20:23:12 
-Mar 25 20:23:13 canTask::[{"workStatus":-1,"workContent":"每天来签到","prizeType":2,"mid":0,"workName":"每日签到","prizeAmount":200,"workType":1},{"workStatus":2,"workContent":"每天分享一下","prizeType":2,"mid":0,"workName":"每日分享","prizeAmount":500,"workType":2},{"workStatus":0,"workContent":"每天分享新用户来玩5次","prizeType":2,"mid":0,"workName":"每日分享新用户","prizeAmount":30000,"workType":3}]
-Mar 25 20:23:13 
-Mar 25 20:23:13 浏览任务列表taskInfo::[{"workStatus":2,"prizeType":0,"mapValues":[1,1,1,1,1,1,1],"workLabel":"已完成","mid":666,"prizeAmount":1000,"workType":7},{"workStatus":2,"prizeType":0,"mapValues":[1,1,1,1,1,1,1],"workLabel":"已完成","mid":667,"prizeAmount":1000,"workType":7}]
-Mar 25 20:23:13 
-Mar 25 20:23:13 三餐签到任务不在时间范围内
-Mar 25 20:23:13 分享任务已经做过
-Mar 25 20:23:13 所有的浏览任务都做完了
-Mar 25 20:23:13 所有的浏览任务都做完了
-Mar 25 20:23:13 收获的操作:{"userInfo":"8283C0255E74211DF086757F89DC844C","firstLogin":false,"nick":"IS_FREEDOM","linkMissionIds":["666","667"],"showTips":false,"sharePin":"aAO7Pedza8l_W0Zj_DRiNA","cashType":1,"isFirstLogin":false,"pushStatus":0,"workerList":[],"avatar":"https://storage.360buyimg.com/i.imageUpload/62757273743331363631343235393737363737353836_big.jpg","showUpgradeInfo":false,"stole":0,"userToken":"6720A822F9C516898DB7A3584955A0B3","realName":true,"stop":1,"treeInfo":{"upgradeDemand":200000,"treeName":"15级阳光小树","progressLeft":"15.5%","level":15,"fruit":719918,"fruitHarvest":168947,"fruitOnTree":18000,"workerSum":4,"coin":0,"capacity":18000},"prodtabs":[{"tab":1,"content":"1-12级兑换区"},{"tab":2,"content":"12级以上"},{"tab":3,"content":"节日专享"},{"tab":4,"content":"精选好券"}],"newVersion":false}
-Mar 25 20:23:13 
-Mar 25 20:23:15 收获金果异常:{"resultCode":0,"resultMsg":"操作成功","resultData":{"msg":"无操作权限","code":"403"},"channelEncrypt":0}
-Mar 25 20:23:15 目前金果数量0
-Mar 25 20:23:15 
-Mar 25 20:23:15 设置的不卖出金果
-Mar 25 20:23:15 
-Mar 25 20:23:16 金币数量和金果：：{"resultCode":0,"resultMsg":"操作成功","resultData":{"msg":"成功","code":"200","data":{"gcAmount":2890,"gaAmount":719918,"canGoldcoin":1442}},"channelEncrypt":0}
-Mar 25 20:23:17 今日已偷过好友的金果了，暂无好友可偷，请明天再来
-Mar 25 20:23:17 
-Mar 25 20:23:17 
-Mar 25 20:23:17 【我的金果数量】719918
-Mar 25 20:23:17 【我的金币数量】2890
-Mar 25 20:23:17 
-Mar 25 20:23:17 
-Mar 25 20:23:17 
-Mar 25 20:23:17 🔔京东摇钱树, 结束! 🕛 6.18 秒
-Mar 25 20:23:17 
-Mar 25 22:23:28 
-Mar 25 22:23:28 🔔京东摇钱树, 开始!
-Mar 25 22:23:28 
-Mar 25 22:23:28 ====================共1个京东账号Cookie=========
-Mar 25 22:23:28 
-Mar 25 22:23:28 ==================脚本执行- 北京时间(UTC+8)：3/25/2021, 10:23:28 PM=====================
-Mar 25 22:23:28 
-Mar 25 22:23:28 
-Mar 25 22:23:28 开始【京东账号1】burst3166
-Mar 25 22:23:28 
-Mar 25 22:23:28 初始化摇钱树个人信息
-Mar 25 22:23:28 resultCode为0
-Mar 25 22:23:30 每日签到条件查询:已经签到过了
-Mar 25 22:23:30 开始做任务userInfo了
-Mar 25 22:23:30 
-Mar 25 22:23:31 canTask::[{"workStatus":-1,"workContent":"每天来签到","prizeType":2,"mid":0,"workName":"每日签到","prizeAmount":200,"workType":1},{"workStatus":2,"workContent":"每天分享一下","prizeType":2,"mid":0,"workName":"每日分享","prizeAmount":500,"workType":2},{"workStatus":0,"workContent":"每天分享新用户来玩5次","prizeType":2,"mid":0,"workName":"每日分享新用户","prizeAmount":30000,"workType":3}]
-Mar 25 22:23:31 
-Mar 25 22:23:31 浏览任务列表taskInfo::[{"workStatus":2,"prizeType":0,"mapValues":[1,1,1,1,1,1,1],"workLabel":"已完成","mid":666,"prizeAmount":1000,"workType":7},{"workStatus":2,"prizeType":0,"mapValues":[1,1,1,1,1,1,1],"workLabel":"已完成","mid":667,"prizeAmount":1000,"workType":7}]
-Mar 25 22:23:31 
-Mar 25 22:23:31 三餐签到任务不在时间范围内
-Mar 25 22:23:31 分享任务已经做过
-Mar 25 22:23:31 所有的浏览任务都做完了
-Mar 25 22:23:31 所有的浏览任务都做完了
-Mar 25 22:23:31 收获的操作:{"userInfo":"324CA6EFF83CEBA5E3FF711DEF59EEC0","firstLogin":false,"nick":"IS_FREEDOM","linkMissionIds":["666","667"],"showTips":false,"sharePin":"aAO7Pedza8l_W0Zj_DRiNA","cashType":1,"isFirstLogin":false,"pushStatus":0,"workerList":[],"avatar":"https://storage.360buyimg.com/i.imageUpload/62757273743331363631343235393737363737353836_big.jpg","showUpgradeInfo":false,"stole":0,"userToken":"3326C96D5E4515F6B036067CCDB702F0","realName":true,"stop":1,"treeInfo":{"upgradeDemand":200000,"treeName":"15级阳光小树","progressLeft":"15.5%","level":15,"fruit":719918,"fruitHarvest":168947,"fruitOnTree":18000,"workerSum":4,"coin":0,"capacity":18000},"prodtabs":[{"tab":1,"content":"1-12级兑换区"},{"tab":2,"content":"12级以上"},{"tab":3,"content":"节日专享"},{"tab":4,"content":"精选好券"}],"newVersion":false}
-Mar 25 22:23:31 
-Mar 25 22:23:32 收获金果异常:{"resultCode":0,"resultMsg":"操作成功","resultData":{"msg":"无操作权限","code":"403"},"channelEncrypt":0}
-Mar 25 22:23:32 目前金果数量0
-Mar 25 22:23:32 
-Mar 25 22:23:32 设置的不卖出金果
-Mar 25 22:23:32 
-Mar 25 22:23:33 金币数量和金果：：{"resultCode":0,"resultMsg":"操作成功","resultData":{"msg":"成功","code":"200","data":{"gcAmount":2892,"gaAmount":719918,"canGoldcoin":1442}},"channelEncrypt":0}
-Mar 25 22:23:34 今日已偷过好友的金果了，暂无好友可偷，请明天再来
-Mar 25 22:23:34 
-Mar 25 22:23:34 
-Mar 25 22:23:34 【我的金果数量】719918
-Mar 25 22:23:34 【我的金币数量】2892
-Mar 25 22:23:34 
-Mar 25 22:23:34 
-Mar 25 22:23:34 
-Mar 25 22:23:34 🔔京东摇钱树, 结束! 🕛 6.198 秒
-Mar 25 22:23:34 
-Mar 26 00:23:18 
-Mar 26 00:23:18 🔔京东摇钱树, 开始!
-Mar 26 00:23:18 
-Mar 26 00:23:18 ====================共1个京东账号Cookie=========
-Mar 26 00:23:18 
-Mar 26 00:23:18 ==================脚本执行- 北京时间(UTC+8)：3/26/2021, 12:23:18 AM=====================
-Mar 26 00:23:18 
-Mar 26 00:23:19 
-Mar 26 00:23:19 开始【京东账号1】burst3166
-Mar 26 00:23:19 
-Mar 26 00:23:19 初始化摇钱树个人信息
-Mar 26 00:23:19 resultCode为0
-Mar 26 00:23:20 每日签到条件查询:可以签到
-Mar 26 00:23:20 准备每日签到
-Mar 26 00:23:21 第7日签到结果:{"resultCode":0,"resultMsg":"操作成功","resultData":{"msg":"成功","code":"200","data":{"result":true}},"channelEncrypt":0}
-Mar 26 00:23:22 店铺券（49-10）领取结果：{"resultCode":0,"resultMsg":"操作成功","resultData":{"msg":"成功","code":"200","data":{"result":true,"message":"成功","code":0}},"channelEncrypt":0}
-Mar 26 00:23:22 
-Mar 26 00:23:22 ❗️京东摇钱树, 错误!
-Mar 26 00:23:22 TypeError: Cannot read property 'code' of undefined
-Mar 26 00:23:22     at /scripts/jd_moneyTree.js:357:74
-Mar 26 00:23:22     at processTicksAndRejections (internal/process/task_queues.js:97:5)
-Mar 26 00:23:22 开始做任务userInfo了
-Mar 26 00:23:22 
-Mar 26 00:23:23 canTask::[{"workStatus":-1,"workContent":"每天来签到","prizeType":2,"mid":0,"workName":"每日签到","prizeAmount":200,"workType":1},{"workStatus":0,"workContent":"每天分享一下","prizeType":2,"mid":0,"workName":"每日分享","prizeAmount":500,"workType":2},{"workStatus":0,"workContent":"每天分享新用户来玩5次","prizeType":2,"mid":0,"workName":"每日分享新用户","prizeAmount":30000,"workType":3}]
-Mar 26 00:23:23 
-Mar 26 00:23:23 浏览任务列表taskInfo::[{"workStatus":0,"prizeType":0,"mapValues":[],"workLabel":"去完成","mid":666,"prizeAmount":1000,"workType":7},{"workStatus":0,"prizeType":0,"mapValues":[],"workLabel":"去完成","mid":667,"prizeAmount":1000,"workType":7}]
-Mar 26 00:23:23 
-Mar 26 00:23:23 三餐签到任务不在时间范围内
-Mar 26 00:23:23 开始做分享任务
-Mar 26 00:23:23 
-Mar 26 00:23:24 开始分享的动作:{"resultCode":0,"resultMsg":"操作成功","resultData":{"msg":"成功","code":"200","data":{"opMsg":"操作成功","nextStatus":1,"opResult":0}},"channelEncrypt":0}
-Mar 26 00:23:24 开始做领取分享后的奖励
-Mar 26 00:23:24 
-Mar 26 00:23:25 领取分享后的奖励:{"resultCode":0,"resultMsg":"操作成功","resultData":{"msg":"成功","code":"200","data":{"opMsg":"操作成功","opResult":0,"prizeAmount":500}},"channelEncrypt":0}
-Mar 26 00:23:25 开始做浏览任务
-Mar 26 00:23:26 missionId为666：：第1次浏览活动完成: {"resultCode":0,"resultMsg":"操作成功","resultData":{"msg":"成功","code":"200"},"channelEncrypt":0}
-Mar 26 00:23:27 missionId为666：：第2次浏览活动完成: {"resultCode":0,"resultMsg":"操作成功","resultData":{"msg":"成功","code":"200"},"channelEncrypt":0}
-Mar 26 00:23:28 missionId为666：：第3次浏览活动完成: {"resultCode":0,"resultMsg":"操作成功","resultData":{"msg":"成功","code":"200"},"channelEncrypt":0}
-Mar 26 00:23:29 missionId为666：：第4次浏览活动完成: {"resultCode":0,"resultMsg":"操作成功","resultData":{"msg":"成功","code":"200"},"channelEncrypt":0}
-Mar 26 00:23:31 missionId为666：：第5次浏览活动完成: {"resultCode":0,"resultMsg":"操作成功","resultData":{"msg":"成功","code":"200"},"channelEncrypt":0}
-Mar 26 00:23:32 missionId为666：：第6次浏览活动完成: {"resultCode":0,"resultMsg":"操作成功","resultData":{"msg":"成功","code":"200"},"channelEncrypt":0}
-Mar 26 00:23:33 missionId为666：：第7次浏览活动完成: {"resultCode":0,"resultMsg":"操作成功","resultData":{"msg":"成功","code":"200"},"channelEncrypt":0}
-Mar 26 00:23:33 浏览店铺任务结束
-Mar 26 00:23:33 开始领取浏览后的奖励
-Mar 26 00:23:34 领取浏览任务奖励成功：{"resultCode":0,"resultMsg":"操作成功","resultData":{"msg":"成功","code":"200","data":{"opMsg":"领取成功","opResult":0,"prizeAmount":1000,"nextStatus":2}},"channelEncrypt":0}
-Mar 26 00:23:34 aaa{"resultCode":0,"resultMsg":"操作成功","resultData":{"msg":"成功","code":"200","data":{"opMsg":"领取成功","opResult":0,"prizeAmount":1000,"nextStatus":2}},"channelEncrypt":0}
-Mar 26 00:23:34 开始做浏览任务
-Mar 26 00:23:35 missionId为667：：第1次浏览活动完成: {"resultCode":0,"resultMsg":"操作成功","resultData":{"msg":"成功","code":"200"},"channelEncrypt":0}
-Mar 26 00:23:36 missionId为667：：第2次浏览活动完成: {"resultCode":0,"resultMsg":"操作成功","resultData":{"msg":"成功","code":"200"},"channelEncrypt":0}
-Mar 26 00:23:37 missionId为667：：第3次浏览活动完成: {"resultCode":0,"resultMsg":"操作成功","resultData":{"msg":"成功","code":"200"},"channelEncrypt":0}
-Mar 26 00:23:38 missionId为667：：第4次浏览活动完成: {"resultCode":0,"resultMsg":"操作成功","resultData":{"msg":"成功","code":"200"},"channelEncrypt":0}
-Mar 26 00:23:39 missionId为667：：第5次浏览活动完成: {"resultCode":0,"resultMsg":"操作成功","resultData":{"msg":"成功","code":"200"},"channelEncrypt":0}
-Mar 26 00:23:40 missionId为667：：第6次浏览活动完成: {"resultCode":0,"resultMsg":"操作成功","resultData":{"msg":"成功","code":"200"},"channelEncrypt":0}
-Mar 26 00:23:41 missionId为667：：第7次浏览活动完成: {"resultCode":0,"resultMsg":"操作成功","resultData":{"msg":"成功","code":"200"},"channelEncrypt":0}
-Mar 26 00:23:41 浏览店铺任务结束
-Mar 26 00:23:41 开始领取浏览后的奖励
-Mar 26 00:23:42 领取浏览任务奖励成功：{"resultCode":0,"resultMsg":"操作成功","resultData":{"msg":"成功","code":"200","data":{"opMsg":"领取成功","opResult":0,"prizeAmount":1000,"nextStatus":2}},"channelEncrypt":0}
-Mar 26 00:23:42 aaa{"resultCode":0,"resultMsg":"操作成功","resultData":{"msg":"成功","code":"200","data":{"opMsg":"领取成功","opResult":0,"prizeAmount":1000,"nextStatus":2}},"channelEncrypt":0}
-Mar 26 00:23:42 收获的操作:{"userInfo":"6C07C283172D2B415DE29ED58F548109","firstLogin":false,"nick":"IS_FREEDOM","linkMissionIds":["666","667"],"showTips":false,"sharePin":"aAO7Pedza8l_W0Zj_DRiNA","cashType":1,"isFirstLogin":false,"pushStatus":0,"workerList":[],"avatar":"https://storage.360buyimg.com/i.imageUpload/62757273743331363631343235393737363737353836_big.jpg","showUpgradeInfo":false,"stole":0,"userToken":"1F6343D9FF53BA8A7C0695DE4A14CFA1","realName":true,"stop":1,"treeInfo":{"upgradeDemand":200000,"treeName":"15级阳光小树","progressLeft":"15.5%","level":15,"fruit":719918,"fruitHarvest":168947,"fruitOnTree":18000,"workerSum":4,"coin":0,"capacity":18000},"prodtabs":[{"tab":1,"content":"1-12级兑换区"},{"tab":2,"content":"12级以上"},{"tab":3,"content":"节日专享"},{"tab":4,"content":"精选好券"}],"newVersion":false}
-Mar 26 00:23:42 
-Mar 26 00:23:43 收获金果异常:{"resultCode":0,"resultMsg":"操作成功","resultData":{"msg":"无操作权限","code":"403"},"channelEncrypt":0}
-Mar 26 00:23:43 目前金果数量0
-Mar 26 00:23:43 
-Mar 26 00:23:43 设置的不卖出金果
-Mar 26 00:23:43 
-Mar 26 00:23:44 金币数量和金果：：{"resultCode":0,"resultMsg":"操作成功","resultData":{"msg":"成功","code":"200","data":{"gcAmount":2894,"gaAmount":722418,"canGoldcoin":1447}},"channelEncrypt":0}
-Mar 26 00:23:45 今日已偷过好友的金果了，暂无好友可偷，请明天再来
-Mar 26 00:23:45 
-Mar 26 00:23:45 
-Mar 26 00:23:45 【我的金果数量】722418
-Mar 26 00:23:45 【我的金币数量】2894
-Mar 26 00:23:45 
-Mar 26 00:23:45 
-Mar 26 00:23:45 
-Mar 26 00:23:45 🔔京东摇钱树, 结束! 🕛 27.247 秒
-Mar 26 00:23:45 
-Mar 26 02:23:23 
-Mar 26 02:23:23 🔔京东摇钱树, 开始!
-Mar 26 02:23:23 
-Mar 26 02:23:23 ====================共1个京东账号Cookie=========
-Mar 26 02:23:23 
-Mar 26 02:23:23 ==================脚本执行- 北京时间(UTC+8)：3/26/2021, 2:23:23 AM=====================
-Mar 26 02:23:23 
-Mar 26 02:23:24 
-Mar 26 02:23:24 开始【京东账号1】burst3166
-Mar 26 02:23:24 
-Mar 26 02:23:24 初始化摇钱树个人信息
-Mar 26 02:23:24 resultCode为0
-Mar 26 02:23:25 每日签到条件查询:可以签到
-Mar 26 02:23:25 准备每日签到
-Mar 26 02:23:26 第1日签到结果:{"resultCode":0,"resultMsg":"操作成功","resultData":{"msg":"成功","code":"200","data":{"result":true}},"channelEncrypt":0}
-Mar 26 02:23:26 开始做任务userInfo了
-Mar 26 02:23:26 
-Mar 26 02:23:27 canTask::[{"workStatus":-1,"workContent":"每天来签到","prizeType":2,"mid":0,"workName":"每日签到","prizeAmount":200,"workType":1},{"workStatus":2,"workContent":"每天分享一下","prizeType":2,"mid":0,"workName":"每日分享","prizeAmount":500,"workType":2},{"workStatus":0,"workContent":"每天分享新用户来玩5次","prizeType":2,"mid":0,"workName":"每日分享新用户","prizeAmount":30000,"workType":3}]
-Mar 26 02:23:27 
-Mar 26 02:23:27 浏览任务列表taskInfo::[{"workStatus":2,"prizeType":0,"mapValues":[1,1,1,1,1,1,1],"workLabel":"已完成","mid":666,"prizeAmount":1000,"workType":7},{"workStatus":2,"prizeType":0,"mapValues":[1,1,1,1,1,1,1],"workLabel":"已完成","mid":667,"prizeAmount":1000,"workType":7}]
-Mar 26 02:23:27 
-Mar 26 02:23:27 三餐签到任务不在时间范围内
-Mar 26 02:23:27 分享任务已经做过
-Mar 26 02:23:27 所有的浏览任务都做完了
-Mar 26 02:23:27 所有的浏览任务都做完了
-Mar 26 02:23:27 收获的操作:{"userInfo":"E0433CC6ACDC5065C41407CC56D0B6D8","firstLogin":false,"nick":"IS_FREEDOM","linkMissionIds":["666","667"],"showTips":false,"sharePin":"aAO7Pedza8l_W0Zj_DRiNA","cashType":1,"isFirstLogin":false,"pushStatus":0,"workerList":[],"avatar":"https://storage.360buyimg.com/i.imageUpload/62757273743331363631343235393737363737353836_big.jpg","showUpgradeInfo":false,"stole":0,"userToken":"841039BBF323F504FC3A33A56A019D99","realName":true,"stop":1,"treeInfo":{"upgradeDemand":200000,"treeName":"15级阳光小树","progressLeft":"15.5%","level":15,"fruit":722418,"fruitHarvest":168947,"fruitOnTree":18000,"workerSum":4,"coin":0,"capacity":18000},"prodtabs":[{"tab":1,"content":"1-12级兑换区"},{"tab":2,"content":"12级以上"},{"tab":3,"content":"节日专享"},{"tab":4,"content":"精选好券"}],"newVersion":false}
-Mar 26 02:23:27 
-Mar 26 02:23:28 收获金果异常:{"resultCode":0,"resultMsg":"操作成功","resultData":{"msg":"无操作权限","code":"403"},"channelEncrypt":0}
-Mar 26 02:23:28 目前金果数量0
-Mar 26 02:23:28 
-Mar 26 02:23:28 设置的不卖出金果
-Mar 26 02:23:28 
-Mar 26 02:23:29 金币数量和金果：：{"resultCode":0,"resultMsg":"操作成功","resultData":{"msg":"成功","code":"200","data":{"gcAmount":2906,"gaAmount":722618,"canGoldcoin":1448}},"channelEncrypt":0}
-Mar 26 02:23:31 今日已偷过好友的金果了，暂无好友可偷，请明天再来
-Mar 26 02:23:31 
-Mar 26 02:23:31 
-Mar 26 02:23:31 【我的金果数量】722618
-Mar 26 02:23:31 【我的金币数量】2906
-Mar 26 02:23:31 
-Mar 26 02:23:31 
-Mar 26 02:23:31 
-Mar 26 02:23:31 🔔京东摇钱树, 结束! 🕛 7.184 秒
-Mar 26 02:23:31 
-Mar 26 04:23:02 
-Mar 26 04:23:02 🔔京东摇钱树, 开始!
-Mar 26 04:23:02 
-Mar 26 04:23:02 ====================共1个京东账号Cookie=========
-Mar 26 04:23:02 
-Mar 26 04:23:02 ==================脚本执行- 北京时间(UTC+8)：3/26/2021, 4:23:02 AM=====================
-Mar 26 04:23:02 
-Mar 26 04:23:02 
-Mar 26 04:23:02 开始【京东账号1】burst3166
-Mar 26 04:23:02 
-Mar 26 04:23:02 初始化摇钱树个人信息
-Mar 26 04:23:02 resultCode为0
-Mar 26 04:23:04 每日签到条件查询:已经签到过了
-Mar 26 04:23:04 开始做任务userInfo了
-Mar 26 04:23:04 
-Mar 26 04:23:05 canTask::[{"workStatus":-1,"workContent":"每天来签到","prizeType":2,"mid":0,"workName":"每日签到","prizeAmount":200,"workType":1},{"workStatus":2,"workContent":"每天分享一下","prizeType":2,"mid":0,"workName":"每日分享","prizeAmount":500,"workType":2},{"workStatus":0,"workContent":"每天分享新用户来玩5次","prizeType":2,"mid":0,"workName":"每日分享新用户","prizeAmount":30000,"workType":3}]
-Mar 26 04:23:05 
-Mar 26 04:23:05 浏览任务列表taskInfo::[{"workStatus":2,"prizeType":0,"mapValues":[1,1,1,1,1,1,1],"workLabel":"已完成","mid":666,"prizeAmount":1000,"workType":7},{"workStatus":2,"prizeType":0,"mapValues":[1,1,1,1,1,1,1],"workLabel":"已完成","mid":667,"prizeAmount":1000,"workType":7}]
-Mar 26 04:23:05 
-Mar 26 04:23:05 三餐签到任务不在时间范围内
-Mar 26 04:23:05 分享任务已经做过
-Mar 26 04:23:05 所有的浏览任务都做完了
-Mar 26 04:23:05 所有的浏览任务都做完了
-Mar 26 04:23:05 收获的操作:{"userInfo":"F4A7DE1DCE1D6447417127E740A4394B","firstLogin":false,"nick":"IS_FREEDOM","linkMissionIds":["666","667"],"showTips":false,"sharePin":"aAO7Pedza8l_W0Zj_DRiNA","cashType":1,"isFirstLogin":false,"pushStatus":0,"workerList":[],"avatar":"https://storage.360buyimg.com/i.imageUpload/62757273743331363631343235393737363737353836_big.jpg","showUpgradeInfo":false,"stole":0,"userToken":"01C1F87BAA13A0A31F2537A0AEA2AA88","realName":true,"stop":1,"treeInfo":{"upgradeDemand":200000,"progressLeft":"15.5%","treeName":"15级阳光小树","level":15,"fruit":722618,"fruitHarvest":168947,"fruitOnTree":18000,"workerSum":4,"coin":0,"capacity":18000},"prodtabs":[{"tab":1,"content":"1-12级兑换区"},{"tab":2,"content":"12级以上"},{"tab":3,"content":"节日专享"},{"tab":4,"content":"精选好券"}],"newVersion":false}
-Mar 26 04:23:05 
-Mar 26 04:23:06 收获金果异常:{"resultCode":0,"resultMsg":"操作成功","resultData":{"msg":"无操作权限","code":"403"},"channelEncrypt":0}
-Mar 26 04:23:06 目前金果数量0
-Mar 26 04:23:06 
-Mar 26 04:23:06 设置的不卖出金果
-Mar 26 04:23:06 
-Mar 26 04:23:07 金币数量和金果：：{"resultCode":0,"resultMsg":"操作成功","resultData":{"msg":"成功","code":"200","data":{"gcAmount":2918,"gaAmount":722618,"canGoldcoin":1448}},"channelEncrypt":0}
-Mar 26 04:23:08 今日已偷过好友的金果了，暂无好友可偷，请明天再来
-Mar 26 04:23:08 
-Mar 26 04:23:08 
-Mar 26 04:23:08 【我的金果数量】722618
-Mar 26 04:23:08 【我的金币数量】2918
-Mar 26 04:23:08 
-Mar 26 04:23:08 
-Mar 26 04:23:08 
-Mar 26 04:23:08 🔔京东摇钱树, 结束! 🕛 6.256 秒
-Mar 26 04:23:08 
-Mar 26 06:23:14 
-Mar 26 06:23:14 🔔京东摇钱树, 开始!
-Mar 26 06:23:14 
-Mar 26 06:23:14 ====================共1个京东账号Cookie=========
-Mar 26 06:23:14 
-Mar 26 06:23:14 ==================脚本执行- 北京时间(UTC+8)：3/26/2021, 6:23:14 AM=====================
-Mar 26 06:23:14 
-Mar 26 06:23:15 
-Mar 26 06:23:15 开始【京东账号1】burst3166
-Mar 26 06:23:15 
-Mar 26 06:23:15 初始化摇钱树个人信息
-Mar 26 06:23:15 resultCode为0
-Mar 26 06:23:16 每日签到条件查询:已经签到过了
-Mar 26 06:23:16 开始做任务userInfo了
-Mar 26 06:23:16 
-Mar 26 06:23:17 canTask::[{"workStatus":-1,"workContent":"每天来签到","prizeType":2,"mid":0,"workName":"每日签到","prizeAmount":200,"workType":1},{"workStatus":2,"workContent":"每天分享一下","prizeType":2,"mid":0,"workName":"每日分享","prizeAmount":500,"workType":2},{"workStatus":0,"workContent":"每天分享新用户来玩5次","prizeType":2,"mid":0,"workName":"每日分享新用户","prizeAmount":30000,"workType":3}]
-Mar 26 06:23:17 
-Mar 26 06:23:17 浏览任务列表taskInfo::[{"workStatus":2,"prizeType":0,"mapValues":[1,1,1,1,1,1,1],"workLabel":"已完成","mid":666,"prizeAmount":1000,"workType":7},{"workStatus":2,"prizeType":0,"mapValues":[1,1,1,1,1,1,1],"workLabel":"已完成","mid":667,"prizeAmount":1000,"workType":7}]
-Mar 26 06:23:17 
-Mar 26 06:23:17 三餐签到任务不在时间范围内
-Mar 26 06:23:17 分享任务已经做过
-Mar 26 06:23:17 所有的浏览任务都做完了
-Mar 26 06:23:17 所有的浏览任务都做完了
-Mar 26 06:23:17 收获的操作:{"userInfo":"7CFBD5AF40DAB8530A84A58429AE6850","firstLogin":false,"nick":"IS_FREEDOM","linkMissionIds":["666","667"],"showTips":false,"sharePin":"aAO7Pedza8l_W0Zj_DRiNA","cashType":1,"isFirstLogin":false,"pushStatus":0,"workerList":[],"avatar":"https://storage.360buyimg.com/i.imageUpload/62757273743331363631343235393737363737353836_big.jpg","showUpgradeInfo":false,"stole":0,"userToken":"B25BCAC8D3CEF7AE0016861F3E500A8A","realName":true,"stop":1,"treeInfo":{"upgradeDemand":200000,"treeName":"15级阳光小树","progressLeft":"15.5%","level":15,"fruit":722618,"fruitHarvest":168947,"fruitOnTree":18000,"workerSum":4,"coin":0,"capacity":18000},"prodtabs":[{"tab":1,"content":"1-12级兑换区"},{"tab":2,"content":"12级以上"},{"tab":3,"content":"节日专享"},{"tab":4,"content":"精选好券"}],"newVersion":false}
-Mar 26 06:23:17 
-Mar 26 06:23:18 收获金果异常:{"resultCode":0,"resultMsg":"操作成功","resultData":{"msg":"无操作权限","code":"403"},"channelEncrypt":0}
-Mar 26 06:23:18 目前金果数量0
-Mar 26 06:23:18 
-Mar 26 06:23:18 设置的不卖出金果
-Mar 26 06:23:18 
-Mar 26 06:23:19 金币数量和金果：：{"resultCode":0,"resultMsg":"操作成功","resultData":{"msg":"成功","code":"200","data":{"gcAmount":2930,"gaAmount":722618,"canGoldcoin":1448}},"channelEncrypt":0}
-Mar 26 06:23:20 今日已偷过好友的金果了，暂无好友可偷，请明天再来
-Mar 26 06:23:20 
-Mar 26 06:23:20 
-Mar 26 06:23:20 【我的金果数量】722618
-Mar 26 06:23:20 【我的金币数量】2930
-Mar 26 06:23:20 
-Mar 26 06:23:20 
-Mar 26 06:23:20 
-Mar 26 06:23:20 🔔京东摇钱树, 结束! 🕛 6.106 秒
-Mar 26 06:23:20 
-Mar 26 08:23:27 
-Mar 26 08:23:27 🔔京东摇钱树, 开始!
-Mar 26 08:23:27 
-Mar 26 08:23:27 ====================共1个京东账号Cookie=========
-Mar 26 08:23:27 
-Mar 26 08:23:27 ==================脚本执行- 北京时间(UTC+8)：3/26/2021, 8:23:27 AM=====================
-Mar 26 08:23:27 
-Mar 26 08:23:27 
-Mar 26 08:23:27 开始【京东账号1】burst3166
-Mar 26 08:23:27 
-Mar 26 08:23:27 初始化摇钱树个人信息
-Mar 26 08:23:27 resultCode为0
-Mar 26 08:23:28 每日签到条件查询:已经签到过了
-Mar 26 08:23:28 开始做任务userInfo了
-Mar 26 08:23:28 
-Mar 26 08:23:30 canTask::[{"workStatus":0,"workContent":"每天来签到","prizeType":2,"mid":0,"workName":"每日签到","prizeAmount":200,"workType":1},{"workStatus":2,"workContent":"每天分享一下","prizeType":2,"mid":0,"workName":"每日分享","prizeAmount":500,"workType":2},{"workStatus":0,"workContent":"每天分享新用户来玩5次","prizeType":2,"mid":0,"workName":"每日分享新用户","prizeAmount":30000,"workType":3}]
-Mar 26 08:23:30 
-Mar 26 08:23:30 浏览任务列表taskInfo::[{"workStatus":2,"prizeType":0,"mapValues":[1,1,1,1,1,1,1],"workLabel":"已完成","mid":666,"prizeAmount":1000,"workType":7},{"workStatus":2,"prizeType":0,"mapValues":[1,1,1,1,1,1,1],"workLabel":"已完成","mid":667,"prizeAmount":1000,"workType":7}]
-Mar 26 08:23:30 
-Mar 26 08:23:30 开始三餐签到
-Mar 26 08:23:31 三餐签到结果:{"resultCode":0,"resultMsg":"操作成功","resultData":{"msg":"成功","code":"200","data":{"opMsg":"操作成功","opResult":0,"prizeAmount":200}},"channelEncrypt":0}
-Mar 26 08:23:31 分享任务已经做过
-Mar 26 08:23:31 所有的浏览任务都做完了
-Mar 26 08:23:31 所有的浏览任务都做完了
-Mar 26 08:23:31 收获的操作:{"userInfo":"F06B827C2493EC45BE137847FCEC7FC5","firstLogin":false,"nick":"IS_FREEDOM","linkMissionIds":["666","667"],"showTips":false,"sharePin":"aAO7Pedza8l_W0Zj_DRiNA","cashType":1,"isFirstLogin":false,"pushStatus":0,"workerList":[],"avatar":"https://storage.360buyimg.com/i.imageUpload/62757273743331363631343235393737363737353836_big.jpg","showUpgradeInfo":false,"stole":0,"userToken":"47FA4BD1165F66C9254446FF1677702A","realName":true,"stop":1,"treeInfo":{"upgradeDemand":200000,"progressLeft":"15.5%","treeName":"15级阳光小树","level":15,"fruit":722618,"fruitHarvest":168947,"fruitOnTree":18000,"workerSum":4,"coin":0,"capacity":18000},"prodtabs":[{"tab":1,"content":"1-12级兑换区"},{"tab":2,"content":"12级以上"},{"tab":3,"content":"节日专享"},{"tab":4,"content":"精选好券"}],"newVersion":false}
-Mar 26 08:23:31 
-Mar 26 08:23:32 收获金果异常:{"resultCode":0,"resultMsg":"操作成功","resultData":{"msg":"无操作权限","code":"403"},"channelEncrypt":0}
-Mar 26 08:23:32 目前金果数量0
-Mar 26 08:23:32 
-Mar 26 08:23:32 设置的不卖出金果
-Mar 26 08:23:32 
-Mar 26 08:23:33 金币数量和金果：：{"resultCode":0,"resultMsg":"操作成功","resultData":{"msg":"成功","code":"200","data":{"gcAmount":2942,"gaAmount":722818,"canGoldcoin":1448}},"channelEncrypt":0}
-Mar 26 08:23:34 今日已偷过好友的金果了，暂无好友可偷，请明天再来
-Mar 26 08:23:34 
-Mar 26 08:23:34 
-Mar 26 08:23:34 【我的金果数量】722818
-Mar 26 08:23:34 【我的金币数量】2942
-Mar 26 08:23:34 
-Mar 26 08:23:34 
-Mar 26 08:23:34 
-Mar 26 08:23:34 🔔京东摇钱树, 结束! 🕛 7.259 秒
-Mar 26 08:23:34 
-Mar 26 10:23:20 
-Mar 26 10:23:20 🔔京东摇钱树, 开始!
-Mar 26 10:23:20 
-Mar 26 10:23:20 ====================共1个京东账号Cookie=========
-Mar 26 10:23:20 
-Mar 26 10:23:20 ==================脚本执行- 北京时间(UTC+8)：3/26/2021, 10:23:20 AM=====================
-Mar 26 10:23:20 
-Mar 26 10:23:20 
-Mar 26 10:23:20 开始【京东账号1】burst3166
-Mar 26 10:23:20 
-Mar 26 10:23:20 初始化摇钱树个人信息
-Mar 26 10:23:21 resultCode为0
-Mar 26 10:23:22 每日签到条件查询:已经签到过了
-Mar 26 10:23:22 开始做任务userInfo了
-Mar 26 10:23:22 
-Mar 26 10:23:23 canTask::[{"workStatus":-1,"workContent":"每天来签到","prizeType":2,"mid":0,"workName":"每日签到","prizeAmount":200,"workType":1},{"workStatus":2,"workContent":"每天分享一下","prizeType":2,"mid":0,"workName":"每日分享","prizeAmount":500,"workType":2},{"workStatus":0,"workContent":"每天分享新用户来玩5次","prizeType":2,"mid":0,"workName":"每日分享新用户","prizeAmount":30000,"workType":3}]
-Mar 26 10:23:23 
-Mar 26 10:23:23 浏览任务列表taskInfo::[{"workStatus":2,"mapValues":[1,1,1,1,1,1,1],"prizeType":0,"workLabel":"已完成","mid":666,"prizeAmount":1000,"workType":7},{"workStatus":2,"mapValues":[1,1,1,1,1,1,1],"prizeType":0,"workLabel":"已完成","mid":667,"prizeAmount":1000,"workType":7}]
-Mar 26 10:23:23 
-Mar 26 10:23:23 三餐签到任务不在时间范围内
-Mar 26 10:23:23 分享任务已经做过
-Mar 26 10:23:23 所有的浏览任务都做完了
-Mar 26 10:23:23 所有的浏览任务都做完了
-Mar 26 10:23:23 收获的操作:{"userInfo":"E6444D822FE32516B189DB8050D10526","firstLogin":false,"nick":"IS_FREEDOM","linkMissionIds":["666","667"],"showTips":false,"sharePin":"aAO7Pedza8l_W0Zj_DRiNA","cashType":1,"isFirstLogin":false,"pushStatus":0,"workerList":[],"avatar":"https://storage.360buyimg.com/i.imageUpload/62757273743331363631343235393737363737353836_big.jpg","showUpgradeInfo":false,"stole":0,"userToken":"DEE7C7BA1EF8F455695687F8BA4FA69E","realName":true,"stop":1,"treeInfo":{"upgradeDemand":200000,"treeName":"15级阳光小树","progressLeft":"15.5%","level":15,"fruit":722818,"fruitHarvest":168947,"fruitOnTree":18000,"workerSum":4,"coin":0,"capacity":18000},"prodtabs":[{"tab":1,"content":"1-12级兑换区"},{"tab":2,"content":"12级以上"},{"tab":3,"content":"节日专享"},{"tab":4,"content":"精选好券"}],"newVersion":false}
-Mar 26 10:23:23 
-Mar 26 10:23:24 收获金果异常:{"resultCode":0,"resultMsg":"操作成功","resultData":{"msg":"无操作权限","code":"403"},"channelEncrypt":0}
-Mar 26 10:23:24 目前金果数量0
-Mar 26 10:23:24 
-Mar 26 10:23:24 设置的不卖出金果
-Mar 26 10:23:24 
-Mar 26 10:23:25 金币数量和金果：：{"resultCode":0,"resultMsg":"操作成功","resultData":{"msg":"成功","code":"200","data":{"gcAmount":2945,"gaAmount":722818,"canGoldcoin":1448}},"channelEncrypt":0}
-Mar 26 10:23:26 今日已偷过好友的金果了，暂无好友可偷，请明天再来
-Mar 26 10:23:26 
-Mar 26 10:23:26 
-Mar 26 10:23:26 【我的金果数量】722818
-Mar 26 10:23:26 【我的金币数量】2945
-Mar 26 10:23:26 
-Mar 26 10:23:26 
-Mar 26 10:23:26 
-Mar 26 10:23:26 🔔京东摇钱树, 结束! 🕛 6.465 秒
-Mar 26 10:23:26 
-Mar 26 12:23:24 
-Mar 26 12:23:24 🔔京东摇钱树, 开始!
-Mar 26 12:23:24 
-Mar 26 12:23:24 ====================共1个京东账号Cookie=========
-Mar 26 12:23:24 
-Mar 26 12:23:24 ==================脚本执行- 北京时间(UTC+8)：3/26/2021, 12:23:24 PM=====================
-Mar 26 12:23:24 
-Mar 26 12:23:24 
-Mar 26 12:23:24 开始【京东账号1】burst3166
-Mar 26 12:23:24 
-Mar 26 12:23:24 初始化摇钱树个人信息
-Mar 26 12:23:25 resultCode为0
-Mar 26 12:23:26 每日签到条件查询:已经签到过了
-Mar 26 12:23:26 开始做任务userInfo了
-Mar 26 12:23:26 
-Mar 26 12:23:27 canTask::[{"workStatus":0,"workContent":"每天来签到","prizeType":2,"mid":0,"workName":"每日签到","prizeAmount":200,"workType":1},{"workStatus":2,"workContent":"每天分享一下","prizeType":2,"mid":0,"workName":"每日分享","prizeAmount":500,"workType":2},{"workStatus":0,"workContent":"每天分享新用户来玩5次","prizeType":2,"mid":0,"workName":"每日分享新用户","prizeAmount":30000,"workType":3}]
-Mar 26 12:23:27 
-Mar 26 12:23:27 浏览任务列表taskInfo::[{"workStatus":2,"prizeType":0,"mapValues":[1,1,1,1,1,1,1],"workLabel":"已完成","mid":666,"prizeAmount":1000,"workType":7},{"workStatus":2,"prizeType":0,"mapValues":[1,1,1,1,1,1,1],"workLabel":"已完成","mid":667,"prizeAmount":1000,"workType":7}]
-Mar 26 12:23:27 
-Mar 26 12:23:27 开始三餐签到
-Mar 26 12:23:28 三餐签到结果:{"resultCode":0,"resultMsg":"操作成功","resultData":{"msg":"成功","code":"200","data":{"opMsg":"操作成功","opResult":0,"prizeAmount":200}},"channelEncrypt":0}
-Mar 26 12:23:28 分享任务已经做过
-Mar 26 12:23:28 所有的浏览任务都做完了
-Mar 26 12:23:28 所有的浏览任务都做完了
-Mar 26 12:23:28 收获的操作:{"userInfo":"07DF35054032E1760EA8ABA0821B84C5","firstLogin":false,"nick":"IS_FREEDOM","linkMissionIds":["666","667"],"showTips":false,"sharePin":"aAO7Pedza8l_W0Zj_DRiNA","cashType":1,"isFirstLogin":false,"pushStatus":0,"workerList":[],"avatar":"https://storage.360buyimg.com/i.imageUpload/62757273743331363631343235393737363737353836_big.jpg","showUpgradeInfo":false,"stole":0,"userToken":"CD8D4158DC33B83B2E258C7C6A264958","realName":true,"stop":1,"treeInfo":{"upgradeDemand":200000,"progressLeft":"15.5%","treeName":"15级阳光小树","level":15,"fruit":722818,"fruitHarvest":168947,"fruitOnTree":18000,"workerSum":4,"coin":0,"capacity":18000},"prodtabs":[{"tab":1,"content":"1-12级兑换区"},{"tab":2,"content":"12级以上"},{"tab":3,"content":"节日专享"},{"tab":4,"content":"精选好券"}],"newVersion":false}
-Mar 26 12:23:28 
-Mar 26 12:23:29 收获金果异常:{"resultCode":0,"resultMsg":"操作成功","resultData":{"msg":"无操作权限","code":"403"},"channelEncrypt":0}
-Mar 26 12:23:29 目前金果数量0
-Mar 26 12:23:29 
-Mar 26 12:23:29 设置的不卖出金果
-Mar 26 12:23:29 
-Mar 26 12:23:30 金币数量和金果：：{"resultCode":0,"resultMsg":"操作成功","resultData":{"msg":"成功","code":"200","data":{"gcAmount":2949,"gaAmount":723018,"canGoldcoin":1448}},"channelEncrypt":0}
-Mar 26 12:23:31 今日已偷过好友的金果了，暂无好友可偷，请明天再来
-Mar 26 12:23:31 
-Mar 26 12:23:31 
-Mar 26 12:23:31 【我的金果数量】723018
-Mar 26 12:23:31 【我的金币数量】2949
-Mar 26 12:23:31 
-Mar 26 12:23:31 
-Mar 26 12:23:31 
-Mar 26 12:23:31 🔔京东摇钱树, 结束! 🕛 7.169 秒
-Mar 26 12:23:31 
-Mar 26 14:23:07 
-Mar 26 14:23:07 🔔京东摇钱树, 开始!
-Mar 26 14:23:07 
-Mar 26 14:23:07 ====================共1个京东账号Cookie=========
-Mar 26 14:23:07 
-Mar 26 14:23:07 ==================脚本执行- 北京时间(UTC+8)：3/26/2021, 2:23:07 PM=====================
-Mar 26 14:23:07 
-Mar 26 14:23:08 
-Mar 26 14:23:08 开始【京东账号1】burst3166
-Mar 26 14:23:08 
-Mar 26 14:23:08 初始化摇钱树个人信息
-Mar 26 14:23:08 resultCode为0
-Mar 26 14:23:09 每日签到条件查询:已经签到过了
-Mar 26 14:23:09 开始做任务userInfo了
-Mar 26 14:23:09 
-Mar 26 14:23:10 canTask::[{"workStatus":-1,"workContent":"每天来签到","prizeType":2,"mid":0,"workName":"每日签到","prizeAmount":200,"workType":1},{"workStatus":2,"workContent":"每天分享一下","prizeType":2,"mid":0,"workName":"每日分享","prizeAmount":500,"workType":2},{"workStatus":0,"workContent":"每天分享新用户来玩5次","prizeType":2,"mid":0,"workName":"每日分享新用户","prizeAmount":30000,"workType":3}]
-Mar 26 14:23:10 
-Mar 26 14:23:10 浏览任务列表taskInfo::[{"workStatus":2,"prizeType":0,"mapValues":[1,1,1,1,1,1,1],"workLabel":"已完成","mid":666,"prizeAmount":1000,"workType":7},{"workStatus":2,"prizeType":0,"mapValues":[1,1,1,1,1,1,1],"workLabel":"已完成","mid":667,"prizeAmount":1000,"workType":7}]
-Mar 26 14:23:10 
-Mar 26 14:23:10 三餐签到任务不在时间范围内
-Mar 26 14:23:10 分享任务已经做过
-Mar 26 14:23:10 所有的浏览任务都做完了
-Mar 26 14:23:10 所有的浏览任务都做完了
-Mar 26 14:23:10 收获的操作:{"userInfo":"2CC825240710CA301E7DBCF45896DE27","firstLogin":false,"nick":"IS_FREEDOM","linkMissionIds":["666","667"],"showTips":false,"sharePin":"aAO7Pedza8l_W0Zj_DRiNA","cashType":1,"isFirstLogin":false,"pushStatus":0,"workerList":[],"avatar":"https://storage.360buyimg.com/i.imageUpload/62757273743331363631343235393737363737353836_big.jpg","showUpgradeInfo":false,"stole":0,"userToken":"9E2C8A4EAE2E7FDAF70157AE73A50933","realName":true,"stop":1,"treeInfo":{"upgradeDemand":200000,"treeName":"15级阳光小树","progressLeft":"15.5%","level":15,"fruit":723018,"fruitHarvest":168947,"fruitOnTree":18000,"workerSum":4,"coin":0,"capacity":18000},"prodtabs":[{"tab":1,"content":"1-12级兑换区"},{"tab":2,"content":"12级以上"},{"tab":3,"content":"节日专享"},{"tab":4,"content":"精选好券"}],"newVersion":false}
-Mar 26 14:23:10 
-Mar 26 14:23:11 收获金果异常:{"resultCode":0,"resultMsg":"操作成功","resultData":{"msg":"无操作权限","code":"403"},"channelEncrypt":0}
-Mar 26 14:23:11 目前金果数量0
-Mar 26 14:23:11 
-Mar 26 14:23:11 设置的不卖出金果
-Mar 26 14:23:11 
-Mar 26 14:23:12 金币数量和金果：：{"resultCode":0,"resultMsg":"操作成功","resultData":{"msg":"成功","code":"200","data":{"gcAmount":2952,"gaAmount":723018,"canGoldcoin":1448}},"channelEncrypt":0}
-Mar 26 14:23:13 今日已偷过好友的金果了，暂无好友可偷，请明天再来
-Mar 26 14:23:13 
-Mar 26 14:23:13 
-Mar 26 14:23:13 【我的金果数量】723018
-Mar 26 14:23:13 【我的金币数量】2952
-Mar 26 14:23:13 
-Mar 26 14:23:13 
-Mar 26 14:23:13 
-Mar 26 14:23:13 🔔京东摇钱树, 结束! 🕛 6.154 秒
-Mar 26 14:23:13 
-Mar 26 16:23:12 
-Mar 26 16:23:12 🔔京东摇钱树, 开始!
-Mar 26 16:23:12 
-Mar 26 16:23:12 ====================共1个京东账号Cookie=========
-Mar 26 16:23:12 
-Mar 26 16:23:12 ==================脚本执行- 北京时间(UTC+8)：3/26/2021, 4:23:12 PM=====================
-Mar 26 16:23:12 
-Mar 26 16:23:13 
-Mar 26 16:23:13 开始【京东账号1】burst3166
-Mar 26 16:23:13 
-Mar 26 16:23:13 初始化摇钱树个人信息
-Mar 26 16:23:13 resultCode为0
-Mar 26 16:23:14 每日签到条件查询:已经签到过了
-Mar 26 16:23:14 开始做任务userInfo了
-Mar 26 16:23:14 
-Mar 26 16:23:15 canTask::[{"workStatus":-1,"workContent":"每天来签到","prizeType":2,"mid":0,"workName":"每日签到","prizeAmount":200,"workType":1},{"workStatus":2,"workContent":"每天分享一下","prizeType":2,"mid":0,"workName":"每日分享","prizeAmount":500,"workType":2},{"workStatus":0,"workContent":"每天分享新用户来玩5次","prizeType":2,"mid":0,"workName":"每日分享新用户","prizeAmount":30000,"workType":3}]
-Mar 26 16:23:15 
-Mar 26 16:23:15 浏览任务列表taskInfo::[{"workStatus":2,"prizeType":0,"mapValues":[1,1,1,1,1,1,1],"workLabel":"已完成","mid":666,"prizeAmount":1000,"workType":7},{"workStatus":2,"prizeType":0,"mapValues":[1,1,1,1,1,1,1],"workLabel":"已完成","mid":667,"prizeAmount":1000,"workType":7}]
-Mar 26 16:23:15 
-Mar 26 16:23:15 三餐签到任务不在时间范围内
-Mar 26 16:23:15 分享任务已经做过
-Mar 26 16:23:15 所有的浏览任务都做完了
-Mar 26 16:23:15 所有的浏览任务都做完了
-Mar 26 16:23:15 收获的操作:{"userInfo":"0B7A83052EF335142DF5DA5B16C9202B","firstLogin":false,"nick":"IS_FREEDOM","linkMissionIds":["666","667"],"showTips":false,"sharePin":"aAO7Pedza8l_W0Zj_DRiNA","cashType":1,"isFirstLogin":false,"pushStatus":0,"workerList":[],"avatar":"https://storage.360buyimg.com/i.imageUpload/62757273743331363631343235393737363737353836_big.jpg","showUpgradeInfo":false,"stole":0,"userToken":"3F29F4411F876320854F15A1045AD431","realName":true,"stop":1,"treeInfo":{"upgradeDemand":200000,"treeName":"15级阳光小树","progressLeft":"15.5%","level":15,"fruit":723018,"fruitHarvest":168947,"fruitOnTree":18000,"workerSum":4,"coin":0,"capacity":18000},"prodtabs":[{"tab":1,"content":"1-12级兑换区"},{"tab":2,"content":"12级以上"},{"tab":3,"content":"节日专享"},{"tab":4,"content":"精选好券"}],"newVersion":false}
-Mar 26 16:23:15 
-Mar 26 16:23:16 收获金果异常:{"resultCode":0,"resultMsg":"操作成功","resultData":{"msg":"无操作权限","code":"403"},"channelEncrypt":0}
-Mar 26 16:23:16 目前金果数量0
-Mar 26 16:23:16 
-Mar 26 16:23:16 设置的不卖出金果
-Mar 26 16:23:16 
-Mar 26 16:23:17 金币数量和金果：：{"resultCode":0,"resultMsg":"操作成功","resultData":{"msg":"成功","code":"200","data":{"gcAmount":2955,"gaAmount":723018,"canGoldcoin":1448}},"channelEncrypt":0}
-Mar 26 16:23:19 今日已偷过好友的金果了，暂无好友可偷，请明天再来
-Mar 26 16:23:19 
-Mar 26 16:23:19 
-Mar 26 16:23:19 【我的金果数量】723018
-Mar 26 16:23:19 【我的金币数量】2955
-Mar 26 16:23:19 
-Mar 26 16:23:19 
-Mar 26 16:23:19 
-Mar 26 16:23:19 🔔京东摇钱树, 结束! 🕛 6.178 秒
-Mar 26 16:23:19 
+Mar 31 00:23:22 
+Mar 31 00:23:22 🔔京东摇钱树, 开始!
+Mar 31 00:23:22 
+Mar 31 00:23:22 ====================共1个京东账号Cookie=========
+Mar 31 00:23:22 
+Mar 31 00:23:22 ==================脚本执行- 北京时间(UTC+8)：3/31/2021, 12:23:22 AM=====================
+Mar 31 00:23:22 
+Mar 31 00:23:22 
+Mar 31 00:23:22 开始【京东账号1】burst3166
+Mar 31 00:23:22 
+Mar 31 00:23:22 初始化摇钱树个人信息
+Mar 31 00:23:22 resultCode为0
+Mar 31 00:23:23 每日签到条件查询:可以签到
+Mar 31 00:23:23 准备每日签到
+Mar 31 00:23:25 第6日签到结果:{"resultCode":0,"resultMsg":"操作成功","resultData":{"msg":"成功","code":"200","data":{"result":true}},"channelEncrypt":0}
+Mar 31 00:23:25 开始做任务userInfo了
+Mar 31 00:23:25 
+Mar 31 00:23:26 canTask::[{"workStatus":-1,"workContent":"每天来签到","prizeType":2,"mid":0,"workName":"每日签到","prizeAmount":200,"workType":1},{"workStatus":0,"workContent":"每天分享一下","prizeType":2,"mid":0,"workName":"每日分享","prizeAmount":500,"workType":2},{"workStatus":0,"workContent":"每天分享新用户来玩5次","prizeType":2,"mid":0,"workName":"每日分享新用户","prizeAmount":30000,"workType":3}]
+Mar 31 00:23:26 
+Mar 31 00:23:26 浏览任务列表taskInfo::[{"workStatus":0,"mapValues":[],"prizeType":0,"workLabel":"去完成","mid":666,"prizeAmount":1000,"workType":7},{"workStatus":0,"mapValues":[],"prizeType":0,"workLabel":"去完成","mid":667,"prizeAmount":1000,"workType":7}]
+Mar 31 00:23:26 
+Mar 31 00:23:26 三餐签到任务不在时间范围内
+Mar 31 00:23:26 开始做分享任务
+Mar 31 00:23:26 
+Mar 31 00:23:27 开始分享的动作:{"resultCode":0,"resultMsg":"操作成功","resultData":{"msg":"成功","code":"200","data":{"opMsg":"操作成功","nextStatus":1,"opResult":0}},"channelEncrypt":0}
+Mar 31 00:23:27 开始做领取分享后的奖励
+Mar 31 00:23:27 
+Mar 31 00:23:28 领取分享后的奖励:{"resultCode":0,"resultMsg":"操作成功","resultData":{"msg":"成功","code":"200","data":{"opMsg":"操作成功","opResult":0,"prizeAmount":500}},"channelEncrypt":0}
+Mar 31 00:23:28 开始做浏览任务
+Mar 31 00:23:29 missionId为666：：第1次浏览活动完成: {"resultCode":0,"resultMsg":"操作成功","resultData":{"msg":"成功","code":"200"},"channelEncrypt":0}
+Mar 31 00:23:30 missionId为666：：第2次浏览活动完成: {"resultCode":0,"resultMsg":"操作成功","resultData":{"msg":"成功","code":"200"},"channelEncrypt":0}
+Mar 31 00:23:31 missionId为666：：第3次浏览活动完成: {"resultCode":0,"resultMsg":"操作成功","resultData":{"msg":"成功","code":"200"},"channelEncrypt":0}
+Mar 31 00:23:32 missionId为666：：第4次浏览活动完成: {"resultCode":0,"resultMsg":"操作成功","resultData":{"msg":"成功","code":"200"},"channelEncrypt":0}
+Mar 31 00:23:33 missionId为666：：第5次浏览活动完成: {"resultCode":0,"resultMsg":"操作成功","resultData":{"msg":"成功","code":"200"},"channelEncrypt":0}
+Mar 31 00:23:34 missionId为666：：第6次浏览活动完成: {"resultCode":0,"resultMsg":"操作成功","resultData":{"msg":"成功","code":"200"},"channelEncrypt":0}
+Mar 31 00:23:35 missionId为666：：第7次浏览活动完成: {"resultCode":0,"resultMsg":"操作成功","resultData":{"msg":"成功","code":"200"},"channelEncrypt":0}
+Mar 31 00:23:35 浏览店铺任务结束
+Mar 31 00:23:35 开始领取浏览后的奖励
+Mar 31 00:23:36 领取浏览任务奖励成功：{"resultCode":0,"resultMsg":"操作成功","resultData":{"msg":"成功","code":"200","data":{"opMsg":"领取成功","opResult":0,"prizeAmount":1000,"nextStatus":2}},"channelEncrypt":0}
+Mar 31 00:23:36 aaa{"resultCode":0,"resultMsg":"操作成功","resultData":{"msg":"成功","code":"200","data":{"opMsg":"领取成功","opResult":0,"prizeAmount":1000,"nextStatus":2}},"channelEncrypt":0}
+Mar 31 00:23:36 开始做浏览任务
+Mar 31 00:23:37 missionId为667：：第1次浏览活动完成: {"resultCode":0,"resultMsg":"操作成功","resultData":{"msg":"成功","code":"200"},"channelEncrypt":0}
+Mar 31 00:23:38 missionId为667：：第2次浏览活动完成: {"resultCode":0,"resultMsg":"操作成功","resultData":{"msg":"成功","code":"200"},"channelEncrypt":0}
+Mar 31 00:23:39 missionId为667：：第3次浏览活动完成: {"resultCode":0,"resultMsg":"操作成功","resultData":{"msg":"成功","code":"200"},"channelEncrypt":0}
+Mar 31 00:23:40 missionId为667：：第4次浏览活动完成: {"resultCode":0,"resultMsg":"操作成功","resultData":{"msg":"成功","code":"200"},"channelEncrypt":0}
+Mar 31 00:23:41 missionId为667：：第5次浏览活动完成: {"resultCode":0,"resultMsg":"操作成功","resultData":{"msg":"成功","code":"200"},"channelEncrypt":0}
+Mar 31 00:23:42 missionId为667：：第6次浏览活动完成: {"resultCode":0,"resultMsg":"操作成功","resultData":{"msg":"成功","code":"200"},"channelEncrypt":0}
+Mar 31 00:23:44 missionId为667：：第7次浏览活动完成: {"resultCode":0,"resultMsg":"操作成功","resultData":{"msg":"成功","code":"200"},"channelEncrypt":0}
+Mar 31 00:23:44 浏览店铺任务结束
+Mar 31 00:23:44 开始领取浏览后的奖励
+Mar 31 00:23:45 领取浏览任务奖励成功：{"resultCode":0,"resultMsg":"操作成功","resultData":{"msg":"成功","code":"200","data":{"opMsg":"领取成功","opResult":0,"prizeAmount":1000,"nextStatus":2}},"channelEncrypt":0}
+Mar 31 00:23:45 aaa{"resultCode":0,"resultMsg":"操作成功","resultData":{"msg":"成功","code":"200","data":{"opMsg":"领取成功","opResult":0,"prizeAmount":1000,"nextStatus":2}},"channelEncrypt":0}
+Mar 31 00:23:45 收获的操作:{"userInfo":"8888CBF834ABE733C1FA38AF4D37E846","firstLogin":false,"nick":"IS_FREEDOM","linkMissionIds":["666","667"],"jtRest":7,"showTips":false,"jtRatio":8000,"sharePin":"aAO7Pedza8l_W0Zj_DRiNA","cashType":2,"isFirstLogin":false,"pushStatus":0,"workerList":[],"avatar":"https://storage.360buyimg.com/i.imageUpload/62757273743331363631343235393737363737353836_big.jpg","showUpgradeInfo":false,"stole":0,"userToken":"D05DA875FF28DA7FC8A2D271BB569AC5","jtMax":7,"realName":true,"stop":1,"treeInfo":{"upgradeDemand":200000,"treeName":"15级阳光小树","progressLeft":"15.5%","level":15,"fruit":738018,"fruitHarvest":168947,"fruitOnTree":18000,"workerSum":4,"coin":0,"capacity":18000},"jtGuide":false,"prodtabs":[{"tab":1,"content":"1-12级兑换区"},{"tab":2,"content":"12级以上"},{"tab":3,"content":"节日专享"},{"tab":4,"content":"精选好券"}],"newVersion":false}
+Mar 31 00:23:45 
+Mar 31 00:23:46 收获金果异常:{"resultCode":0,"resultMsg":"操作成功","resultData":{"msg":"无操作权限","code":"403"},"channelEncrypt":0}
+Mar 31 00:23:46 目前金果数量0
+Mar 31 00:23:46 
+Mar 31 00:23:46 设置的不卖出金果
+Mar 31 00:23:46 
+Mar 31 00:23:47 金币数量和金果：：{"resultCode":0,"resultMsg":"操作成功","resultData":{"msg":"成功","code":"200","data":{"gcAmount":11,"gaAmount":741718,"canGoldcoin":1486}},"channelEncrypt":0}
+Mar 31 00:23:48 今日已偷过好友的金果了，暂无好友可偷，请明天再来
+Mar 31 00:23:48 
+Mar 31 00:23:48 
+Mar 31 00:23:48 【我的金果数量】741718
+Mar 31 00:23:48 【我的金币数量】11
+Mar 31 00:23:48 
+Mar 31 00:23:48 
+Mar 31 00:23:48 
+Mar 31 00:23:48 🔔京东摇钱树, 结束! 🕛 26.145 秒
+Mar 31 00:23:48 
+Mar 31 02:23:09 
+Mar 31 02:23:09 🔔京东摇钱树, 开始!
+Mar 31 02:23:09 
+Mar 31 02:23:09 ====================共1个京东账号Cookie=========
+Mar 31 02:23:09 
+Mar 31 02:23:09 ==================脚本执行- 北京时间(UTC+8)：3/31/2021, 2:23:09 AM=====================
+Mar 31 02:23:09 
+Mar 31 02:23:10 
+Mar 31 02:23:10 开始【京东账号1】burst3166
+Mar 31 02:23:10 
+Mar 31 02:23:10 初始化摇钱树个人信息
+Mar 31 02:23:10 resultCode为0
+Mar 31 02:23:11 每日签到条件查询:已经签到过了
+Mar 31 02:23:11 开始做任务userInfo了
+Mar 31 02:23:11 
+Mar 31 02:23:12 canTask::[{"workStatus":-1,"workContent":"每天来签到","prizeType":2,"mid":0,"workName":"每日签到","prizeAmount":200,"workType":1},{"workStatus":2,"workContent":"每天分享一下","prizeType":2,"mid":0,"workName":"每日分享","prizeAmount":500,"workType":2},{"workStatus":0,"workContent":"每天分享新用户来玩5次","prizeType":2,"mid":0,"workName":"每日分享新用户","prizeAmount":30000,"workType":3}]
+Mar 31 02:23:12 
+Mar 31 02:23:12 浏览任务列表taskInfo::[{"workStatus":2,"prizeType":0,"mapValues":[1,1,1,1,1,1,1],"workLabel":"已完成","mid":666,"prizeAmount":1000,"workType":7},{"workStatus":2,"prizeType":0,"mapValues":[1,1,1,1,1,1,1],"workLabel":"已完成","mid":667,"prizeAmount":1000,"workType":7}]
+Mar 31 02:23:12 
+Mar 31 02:23:12 三餐签到任务不在时间范围内
+Mar 31 02:23:12 分享任务已经做过
+Mar 31 02:23:12 所有的浏览任务都做完了
+Mar 31 02:23:12 所有的浏览任务都做完了
+Mar 31 02:23:12 收获的操作:{"userInfo":"CD884EC47CA16713815E8B07FF4F18FF","firstLogin":false,"nick":"IS_FREEDOM","linkMissionIds":["666","667"],"jtRest":7,"showTips":false,"jtRatio":8000,"sharePin":"aAO7Pedza8l_W0Zj_DRiNA","cashType":2,"isFirstLogin":false,"pushStatus":0,"workerList":[],"avatar":"https://storage.360buyimg.com/i.imageUpload/62757273743331363631343235393737363737353836_big.jpg","showUpgradeInfo":false,"stole":0,"userToken":"3496531E4A807F195FF077BE0D0CAF0D","jtMax":7,"realName":true,"stop":1,"treeInfo":{"upgradeDemand":200000,"progressLeft":"15.5%","treeName":"15级阳光小树","level":15,"fruit":741718,"fruitHarvest":168947,"fruitOnTree":18000,"workerSum":4,"coin":0,"capacity":18000},"jtGuide":false,"prodtabs":[{"tab":1,"content":"1-12级兑换区"},{"tab":2,"content":"12级以上"},{"tab":3,"content":"节日专享"},{"tab":4,"content":"精选好券"}],"newVersion":false}
+Mar 31 02:23:12 
+Mar 31 02:23:13 收获金果异常:{"resultCode":0,"resultMsg":"操作成功","resultData":{"msg":"无操作权限","code":"403"},"channelEncrypt":0}
+Mar 31 02:23:13 目前金果数量0
+Mar 31 02:23:13 
+Mar 31 02:23:13 设置的不卖出金果
+Mar 31 02:23:13 
+Mar 31 02:23:14 金币数量和金果：：{"resultCode":0,"resultMsg":"操作成功","resultData":{"msg":"成功","code":"200","data":{"gcAmount":11,"gaAmount":741718,"canGoldcoin":1486}},"channelEncrypt":0}
+Mar 31 02:23:15 今日已偷过好友的金果了，暂无好友可偷，请明天再来
+Mar 31 02:23:15 
+Mar 31 02:23:15 
+Mar 31 02:23:15 【我的金果数量】741718
+Mar 31 02:23:15 【我的金币数量】11
+Mar 31 02:23:15 
+Mar 31 02:23:15 
+Mar 31 02:23:15 
+Mar 31 02:23:15 🔔京东摇钱树, 结束! 🕛 6.064 秒
+Mar 31 02:23:15 
+Mar 31 04:23:09 
+Mar 31 04:23:09 🔔京东摇钱树, 开始!
+Mar 31 04:23:09 
+Mar 31 04:23:09 ====================共1个京东账号Cookie=========
+Mar 31 04:23:09 
+Mar 31 04:23:09 ==================脚本执行- 北京时间(UTC+8)：3/31/2021, 4:23:09 AM=====================
+Mar 31 04:23:09 
+Mar 31 04:23:10 
+Mar 31 04:23:10 开始【京东账号1】burst3166
+Mar 31 04:23:10 
+Mar 31 04:23:10 初始化摇钱树个人信息
+Mar 31 04:23:10 resultCode为0
+Mar 31 04:23:11 每日签到条件查询:已经签到过了
+Mar 31 04:23:11 开始做任务userInfo了
+Mar 31 04:23:11 
+Mar 31 04:23:12 canTask::[{"workStatus":-1,"workContent":"每天来签到","prizeType":2,"mid":0,"workName":"每日签到","prizeAmount":200,"workType":1},{"workStatus":2,"workContent":"每天分享一下","prizeType":2,"mid":0,"workName":"每日分享","prizeAmount":500,"workType":2},{"workStatus":0,"workContent":"每天分享新用户来玩5次","prizeType":2,"mid":0,"workName":"每日分享新用户","prizeAmount":30000,"workType":3}]
+Mar 31 04:23:12 
+Mar 31 04:23:12 浏览任务列表taskInfo::[{"workStatus":2,"prizeType":0,"mapValues":[1,1,1,1,1,1,1],"workLabel":"已完成","mid":666,"prizeAmount":1000,"workType":7},{"workStatus":2,"prizeType":0,"mapValues":[1,1,1,1,1,1,1],"workLabel":"已完成","mid":667,"prizeAmount":1000,"workType":7}]
+Mar 31 04:23:12 
+Mar 31 04:23:12 三餐签到任务不在时间范围内
+Mar 31 04:23:12 分享任务已经做过
+Mar 31 04:23:12 所有的浏览任务都做完了
+Mar 31 04:23:12 所有的浏览任务都做完了
+Mar 31 04:23:12 收获的操作:{"userInfo":"8EDD0D32FA842B9D943C1A2E3CB2DCA1","firstLogin":false,"nick":"IS_FREEDOM","linkMissionIds":["666","667"],"jtRest":7,"showTips":false,"jtRatio":8000,"sharePin":"aAO7Pedza8l_W0Zj_DRiNA","cashType":2,"isFirstLogin":false,"pushStatus":0,"workerList":[],"avatar":"https://storage.360buyimg.com/i.imageUpload/62757273743331363631343235393737363737353836_big.jpg","showUpgradeInfo":false,"stole":0,"userToken":"325686242B0F5B0582D5824ACAE324DB","jtMax":7,"realName":true,"stop":1,"treeInfo":{"upgradeDemand":200000,"treeName":"15级阳光小树","progressLeft":"15.5%","level":15,"fruit":741718,"fruitHarvest":168947,"fruitOnTree":18000,"workerSum":4,"coin":0,"capacity":18000},"jtGuide":false,"prodtabs":[{"tab":1,"content":"1-12级兑换区"},{"tab":2,"content":"12级以上"},{"tab":3,"content":"节日专享"},{"tab":4,"content":"精选好券"}],"newVersion":false}
+Mar 31 04:23:12 
+Mar 31 04:23:13 收获金果异常:{"resultCode":0,"resultMsg":"操作成功","resultData":{"msg":"无操作权限","code":"403"},"channelEncrypt":0}
+Mar 31 04:23:13 目前金果数量0
+Mar 31 04:23:13 
+Mar 31 04:23:13 设置的不卖出金果
+Mar 31 04:23:13 
+Mar 31 04:23:14 金币数量和金果：：{"resultCode":0,"resultMsg":"操作成功","resultData":{"msg":"成功","code":"200","data":{"gcAmount":11,"gaAmount":741718,"canGoldcoin":1486}},"channelEncrypt":0}
+Mar 31 04:23:15 今日已偷过好友的金果了，暂无好友可偷，请明天再来
+Mar 31 04:23:15 
+Mar 31 04:23:15 
+Mar 31 04:23:15 【我的金果数量】741718
+Mar 31 04:23:15 【我的金币数量】11
+Mar 31 04:23:15 
+Mar 31 04:23:15 
+Mar 31 04:23:15 
+Mar 31 04:23:15 🔔京东摇钱树, 结束! 🕛 6.131 秒
+Mar 31 04:23:15 
+Mar 31 06:23:04 
+Mar 31 06:23:04 🔔京东摇钱树, 开始!
+Mar 31 06:23:04 
+Mar 31 06:23:04 ====================共1个京东账号Cookie=========
+Mar 31 06:23:04 
+Mar 31 06:23:04 ==================脚本执行- 北京时间(UTC+8)：3/31/2021, 6:23:04 AM=====================
+Mar 31 06:23:04 
+Mar 31 06:23:05 
+Mar 31 06:23:05 开始【京东账号1】burst3166
+Mar 31 06:23:05 
+Mar 31 06:23:05 初始化摇钱树个人信息
+Mar 31 06:23:05 resultCode为0
+Mar 31 06:23:06 每日签到条件查询:已经签到过了
+Mar 31 06:23:06 开始做任务userInfo了
+Mar 31 06:23:06 
+Mar 31 06:23:07 canTask::[{"workStatus":-1,"workContent":"每天来签到","prizeType":2,"mid":0,"workName":"每日签到","prizeAmount":200,"workType":1},{"workStatus":2,"workContent":"每天分享一下","prizeType":2,"mid":0,"workName":"每日分享","prizeAmount":500,"workType":2},{"workStatus":0,"workContent":"每天分享新用户来玩5次","prizeType":2,"mid":0,"workName":"每日分享新用户","prizeAmount":30000,"workType":3}]
+Mar 31 06:23:07 
+Mar 31 06:23:07 浏览任务列表taskInfo::[{"workStatus":2,"mapValues":[1,1,1,1,1,1,1],"prizeType":0,"workLabel":"已完成","mid":666,"prizeAmount":1000,"workType":7},{"workStatus":2,"mapValues":[1,1,1,1,1,1,1],"prizeType":0,"workLabel":"已完成","mid":667,"prizeAmount":1000,"workType":7}]
+Mar 31 06:23:07 
+Mar 31 06:23:07 三餐签到任务不在时间范围内
+Mar 31 06:23:07 分享任务已经做过
+Mar 31 06:23:07 所有的浏览任务都做完了
+Mar 31 06:23:07 所有的浏览任务都做完了
+Mar 31 06:23:07 收获的操作:{"userInfo":"5D842C5BBCC087B870AB217654133F91","firstLogin":false,"nick":"IS_FREEDOM","linkMissionIds":["666","667"],"jtRest":7,"showTips":false,"jtRatio":8000,"sharePin":"aAO7Pedza8l_W0Zj_DRiNA","cashType":2,"isFirstLogin":false,"pushStatus":0,"workerList":[],"avatar":"https://storage.360buyimg.com/i.imageUpload/62757273743331363631343235393737363737353836_big.jpg","showUpgradeInfo":false,"stole":0,"userToken":"1E3B68F8E407CE51128E4B08255B3AB7","jtMax":7,"realName":true,"stop":1,"treeInfo":{"upgradeDemand":200000,"progressLeft":"15.5%","treeName":"15级阳光小树","level":15,"fruit":741718,"fruitHarvest":168947,"fruitOnTree":18000,"workerSum":4,"coin":0,"capacity":18000},"jtGuide":false,"prodtabs":[{"tab":1,"content":"1-12级兑换区"},{"tab":2,"content":"12级以上"},{"tab":3,"content":"节日专享"},{"tab":4,"content":"精选好券"}],"newVersion":false}
+Mar 31 06:23:07 
+Mar 31 06:23:09 收获金果异常:{"resultCode":0,"resultMsg":"操作成功","resultData":{"msg":"无操作权限","code":"403"},"channelEncrypt":0}
+Mar 31 06:23:09 目前金果数量0
+Mar 31 06:23:09 
+Mar 31 06:23:09 设置的不卖出金果
+Mar 31 06:23:09 
+Mar 31 06:23:10 金币数量和金果：：{"resultCode":0,"resultMsg":"操作成功","resultData":{"msg":"成功","code":"200","data":{"gcAmount":11,"gaAmount":741718,"canGoldcoin":1486}},"channelEncrypt":0}
+Mar 31 06:23:11 今日已偷过好友的金果了，暂无好友可偷，请明天再来
+Mar 31 06:23:11 
+Mar 31 06:23:11 
+Mar 31 06:23:11 【我的金果数量】741718
+Mar 31 06:23:11 【我的金币数量】11
+Mar 31 06:23:11 
+Mar 31 06:23:11 
+Mar 31 06:23:11 
+Mar 31 06:23:11 🔔京东摇钱树, 结束! 🕛 6.177 秒
+Mar 31 06:23:11 
+Mar 31 08:23:13 
+Mar 31 08:23:13 🔔京东摇钱树, 开始!
+Mar 31 08:23:13 
+Mar 31 08:23:13 ====================共1个京东账号Cookie=========
+Mar 31 08:23:13 
+Mar 31 08:23:13 ==================脚本执行- 北京时间(UTC+8)：3/31/2021, 8:23:13 AM=====================
+Mar 31 08:23:13 
+Mar 31 08:23:14 
+Mar 31 08:23:14 开始【京东账号1】burst3166
+Mar 31 08:23:14 
+Mar 31 08:23:14 初始化摇钱树个人信息
+Mar 31 08:23:14 resultCode为0
+Mar 31 08:23:15 每日签到条件查询:已经签到过了
+Mar 31 08:23:15 开始做任务userInfo了
+Mar 31 08:23:15 
+Mar 31 08:23:16 canTask::[{"workStatus":0,"workContent":"每天来签到","prizeType":2,"mid":0,"workName":"每日签到","prizeAmount":200,"workType":1},{"workStatus":2,"workContent":"每天分享一下","prizeType":2,"mid":0,"workName":"每日分享","prizeAmount":500,"workType":2},{"workStatus":0,"workContent":"每天分享新用户来玩5次","prizeType":2,"mid":0,"workName":"每日分享新用户","prizeAmount":30000,"workType":3}]
+Mar 31 08:23:16 
+Mar 31 08:23:16 浏览任务列表taskInfo::[{"workStatus":2,"mapValues":[1,1,1,1,1,1,1],"prizeType":0,"workLabel":"已完成","mid":666,"prizeAmount":1000,"workType":7},{"workStatus":2,"mapValues":[1,1,1,1,1,1,1],"prizeType":0,"workLabel":"已完成","mid":667,"prizeAmount":1000,"workType":7}]
+Mar 31 08:23:16 
+Mar 31 08:23:16 开始三餐签到
+Mar 31 08:23:17 三餐签到结果:{"resultCode":0,"resultMsg":"操作成功","resultData":{"msg":"成功","code":"200","data":{"opMsg":"操作成功","opResult":0,"prizeAmount":200}},"channelEncrypt":0}
+Mar 31 08:23:17 分享任务已经做过
+Mar 31 08:23:17 所有的浏览任务都做完了
+Mar 31 08:23:17 所有的浏览任务都做完了
+Mar 31 08:23:17 收获的操作:{"userInfo":"D4CA13733C8C7205DF0DD92E22931604","firstLogin":false,"nick":"IS_FREEDOM","linkMissionIds":["666","667"],"jtRest":7,"showTips":false,"jtRatio":8000,"sharePin":"aAO7Pedza8l_W0Zj_DRiNA","cashType":2,"isFirstLogin":false,"pushStatus":0,"workerList":[],"avatar":"https://storage.360buyimg.com/i.imageUpload/62757273743331363631343235393737363737353836_big.jpg","showUpgradeInfo":false,"stole":0,"jtMax":7,"userToken":"0B34B7551DD0FFB30279E98F2B738E9E","realName":true,"stop":1,"treeInfo":{"upgradeDemand":200000,"progressLeft":"15.5%","treeName":"15级阳光小树","level":15,"fruit":741718,"fruitHarvest":168947,"fruitOnTree":18000,"workerSum":4,"coin":0,"capacity":18000},"jtGuide":false,"prodtabs":[{"tab":1,"content":"1-12级兑换区"},{"tab":2,"content":"12级以上"},{"tab":3,"content":"节日专享"},{"tab":4,"content":"精选好券"}],"newVersion":false}
+Mar 31 08:23:17 
+Mar 31 08:23:18 收获金果异常:{"resultCode":0,"resultMsg":"操作成功","resultData":{"msg":"无操作权限","code":"403"},"channelEncrypt":0}
+Mar 31 08:23:18 目前金果数量0
+Mar 31 08:23:18 
+Mar 31 08:23:18 设置的不卖出金果
+Mar 31 08:23:18 
+Mar 31 08:23:19 金币数量和金果：：{"resultCode":0,"resultMsg":"操作成功","resultData":{"msg":"成功","code":"200","data":{"gcAmount":11,"gaAmount":741918,"canGoldcoin":1486}},"channelEncrypt":0}
+Mar 31 08:23:20 今日已偷过好友的金果了，暂无好友可偷，请明天再来
+Mar 31 08:23:20 
+Mar 31 08:23:20 
+Mar 31 08:23:20 【我的金果数量】741918
+Mar 31 08:23:20 【我的金币数量】11
+Mar 31 08:23:20 
+Mar 31 08:23:20 
+Mar 31 08:23:20 
+Mar 31 08:23:20 🔔京东摇钱树, 结束! 🕛 7.186 秒
+Mar 31 08:23:20 
+Mar 31 10:23:15 
+Mar 31 10:23:15 🔔京东摇钱树, 开始!
+Mar 31 10:23:15 
+Mar 31 10:23:15 ====================共1个京东账号Cookie=========
+Mar 31 10:23:15 
+Mar 31 10:23:15 ==================脚本执行- 北京时间(UTC+8)：3/31/2021, 10:23:15 AM=====================
+Mar 31 10:23:15 
+Mar 31 10:23:16 
+Mar 31 10:23:16 开始【京东账号1】burst3166
+Mar 31 10:23:16 
+Mar 31 10:23:16 初始化摇钱树个人信息
+Mar 31 10:23:16 resultCode为0
+Mar 31 10:23:17 每日签到条件查询:已经签到过了
+Mar 31 10:23:17 开始做任务userInfo了
+Mar 31 10:23:17 
+Mar 31 10:23:19 canTask::[{"workStatus":-1,"workContent":"每天来签到","prizeType":2,"mid":0,"workName":"每日签到","prizeAmount":200,"workType":1},{"workStatus":2,"workContent":"每天分享一下","prizeType":2,"mid":0,"workName":"每日分享","prizeAmount":500,"workType":2},{"workStatus":0,"workContent":"每天分享新用户来玩5次","prizeType":2,"mid":0,"workName":"每日分享新用户","prizeAmount":30000,"workType":3}]
+Mar 31 10:23:19 
+Mar 31 10:23:19 浏览任务列表taskInfo::[{"workStatus":2,"prizeType":0,"mapValues":[1,1,1,1,1,1,1],"workLabel":"已完成","mid":666,"prizeAmount":1000,"workType":7},{"workStatus":2,"prizeType":0,"mapValues":[1,1,1,1,1,1,1],"workLabel":"已完成","mid":667,"prizeAmount":1000,"workType":7}]
+Mar 31 10:23:19 
+Mar 31 10:23:19 三餐签到任务不在时间范围内
+Mar 31 10:23:19 分享任务已经做过
+Mar 31 10:23:19 所有的浏览任务都做完了
+Mar 31 10:23:19 所有的浏览任务都做完了
+Mar 31 10:23:19 收获的操作:{"userInfo":"D3BE149A1694C38CCD7DB5120F09154C","firstLogin":false,"nick":"IS_FREEDOM","linkMissionIds":["666","667"],"jtRest":7,"showTips":false,"jtRatio":8000,"sharePin":"aAO7Pedza8l_W0Zj_DRiNA","cashType":2,"isFirstLogin":false,"pushStatus":0,"workerList":[],"avatar":"https://storage.360buyimg.com/i.imageUpload/62757273743331363631343235393737363737353836_big.jpg","showUpgradeInfo":false,"stole":0,"userToken":"40A5FCD9305FFA47237197A29EAD8678","jtMax":7,"realName":true,"stop":1,"treeInfo":{"upgradeDemand":200000,"treeName":"15级阳光小树","progressLeft":"15.5%","level":15,"fruit":741918,"fruitHarvest":168947,"fruitOnTree":18000,"workerSum":4,"coin":0,"capacity":18000},"jtGuide":false,"prodtabs":[{"tab":1,"content":"1-12级兑换区"},{"tab":2,"content":"12级以上"},{"tab":3,"content":"节日专享"},{"tab":4,"content":"精选好券"}],"newVersion":false}
+Mar 31 10:23:19 
+Mar 31 10:23:20 收获金果异常:{"resultCode":0,"resultMsg":"操作成功","resultData":{"msg":"无操作权限","code":"403"},"channelEncrypt":0}
+Mar 31 10:23:20 目前金果数量0
+Mar 31 10:23:20 
+Mar 31 10:23:20 设置的不卖出金果
+Mar 31 10:23:20 
+Mar 31 10:23:21 金币数量和金果：：{"resultCode":0,"resultMsg":"操作成功","resultData":{"msg":"成功","code":"200","data":{"gcAmount":11,"gaAmount":741918,"canGoldcoin":1486}},"channelEncrypt":0}
+Mar 31 10:23:22 今日已偷过好友的金果了，暂无好友可偷，请明天再来
+Mar 31 10:23:22 
+Mar 31 10:23:22 
+Mar 31 10:23:22 【我的金果数量】741918
+Mar 31 10:23:22 【我的金币数量】11
+Mar 31 10:23:22 
+Mar 31 10:23:22 
+Mar 31 10:23:22 
+Mar 31 10:23:22 🔔京东摇钱树, 结束! 🕛 6.636 秒
+Mar 31 10:23:22 
+Mar 31 12:23:01 
+Mar 31 12:23:01 🔔京东摇钱树, 开始!
+Mar 31 12:23:01 
+Mar 31 12:23:01 ====================共1个京东账号Cookie=========
+Mar 31 12:23:01 
+Mar 31 12:23:01 ==================脚本执行- 北京时间(UTC+8)：3/31/2021, 12:23:01 PM=====================
+Mar 31 12:23:01 
+Mar 31 12:23:01 
+Mar 31 12:23:01 开始【京东账号1】burst3166
+Mar 31 12:23:01 
+Mar 31 12:23:01 初始化摇钱树个人信息
+Mar 31 12:23:02 resultCode为0
+Mar 31 12:23:03 每日签到条件查询:已经签到过了
+Mar 31 12:23:03 开始做任务userInfo了
+Mar 31 12:23:03 
+Mar 31 12:23:04 canTask::[{"workStatus":0,"workContent":"每天来签到","prizeType":2,"mid":0,"workName":"每日签到","prizeAmount":200,"workType":1},{"workStatus":2,"workContent":"每天分享一下","prizeType":2,"mid":0,"workName":"每日分享","prizeAmount":500,"workType":2},{"workStatus":0,"workContent":"每天分享新用户来玩5次","prizeType":2,"mid":0,"workName":"每日分享新用户","prizeAmount":30000,"workType":3}]
+Mar 31 12:23:04 
+Mar 31 12:23:04 浏览任务列表taskInfo::[{"workStatus":2,"prizeType":0,"mapValues":[1,1,1,1,1,1,1],"workLabel":"已完成","mid":666,"prizeAmount":1000,"workType":7},{"workStatus":2,"prizeType":0,"mapValues":[1,1,1,1,1,1,1],"workLabel":"已完成","mid":667,"prizeAmount":1000,"workType":7}]
+Mar 31 12:23:04 
+Mar 31 12:23:04 开始三餐签到
+Mar 31 12:23:05 三餐签到结果:{"resultCode":0,"resultMsg":"操作成功","resultData":{"msg":"成功","code":"200","data":{"opMsg":"操作成功","opResult":0,"prizeAmount":200}},"channelEncrypt":0}
+Mar 31 12:23:05 分享任务已经做过
+Mar 31 12:23:05 所有的浏览任务都做完了
+Mar 31 12:23:05 所有的浏览任务都做完了
+Mar 31 12:23:05 收获的操作:{"userInfo":"4D9C5AD32BABBCDFBD57F43088181506","firstLogin":false,"nick":"IS_FREEDOM","linkMissionIds":["666","667"],"jtRest":7,"showTips":false,"jtRatio":8000,"sharePin":"aAO7Pedza8l_W0Zj_DRiNA","cashType":2,"isFirstLogin":false,"pushStatus":0,"workerList":[],"avatar":"https://storage.360buyimg.com/i.imageUpload/62757273743331363631343235393737363737353836_big.jpg","showUpgradeInfo":false,"stole":0,"userToken":"42D57D923DCF9A501AEED73320546B6A","jtMax":7,"realName":true,"stop":1,"treeInfo":{"upgradeDemand":200000,"treeName":"15级阳光小树","progressLeft":"15.5%","level":15,"fruit":741918,"fruitHarvest":168947,"fruitOnTree":18000,"workerSum":4,"coin":0,"capacity":18000},"jtGuide":false,"prodtabs":[{"tab":1,"content":"1-12级兑换区"},{"tab":2,"content":"12级以上"},{"tab":3,"content":"节日专享"},{"tab":4,"content":"精选好券"}],"newVersion":false}
+Mar 31 12:23:05 
+Mar 31 12:23:06 收获金果异常:{"resultCode":0,"resultMsg":"操作成功","resultData":{"msg":"无操作权限","code":"403"},"channelEncrypt":0}
+Mar 31 12:23:06 目前金果数量0
+Mar 31 12:23:06 
+Mar 31 12:23:06 设置的不卖出金果
+Mar 31 12:23:06 
+Mar 31 12:23:07 金币数量和金果：：{"resultCode":0,"resultMsg":"操作成功","resultData":{"msg":"成功","code":"200","data":{"gcAmount":11,"gaAmount":742118,"canGoldcoin":1487}},"channelEncrypt":0}
+Mar 31 12:23:08 今日已偷过好友的金果了，暂无好友可偷，请明天再来
+Mar 31 12:23:08 
+Mar 31 12:23:08 
+Mar 31 12:23:08 【我的金果数量】742118
+Mar 31 12:23:08 【我的金币数量】11
+Mar 31 12:23:08 
+Mar 31 12:23:08 
+Mar 31 12:23:08 
+Mar 31 12:23:08 🔔京东摇钱树, 结束! 🕛 7.829 秒
+Mar 31 12:23:08 
