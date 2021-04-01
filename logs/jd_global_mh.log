@@ -82,3 +82,39 @@ Mar 31 12:35:07 本次运行获得0碎片，0京豆，共计0碎片
 Mar 31 12:35:07 
 Mar 31 12:35:07 🔔京东国际盲盒, 结束! 🕛 3.188 秒
 Mar 31 12:35:07 
+Mar 31 23:35:21 
+Mar 31 23:35:21 🔔京东国际盲盒, 开始!
+Mar 31 23:35:21 
+Mar 31 23:35:21 ====================共1个京东账号Cookie=========
+Mar 31 23:35:21 
+Mar 31 23:35:21 ==================脚本执行- 北京时间(UTC+8)：3/31/2021, 11:35:21 PM=====================
+Mar 31 23:35:21 
+Mar 31 23:35:22 
+Mar 31 23:35:22 ******开始【京东账号1】burst3166*********
+Mar 31 23:35:22 
+Mar 31 23:35:22 
+Mar 31 23:35:22 ❗️京东国际盲盒, 错误!
+Mar 31 23:35:22 TypeError: Cannot read property 'filter' of undefined
+Mar 31 23:35:22     at /scripts/jd_global_mh.js:116:42
+Mar 31 23:35:22     at isSurge.isLoon.isQuanX.isNode.got.on.then.message (/scripts/jd_global_mh.js:421:4869)
+Mar 31 23:35:22     at processTicksAndRejections (internal/process/task_queues.js:97:5)
+Mar 31 23:35:22 
+Mar 31 23:35:22 ❗️京东国际盲盒, 错误!
+Mar 31 23:35:22 TypeError: undefined is not iterable (cannot read property Symbol(Symbol.iterator))
+Mar 31 23:35:22     at /scripts/jd_global_mh.js:194:26
+Mar 31 23:35:22     at isSurge.isLoon.isQuanX.isNode.got.on.then.message (/scripts/jd_global_mh.js:421:4869)
+Mar 31 23:35:22     at processTicksAndRejections (internal/process/task_queues.js:97:5)
+Mar 31 23:35:22 
+Mar 31 23:35:22 ❗️京东国际盲盒, 错误!
+Mar 31 23:35:22 TypeError: Cannot read property 'filter' of undefined
+Mar 31 23:35:22     at /scripts/jd_global_mh.js:116:42
+Mar 31 23:35:22     at isSurge.isLoon.isQuanX.isNode.got.on.then.message (/scripts/jd_global_mh.js:421:4869)
+Mar 31 23:35:22     at processTicksAndRejections (internal/process/task_queues.js:97:5)
+Mar 31 23:35:22 
+Mar 31 23:35:22 ==============📣系统通知📣==============
+Mar 31 23:35:22 京东国际盲盒
+Mar 31 23:35:22 京东账号1burst3166
+Mar 31 23:35:22 本次运行获得0碎片，0京豆，共计0碎片
+Mar 31 23:35:22 
+Mar 31 23:35:22 🔔京东国际盲盒, 结束! 🕛 1.01 秒
+Mar 31 23:35:22 

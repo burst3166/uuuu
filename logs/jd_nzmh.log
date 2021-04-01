@@ -23,3 +23,57 @@ Mar 31 01:35:17 本次运行获得0京豆
 Mar 31 01:35:17 
 Mar 31 01:35:17 🔔女装盲盒抽京豆, 结束! 🕛 2.6 秒
 Mar 31 01:35:17 
+Mar 31 23:35:28 
+Mar 31 23:35:28 🔔女装盲盒抽京豆, 开始!
+Mar 31 23:35:28 
+Mar 31 23:35:28 ====================共1个京东账号Cookie=========
+Mar 31 23:35:28 
+Mar 31 23:35:28 ==================脚本执行- 北京时间(UTC+8)：3/31/2021, 11:35:28 PM=====================
+Mar 31 23:35:28 
+Mar 31 23:35:29 
+Mar 31 23:35:29 ******开始【京东账号1】burst3166*********
+Mar 31 23:35:29 
+Mar 31 23:35:29 url:https://anmp.jd.com/babelDiy/Zeus/3gpAsWd6UBb1MWvr6PFYjNS4Nexk/index.html
+Mar 31 23:35:29 当前幸运值：0
+Mar 31 23:35:29 
+Mar 31 23:35:29 🔔女装盲盒抽京豆, 结束! 🕛 0.9 秒
+Mar 31 23:35:29 
+Apr 01 01:35:14 
+Apr 01 01:35:14 🔔女装盲盒抽京豆, 开始!
+Apr 01 01:35:14 
+Apr 01 01:35:14 ====================共1个京东账号Cookie=========
+Apr 01 01:35:14 
+Apr 01 01:35:14 ==================脚本执行- 北京时间(UTC+8)：4/1/2021, 1:35:14 AM=====================
+Apr 01 01:35:14 
+Apr 01 01:35:14 
+Apr 01 01:35:14 ******开始【京东账号1】burst3166*********
+Apr 01 01:35:14 
+Apr 01 01:35:14 url:https://anmp.jd.com/babelDiy/Zeus/3gpAsWd6UBb1MWvr6PFYjNS4Nexk/index.html
+Apr 01 01:35:14 
+Apr 01 01:35:14 ❗️女装盲盒抽京豆, 错误!
+Apr 01 01:35:14 TypeError: Cannot read property 'bless' of undefined
+Apr 01 01:35:14     at /scripts/jd_nzmh.js:141:43
+Apr 01 01:35:14     at isSurge.isLoon.isQuanX.isNode.got.on.then.message (/scripts/jd_nzmh.js:294:4791)
+Apr 01 01:35:14     at processTicksAndRejections (internal/process/task_queues.js:97:5)
+Apr 01 01:35:14 
+Apr 01 01:35:14 ❗️女装盲盒抽京豆, 错误!
+Apr 01 01:35:14 TypeError: Cannot read property 'bless' of undefined
+Apr 01 01:35:14     at jdMh (/scripts/jd_nzmh.js:90:23)
+Apr 01 01:35:14     at processTicksAndRejections (internal/process/task_queues.js:97:5)
+Apr 01 01:35:14     at async /scripts/jd_nzmh.js:67:9
+Apr 01 01:35:14 url:https://anmp.jd.com/babelDiy/Zeus/4HVt431hqqWW8Nsb2t9jZKmJp4En/index.html
+Apr 01 01:35:15 
+Apr 01 01:35:15 ❗️女装盲盒抽京豆, 错误!
+Apr 01 01:35:15 TypeError: Cannot read property 'bless' of undefined
+Apr 01 01:35:15     at /scripts/jd_nzmh.js:141:43
+Apr 01 01:35:15     at isSurge.isLoon.isQuanX.isNode.got.on.then.message (/scripts/jd_nzmh.js:294:4791)
+Apr 01 01:35:15     at processTicksAndRejections (internal/process/task_queues.js:97:5)
+Apr 01 01:35:15 
+Apr 01 01:35:15 ❗️女装盲盒抽京豆, 错误!
+Apr 01 01:35:15 TypeError: Cannot read property 'bless' of undefined
+Apr 01 01:35:15     at jdMh (/scripts/jd_nzmh.js:90:23)
+Apr 01 01:35:15     at processTicksAndRejections (internal/process/task_queues.js:97:5)
+Apr 01 01:35:15     at async /scripts/jd_nzmh.js:69:40
+Apr 01 01:35:15 
+Apr 01 01:35:15 🔔女装盲盒抽京豆, 结束! 🕛 1.037 秒
+Apr 01 01:35:15 

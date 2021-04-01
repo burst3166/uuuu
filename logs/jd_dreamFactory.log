@@ -2155,3 +2155,4737 @@ Mar 31 12:50:38 参团失败：{"msg":"您已成团","nowTime":1617166238,"ret":
 Mar 31 12:50:38 
 Mar 31 12:50:38 🔔京喜工厂, 结束! 🕛 22.091 秒
 Mar 31 12:50:38 
+Mar 31 13:50:28 
+Mar 31 13:50:28 🔔京喜工厂, 开始!
+Mar 31 13:50:28 
+Mar 31 13:50:28 ====================共1个京东账号Cookie=========
+Mar 31 13:50:28 
+Mar 31 13:50:28 ==================脚本执行- 北京时间(UTC+8)：3/31/2021, 1:50:28 PM=====================
+Mar 31 13:50:28 
+Mar 31 13:50:29 获取签名参数成功！
+Mar 31 13:50:29 fp: 8159468635663161
+Mar 31 13:50:29 token: tk01w9e5b1c04a8nRkRHUVV4VlZZwa0pAD1gLBNiVLdK1jbAWp8h/W7XGtzW+jkIFY9ZSe/CYhrnIa+XprifPPot5HGg
+Mar 31 13:50:29 enCryptMethodJD: function test(token,fingerprint,timestamp,appId,algo){const random='fCbieejDVz5q';const str=`${token}${fingerprint}${timestamp}${appId}${random}`;return algo.HmacSHA512(str,token)}
+Mar 31 13:50:29 开始获取京喜工厂配置文件
+Mar 31 13:50:29 
+Mar 31 13:50:29 tuanActiveId: i9ideMF_BUOdVtmbe1pSeA==
+Mar 31 13:50:29 共1个京东账号
+Mar 31 13:50:29 
+Mar 31 13:50:29 您提供了1个账号的京喜工厂助力码
+Mar 31 13:50:29 
+Mar 31 13:50:29 
+Mar 31 13:50:29 ******开始【京东账号1】burst3166*********
+Mar 31 13:50:29 
+Mar 31 13:50:29 再加2.25%电力可开红包
+Mar 31 13:50:29 
+Mar 31 13:50:29 当前电力：3
+Mar 31 13:50:29 当前等级：5
+Mar 31 13:50:29 
+Mar 31 13:50:29 【京东账号1（burst3166）的京喜工厂好友互助码】A1GAHQrpp1nm7pmfuDlKAg==
+Mar 31 13:50:29 已投入电力：258700
+Mar 31 13:50:29 所需电力：740000
+Mar 31 13:50:29 生产进度：34.96%
+Mar 31 13:50:29 
+Mar 31 13:50:29 
+Mar 31 13:50:29 你今日还能帮好友打工（0/3）次
+Mar 31 13:50:29 
+Mar 31 13:50:29 
+Mar 31 13:50:29 【今日招工进度】7/12
+Mar 31 13:50:29 
+Mar 31 13:50:29 今日助力好友机会已耗尽
+Mar 31 13:50:29 
+Mar 31 13:50:29 发电机：当前 420 电力，最大值 420 电力
+Mar 31 13:50:29 发电机：电力可翻倍并收获
+Mar 31 13:50:29 收取电力成功: 共840 
+Mar 31 13:50:29 完成任务：共领取840电力
+Mar 31 13:50:30 成功投入电力800电力
+Mar 31 13:50:30 自家地下暂无零件可收
+Mar 31 13:50:31 查询好友列表完成，共31好友，下面开始拾取好友地下的零件
+Mar 31 13:50:31 
+Mar 31 13:50:31 开始收取第 1 个好友 1ysne6hoo-pwlVG7b_U0DQ== 地下零件
+Mar 31 13:50:31 好友【1ysne6hoo-pwlVG7b_U0DQ==】地下暂无零件可收
+Mar 31 13:50:31 开始收取第 2 个好友 8I4PGcZpjvt_Nq20R0r-4Q== 地下零件
+Mar 31 13:50:32 好友【8I4PGcZpjvt_Nq20R0r-4Q==】地下暂无零件可收
+Mar 31 13:50:32 开始收取第 3 个好友 lmOajc3zN-XR5JxkIqM5qA== 地下零件
+Mar 31 13:50:32 好友【lmOajc3zN-XR5JxkIqM5qA==】地下暂无零件可收
+Mar 31 13:50:32 开始收取第 4 个好友 4Ff3bUhMlfJaid8B4qm32Q== 地下零件
+Mar 31 13:50:33 好友【4Ff3bUhMlfJaid8B4qm32Q==】地下暂无零件可收
+Mar 31 13:50:33 开始收取第 5 个好友 MJix7oSghPKjPtH8uJFaEA== 地下零件
+Mar 31 13:50:33 好友【MJix7oSghPKjPtH8uJFaEA==】地下暂无零件可收
+Mar 31 13:50:33 开始收取第 6 个好友 Oa8unWu-KdPrmGzypTpgUg== 地下零件
+Mar 31 13:50:34 好友【Oa8unWu-KdPrmGzypTpgUg==】地下暂无零件可收
+Mar 31 13:50:34 开始收取第 7 个好友 hyykhYqbGaAs-0No8h6kVQ== 地下零件
+Mar 31 13:50:36 好友【hyykhYqbGaAs-0No8h6kVQ==】地下暂无零件可收
+Mar 31 13:50:36 开始收取第 8 个好友 SIQEUukDV19DwOQGjd9J5Q== 地下零件
+Mar 31 13:50:37 好友【SIQEUukDV19DwOQGjd9J5Q==】地下暂无零件可收
+Mar 31 13:50:37 开始收取第 9 个好友 N8QdMHreY_pd7rIHq9zlFw== 地下零件
+Mar 31 13:50:37 好友【N8QdMHreY_pd7rIHq9zlFw==】地下暂无零件可收
+Mar 31 13:50:37 开始收取第 10 个好友 CJvUmDW5_In4nqFPr7BkVg== 地下零件
+Mar 31 13:50:38 好友【CJvUmDW5_In4nqFPr7BkVg==】地下暂无零件可收
+Mar 31 13:50:38 开始收取第 11 个好友 juHlWyZK6YCYEaIui-9O9A== 地下零件
+Mar 31 13:50:38 好友【juHlWyZK6YCYEaIui-9O9A==】地下暂无零件可收
+Mar 31 13:50:38 开始收取第 12 个好友 LAxdowQnMU3ox65OdwNwZA== 地下零件
+Mar 31 13:50:39 好友【LAxdowQnMU3ox65OdwNwZA==】地下暂无零件可收
+Mar 31 13:50:39 开始收取第 13 个好友 IsB_WWCxAQMMIfeGu9BpWg== 地下零件
+Mar 31 13:50:39 好友【IsB_WWCxAQMMIfeGu9BpWg==】地下暂无零件可收
+Mar 31 13:50:39 开始收取第 14 个好友 iGVfdqPLy34R5FOSbAq0qA== 地下零件
+Mar 31 13:50:40 好友【iGVfdqPLy34R5FOSbAq0qA==】地下暂无零件可收
+Mar 31 13:50:40 开始收取第 15 个好友 LLngJORM-9zh8UYMGcfd2A== 地下零件
+Mar 31 13:50:41 好友【LLngJORM-9zh8UYMGcfd2A==】地下暂无零件可收
+Mar 31 13:50:41 开始收取第 16 个好友 MJMF4orse-sJYN5pcyklXQ== 地下零件
+Mar 31 13:50:41 好友【MJMF4orse-sJYN5pcyklXQ==】地下暂无零件可收
+Mar 31 13:50:41 开始收取第 17 个好友 J0ZdwtZszB5pnvxDv6l8tQ== 地下零件
+Mar 31 13:50:42 好友【J0ZdwtZszB5pnvxDv6l8tQ==】地下暂无零件可收
+Mar 31 13:50:42 开始收取第 18 个好友 guBovILfmX3SJTf_AQNDRg== 地下零件
+Mar 31 13:50:42 好友【guBovILfmX3SJTf_AQNDRg==】地下暂无零件可收
+Mar 31 13:50:42 开始收取第 19 个好友 X6RooQQkq_I28EjOEpv3Lg== 地下零件
+Mar 31 13:50:44 好友【X6RooQQkq_I28EjOEpv3Lg==】地下暂无零件可收
+Mar 31 13:50:44 开始收取第 20 个好友 uhcZW_ZiVE0UsO11648SHA== 地下零件
+Mar 31 13:50:45 好友【uhcZW_ZiVE0UsO11648SHA==】地下暂无零件可收
+Mar 31 13:50:45 开始收取第 21 个好友 F-LnusDb7uc82e3xbgcq7g== 地下零件
+Mar 31 13:50:45 好友【F-LnusDb7uc82e3xbgcq7g==】地下暂无零件可收
+Mar 31 13:50:45 开始收取第 22 个好友 Sqhj-l0-WiKejPGYH5sEJQ== 地下零件
+Mar 31 13:50:46 好友【Sqhj-l0-WiKejPGYH5sEJQ==】地下暂无零件可收
+Mar 31 13:50:46 开始收取第 23 个好友 i55e65wxNYfC4tZ2R8bvdA== 地下零件
+Mar 31 13:50:46 好友【i55e65wxNYfC4tZ2R8bvdA==】地下暂无零件可收
+Mar 31 13:50:46 开始收取第 24 个好友 uJ0m1yiLaG6xNqOVpfLfncFZphSvO5VIUlgMcT9fV5E= 地下零件
+Mar 31 13:50:47 好友【uJ0m1yiLaG6xNqOVpfLfncFZphSvO5VIUlgMcT9fV5E=】地下暂无零件可收
+Mar 31 13:50:47 开始收取第 25 个好友 v8gwk5IrNis2alvqFJbmpw== 地下零件
+Mar 31 13:50:47 好友【v8gwk5IrNis2alvqFJbmpw==】地下暂无零件可收
+Mar 31 13:50:47 开始收取第 26 个好友 3JehqRP1jBOq-0vpydgxow== 地下零件
+Mar 31 13:50:48 好友【3JehqRP1jBOq-0vpydgxow==】地下暂无零件可收
+Mar 31 13:50:48 开始收取第 27 个好友 7fzlmybQNCsUvyimRAXUOA== 地下零件
+Mar 31 13:50:49 好友【7fzlmybQNCsUvyimRAXUOA==】地下暂无零件可收
+Mar 31 13:50:49 开始收取第 28 个好友 pBFolkAT7mLHZPTHo8rkbA== 地下零件
+Mar 31 13:50:49 好友【pBFolkAT7mLHZPTHo8rkbA==】地下暂无零件可收
+Mar 31 13:50:49 开始收取第 29 个好友 Z4EkI5Mzd0IllHBOOSXwsA== 地下零件
+Mar 31 13:50:50 好友【Z4EkI5Mzd0IllHBOOSXwsA==】地下暂无零件可收
+Mar 31 13:50:50 开始收取第 30 个好友 m2LC0Qsqnr3rK8e3ApvsuQ== 地下零件
+Mar 31 13:50:50 GetUserComponent失败：{"msg":"操作太频繁，请稍后再试~","nowTime":1617169850,"ret":10004}
+Mar 31 13:50:50 开始收取第 31 个好友 5LcqlK-8sBkaG8Mg7mCYvQ== 地下零件
+Mar 31 13:50:51 GetUserComponent失败：{"msg":"操作太频繁，请稍后再试~","nowTime":1617169851,"ret":10004}
+Mar 31 13:50:51 
+Mar 31 13:50:51 团活动ID  i9ideMF_BUOdVtmbe1pSeA==
+Mar 31 13:50:51 团ID  SZKQ9YMLTd6VwJmBHXbRtA==
+Mar 31 13:50:51 
+Mar 31 13:50:51 今日剩余开团次数：2次
+Mar 31 13:50:51 之前的团已过期，准备重新开团
+Mar 31 13:50:51 
+Mar 31 13:50:51 开团成功tuanId为
+Mar 31 13:50:51 cwFMDA1z9S3bKeKg4hg3xA==
+Mar 31 13:50:51 
+Mar 31 13:50:51 开团情况:1/6
+Mar 31 13:50:51 
+Mar 31 13:50:51 
+Mar 31 13:50:51 此团未达领取团奖励人数：6人
+Mar 31 13:50:51 
+Mar 31 13:50:51 3/29/2021, 11:51:13 PM参加团主【A1GAHQrpp1nm7pmfuDlKAg==】失败
+Mar 31 13:50:51 3/29/2021, 10:50:37 AM参加团主【A1GAHQrpp1nm7pmfuDlKAg==】失败
+Mar 31 13:50:51 3/28/2021, 10:49:59 PM参加团主【A1GAHQrpp1nm7pmfuDlKAg==】失败
+Mar 31 13:50:51 3/28/2021, 8:56:28 PM参加团主【N8QdMHreY_pd7rIHq9zlFw==】失败
+Mar 31 13:50:51 3/28/2021, 10:32:41 AM参加团主【A1GAHQrpp1nm7pmfuDlKAg==】失败
+Mar 31 13:50:51 3/27/2021, 9:50:38 PM参加团主【A1GAHQrpp1nm7pmfuDlKAg==】失败
+Mar 31 13:50:51 3/27/2021, 8:50:35 AM参加团主【A1GAHQrpp1nm7pmfuDlKAg==】失败
+Mar 31 13:50:51 3/31/2021, 1:50:51 PM参加团主【A1GAHQrpp1nm7pmfuDlKAg==】失败
+Mar 31 13:50:51 3/31/2021, 12:51:04 AM参加团主【A1GAHQrpp1nm7pmfuDlKAg==】失败
+Mar 31 13:50:51 3/30/2021, 12:50:36 PM参加团主【A1GAHQrpp1nm7pmfuDlKAg==】失败
+Mar 31 13:50:51 
+Mar 31 13:50:51   商品名     兑换状态
+Mar 31 13:50:51 三合一数据线    已兑换
+Mar 31 13:50:51 多味花生3袋    已兑换
+Mar 31 13:50:51 刀具三件套    已兑换
+Mar 31 13:50:51 
+Mar 31 13:50:51 【京东账号1】burst3166
+Mar 31 13:50:51 【生产商品】巴旦木
+Mar 31 13:50:51 【当前等级】高级工程师 5
+Mar 31 13:50:51 【生产进度】34.96%
+Mar 31 13:50:51 【招工进度】7/12
+Mar 31 13:50:51 【收取发电站】收取成功，获得 840 电力
+Mar 31 13:50:51 【每日任务】领奖成功，共计 840 电力
+Mar 31 13:50:51 【投入电力】投入成功，共计 800 电力
+Mar 31 13:50:51 【收取自己零件】获得0电力
+Mar 31 13:50:51 【收取好友零件】获得0电力
+Mar 31 13:50:51 
+Mar 31 13:50:52 
+Mar 31 13:50:52 参加作者的团
+Mar 31 13:50:52 
+Mar 31 13:50:52 参团失败：{"msg":"您已成团","nowTime":1617169852,"ret":10209}
+Mar 31 13:50:52 参团失败：{"msg":"您已成团","nowTime":1617169853,"ret":10209}
+Mar 31 13:50:53 参团失败：{"msg":"您已成团","nowTime":1617169853,"ret":10209}
+Mar 31 13:50:53 参团失败：{"msg":"您已成团","nowTime":1617169853,"ret":10209}
+Mar 31 13:50:54 
+Mar 31 13:50:54 🔔京喜工厂, 结束! 🕛 26.449 秒
+Mar 31 13:50:54 
+Mar 31 14:50:02 
+Mar 31 14:50:02 🔔京喜工厂, 开始!
+Mar 31 14:50:02 
+Mar 31 14:50:02 ====================共1个京东账号Cookie=========
+Mar 31 14:50:02 
+Mar 31 14:50:02 ==================脚本执行- 北京时间(UTC+8)：3/31/2021, 2:50:02 PM=====================
+Mar 31 14:50:02 
+Mar 31 14:50:03 获取签名参数成功！
+Mar 31 14:50:03 fp: 6946227699467161
+Mar 31 14:50:03 token: tk01wafc41c26a8nRjAvcmp6eGdF/GCVWmDw0VYAnRxRsKJM4J/vpnD8vi3Ta/krLiWz7cC13mS9MaIM7mFkrbjAPqbP
+Mar 31 14:50:03 enCryptMethodJD: function test(token,fingerprint,timestamp,appId,algo){const random='67fjNnABsJVT';const str=`${token}${fingerprint}${timestamp}${appId}${random}`;return algo.MD5(str)}
+Mar 31 14:50:06 开始获取京喜工厂配置文件
+Mar 31 14:50:06 
+Mar 31 14:50:06 tuanActiveId: 6S9y4sJUfA2vPQP6TLdVIQ==
+Mar 31 14:50:06 共1个京东账号
+Mar 31 14:50:06 
+Mar 31 14:50:06 您提供了1个账号的京喜工厂助力码
+Mar 31 14:50:06 
+Mar 31 14:50:06 
+Mar 31 14:50:06 ******开始【京东账号1】burst3166*********
+Mar 31 14:50:06 
+Mar 31 14:50:07 "Response code 503 (Service Temporarily Unavailable)"
+Mar 31 14:50:07 再加2.14%电力可开红包
+Mar 31 14:50:07 
+Mar 31 14:50:07 当前电力：43
+Mar 31 14:50:07 当前等级：5
+Mar 31 14:50:07 
+Mar 31 14:50:07 【京东账号1（burst3166）的京喜工厂好友互助码】A1GAHQrpp1nm7pmfuDlKAg==
+Mar 31 14:50:07 已投入电力：259500
+Mar 31 14:50:07 所需电力：740000
+Mar 31 14:50:07 生产进度：35.07%
+Mar 31 14:50:07 
+Mar 31 14:50:07 
+Mar 31 14:50:07 你今日还能帮好友打工（0/3）次
+Mar 31 14:50:07 
+Mar 31 14:50:07 
+Mar 31 14:50:07 【今日招工进度】7/12
+Mar 31 14:50:07 
+Mar 31 14:50:07 今日助力好友机会已耗尽
+Mar 31 14:50:07 
+Mar 31 14:50:07 发电机：当前 357.8 电力，最大值 420 电力
+Mar 31 14:50:07 
+Mar 31 14:50:07 本次发电机电力集满分享后不可获得双倍电力，故现在收取电力
+Mar 31 14:50:07 
+Mar 31 14:50:07 收取电力成功: 共358 
+Mar 31 14:50:08 完成任务：共领取358电力
+Mar 31 14:50:08 成功投入电力400电力
+Mar 31 14:50:08 自家地下暂无零件可收
+Mar 31 14:50:10 查询好友列表完成，共31好友，下面开始拾取好友地下的零件
+Mar 31 14:50:10 
+Mar 31 14:50:10 开始收取第 1 个好友 1ysne6hoo-pwlVG7b_U0DQ== 地下零件
+Mar 31 14:50:11 好友【1ysne6hoo-pwlVG7b_U0DQ==】地下暂无零件可收
+Mar 31 14:50:11 开始收取第 2 个好友 8I4PGcZpjvt_Nq20R0r-4Q== 地下零件
+Mar 31 14:50:13 好友【8I4PGcZpjvt_Nq20R0r-4Q==】地下暂无零件可收
+Mar 31 14:50:13 开始收取第 3 个好友 lmOajc3zN-XR5JxkIqM5qA== 地下零件
+Mar 31 14:50:13 好友【lmOajc3zN-XR5JxkIqM5qA==】地下暂无零件可收
+Mar 31 14:50:13 开始收取第 4 个好友 4Ff3bUhMlfJaid8B4qm32Q== 地下零件
+Mar 31 14:50:14 好友【4Ff3bUhMlfJaid8B4qm32Q==】地下暂无零件可收
+Mar 31 14:50:14 开始收取第 5 个好友 MJix7oSghPKjPtH8uJFaEA== 地下零件
+Mar 31 14:50:15 好友【MJix7oSghPKjPtH8uJFaEA==】地下暂无零件可收
+Mar 31 14:50:15 开始收取第 6 个好友 Oa8unWu-KdPrmGzypTpgUg== 地下零件
+Mar 31 14:50:15 好友【Oa8unWu-KdPrmGzypTpgUg==】地下暂无零件可收
+Mar 31 14:50:15 开始收取第 7 个好友 hyykhYqbGaAs-0No8h6kVQ== 地下零件
+Mar 31 14:50:16 好友【hyykhYqbGaAs-0No8h6kVQ==】地下暂无零件可收
+Mar 31 14:50:16 开始收取第 8 个好友 SIQEUukDV19DwOQGjd9J5Q== 地下零件
+Mar 31 14:50:16 好友【SIQEUukDV19DwOQGjd9J5Q==】地下暂无零件可收
+Mar 31 14:50:16 开始收取第 9 个好友 N8QdMHreY_pd7rIHq9zlFw== 地下零件
+Mar 31 14:50:17 好友【N8QdMHreY_pd7rIHq9zlFw==】地下暂无零件可收
+Mar 31 14:50:17 开始收取第 10 个好友 CJvUmDW5_In4nqFPr7BkVg== 地下零件
+Mar 31 14:50:18 好友【CJvUmDW5_In4nqFPr7BkVg==】地下暂无零件可收
+Mar 31 14:50:18 开始收取第 11 个好友 juHlWyZK6YCYEaIui-9O9A== 地下零件
+Mar 31 14:50:18 好友【juHlWyZK6YCYEaIui-9O9A==】地下暂无零件可收
+Mar 31 14:50:18 开始收取第 12 个好友 LAxdowQnMU3ox65OdwNwZA== 地下零件
+Mar 31 14:50:19 好友【LAxdowQnMU3ox65OdwNwZA==】地下暂无零件可收
+Mar 31 14:50:19 开始收取第 13 个好友 IsB_WWCxAQMMIfeGu9BpWg== 地下零件
+Mar 31 14:50:19 好友【IsB_WWCxAQMMIfeGu9BpWg==】地下暂无零件可收
+Mar 31 14:50:19 开始收取第 14 个好友 iGVfdqPLy34R5FOSbAq0qA== 地下零件
+Mar 31 14:50:20 好友【iGVfdqPLy34R5FOSbAq0qA==】地下暂无零件可收
+Mar 31 14:50:20 开始收取第 15 个好友 LLngJORM-9zh8UYMGcfd2A== 地下零件
+Mar 31 14:50:21 好友【LLngJORM-9zh8UYMGcfd2A==】地下暂无零件可收
+Mar 31 14:50:21 开始收取第 16 个好友 MJMF4orse-sJYN5pcyklXQ== 地下零件
+Mar 31 14:50:21 好友【MJMF4orse-sJYN5pcyklXQ==】地下暂无零件可收
+Mar 31 14:50:21 开始收取第 17 个好友 J0ZdwtZszB5pnvxDv6l8tQ== 地下零件
+Mar 31 14:50:22 好友【J0ZdwtZszB5pnvxDv6l8tQ==】地下暂无零件可收
+Mar 31 14:50:22 开始收取第 18 个好友 guBovILfmX3SJTf_AQNDRg== 地下零件
+Mar 31 14:50:22 好友【guBovILfmX3SJTf_AQNDRg==】地下暂无零件可收
+Mar 31 14:50:22 开始收取第 19 个好友 X6RooQQkq_I28EjOEpv3Lg== 地下零件
+Mar 31 14:50:23 好友【X6RooQQkq_I28EjOEpv3Lg==】地下暂无零件可收
+Mar 31 14:50:23 开始收取第 20 个好友 uhcZW_ZiVE0UsO11648SHA== 地下零件
+Mar 31 14:50:24 好友【uhcZW_ZiVE0UsO11648SHA==】地下暂无零件可收
+Mar 31 14:50:24 开始收取第 21 个好友 F-LnusDb7uc82e3xbgcq7g== 地下零件
+Mar 31 14:50:24 好友【F-LnusDb7uc82e3xbgcq7g==】地下暂无零件可收
+Mar 31 14:50:24 开始收取第 22 个好友 Sqhj-l0-WiKejPGYH5sEJQ== 地下零件
+Mar 31 14:50:25 好友【Sqhj-l0-WiKejPGYH5sEJQ==】地下暂无零件可收
+Mar 31 14:50:25 开始收取第 23 个好友 i55e65wxNYfC4tZ2R8bvdA== 地下零件
+Mar 31 14:50:25 好友【i55e65wxNYfC4tZ2R8bvdA==】地下暂无零件可收
+Mar 31 14:50:25 开始收取第 24 个好友 uJ0m1yiLaG6xNqOVpfLfncFZphSvO5VIUlgMcT9fV5E= 地下零件
+Mar 31 14:50:26 好友【uJ0m1yiLaG6xNqOVpfLfncFZphSvO5VIUlgMcT9fV5E=】地下暂无零件可收
+Mar 31 14:50:26 开始收取第 25 个好友 v8gwk5IrNis2alvqFJbmpw== 地下零件
+Mar 31 14:50:27 好友【v8gwk5IrNis2alvqFJbmpw==】地下暂无零件可收
+Mar 31 14:50:27 开始收取第 26 个好友 3JehqRP1jBOq-0vpydgxow== 地下零件
+Mar 31 14:50:27 好友【3JehqRP1jBOq-0vpydgxow==】地下暂无零件可收
+Mar 31 14:50:27 开始收取第 27 个好友 7fzlmybQNCsUvyimRAXUOA== 地下零件
+Mar 31 14:50:28 好友【7fzlmybQNCsUvyimRAXUOA==】地下暂无零件可收
+Mar 31 14:50:28 开始收取第 28 个好友 pBFolkAT7mLHZPTHo8rkbA== 地下零件
+Mar 31 14:50:28 好友【pBFolkAT7mLHZPTHo8rkbA==】地下暂无零件可收
+Mar 31 14:50:28 开始收取第 29 个好友 Z4EkI5Mzd0IllHBOOSXwsA== 地下零件
+Mar 31 14:50:29 好友【Z4EkI5Mzd0IllHBOOSXwsA==】地下暂无零件可收
+Mar 31 14:50:29 开始收取第 30 个好友 m2LC0Qsqnr3rK8e3ApvsuQ== 地下零件
+Mar 31 14:50:31 好友【m2LC0Qsqnr3rK8e3ApvsuQ==】地下暂无零件可收
+Mar 31 14:50:31 开始收取第 31 个好友 5LcqlK-8sBkaG8Mg7mCYvQ== 地下零件
+Mar 31 14:50:32 好友【5LcqlK-8sBkaG8Mg7mCYvQ==】地下暂无零件可收
+Mar 31 14:50:32 
+Mar 31 14:50:32 团活动ID  6S9y4sJUfA2vPQP6TLdVIQ==
+Mar 31 14:50:32 团ID  
+Mar 31 14:50:32 
+Mar 31 14:50:32 今日剩余开团次数：3次
+Mar 31 14:50:32 准备开团
+Mar 31 14:50:32 开团异常：{"msg":"活动已结束，请稍后再试~","nowTime":1617173432,"ret":10218}
+Mar 31 14:50:32 
+Mar 31 14:50:32   商品名     兑换状态
+Mar 31 14:50:32 三合一数据线    已兑换
+Mar 31 14:50:32 多味花生3袋    已兑换
+Mar 31 14:50:32 刀具三件套    已兑换
+Mar 31 14:50:32 
+Mar 31 14:50:32 【京东账号1】burst3166
+Mar 31 14:50:32 【生产商品】巴旦木
+Mar 31 14:50:32 【当前等级】高级工程师 5
+Mar 31 14:50:32 【生产进度】35.07%
+Mar 31 14:50:32 【招工进度】7/12
+Mar 31 14:50:32 【收取发电站】收取成功，获得 358 电力
+Mar 31 14:50:32 【每日任务】领奖成功，共计 358 电力
+Mar 31 14:50:32 【投入电力】投入成功，共计 400 电力
+Mar 31 14:50:32 【收取自己零件】今日已达上限
+Mar 31 14:50:32 【收取好友零件】今日已达上限
+Mar 31 14:50:32 
+Mar 31 14:50:33 
+Mar 31 14:50:33 参加作者的团
+Mar 31 14:50:33 
+Mar 31 14:50:33 参团失败：{"msg":"活动已结束，请稍后再试~","nowTime":1617173433,"ret":10218}
+Mar 31 14:50:33 参团失败：{"msg":"活动已结束，请稍后再试~","nowTime":1617173433,"ret":10218}
+Mar 31 14:50:33 参团失败：{"msg":"活动已结束，请稍后再试~","nowTime":1617173433,"ret":10218}
+Mar 31 14:50:35 
+Mar 31 14:50:35 🔔京喜工厂, 结束! 🕛 32.516 秒
+Mar 31 14:50:35 
+Mar 31 15:50:06 
+Mar 31 15:50:06 🔔京喜工厂, 开始!
+Mar 31 15:50:06 
+Mar 31 15:50:06 ====================共1个京东账号Cookie=========
+Mar 31 15:50:06 
+Mar 31 15:50:06 ==================脚本执行- 北京时间(UTC+8)：3/31/2021, 3:50:06 PM=====================
+Mar 31 15:50:06 
+Mar 31 15:50:07 获取签名参数成功！
+Mar 31 15:50:07 fp: 1841396776235161
+Mar 31 15:50:07 token: tk01wb9c01c3ea8nQ2RMaDJhTnFzHrnaj7rOc6PaCxYCw5Vb0mkuQYLqfRr6ENSvCy2I6I2L4jlRtODS3hWpM1MsLIep
+Mar 31 15:50:07 enCryptMethodJD: function test(token,fingerprint,timestamp,appId,algo){const random='nwBZpzD3A8hs';const str=`${token}${fingerprint}${timestamp}${appId}${random}`;return algo.HmacMD5(str,token)}
+Mar 31 15:50:09 开始获取京喜工厂配置文件
+Mar 31 15:50:09 
+Mar 31 15:50:09 tuanActiveId: 6S9y4sJUfA2vPQP6TLdVIQ==
+Mar 31 15:50:09 共1个京东账号
+Mar 31 15:50:09 
+Mar 31 15:50:09 您提供了1个账号的京喜工厂助力码
+Mar 31 15:50:09 
+Mar 31 15:50:09 
+Mar 31 15:50:09 ******开始【京东账号1】burst3166*********
+Mar 31 15:50:09 
+Mar 31 15:50:10 再加2.09%电力可开红包
+Mar 31 15:50:10 
+Mar 31 15:50:10 当前电力：1
+Mar 31 15:50:10 当前等级：5
+Mar 31 15:50:10 
+Mar 31 15:50:10 【京东账号1（burst3166）的京喜工厂好友互助码】A1GAHQrpp1nm7pmfuDlKAg==
+Mar 31 15:50:10 已投入电力：259900
+Mar 31 15:50:10 所需电力：740000
+Mar 31 15:50:10 生产进度：35.12%
+Mar 31 15:50:10 
+Mar 31 15:50:10 
+Mar 31 15:50:10 你今日还能帮好友打工（0/3）次
+Mar 31 15:50:10 
+Mar 31 15:50:10 
+Mar 31 15:50:10 【今日招工进度】7/12
+Mar 31 15:50:10 
+Mar 31 15:50:10 今日助力好友机会已耗尽
+Mar 31 15:50:10 
+Mar 31 15:50:10 发电机：当前 360.2 电力，最大值 420 电力
+Mar 31 15:50:10 
+Mar 31 15:50:10 本次发电机电力集满分享后不可获得双倍电力，故现在收取电力
+Mar 31 15:50:10 
+Mar 31 15:50:10 收取电力成功: 共360 
+Mar 31 15:50:10 完成任务：共领取360电力
+Mar 31 15:50:10 成功投入电力300电力
+Mar 31 15:50:11 "Response code 503 (Service Temporarily Unavailable)"
+Mar 31 15:50:11 自家地下暂无零件可收
+Mar 31 15:50:11 查询好友列表完成，共31好友，下面开始拾取好友地下的零件
+Mar 31 15:50:11 
+Mar 31 15:50:11 开始收取第 1 个好友 1ysne6hoo-pwlVG7b_U0DQ== 地下零件
+Mar 31 15:50:12 好友【1ysne6hoo-pwlVG7b_U0DQ==】地下暂无零件可收
+Mar 31 15:50:12 开始收取第 2 个好友 8I4PGcZpjvt_Nq20R0r-4Q== 地下零件
+Mar 31 15:50:12 好友【8I4PGcZpjvt_Nq20R0r-4Q==】地下暂无零件可收
+Mar 31 15:50:12 开始收取第 3 个好友 lmOajc3zN-XR5JxkIqM5qA== 地下零件
+Mar 31 15:50:13 好友【lmOajc3zN-XR5JxkIqM5qA==】地下暂无零件可收
+Mar 31 15:50:13 开始收取第 4 个好友 4Ff3bUhMlfJaid8B4qm32Q== 地下零件
+Mar 31 15:50:13 好友【4Ff3bUhMlfJaid8B4qm32Q==】地下暂无零件可收
+Mar 31 15:50:13 开始收取第 5 个好友 MJix7oSghPKjPtH8uJFaEA== 地下零件
+Mar 31 15:50:14 好友【MJix7oSghPKjPtH8uJFaEA==】地下暂无零件可收
+Mar 31 15:50:14 开始收取第 6 个好友 Oa8unWu-KdPrmGzypTpgUg== 地下零件
+Mar 31 15:50:14 好友【Oa8unWu-KdPrmGzypTpgUg==】地下暂无零件可收
+Mar 31 15:50:14 开始收取第 7 个好友 hyykhYqbGaAs-0No8h6kVQ== 地下零件
+Mar 31 15:50:15 好友【hyykhYqbGaAs-0No8h6kVQ==】地下暂无零件可收
+Mar 31 15:50:15 开始收取第 8 个好友 SIQEUukDV19DwOQGjd9J5Q== 地下零件
+Mar 31 15:50:15 好友【SIQEUukDV19DwOQGjd9J5Q==】地下暂无零件可收
+Mar 31 15:50:15 开始收取第 9 个好友 N8QdMHreY_pd7rIHq9zlFw== 地下零件
+Mar 31 15:50:16 好友【N8QdMHreY_pd7rIHq9zlFw==】地下暂无零件可收
+Mar 31 15:50:16 开始收取第 10 个好友 CJvUmDW5_In4nqFPr7BkVg== 地下零件
+Mar 31 15:50:17 好友【CJvUmDW5_In4nqFPr7BkVg==】地下暂无零件可收
+Mar 31 15:50:17 开始收取第 11 个好友 juHlWyZK6YCYEaIui-9O9A== 地下零件
+Mar 31 15:50:17 好友【juHlWyZK6YCYEaIui-9O9A==】地下暂无零件可收
+Mar 31 15:50:17 开始收取第 12 个好友 LAxdowQnMU3ox65OdwNwZA== 地下零件
+Mar 31 15:50:18 好友【LAxdowQnMU3ox65OdwNwZA==】地下暂无零件可收
+Mar 31 15:50:18 开始收取第 13 个好友 IsB_WWCxAQMMIfeGu9BpWg== 地下零件
+Mar 31 15:50:18 好友【IsB_WWCxAQMMIfeGu9BpWg==】地下暂无零件可收
+Mar 31 15:50:18 开始收取第 14 个好友 iGVfdqPLy34R5FOSbAq0qA== 地下零件
+Mar 31 15:50:19 好友【iGVfdqPLy34R5FOSbAq0qA==】地下暂无零件可收
+Mar 31 15:50:19 开始收取第 15 个好友 LLngJORM-9zh8UYMGcfd2A== 地下零件
+Mar 31 15:50:19 好友【LLngJORM-9zh8UYMGcfd2A==】地下暂无零件可收
+Mar 31 15:50:19 开始收取第 16 个好友 MJMF4orse-sJYN5pcyklXQ== 地下零件
+Mar 31 15:50:20 好友【MJMF4orse-sJYN5pcyklXQ==】地下暂无零件可收
+Mar 31 15:50:20 开始收取第 17 个好友 J0ZdwtZszB5pnvxDv6l8tQ== 地下零件
+Mar 31 15:50:20 好友【J0ZdwtZszB5pnvxDv6l8tQ==】地下暂无零件可收
+Mar 31 15:50:20 开始收取第 18 个好友 guBovILfmX3SJTf_AQNDRg== 地下零件
+Mar 31 15:50:21 好友【guBovILfmX3SJTf_AQNDRg==】地下暂无零件可收
+Mar 31 15:50:21 开始收取第 19 个好友 X6RooQQkq_I28EjOEpv3Lg== 地下零件
+Mar 31 15:50:22 好友【X6RooQQkq_I28EjOEpv3Lg==】地下暂无零件可收
+Mar 31 15:50:22 开始收取第 20 个好友 uhcZW_ZiVE0UsO11648SHA== 地下零件
+Mar 31 15:50:22 好友【uhcZW_ZiVE0UsO11648SHA==】地下暂无零件可收
+Mar 31 15:50:22 开始收取第 21 个好友 F-LnusDb7uc82e3xbgcq7g== 地下零件
+Mar 31 15:50:23 好友【F-LnusDb7uc82e3xbgcq7g==】地下暂无零件可收
+Mar 31 15:50:23 开始收取第 22 个好友 Sqhj-l0-WiKejPGYH5sEJQ== 地下零件
+Mar 31 15:50:23 好友【Sqhj-l0-WiKejPGYH5sEJQ==】地下暂无零件可收
+Mar 31 15:50:23 开始收取第 23 个好友 i55e65wxNYfC4tZ2R8bvdA== 地下零件
+Mar 31 15:50:24 好友【i55e65wxNYfC4tZ2R8bvdA==】地下暂无零件可收
+Mar 31 15:50:24 开始收取第 24 个好友 uJ0m1yiLaG6xNqOVpfLfncFZphSvO5VIUlgMcT9fV5E= 地下零件
+Mar 31 15:50:24 好友【uJ0m1yiLaG6xNqOVpfLfncFZphSvO5VIUlgMcT9fV5E=】地下暂无零件可收
+Mar 31 15:50:24 开始收取第 25 个好友 v8gwk5IrNis2alvqFJbmpw== 地下零件
+Mar 31 15:50:25 好友【v8gwk5IrNis2alvqFJbmpw==】地下暂无零件可收
+Mar 31 15:50:25 开始收取第 26 个好友 3JehqRP1jBOq-0vpydgxow== 地下零件
+Mar 31 15:50:25 好友【3JehqRP1jBOq-0vpydgxow==】地下暂无零件可收
+Mar 31 15:50:25 开始收取第 27 个好友 7fzlmybQNCsUvyimRAXUOA== 地下零件
+Mar 31 15:50:26 好友【7fzlmybQNCsUvyimRAXUOA==】地下暂无零件可收
+Mar 31 15:50:26 开始收取第 28 个好友 pBFolkAT7mLHZPTHo8rkbA== 地下零件
+Mar 31 15:50:27 好友【pBFolkAT7mLHZPTHo8rkbA==】地下暂无零件可收
+Mar 31 15:50:27 开始收取第 29 个好友 Z4EkI5Mzd0IllHBOOSXwsA== 地下零件
+Mar 31 15:50:27 好友【Z4EkI5Mzd0IllHBOOSXwsA==】地下暂无零件可收
+Mar 31 15:50:27 开始收取第 30 个好友 m2LC0Qsqnr3rK8e3ApvsuQ== 地下零件
+Mar 31 15:50:28 GetUserComponent失败：{"msg":"操作太频繁，请稍后再试~","nowTime":1617177028,"ret":10004}
+Mar 31 15:50:28 开始收取第 31 个好友 5LcqlK-8sBkaG8Mg7mCYvQ== 地下零件
+Mar 31 15:50:28 GetUserComponent失败：{"msg":"操作太频繁，请稍后再试~","nowTime":1617177028,"ret":10004}
+Mar 31 15:50:28 
+Mar 31 15:50:28 团活动ID  6S9y4sJUfA2vPQP6TLdVIQ==
+Mar 31 15:50:28 团ID  
+Mar 31 15:50:28 
+Mar 31 15:50:28 今日剩余开团次数：3次
+Mar 31 15:50:28 准备开团
+Mar 31 15:50:28 开团异常：{"msg":"活动已结束，请稍后再试~","nowTime":1617177029,"ret":10218}
+Mar 31 15:50:29 
+Mar 31 15:50:29   商品名     兑换状态
+Mar 31 15:50:29 三合一数据线    已兑换
+Mar 31 15:50:29 多味花生3袋    已兑换
+Mar 31 15:50:29 刀具三件套    已兑换
+Mar 31 15:50:29 
+Mar 31 15:50:29 【京东账号1】burst3166
+Mar 31 15:50:29 【生产商品】巴旦木
+Mar 31 15:50:29 【当前等级】高级工程师 5
+Mar 31 15:50:29 【生产进度】35.12%
+Mar 31 15:50:29 【招工进度】7/12
+Mar 31 15:50:29 【收取发电站】收取成功，获得 360 电力
+Mar 31 15:50:29 【每日任务】领奖成功，共计 360 电力
+Mar 31 15:50:29 【投入电力】投入成功，共计 300 电力
+Mar 31 15:50:29 【收取自己零件】获得0电力
+Mar 31 15:50:29 【收取好友零件】获得0电力
+Mar 31 15:50:29 
+Mar 31 15:50:30 
+Mar 31 15:50:30 参加作者的团
+Mar 31 15:50:30 
+Mar 31 15:50:31 
+Mar 31 15:50:31 🔔京喜工厂, 结束! 🕛 25.131 秒
+Mar 31 15:50:31 
+Mar 31 16:50:14 
+Mar 31 16:50:14 🔔京喜工厂, 开始!
+Mar 31 16:50:14 
+Mar 31 16:50:14 ====================共1个京东账号Cookie=========
+Mar 31 16:50:14 
+Mar 31 16:50:14 ==================脚本执行- 北京时间(UTC+8)：3/31/2021, 4:50:14 PM=====================
+Mar 31 16:50:14 
+Mar 31 16:50:15 获取签名参数成功！
+Mar 31 16:50:15 fp: 3742318001343161
+Mar 31 16:50:15 token: tk01wca5e1c66a8ndXdJcUxCTnhnUa1q8OCGTfsotSDtLs2DBdUJO6ezJ+rQRtSTm/DX2yELgmxD9dcDMs9hE6cmY1y4
+Mar 31 16:50:15 enCryptMethodJD: function test(token,fingerprint,timestamp,appId,algo){const random='glBXTaBt1AU4';const str=`${token}${fingerprint}${timestamp}${appId}${random}`;return algo.HmacSHA512(str,token)}
+Mar 31 16:50:15 开始获取京喜工厂配置文件
+Mar 31 16:50:15 
+Mar 31 16:50:15 tuanActiveId: i9ideMF_BUOdVtmbe1pSeA==
+Mar 31 16:50:15 共1个京东账号
+Mar 31 16:50:15 
+Mar 31 16:50:15 您提供了1个账号的京喜工厂助力码
+Mar 31 16:50:15 
+Mar 31 16:50:16 
+Mar 31 16:50:16 ******开始【京东账号1】IS_FREEDOM*********
+Mar 31 16:50:16 
+Mar 31 16:50:16 再加2.05%电力可开红包
+Mar 31 16:50:16 
+Mar 31 16:50:16 当前电力：61
+Mar 31 16:50:16 当前等级：5
+Mar 31 16:50:16 
+Mar 31 16:50:16 【京东账号1（burst3166）的京喜工厂好友互助码】A1GAHQrpp1nm7pmfuDlKAg==
+Mar 31 16:50:16 已投入电力：260200
+Mar 31 16:50:16 所需电力：740000
+Mar 31 16:50:16 生产进度：35.16%
+Mar 31 16:50:16 
+Mar 31 16:50:16 
+Mar 31 16:50:16 你今日还能帮好友打工（0/3）次
+Mar 31 16:50:16 
+Mar 31 16:50:16 
+Mar 31 16:50:16 【今日招工进度】7/12
+Mar 31 16:50:16 
+Mar 31 16:50:16 今日助力好友机会已耗尽
+Mar 31 16:50:16 
+Mar 31 16:50:16 发电机：当前 360.6 电力，最大值 420 电力
+Mar 31 16:50:16 
+Mar 31 16:50:16 本次发电机电力集满分享后不可获得双倍电力，故现在收取电力
+Mar 31 16:50:16 
+Mar 31 16:50:16 收取电力成功: 共361 
+Mar 31 16:50:16 完成任务：共领取361电力
+Mar 31 16:50:16 成功投入电力400电力
+Mar 31 16:50:17 自家地下暂无零件可收
+Mar 31 16:50:17 查询好友列表完成，共31好友，下面开始拾取好友地下的零件
+Mar 31 16:50:17 
+Mar 31 16:50:17 开始收取第 1 个好友 1ysne6hoo-pwlVG7b_U0DQ== 地下零件
+Mar 31 16:50:18 好友【1ysne6hoo-pwlVG7b_U0DQ==】地下暂无零件可收
+Mar 31 16:50:18 开始收取第 2 个好友 8I4PGcZpjvt_Nq20R0r-4Q== 地下零件
+Mar 31 16:50:18 好友【8I4PGcZpjvt_Nq20R0r-4Q==】地下暂无零件可收
+Mar 31 16:50:18 开始收取第 3 个好友 lmOajc3zN-XR5JxkIqM5qA== 地下零件
+Mar 31 16:50:19 好友【lmOajc3zN-XR5JxkIqM5qA==】地下暂无零件可收
+Mar 31 16:50:19 开始收取第 4 个好友 4Ff3bUhMlfJaid8B4qm32Q== 地下零件
+Mar 31 16:50:19 好友【4Ff3bUhMlfJaid8B4qm32Q==】地下暂无零件可收
+Mar 31 16:50:19 开始收取第 5 个好友 MJix7oSghPKjPtH8uJFaEA== 地下零件
+Mar 31 16:50:20 好友【MJix7oSghPKjPtH8uJFaEA==】地下暂无零件可收
+Mar 31 16:50:20 开始收取第 6 个好友 Oa8unWu-KdPrmGzypTpgUg== 地下零件
+Mar 31 16:50:21 好友【Oa8unWu-KdPrmGzypTpgUg==】地下暂无零件可收
+Mar 31 16:50:21 开始收取第 7 个好友 hyykhYqbGaAs-0No8h6kVQ== 地下零件
+Mar 31 16:50:21 好友【hyykhYqbGaAs-0No8h6kVQ==】地下暂无零件可收
+Mar 31 16:50:21 开始收取第 8 个好友 SIQEUukDV19DwOQGjd9J5Q== 地下零件
+Mar 31 16:50:22 好友【SIQEUukDV19DwOQGjd9J5Q==】地下暂无零件可收
+Mar 31 16:50:22 开始收取第 9 个好友 N8QdMHreY_pd7rIHq9zlFw== 地下零件
+Mar 31 16:50:22 好友【N8QdMHreY_pd7rIHq9zlFw==】地下暂无零件可收
+Mar 31 16:50:22 开始收取第 10 个好友 CJvUmDW5_In4nqFPr7BkVg== 地下零件
+Mar 31 16:50:23 好友【CJvUmDW5_In4nqFPr7BkVg==】地下暂无零件可收
+Mar 31 16:50:23 开始收取第 11 个好友 juHlWyZK6YCYEaIui-9O9A== 地下零件
+Mar 31 16:50:23 好友【juHlWyZK6YCYEaIui-9O9A==】地下暂无零件可收
+Mar 31 16:50:23 开始收取第 12 个好友 LAxdowQnMU3ox65OdwNwZA== 地下零件
+Mar 31 16:50:24 好友【LAxdowQnMU3ox65OdwNwZA==】地下暂无零件可收
+Mar 31 16:50:24 开始收取第 13 个好友 IsB_WWCxAQMMIfeGu9BpWg== 地下零件
+Mar 31 16:50:24 好友【IsB_WWCxAQMMIfeGu9BpWg==】地下暂无零件可收
+Mar 31 16:50:24 开始收取第 14 个好友 iGVfdqPLy34R5FOSbAq0qA== 地下零件
+Mar 31 16:50:25 好友【iGVfdqPLy34R5FOSbAq0qA==】地下暂无零件可收
+Mar 31 16:50:25 开始收取第 15 个好友 LLngJORM-9zh8UYMGcfd2A== 地下零件
+Mar 31 16:50:26 GetUserComponent失败：{"msg":"操作太频繁，请稍后再试~","nowTime":1617180626,"ret":10004}
+Mar 31 16:50:26 开始收取第 16 个好友 MJMF4orse-sJYN5pcyklXQ== 地下零件
+Mar 31 16:50:26 GetUserComponent失败：{"msg":"操作太频繁，请稍后再试~","nowTime":1617180626,"ret":10004}
+Mar 31 16:50:26 开始收取第 17 个好友 J0ZdwtZszB5pnvxDv6l8tQ== 地下零件
+Mar 31 16:50:27 GetUserComponent失败：{"msg":"操作太频繁，请稍后再试~","nowTime":1617180627,"ret":10004}
+Mar 31 16:50:27 开始收取第 18 个好友 guBovILfmX3SJTf_AQNDRg== 地下零件
+Mar 31 16:50:27 GetUserComponent失败：{"msg":"操作太频繁，请稍后再试~","nowTime":1617180627,"ret":10004}
+Mar 31 16:50:27 开始收取第 19 个好友 X6RooQQkq_I28EjOEpv3Lg== 地下零件
+Mar 31 16:50:28 GetUserComponent失败：{"msg":"操作太频繁，请稍后再试~","nowTime":1617180628,"ret":10004}
+Mar 31 16:50:28 开始收取第 20 个好友 uhcZW_ZiVE0UsO11648SHA== 地下零件
+Mar 31 16:50:28 GetUserComponent失败：{"msg":"操作太频繁，请稍后再试~","nowTime":1617180628,"ret":10004}
+Mar 31 16:50:28 开始收取第 21 个好友 F-LnusDb7uc82e3xbgcq7g== 地下零件
+Mar 31 16:50:29 GetUserComponent失败：{"msg":"操作太频繁，请稍后再试~","nowTime":1617180629,"ret":10004}
+Mar 31 16:50:29 开始收取第 22 个好友 Sqhj-l0-WiKejPGYH5sEJQ== 地下零件
+Mar 31 16:50:29 GetUserComponent失败：{"msg":"操作太频繁，请稍后再试~","nowTime":1617180629,"ret":10004}
+Mar 31 16:50:29 开始收取第 23 个好友 i55e65wxNYfC4tZ2R8bvdA== 地下零件
+Mar 31 16:50:30 好友【i55e65wxNYfC4tZ2R8bvdA==】地下暂无零件可收
+Mar 31 16:50:30 开始收取第 24 个好友 uJ0m1yiLaG6xNqOVpfLfncFZphSvO5VIUlgMcT9fV5E= 地下零件
+Mar 31 16:50:31 好友【uJ0m1yiLaG6xNqOVpfLfncFZphSvO5VIUlgMcT9fV5E=】地下暂无零件可收
+Mar 31 16:50:31 开始收取第 25 个好友 v8gwk5IrNis2alvqFJbmpw== 地下零件
+Mar 31 16:50:31 好友【v8gwk5IrNis2alvqFJbmpw==】地下暂无零件可收
+Mar 31 16:50:31 开始收取第 26 个好友 3JehqRP1jBOq-0vpydgxow== 地下零件
+Mar 31 16:50:32 好友【3JehqRP1jBOq-0vpydgxow==】地下暂无零件可收
+Mar 31 16:50:32 开始收取第 27 个好友 7fzlmybQNCsUvyimRAXUOA== 地下零件
+Mar 31 16:50:32 好友【7fzlmybQNCsUvyimRAXUOA==】地下暂无零件可收
+Mar 31 16:50:32 开始收取第 28 个好友 pBFolkAT7mLHZPTHo8rkbA== 地下零件
+Mar 31 16:50:33 好友【pBFolkAT7mLHZPTHo8rkbA==】地下暂无零件可收
+Mar 31 16:50:33 开始收取第 29 个好友 Z4EkI5Mzd0IllHBOOSXwsA== 地下零件
+Mar 31 16:50:33 好友【Z4EkI5Mzd0IllHBOOSXwsA==】地下暂无零件可收
+Mar 31 16:50:33 开始收取第 30 个好友 m2LC0Qsqnr3rK8e3ApvsuQ== 地下零件
+Mar 31 16:50:34 好友【m2LC0Qsqnr3rK8e3ApvsuQ==】地下暂无零件可收
+Mar 31 16:50:34 开始收取第 31 个好友 5LcqlK-8sBkaG8Mg7mCYvQ== 地下零件
+Mar 31 16:50:35 好友【5LcqlK-8sBkaG8Mg7mCYvQ==】地下暂无零件可收
+Mar 31 16:50:35 
+Mar 31 16:50:35 团活动ID  i9ideMF_BUOdVtmbe1pSeA==
+Mar 31 16:50:35 团ID  cwFMDA1z9S3bKeKg4hg3xA==
+Mar 31 16:50:35 
+Mar 31 16:50:35 今日剩余开团次数：1次
+Mar 31 16:50:35 
+Mar 31 16:50:35 开团情况:1/6
+Mar 31 16:50:35 
+Mar 31 16:50:35 
+Mar 31 16:50:35 此团未达领取团奖励人数：6人
+Mar 31 16:50:35 
+Mar 31 16:50:35 3/29/2021, 11:51:13 PM参加团主【A1GAHQrpp1nm7pmfuDlKAg==】失败
+Mar 31 16:50:35 3/29/2021, 10:50:37 AM参加团主【A1GAHQrpp1nm7pmfuDlKAg==】失败
+Mar 31 16:50:35 3/28/2021, 10:49:59 PM参加团主【A1GAHQrpp1nm7pmfuDlKAg==】失败
+Mar 31 16:50:35 3/28/2021, 8:56:28 PM参加团主【N8QdMHreY_pd7rIHq9zlFw==】失败
+Mar 31 16:50:35 3/28/2021, 10:32:41 AM参加团主【A1GAHQrpp1nm7pmfuDlKAg==】失败
+Mar 31 16:50:35 3/27/2021, 9:50:38 PM参加团主【A1GAHQrpp1nm7pmfuDlKAg==】失败
+Mar 31 16:50:35 3/27/2021, 8:50:35 AM参加团主【A1GAHQrpp1nm7pmfuDlKAg==】失败
+Mar 31 16:50:35 3/31/2021, 1:50:51 PM参加团主【A1GAHQrpp1nm7pmfuDlKAg==】失败
+Mar 31 16:50:35 3/31/2021, 12:51:04 AM参加团主【A1GAHQrpp1nm7pmfuDlKAg==】失败
+Mar 31 16:50:35 3/30/2021, 12:50:36 PM参加团主【A1GAHQrpp1nm7pmfuDlKAg==】失败
+Mar 31 16:50:35 
+Mar 31 16:50:35   商品名     兑换状态
+Mar 31 16:50:35 三合一数据线    已兑换
+Mar 31 16:50:35 多味花生3袋    已兑换
+Mar 31 16:50:35 刀具三件套    已兑换
+Mar 31 16:50:35 
+Mar 31 16:50:35 【京东账号1】IS_FREEDOM
+Mar 31 16:50:35 【生产商品】巴旦木
+Mar 31 16:50:35 【当前等级】高级工程师 5
+Mar 31 16:50:35 【生产进度】35.16%
+Mar 31 16:50:35 【招工进度】7/12
+Mar 31 16:50:35 【收取发电站】收取成功，获得 361 电力
+Mar 31 16:50:35 【每日任务】领奖成功，共计 361 电力
+Mar 31 16:50:35 【投入电力】投入成功，共计 400 电力
+Mar 31 16:50:35 【收取自己零件】今日已达上限
+Mar 31 16:50:35 【收取好友零件】今日已达上限
+Mar 31 16:50:35 
+Mar 31 16:50:37 
+Mar 31 16:50:37 参加作者的团
+Mar 31 16:50:37 
+Mar 31 16:50:37 参团失败：{"msg":"您已成团","nowTime":1617180637,"ret":10209}
+Mar 31 16:50:37 
+Mar 31 16:50:37 🔔京喜工厂, 结束! 🕛 22.743 秒
+Mar 31 16:50:37 
+Mar 31 17:50:29 
+Mar 31 17:50:29 🔔京喜工厂, 开始!
+Mar 31 17:50:29 
+Mar 31 17:50:29 ====================共1个京东账号Cookie=========
+Mar 31 17:50:29 
+Mar 31 17:50:29 ==================脚本执行- 北京时间(UTC+8)：3/31/2021, 5:50:29 PM=====================
+Mar 31 17:50:29 
+Mar 31 17:50:30 获取签名参数成功！
+Mar 31 17:50:30 fp: 6496925381538161
+Mar 31 17:50:30 token: tk01w94291b2fa8nV2ZEckx2YU5KUyBN8iEaI8Mpe0al+mK8PogM3Ylox1dP3RBCpJbgzqxXLM+zDFFG6MPWDK85pO7S
+Mar 31 17:50:30 enCryptMethodJD: function test(token,fingerprint,timestamp,appId,algo){const random='V+DFfgUmdlA/';const str=`${token}${fingerprint}${timestamp}${appId}${random}`;return algo.HmacMD5(str,token)}
+Mar 31 17:50:30 开始获取京喜工厂配置文件
+Mar 31 17:50:30 
+Mar 31 17:50:30 tuanActiveId: i9ideMF_BUOdVtmbe1pSeA==
+Mar 31 17:50:30 共1个京东账号
+Mar 31 17:50:30 
+Mar 31 17:50:30 您提供了1个账号的京喜工厂助力码
+Mar 31 17:50:30 
+Mar 31 17:50:30 
+Mar 31 17:50:30 ******开始【京东账号1】burst3166*********
+Mar 31 17:50:30 
+Mar 31 17:50:30 再加1.99%电力可开红包
+Mar 31 17:50:30 
+Mar 31 17:50:30 当前电力：22
+Mar 31 17:50:30 当前等级：5
+Mar 31 17:50:30 
+Mar 31 17:50:30 【京东账号1（burst3166）的京喜工厂好友互助码】A1GAHQrpp1nm7pmfuDlKAg==
+Mar 31 17:50:30 已投入电力：260600
+Mar 31 17:50:30 所需电力：740000
+Mar 31 17:50:30 生产进度：35.22%
+Mar 31 17:50:30 
+Mar 31 17:50:30 
+Mar 31 17:50:30 你今日还能帮好友打工（0/3）次
+Mar 31 17:50:30 
+Mar 31 17:50:30 
+Mar 31 17:50:30 【今日招工进度】7/12
+Mar 31 17:50:30 
+Mar 31 17:50:30 今日助力好友机会已耗尽
+Mar 31 17:50:30 
+Mar 31 17:50:30 发电机：当前 361.5 电力，最大值 420 电力
+Mar 31 17:50:30 
+Mar 31 17:50:30 本次发电机电力集满分享后不可获得双倍电力，故现在收取电力
+Mar 31 17:50:30 
+Mar 31 17:50:31 收取电力成功: 共362 
+Mar 31 17:50:31 完成任务：共领取362电力
+Mar 31 17:50:31 成功投入电力300电力
+Mar 31 17:50:31 自家地下暂无零件可收
+Mar 31 17:50:32 查询好友列表完成，共31好友，下面开始拾取好友地下的零件
+Mar 31 17:50:32 
+Mar 31 17:50:32 开始收取第 1 个好友 1ysne6hoo-pwlVG7b_U0DQ== 地下零件
+Mar 31 17:50:32 好友【1ysne6hoo-pwlVG7b_U0DQ==】地下暂无零件可收
+Mar 31 17:50:32 开始收取第 2 个好友 8I4PGcZpjvt_Nq20R0r-4Q== 地下零件
+Mar 31 17:50:33 好友【8I4PGcZpjvt_Nq20R0r-4Q==】地下暂无零件可收
+Mar 31 17:50:33 开始收取第 3 个好友 lmOajc3zN-XR5JxkIqM5qA== 地下零件
+Mar 31 17:50:34 好友【lmOajc3zN-XR5JxkIqM5qA==】地下暂无零件可收
+Mar 31 17:50:34 开始收取第 4 个好友 4Ff3bUhMlfJaid8B4qm32Q== 地下零件
+Mar 31 17:50:34 好友【4Ff3bUhMlfJaid8B4qm32Q==】地下暂无零件可收
+Mar 31 17:50:34 开始收取第 5 个好友 MJix7oSghPKjPtH8uJFaEA== 地下零件
+Mar 31 17:50:35 好友【MJix7oSghPKjPtH8uJFaEA==】地下暂无零件可收
+Mar 31 17:50:35 开始收取第 6 个好友 Oa8unWu-KdPrmGzypTpgUg== 地下零件
+Mar 31 17:50:35 好友【Oa8unWu-KdPrmGzypTpgUg==】地下暂无零件可收
+Mar 31 17:50:35 开始收取第 7 个好友 hyykhYqbGaAs-0No8h6kVQ== 地下零件
+Mar 31 17:50:36 好友【hyykhYqbGaAs-0No8h6kVQ==】地下暂无零件可收
+Mar 31 17:50:36 开始收取第 8 个好友 SIQEUukDV19DwOQGjd9J5Q== 地下零件
+Mar 31 17:50:36 好友【SIQEUukDV19DwOQGjd9J5Q==】地下暂无零件可收
+Mar 31 17:50:36 开始收取第 9 个好友 N8QdMHreY_pd7rIHq9zlFw== 地下零件
+Mar 31 17:50:37 好友【N8QdMHreY_pd7rIHq9zlFw==】地下暂无零件可收
+Mar 31 17:50:37 开始收取第 10 个好友 CJvUmDW5_In4nqFPr7BkVg== 地下零件
+Mar 31 17:50:37 好友【CJvUmDW5_In4nqFPr7BkVg==】地下暂无零件可收
+Mar 31 17:50:37 开始收取第 11 个好友 juHlWyZK6YCYEaIui-9O9A== 地下零件
+Mar 31 17:50:38 好友【juHlWyZK6YCYEaIui-9O9A==】地下暂无零件可收
+Mar 31 17:50:38 开始收取第 12 个好友 LAxdowQnMU3ox65OdwNwZA== 地下零件
+Mar 31 17:50:39 好友【LAxdowQnMU3ox65OdwNwZA==】地下暂无零件可收
+Mar 31 17:50:39 开始收取第 13 个好友 IsB_WWCxAQMMIfeGu9BpWg== 地下零件
+Mar 31 17:50:39 好友【IsB_WWCxAQMMIfeGu9BpWg==】地下暂无零件可收
+Mar 31 17:50:39 开始收取第 14 个好友 iGVfdqPLy34R5FOSbAq0qA== 地下零件
+Mar 31 17:50:40 好友【iGVfdqPLy34R5FOSbAq0qA==】地下暂无零件可收
+Mar 31 17:50:40 开始收取第 15 个好友 LLngJORM-9zh8UYMGcfd2A== 地下零件
+Mar 31 17:50:40 好友【LLngJORM-9zh8UYMGcfd2A==】地下暂无零件可收
+Mar 31 17:50:40 开始收取第 16 个好友 MJMF4orse-sJYN5pcyklXQ== 地下零件
+Mar 31 17:50:41 好友【MJMF4orse-sJYN5pcyklXQ==】地下暂无零件可收
+Mar 31 17:50:41 开始收取第 17 个好友 J0ZdwtZszB5pnvxDv6l8tQ== 地下零件
+Mar 31 17:50:41 好友【J0ZdwtZszB5pnvxDv6l8tQ==】地下暂无零件可收
+Mar 31 17:50:41 开始收取第 18 个好友 guBovILfmX3SJTf_AQNDRg== 地下零件
+Mar 31 17:50:42 好友【guBovILfmX3SJTf_AQNDRg==】地下暂无零件可收
+Mar 31 17:50:42 开始收取第 19 个好友 X6RooQQkq_I28EjOEpv3Lg== 地下零件
+Mar 31 17:50:43 好友【X6RooQQkq_I28EjOEpv3Lg==】地下暂无零件可收
+Mar 31 17:50:43 开始收取第 20 个好友 uhcZW_ZiVE0UsO11648SHA== 地下零件
+Mar 31 17:50:43 好友【uhcZW_ZiVE0UsO11648SHA==】地下暂无零件可收
+Mar 31 17:50:43 开始收取第 21 个好友 F-LnusDb7uc82e3xbgcq7g== 地下零件
+Mar 31 17:50:44 好友【F-LnusDb7uc82e3xbgcq7g==】地下暂无零件可收
+Mar 31 17:50:44 开始收取第 22 个好友 Sqhj-l0-WiKejPGYH5sEJQ== 地下零件
+Mar 31 17:50:44 好友【Sqhj-l0-WiKejPGYH5sEJQ==】地下暂无零件可收
+Mar 31 17:50:44 开始收取第 23 个好友 i55e65wxNYfC4tZ2R8bvdA== 地下零件
+Mar 31 17:50:45 好友【i55e65wxNYfC4tZ2R8bvdA==】地下暂无零件可收
+Mar 31 17:50:45 开始收取第 24 个好友 uJ0m1yiLaG6xNqOVpfLfncFZphSvO5VIUlgMcT9fV5E= 地下零件
+Mar 31 17:50:45 好友【uJ0m1yiLaG6xNqOVpfLfncFZphSvO5VIUlgMcT9fV5E=】地下暂无零件可收
+Mar 31 17:50:45 开始收取第 25 个好友 v8gwk5IrNis2alvqFJbmpw== 地下零件
+Mar 31 17:50:46 好友【v8gwk5IrNis2alvqFJbmpw==】地下暂无零件可收
+Mar 31 17:50:46 开始收取第 26 个好友 3JehqRP1jBOq-0vpydgxow== 地下零件
+Mar 31 17:50:46 好友【3JehqRP1jBOq-0vpydgxow==】地下暂无零件可收
+Mar 31 17:50:46 开始收取第 27 个好友 7fzlmybQNCsUvyimRAXUOA== 地下零件
+Mar 31 17:50:47 好友【7fzlmybQNCsUvyimRAXUOA==】地下暂无零件可收
+Mar 31 17:50:47 开始收取第 28 个好友 pBFolkAT7mLHZPTHo8rkbA== 地下零件
+Mar 31 17:50:48 好友【pBFolkAT7mLHZPTHo8rkbA==】地下暂无零件可收
+Mar 31 17:50:48 开始收取第 29 个好友 Z4EkI5Mzd0IllHBOOSXwsA== 地下零件
+Mar 31 17:50:48 好友【Z4EkI5Mzd0IllHBOOSXwsA==】地下暂无零件可收
+Mar 31 17:50:48 开始收取第 30 个好友 m2LC0Qsqnr3rK8e3ApvsuQ== 地下零件
+Mar 31 17:50:49 GetUserComponent失败：{"msg":"操作太频繁，请稍后再试~","nowTime":1617184249,"ret":10004}
+Mar 31 17:50:49 开始收取第 31 个好友 5LcqlK-8sBkaG8Mg7mCYvQ== 地下零件
+Mar 31 17:50:49 GetUserComponent失败：{"msg":"操作太频繁，请稍后再试~","nowTime":1617184249,"ret":10004}
+Mar 31 17:50:49 
+Mar 31 17:50:49 团活动ID  i9ideMF_BUOdVtmbe1pSeA==
+Mar 31 17:50:49 团ID  cwFMDA1z9S3bKeKg4hg3xA==
+Mar 31 17:50:49 
+Mar 31 17:50:49 今日剩余开团次数：1次
+Mar 31 17:50:50 
+Mar 31 17:50:50 开团情况:1/6
+Mar 31 17:50:50 
+Mar 31 17:50:50 
+Mar 31 17:50:50 此团未达领取团奖励人数：6人
+Mar 31 17:50:50 
+Mar 31 17:50:50 3/29/2021, 11:51:13 PM参加团主【A1GAHQrpp1nm7pmfuDlKAg==】失败
+Mar 31 17:50:50 3/29/2021, 10:50:37 AM参加团主【A1GAHQrpp1nm7pmfuDlKAg==】失败
+Mar 31 17:50:50 3/28/2021, 10:49:59 PM参加团主【A1GAHQrpp1nm7pmfuDlKAg==】失败
+Mar 31 17:50:50 3/28/2021, 8:56:28 PM参加团主【N8QdMHreY_pd7rIHq9zlFw==】失败
+Mar 31 17:50:50 3/28/2021, 10:32:41 AM参加团主【A1GAHQrpp1nm7pmfuDlKAg==】失败
+Mar 31 17:50:50 3/27/2021, 9:50:38 PM参加团主【A1GAHQrpp1nm7pmfuDlKAg==】失败
+Mar 31 17:50:50 3/27/2021, 8:50:35 AM参加团主【A1GAHQrpp1nm7pmfuDlKAg==】失败
+Mar 31 17:50:50 3/31/2021, 1:50:51 PM参加团主【A1GAHQrpp1nm7pmfuDlKAg==】失败
+Mar 31 17:50:50 3/31/2021, 12:51:04 AM参加团主【A1GAHQrpp1nm7pmfuDlKAg==】失败
+Mar 31 17:50:50 3/30/2021, 12:50:36 PM参加团主【A1GAHQrpp1nm7pmfuDlKAg==】失败
+Mar 31 17:50:50 
+Mar 31 17:50:50   商品名     兑换状态
+Mar 31 17:50:50 三合一数据线    已兑换
+Mar 31 17:50:50 多味花生3袋    已兑换
+Mar 31 17:50:50 刀具三件套    已兑换
+Mar 31 17:50:50 
+Mar 31 17:50:50 【京东账号1】burst3166
+Mar 31 17:50:50 【生产商品】巴旦木
+Mar 31 17:50:50 【当前等级】高级工程师 5
+Mar 31 17:50:50 【生产进度】35.22%
+Mar 31 17:50:50 【招工进度】7/12
+Mar 31 17:50:50 【收取发电站】收取成功，获得 362 电力
+Mar 31 17:50:50 【每日任务】领奖成功，共计 362 电力
+Mar 31 17:50:50 【投入电力】投入成功，共计 300 电力
+Mar 31 17:50:50 【收取自己零件】获得0电力
+Mar 31 17:50:50 【收取好友零件】获得0电力
+Mar 31 17:50:50 
+Mar 31 17:50:50 
+Mar 31 17:50:50 参加作者的团
+Mar 31 17:50:50 
+Mar 31 17:50:52 
+Mar 31 17:50:52 🔔京喜工厂, 结束! 🕛 23.467 秒
+Mar 31 17:50:52 
+Mar 31 18:50:26 
+Mar 31 18:50:26 🔔京喜工厂, 开始!
+Mar 31 18:50:26 
+Mar 31 18:50:26 ====================共1个京东账号Cookie=========
+Mar 31 18:50:26 
+Mar 31 18:50:26 ==================脚本执行- 北京时间(UTC+8)：3/31/2021, 6:50:26 PM=====================
+Mar 31 18:50:26 
+Mar 31 18:50:28 获取签名参数成功！
+Mar 31 18:50:28 fp: 7968052761932161
+Mar 31 18:50:28 token: tk01wb3ba1cb0a8nM1drOG9jam9FhL729j1zMzryFipiOXqAM1WyR5BconL+nls2kHNIMqjLjw+9WFzgTRyqIQHoXmAd
+Mar 31 18:50:28 enCryptMethodJD: function test(token,fingerprint,timestamp,appId,algo){const random='1QF146rmij7l';const str=`${token}${fingerprint}${timestamp}${appId}${random}`;return algo.HmacMD5(str,token)}
+Mar 31 18:50:28 开始获取京喜工厂配置文件
+Mar 31 18:50:28 
+Mar 31 18:50:28 tuanActiveId: i9ideMF_BUOdVtmbe1pSeA==
+Mar 31 18:50:28 共1个京东账号
+Mar 31 18:50:28 
+Mar 31 18:50:28 您提供了1个账号的京喜工厂助力码
+Mar 31 18:50:28 
+Mar 31 18:50:28 
+Mar 31 18:50:28 ******开始【京东账号1】burst3166*********
+Mar 31 18:50:28 
+Mar 31 18:50:28 再加1.82%电力可开红包
+Mar 31 18:50:28 
+Mar 31 18:50:28 当前电力：84
+Mar 31 18:50:28 当前等级：5
+Mar 31 18:50:28 
+Mar 31 18:50:28 【京东账号1（burst3166）的京喜工厂好友互助码】A1GAHQrpp1nm7pmfuDlKAg==
+Mar 31 18:50:28 已投入电力：261900
+Mar 31 18:50:28 所需电力：740000
+Mar 31 18:50:28 生产进度：35.39%
+Mar 31 18:50:28 
+Mar 31 18:50:28 
+Mar 31 18:50:28 你今日还能帮好友打工（0/3）次
+Mar 31 18:50:28 
+Mar 31 18:50:28 
+Mar 31 18:50:28 【今日招工进度】7/12
+Mar 31 18:50:28 
+Mar 31 18:50:28 今日助力好友机会已耗尽
+Mar 31 18:50:28 
+Mar 31 18:50:28 发电机：当前 359.7 电力，最大值 420 电力
+Mar 31 18:50:28 
+Mar 31 18:50:28 本次发电机电力集满分享后不可获得双倍电力，故现在收取电力
+Mar 31 18:50:28 
+Mar 31 18:50:28 收取电力成功: 共360 
+Mar 31 18:50:28 任务：累计收取发电机电力值可完成
+Mar 31 18:50:28 领取累计收取发电机电力值任务奖励成功，收获：500电力
+Mar 31 18:50:29 完成任务：共领取860电力
+Mar 31 18:50:29 成功投入电力900电力
+Mar 31 18:50:30 自家地下暂无零件可收
+Mar 31 18:50:30 查询好友列表完成，共31好友，下面开始拾取好友地下的零件
+Mar 31 18:50:30 
+Mar 31 18:50:30 开始收取第 1 个好友 1ysne6hoo-pwlVG7b_U0DQ== 地下零件
+Mar 31 18:50:31 好友【1ysne6hoo-pwlVG7b_U0DQ==】地下暂无零件可收
+Mar 31 18:50:31 开始收取第 2 个好友 8I4PGcZpjvt_Nq20R0r-4Q== 地下零件
+Mar 31 18:50:31 好友【8I4PGcZpjvt_Nq20R0r-4Q==】地下暂无零件可收
+Mar 31 18:50:31 开始收取第 3 个好友 lmOajc3zN-XR5JxkIqM5qA== 地下零件
+Mar 31 18:50:32 好友【lmOajc3zN-XR5JxkIqM5qA==】地下暂无零件可收
+Mar 31 18:50:32 开始收取第 4 个好友 4Ff3bUhMlfJaid8B4qm32Q== 地下零件
+Mar 31 18:50:33 好友【4Ff3bUhMlfJaid8B4qm32Q==】地下暂无零件可收
+Mar 31 18:50:33 开始收取第 5 个好友 MJix7oSghPKjPtH8uJFaEA== 地下零件
+Mar 31 18:50:33 好友【MJix7oSghPKjPtH8uJFaEA==】地下暂无零件可收
+Mar 31 18:50:33 开始收取第 6 个好友 Oa8unWu-KdPrmGzypTpgUg== 地下零件
+Mar 31 18:50:34 好友【Oa8unWu-KdPrmGzypTpgUg==】地下暂无零件可收
+Mar 31 18:50:34 开始收取第 7 个好友 hyykhYqbGaAs-0No8h6kVQ== 地下零件
+Mar 31 18:50:34 好友【hyykhYqbGaAs-0No8h6kVQ==】地下暂无零件可收
+Mar 31 18:50:34 开始收取第 8 个好友 SIQEUukDV19DwOQGjd9J5Q== 地下零件
+Mar 31 18:50:35 好友【SIQEUukDV19DwOQGjd9J5Q==】地下暂无零件可收
+Mar 31 18:50:35 开始收取第 9 个好友 N8QdMHreY_pd7rIHq9zlFw== 地下零件
+Mar 31 18:50:35 好友【N8QdMHreY_pd7rIHq9zlFw==】地下暂无零件可收
+Mar 31 18:50:35 开始收取第 10 个好友 CJvUmDW5_In4nqFPr7BkVg== 地下零件
+Mar 31 18:50:36 好友【CJvUmDW5_In4nqFPr7BkVg==】地下暂无零件可收
+Mar 31 18:50:36 开始收取第 11 个好友 juHlWyZK6YCYEaIui-9O9A== 地下零件
+Mar 31 18:50:36 好友【juHlWyZK6YCYEaIui-9O9A==】地下暂无零件可收
+Mar 31 18:50:36 开始收取第 12 个好友 LAxdowQnMU3ox65OdwNwZA== 地下零件
+Mar 31 18:50:37 好友【LAxdowQnMU3ox65OdwNwZA==】地下暂无零件可收
+Mar 31 18:50:37 开始收取第 13 个好友 IsB_WWCxAQMMIfeGu9BpWg== 地下零件
+Mar 31 18:50:38 好友【IsB_WWCxAQMMIfeGu9BpWg==】地下暂无零件可收
+Mar 31 18:50:38 开始收取第 14 个好友 iGVfdqPLy34R5FOSbAq0qA== 地下零件
+Mar 31 18:50:38 好友【iGVfdqPLy34R5FOSbAq0qA==】地下暂无零件可收
+Mar 31 18:50:38 开始收取第 15 个好友 LLngJORM-9zh8UYMGcfd2A== 地下零件
+Mar 31 18:50:39 好友【LLngJORM-9zh8UYMGcfd2A==】地下暂无零件可收
+Mar 31 18:50:39 开始收取第 16 个好友 MJMF4orse-sJYN5pcyklXQ== 地下零件
+Mar 31 18:50:39 好友【MJMF4orse-sJYN5pcyklXQ==】地下暂无零件可收
+Mar 31 18:50:39 开始收取第 17 个好友 J0ZdwtZszB5pnvxDv6l8tQ== 地下零件
+Mar 31 18:50:40 好友【J0ZdwtZszB5pnvxDv6l8tQ==】地下暂无零件可收
+Mar 31 18:50:40 开始收取第 18 个好友 guBovILfmX3SJTf_AQNDRg== 地下零件
+Mar 31 18:50:40 好友【guBovILfmX3SJTf_AQNDRg==】地下暂无零件可收
+Mar 31 18:50:40 开始收取第 19 个好友 X6RooQQkq_I28EjOEpv3Lg== 地下零件
+Mar 31 18:50:41 好友【X6RooQQkq_I28EjOEpv3Lg==】地下暂无零件可收
+Mar 31 18:50:41 开始收取第 20 个好友 uhcZW_ZiVE0UsO11648SHA== 地下零件
+Mar 31 18:50:41 好友【uhcZW_ZiVE0UsO11648SHA==】地下暂无零件可收
+Mar 31 18:50:41 开始收取第 21 个好友 F-LnusDb7uc82e3xbgcq7g== 地下零件
+Mar 31 18:50:42 好友【F-LnusDb7uc82e3xbgcq7g==】地下暂无零件可收
+Mar 31 18:50:42 开始收取第 22 个好友 Sqhj-l0-WiKejPGYH5sEJQ== 地下零件
+Mar 31 18:50:43 好友【Sqhj-l0-WiKejPGYH5sEJQ==】地下暂无零件可收
+Mar 31 18:50:43 开始收取第 23 个好友 i55e65wxNYfC4tZ2R8bvdA== 地下零件
+Mar 31 18:50:43 好友【i55e65wxNYfC4tZ2R8bvdA==】地下暂无零件可收
+Mar 31 18:50:43 开始收取第 24 个好友 uJ0m1yiLaG6xNqOVpfLfncFZphSvO5VIUlgMcT9fV5E= 地下零件
+Mar 31 18:50:44 好友【uJ0m1yiLaG6xNqOVpfLfncFZphSvO5VIUlgMcT9fV5E=】地下暂无零件可收
+Mar 31 18:50:44 开始收取第 25 个好友 v8gwk5IrNis2alvqFJbmpw== 地下零件
+Mar 31 18:50:44 好友【v8gwk5IrNis2alvqFJbmpw==】地下暂无零件可收
+Mar 31 18:50:44 开始收取第 26 个好友 3JehqRP1jBOq-0vpydgxow== 地下零件
+Mar 31 18:50:45 好友【3JehqRP1jBOq-0vpydgxow==】地下暂无零件可收
+Mar 31 18:50:45 开始收取第 27 个好友 7fzlmybQNCsUvyimRAXUOA== 地下零件
+Mar 31 18:50:45 好友【7fzlmybQNCsUvyimRAXUOA==】地下暂无零件可收
+Mar 31 18:50:45 开始收取第 28 个好友 pBFolkAT7mLHZPTHo8rkbA== 地下零件
+Mar 31 18:50:46 好友【pBFolkAT7mLHZPTHo8rkbA==】地下暂无零件可收
+Mar 31 18:50:46 开始收取第 29 个好友 Z4EkI5Mzd0IllHBOOSXwsA== 地下零件
+Mar 31 18:50:47 好友【Z4EkI5Mzd0IllHBOOSXwsA==】地下暂无零件可收
+Mar 31 18:50:47 开始收取第 30 个好友 m2LC0Qsqnr3rK8e3ApvsuQ== 地下零件
+Mar 31 18:50:47 好友【m2LC0Qsqnr3rK8e3ApvsuQ==】地下暂无零件可收
+Mar 31 18:50:47 开始收取第 31 个好友 5LcqlK-8sBkaG8Mg7mCYvQ== 地下零件
+Mar 31 18:50:48 GetUserComponent失败：{"msg":"操作太频繁，请稍后再试~","nowTime":1617187848,"ret":10004}
+Mar 31 18:50:48 
+Mar 31 18:50:48 团活动ID  i9ideMF_BUOdVtmbe1pSeA==
+Mar 31 18:50:48 团ID  cwFMDA1z9S3bKeKg4hg3xA==
+Mar 31 18:50:48 
+Mar 31 18:50:48 今日剩余开团次数：1次
+Mar 31 18:50:48 
+Mar 31 18:50:48 开团情况:1/6
+Mar 31 18:50:48 
+Mar 31 18:50:48 
+Mar 31 18:50:48 此团未达领取团奖励人数：6人
+Mar 31 18:50:48 
+Mar 31 18:50:48 3/29/2021, 11:51:13 PM参加团主【A1GAHQrpp1nm7pmfuDlKAg==】失败
+Mar 31 18:50:48 3/29/2021, 10:50:37 AM参加团主【A1GAHQrpp1nm7pmfuDlKAg==】失败
+Mar 31 18:50:48 3/28/2021, 10:49:59 PM参加团主【A1GAHQrpp1nm7pmfuDlKAg==】失败
+Mar 31 18:50:48 3/28/2021, 8:56:28 PM参加团主【N8QdMHreY_pd7rIHq9zlFw==】失败
+Mar 31 18:50:48 3/28/2021, 10:32:41 AM参加团主【A1GAHQrpp1nm7pmfuDlKAg==】失败
+Mar 31 18:50:48 3/27/2021, 9:50:38 PM参加团主【A1GAHQrpp1nm7pmfuDlKAg==】失败
+Mar 31 18:50:48 3/27/2021, 8:50:35 AM参加团主【A1GAHQrpp1nm7pmfuDlKAg==】失败
+Mar 31 18:50:48 3/31/2021, 1:50:51 PM参加团主【A1GAHQrpp1nm7pmfuDlKAg==】失败
+Mar 31 18:50:48 3/31/2021, 12:51:04 AM参加团主【A1GAHQrpp1nm7pmfuDlKAg==】失败
+Mar 31 18:50:48 3/30/2021, 12:50:36 PM参加团主【A1GAHQrpp1nm7pmfuDlKAg==】失败
+Mar 31 18:50:48 
+Mar 31 18:50:48   商品名     兑换状态
+Mar 31 18:50:48 三合一数据线    已兑换
+Mar 31 18:50:48 多味花生3袋    已兑换
+Mar 31 18:50:48 刀具三件套    已兑换
+Mar 31 18:50:48 
+Mar 31 18:50:48 【京东账号1】burst3166
+Mar 31 18:50:48 【生产商品】巴旦木
+Mar 31 18:50:48 【当前等级】高级工程师 5
+Mar 31 18:50:48 【生产进度】35.39%
+Mar 31 18:50:48 【招工进度】7/12
+Mar 31 18:50:48 【收取发电站】收取成功，获得 360 电力
+Mar 31 18:50:48 【每日任务】领奖成功，共计 860 电力
+Mar 31 18:50:48 【投入电力】投入成功，共计 900 电力
+Mar 31 18:50:48 【收取自己零件】获得0电力
+Mar 31 18:50:48 【收取好友零件】获得0电力
+Mar 31 18:50:48 
+Mar 31 18:50:52 
+Mar 31 18:50:52 参加作者的团
+Mar 31 18:50:52 
+Mar 31 18:50:52 
+Mar 31 18:50:52 🔔京喜工厂, 结束! 🕛 25.839 秒
+Mar 31 18:50:52 
+Mar 31 19:50:11 
+Mar 31 19:50:11 🔔京喜工厂, 开始!
+Mar 31 19:50:11 
+Mar 31 19:50:11 ====================共1个京东账号Cookie=========
+Mar 31 19:50:11 
+Mar 31 19:50:11 ==================脚本执行- 北京时间(UTC+8)：3/31/2021, 7:50:11 PM=====================
+Mar 31 19:50:11 
+Mar 31 19:50:12 获取签名参数成功！
+Mar 31 19:50:12 fp: 3495024489100161
+Mar 31 19:50:12 token: tk01w96021bc0a8nd2M2ZE1HN2ROaKAp7Qazp1sA4utqkCwT2WGCHmCzNiuGwKiFxsZnf/lm+0rF+SVhVbDkA2LlM2He
+Mar 31 19:50:12 enCryptMethodJD: function test(token,fingerprint,timestamp,appId,algo){const random='Lmn7F388zd2o';const str=`${token}${fingerprint}${timestamp}${appId}${random}`;return algo.HmacSHA256(str,token)}
+Mar 31 19:50:15 开始获取京喜工厂配置文件
+Mar 31 19:50:15 
+Mar 31 19:50:15 tuanActiveId: 6S9y4sJUfA2vPQP6TLdVIQ==
+Mar 31 19:50:15 共1个京东账号
+Mar 31 19:50:15 
+Mar 31 19:50:15 您提供了1个账号的京喜工厂助力码
+Mar 31 19:50:15 
+Mar 31 19:50:15 
+Mar 31 19:50:15 ******开始【京东账号1】burst3166*********
+Mar 31 19:50:15 
+Mar 31 19:50:15 再加1.69%电力可开红包
+Mar 31 19:50:15 
+Mar 31 19:50:15 当前电力：44
+Mar 31 19:50:15 当前等级：5
+Mar 31 19:50:15 
+Mar 31 19:50:15 【京东账号1（burst3166）的京喜工厂好友互助码】A1GAHQrpp1nm7pmfuDlKAg==
+Mar 31 19:50:15 已投入电力：262800
+Mar 31 19:50:15 所需电力：740000
+Mar 31 19:50:15 生产进度：35.51%
+Mar 31 19:50:15 
+Mar 31 19:50:15 
+Mar 31 19:50:15 你今日还能帮好友打工（0/3）次
+Mar 31 19:50:15 
+Mar 31 19:50:15 
+Mar 31 19:50:15 【今日招工进度】7/12
+Mar 31 19:50:15 
+Mar 31 19:50:15 今日助力好友机会已耗尽
+Mar 31 19:50:15 
+Mar 31 19:50:15 发电机：当前 358.7 电力，最大值 420 电力
+Mar 31 19:50:15 
+Mar 31 19:50:15 本次发电机电力集满分享后不可获得双倍电力，故现在收取电力
+Mar 31 19:50:15 
+Mar 31 19:50:15 收取电力成功: 共359 
+Mar 31 19:50:15 完成任务：共领取359电力
+Mar 31 19:50:15 成功投入电力400电力
+Mar 31 19:50:16 "Response code 502 (Bad Gateway)"
+Mar 31 19:50:16 自家地下暂无零件可收
+Mar 31 19:50:16 查询好友列表完成，共31好友，下面开始拾取好友地下的零件
+Mar 31 19:50:16 
+Mar 31 19:50:16 开始收取第 1 个好友 1ysne6hoo-pwlVG7b_U0DQ== 地下零件
+Mar 31 19:50:17 好友【1ysne6hoo-pwlVG7b_U0DQ==】地下暂无零件可收
+Mar 31 19:50:17 开始收取第 2 个好友 8I4PGcZpjvt_Nq20R0r-4Q== 地下零件
+Mar 31 19:50:17 好友【8I4PGcZpjvt_Nq20R0r-4Q==】地下暂无零件可收
+Mar 31 19:50:17 开始收取第 3 个好友 lmOajc3zN-XR5JxkIqM5qA== 地下零件
+Mar 31 19:50:18 好友【lmOajc3zN-XR5JxkIqM5qA==】地下暂无零件可收
+Mar 31 19:50:18 开始收取第 4 个好友 4Ff3bUhMlfJaid8B4qm32Q== 地下零件
+Mar 31 19:50:19 好友【4Ff3bUhMlfJaid8B4qm32Q==】地下暂无零件可收
+Mar 31 19:50:19 开始收取第 5 个好友 MJix7oSghPKjPtH8uJFaEA== 地下零件
+Mar 31 19:50:19 好友【MJix7oSghPKjPtH8uJFaEA==】地下暂无零件可收
+Mar 31 19:50:19 开始收取第 6 个好友 Oa8unWu-KdPrmGzypTpgUg== 地下零件
+Mar 31 19:50:20 好友【Oa8unWu-KdPrmGzypTpgUg==】地下暂无零件可收
+Mar 31 19:50:20 开始收取第 7 个好友 hyykhYqbGaAs-0No8h6kVQ== 地下零件
+Mar 31 19:50:20 好友【hyykhYqbGaAs-0No8h6kVQ==】地下暂无零件可收
+Mar 31 19:50:20 开始收取第 8 个好友 SIQEUukDV19DwOQGjd9J5Q== 地下零件
+Mar 31 19:50:21 好友【SIQEUukDV19DwOQGjd9J5Q==】地下暂无零件可收
+Mar 31 19:50:21 开始收取第 9 个好友 N8QdMHreY_pd7rIHq9zlFw== 地下零件
+Mar 31 19:50:21 好友【N8QdMHreY_pd7rIHq9zlFw==】地下暂无零件可收
+Mar 31 19:50:21 开始收取第 10 个好友 CJvUmDW5_In4nqFPr7BkVg== 地下零件
+Mar 31 19:50:22 好友【CJvUmDW5_In4nqFPr7BkVg==】地下暂无零件可收
+Mar 31 19:50:22 开始收取第 11 个好友 juHlWyZK6YCYEaIui-9O9A== 地下零件
+Mar 31 19:50:22 好友【juHlWyZK6YCYEaIui-9O9A==】地下暂无零件可收
+Mar 31 19:50:22 开始收取第 12 个好友 LAxdowQnMU3ox65OdwNwZA== 地下零件
+Mar 31 19:50:23 好友【LAxdowQnMU3ox65OdwNwZA==】地下暂无零件可收
+Mar 31 19:50:23 开始收取第 13 个好友 IsB_WWCxAQMMIfeGu9BpWg== 地下零件
+Mar 31 19:50:24 好友【IsB_WWCxAQMMIfeGu9BpWg==】地下暂无零件可收
+Mar 31 19:50:24 开始收取第 14 个好友 iGVfdqPLy34R5FOSbAq0qA== 地下零件
+Mar 31 19:50:24 好友【iGVfdqPLy34R5FOSbAq0qA==】地下暂无零件可收
+Mar 31 19:50:24 开始收取第 15 个好友 LLngJORM-9zh8UYMGcfd2A== 地下零件
+Mar 31 19:50:25 好友【LLngJORM-9zh8UYMGcfd2A==】地下暂无零件可收
+Mar 31 19:50:25 开始收取第 16 个好友 MJMF4orse-sJYN5pcyklXQ== 地下零件
+Mar 31 19:50:25 好友【MJMF4orse-sJYN5pcyklXQ==】地下暂无零件可收
+Mar 31 19:50:25 开始收取第 17 个好友 J0ZdwtZszB5pnvxDv6l8tQ== 地下零件
+Mar 31 19:50:26 好友【J0ZdwtZszB5pnvxDv6l8tQ==】地下暂无零件可收
+Mar 31 19:50:26 开始收取第 18 个好友 guBovILfmX3SJTf_AQNDRg== 地下零件
+Mar 31 19:50:26 好友【guBovILfmX3SJTf_AQNDRg==】地下暂无零件可收
+Mar 31 19:50:26 开始收取第 19 个好友 X6RooQQkq_I28EjOEpv3Lg== 地下零件
+Mar 31 19:50:27 好友【X6RooQQkq_I28EjOEpv3Lg==】地下暂无零件可收
+Mar 31 19:50:27 开始收取第 20 个好友 uhcZW_ZiVE0UsO11648SHA== 地下零件
+Mar 31 19:50:27 好友【uhcZW_ZiVE0UsO11648SHA==】地下暂无零件可收
+Mar 31 19:50:27 开始收取第 21 个好友 F-LnusDb7uc82e3xbgcq7g== 地下零件
+Mar 31 19:50:28 好友【F-LnusDb7uc82e3xbgcq7g==】地下暂无零件可收
+Mar 31 19:50:28 开始收取第 22 个好友 Sqhj-l0-WiKejPGYH5sEJQ== 地下零件
+Mar 31 19:50:29 好友【Sqhj-l0-WiKejPGYH5sEJQ==】地下暂无零件可收
+Mar 31 19:50:29 开始收取第 23 个好友 i55e65wxNYfC4tZ2R8bvdA== 地下零件
+Mar 31 19:50:29 好友【i55e65wxNYfC4tZ2R8bvdA==】地下暂无零件可收
+Mar 31 19:50:29 开始收取第 24 个好友 uJ0m1yiLaG6xNqOVpfLfncFZphSvO5VIUlgMcT9fV5E= 地下零件
+Mar 31 19:50:30 好友【uJ0m1yiLaG6xNqOVpfLfncFZphSvO5VIUlgMcT9fV5E=】地下暂无零件可收
+Mar 31 19:50:30 开始收取第 25 个好友 v8gwk5IrNis2alvqFJbmpw== 地下零件
+Mar 31 19:50:30 好友【v8gwk5IrNis2alvqFJbmpw==】地下暂无零件可收
+Mar 31 19:50:30 开始收取第 26 个好友 3JehqRP1jBOq-0vpydgxow== 地下零件
+Mar 31 19:50:31 好友【3JehqRP1jBOq-0vpydgxow==】地下暂无零件可收
+Mar 31 19:50:31 开始收取第 27 个好友 7fzlmybQNCsUvyimRAXUOA== 地下零件
+Mar 31 19:50:31 好友【7fzlmybQNCsUvyimRAXUOA==】地下暂无零件可收
+Mar 31 19:50:31 开始收取第 28 个好友 pBFolkAT7mLHZPTHo8rkbA== 地下零件
+Mar 31 19:50:32 好友【pBFolkAT7mLHZPTHo8rkbA==】地下暂无零件可收
+Mar 31 19:50:32 开始收取第 29 个好友 Z4EkI5Mzd0IllHBOOSXwsA== 地下零件
+Mar 31 19:50:32 好友【Z4EkI5Mzd0IllHBOOSXwsA==】地下暂无零件可收
+Mar 31 19:50:32 开始收取第 30 个好友 m2LC0Qsqnr3rK8e3ApvsuQ== 地下零件
+Mar 31 19:50:33 好友【m2LC0Qsqnr3rK8e3ApvsuQ==】地下暂无零件可收
+Mar 31 19:50:33 开始收取第 31 个好友 5LcqlK-8sBkaG8Mg7mCYvQ== 地下零件
+Mar 31 19:50:34 好友【5LcqlK-8sBkaG8Mg7mCYvQ==】地下暂无零件可收
+Mar 31 19:50:34 
+Mar 31 19:50:34 团活动ID  6S9y4sJUfA2vPQP6TLdVIQ==
+Mar 31 19:50:34 团ID  
+Mar 31 19:50:34 
+Mar 31 19:50:34 今日剩余开团次数：3次
+Mar 31 19:50:34 准备开团
+Mar 31 19:50:34 开团异常：{"msg":"活动已结束，请稍后再试~","nowTime":1617191434,"ret":10218}
+Mar 31 19:50:34 
+Mar 31 19:50:34   商品名     兑换状态
+Mar 31 19:50:34 三合一数据线    已兑换
+Mar 31 19:50:34 多味花生3袋    已兑换
+Mar 31 19:50:34 刀具三件套    已兑换
+Mar 31 19:50:34 
+Mar 31 19:50:34 【京东账号1】burst3166
+Mar 31 19:50:34 【生产商品】巴旦木
+Mar 31 19:50:34 【当前等级】高级工程师 5
+Mar 31 19:50:34 【生产进度】35.51%
+Mar 31 19:50:34 【招工进度】7/12
+Mar 31 19:50:34 【收取发电站】收取成功，获得 359 电力
+Mar 31 19:50:34 【每日任务】领奖成功，共计 359 电力
+Mar 31 19:50:34 【投入电力】投入成功，共计 400 电力
+Mar 31 19:50:34 【收取自己零件】今日已达上限
+Mar 31 19:50:34 【收取好友零件】今日已达上限
+Mar 31 19:50:34 
+Mar 31 19:50:36 
+Mar 31 19:50:36 参加作者的团
+Mar 31 19:50:36 
+Mar 31 19:50:39 
+Mar 31 19:50:39 🔔京喜工厂, 结束! 🕛 27.748 秒
+Mar 31 19:50:39 
+Mar 31 19:50:39 "Response code 503 (Service Temporarily Unavailable)"
+Mar 31 20:50:14 
+Mar 31 20:50:14 🔔京喜工厂, 开始!
+Mar 31 20:50:14 
+Mar 31 20:50:14 ====================共1个京东账号Cookie=========
+Mar 31 20:50:14 
+Mar 31 20:50:14 ==================脚本执行- 北京时间(UTC+8)：3/31/2021, 8:50:14 PM=====================
+Mar 31 20:50:14 
+Mar 31 20:50:15 获取签名参数成功！
+Mar 31 20:50:15 fp: 1008679332708161
+Mar 31 20:50:15 token: tk01w846b1bc9a8nU0ljOUJmcDVi23i+BJI4q74YgSZb+wJxKs95rHMEPL7gPhA1r0mgA4oQWbTShvfenlBhN2C6vxvl
+Mar 31 20:50:15 enCryptMethodJD: function test(token,fingerprint,timestamp,appId,algo){const random='okAf+opuK+BF';const str=`${token}${fingerprint}${timestamp}${appId}${random}`;return algo.HmacMD5(str,token)}
+Mar 31 20:50:16 开始获取京喜工厂配置文件
+Mar 31 20:50:16 
+Mar 31 20:50:16 tuanActiveId: i9ideMF_BUOdVtmbe1pSeA==
+Mar 31 20:50:16 共1个京东账号
+Mar 31 20:50:16 
+Mar 31 20:50:16 您提供了1个账号的京喜工厂助力码
+Mar 31 20:50:16 
+Mar 31 20:50:16 
+Mar 31 20:50:16 ******开始【京东账号1】burst3166*********
+Mar 31 20:50:16 
+Mar 31 20:50:17 再加1.64%电力可开红包
+Mar 31 20:50:17 
+Mar 31 20:50:17 当前电力：3
+Mar 31 20:50:17 当前等级：5
+Mar 31 20:50:17 
+Mar 31 20:50:17 【京东账号1（burst3166）的京喜工厂好友互助码】A1GAHQrpp1nm7pmfuDlKAg==
+Mar 31 20:50:17 已投入电力：263200
+Mar 31 20:50:17 所需电力：740000
+Mar 31 20:50:17 生产进度：35.57%
+Mar 31 20:50:17 
+Mar 31 20:50:17 
+Mar 31 20:50:17 你今日还能帮好友打工（0/3）次
+Mar 31 20:50:17 
+Mar 31 20:50:17 
+Mar 31 20:50:17 【今日招工进度】7/12
+Mar 31 20:50:17 
+Mar 31 20:50:17 今日助力好友机会已耗尽
+Mar 31 20:50:17 
+Mar 31 20:50:17 发电机：当前 360.2 电力，最大值 420 电力
+Mar 31 20:50:17 
+Mar 31 20:50:17 本次发电机电力集满分享后不可获得双倍电力，故现在收取电力
+Mar 31 20:50:17 
+Mar 31 20:50:17 收取电力成功: 共360 
+Mar 31 20:50:17 完成任务：共领取360电力
+Mar 31 20:50:17 成功投入电力300电力
+Mar 31 20:50:18 自家地下暂无零件可收
+Mar 31 20:50:18 查询好友列表完成，共31好友，下面开始拾取好友地下的零件
+Mar 31 20:50:18 
+Mar 31 20:50:18 开始收取第 1 个好友 1ysne6hoo-pwlVG7b_U0DQ== 地下零件
+Mar 31 20:50:19 好友【1ysne6hoo-pwlVG7b_U0DQ==】地下暂无零件可收
+Mar 31 20:50:19 开始收取第 2 个好友 8I4PGcZpjvt_Nq20R0r-4Q== 地下零件
+Mar 31 20:50:19 好友【8I4PGcZpjvt_Nq20R0r-4Q==】地下暂无零件可收
+Mar 31 20:50:19 开始收取第 3 个好友 lmOajc3zN-XR5JxkIqM5qA== 地下零件
+Mar 31 20:50:20 好友【lmOajc3zN-XR5JxkIqM5qA==】地下暂无零件可收
+Mar 31 20:50:20 开始收取第 4 个好友 4Ff3bUhMlfJaid8B4qm32Q== 地下零件
+Mar 31 20:50:20 好友【4Ff3bUhMlfJaid8B4qm32Q==】地下暂无零件可收
+Mar 31 20:50:20 开始收取第 5 个好友 MJix7oSghPKjPtH8uJFaEA== 地下零件
+Mar 31 20:50:21 好友【MJix7oSghPKjPtH8uJFaEA==】地下暂无零件可收
+Mar 31 20:50:21 开始收取第 6 个好友 Oa8unWu-KdPrmGzypTpgUg== 地下零件
+Mar 31 20:50:21 好友【Oa8unWu-KdPrmGzypTpgUg==】地下暂无零件可收
+Mar 31 20:50:21 开始收取第 7 个好友 hyykhYqbGaAs-0No8h6kVQ== 地下零件
+Mar 31 20:50:22 好友【hyykhYqbGaAs-0No8h6kVQ==】地下暂无零件可收
+Mar 31 20:50:22 开始收取第 8 个好友 SIQEUukDV19DwOQGjd9J5Q== 地下零件
+Mar 31 20:50:22 好友【SIQEUukDV19DwOQGjd9J5Q==】地下暂无零件可收
+Mar 31 20:50:22 开始收取第 9 个好友 N8QdMHreY_pd7rIHq9zlFw== 地下零件
+Mar 31 20:50:23 好友【N8QdMHreY_pd7rIHq9zlFw==】地下暂无零件可收
+Mar 31 20:50:23 开始收取第 10 个好友 CJvUmDW5_In4nqFPr7BkVg== 地下零件
+Mar 31 20:50:24 好友【CJvUmDW5_In4nqFPr7BkVg==】地下暂无零件可收
+Mar 31 20:50:24 开始收取第 11 个好友 juHlWyZK6YCYEaIui-9O9A== 地下零件
+Mar 31 20:50:24 好友【juHlWyZK6YCYEaIui-9O9A==】地下暂无零件可收
+Mar 31 20:50:24 开始收取第 12 个好友 LAxdowQnMU3ox65OdwNwZA== 地下零件
+Mar 31 20:50:25 好友【LAxdowQnMU3ox65OdwNwZA==】地下暂无零件可收
+Mar 31 20:50:25 开始收取第 13 个好友 IsB_WWCxAQMMIfeGu9BpWg== 地下零件
+Mar 31 20:50:25 好友【IsB_WWCxAQMMIfeGu9BpWg==】地下暂无零件可收
+Mar 31 20:50:25 开始收取第 14 个好友 iGVfdqPLy34R5FOSbAq0qA== 地下零件
+Mar 31 20:50:26 好友【iGVfdqPLy34R5FOSbAq0qA==】地下暂无零件可收
+Mar 31 20:50:26 开始收取第 15 个好友 LLngJORM-9zh8UYMGcfd2A== 地下零件
+Mar 31 20:50:26 好友【LLngJORM-9zh8UYMGcfd2A==】地下暂无零件可收
+Mar 31 20:50:26 开始收取第 16 个好友 MJMF4orse-sJYN5pcyklXQ== 地下零件
+Mar 31 20:50:27 好友【MJMF4orse-sJYN5pcyklXQ==】地下暂无零件可收
+Mar 31 20:50:27 开始收取第 17 个好友 J0ZdwtZszB5pnvxDv6l8tQ== 地下零件
+Mar 31 20:50:27 好友【J0ZdwtZszB5pnvxDv6l8tQ==】地下暂无零件可收
+Mar 31 20:50:27 开始收取第 18 个好友 guBovILfmX3SJTf_AQNDRg== 地下零件
+Mar 31 20:50:28 好友【guBovILfmX3SJTf_AQNDRg==】地下暂无零件可收
+Mar 31 20:50:28 开始收取第 19 个好友 X6RooQQkq_I28EjOEpv3Lg== 地下零件
+Mar 31 20:50:29 好友【X6RooQQkq_I28EjOEpv3Lg==】地下暂无零件可收
+Mar 31 20:50:29 开始收取第 20 个好友 uhcZW_ZiVE0UsO11648SHA== 地下零件
+Mar 31 20:50:29 好友【uhcZW_ZiVE0UsO11648SHA==】地下暂无零件可收
+Mar 31 20:50:29 开始收取第 21 个好友 F-LnusDb7uc82e3xbgcq7g== 地下零件
+Mar 31 20:50:30 好友【F-LnusDb7uc82e3xbgcq7g==】地下暂无零件可收
+Mar 31 20:50:30 开始收取第 22 个好友 Sqhj-l0-WiKejPGYH5sEJQ== 地下零件
+Mar 31 20:50:30 好友【Sqhj-l0-WiKejPGYH5sEJQ==】地下暂无零件可收
+Mar 31 20:50:30 开始收取第 23 个好友 i55e65wxNYfC4tZ2R8bvdA== 地下零件
+Mar 31 20:50:31 好友【i55e65wxNYfC4tZ2R8bvdA==】地下暂无零件可收
+Mar 31 20:50:31 开始收取第 24 个好友 uJ0m1yiLaG6xNqOVpfLfncFZphSvO5VIUlgMcT9fV5E= 地下零件
+Mar 31 20:50:31 好友【uJ0m1yiLaG6xNqOVpfLfncFZphSvO5VIUlgMcT9fV5E=】地下暂无零件可收
+Mar 31 20:50:31 开始收取第 25 个好友 v8gwk5IrNis2alvqFJbmpw== 地下零件
+Mar 31 20:50:32 好友【v8gwk5IrNis2alvqFJbmpw==】地下暂无零件可收
+Mar 31 20:50:32 开始收取第 26 个好友 3JehqRP1jBOq-0vpydgxow== 地下零件
+Mar 31 20:50:33 好友【3JehqRP1jBOq-0vpydgxow==】地下暂无零件可收
+Mar 31 20:50:33 开始收取第 27 个好友 7fzlmybQNCsUvyimRAXUOA== 地下零件
+Mar 31 20:50:33 好友【7fzlmybQNCsUvyimRAXUOA==】地下暂无零件可收
+Mar 31 20:50:33 开始收取第 28 个好友 pBFolkAT7mLHZPTHo8rkbA== 地下零件
+Mar 31 20:50:34 好友【pBFolkAT7mLHZPTHo8rkbA==】地下暂无零件可收
+Mar 31 20:50:34 开始收取第 29 个好友 Z4EkI5Mzd0IllHBOOSXwsA== 地下零件
+Mar 31 20:50:34 好友【Z4EkI5Mzd0IllHBOOSXwsA==】地下暂无零件可收
+Mar 31 20:50:34 开始收取第 30 个好友 m2LC0Qsqnr3rK8e3ApvsuQ== 地下零件
+Mar 31 20:50:35 好友【m2LC0Qsqnr3rK8e3ApvsuQ==】地下暂无零件可收
+Mar 31 20:50:35 开始收取第 31 个好友 5LcqlK-8sBkaG8Mg7mCYvQ== 地下零件
+Mar 31 20:50:35 好友【5LcqlK-8sBkaG8Mg7mCYvQ==】地下暂无零件可收
+Mar 31 20:50:35 
+Mar 31 20:50:35 团活动ID  i9ideMF_BUOdVtmbe1pSeA==
+Mar 31 20:50:35 团ID  cwFMDA1z9S3bKeKg4hg3xA==
+Mar 31 20:50:35 
+Mar 31 20:50:35 今日剩余开团次数：1次
+Mar 31 20:50:36 
+Mar 31 20:50:36 开团情况:1/6
+Mar 31 20:50:36 
+Mar 31 20:50:36 
+Mar 31 20:50:36 此团未达领取团奖励人数：6人
+Mar 31 20:50:36 
+Mar 31 20:50:36 3/29/2021, 11:51:13 PM参加团主【A1GAHQrpp1nm7pmfuDlKAg==】失败
+Mar 31 20:50:36 3/29/2021, 10:50:37 AM参加团主【A1GAHQrpp1nm7pmfuDlKAg==】失败
+Mar 31 20:50:36 3/28/2021, 10:49:59 PM参加团主【A1GAHQrpp1nm7pmfuDlKAg==】失败
+Mar 31 20:50:36 3/28/2021, 8:56:28 PM参加团主【N8QdMHreY_pd7rIHq9zlFw==】失败
+Mar 31 20:50:36 3/28/2021, 10:32:41 AM参加团主【A1GAHQrpp1nm7pmfuDlKAg==】失败
+Mar 31 20:50:36 3/27/2021, 9:50:38 PM参加团主【A1GAHQrpp1nm7pmfuDlKAg==】失败
+Mar 31 20:50:36 3/27/2021, 8:50:35 AM参加团主【A1GAHQrpp1nm7pmfuDlKAg==】失败
+Mar 31 20:50:36 3/31/2021, 1:50:51 PM参加团主【A1GAHQrpp1nm7pmfuDlKAg==】失败
+Mar 31 20:50:36 3/31/2021, 12:51:04 AM参加团主【A1GAHQrpp1nm7pmfuDlKAg==】失败
+Mar 31 20:50:36 3/30/2021, 12:50:36 PM参加团主【A1GAHQrpp1nm7pmfuDlKAg==】失败
+Mar 31 20:50:36 
+Mar 31 20:50:36   商品名     兑换状态
+Mar 31 20:50:36 三合一数据线    已兑换
+Mar 31 20:50:36 多味花生3袋    已兑换
+Mar 31 20:50:36 刀具三件套    已兑换
+Mar 31 20:50:36 
+Mar 31 20:50:36 【京东账号1】burst3166
+Mar 31 20:50:36 【生产商品】巴旦木
+Mar 31 20:50:36 【当前等级】高级工程师 5
+Mar 31 20:50:36 【生产进度】35.57%
+Mar 31 20:50:36 【招工进度】7/12
+Mar 31 20:50:36 【收取发电站】收取成功，获得 360 电力
+Mar 31 20:50:36 【每日任务】领奖成功，共计 360 电力
+Mar 31 20:50:36 【投入电力】投入成功，共计 300 电力
+Mar 31 20:50:36 【收取自己零件】今日已达上限
+Mar 31 20:50:36 【收取好友零件】今日已达上限
+Mar 31 20:50:36 
+Mar 31 20:50:36 
+Mar 31 20:50:36 参加作者的团
+Mar 31 20:50:36 
+Mar 31 20:50:38 
+Mar 31 20:50:38 🔔京喜工厂, 结束! 🕛 23.802 秒
+Mar 31 20:50:38 
+Mar 31 21:50:12 
+Mar 31 21:50:12 🔔京喜工厂, 开始!
+Mar 31 21:50:12 
+Mar 31 21:50:12 ====================共1个京东账号Cookie=========
+Mar 31 21:50:12 
+Mar 31 21:50:12 ==================脚本执行- 北京时间(UTC+8)：3/31/2021, 9:50:12 PM=====================
+Mar 31 21:50:12 
+Mar 31 21:50:13 获取签名参数成功！
+Mar 31 21:50:13 fp: 0714407131870161
+Mar 31 21:50:13 token: tk01wdf161d17a8nZWkyQ0phSGR5wPJS3Aiy9qq9oelglp1wgtbbKxN+pa6pI8tqmFi+EdMxxTnEPCf6ALjBPunkN8ES
+Mar 31 21:50:13 enCryptMethodJD: function test(token,fingerprint,timestamp,appId,algo){const random='YUKehFLIve1q';const str=`${token}${fingerprint}${timestamp}${appId}${random}`;return algo.HmacSHA256(str,token)}
+Mar 31 21:50:14 开始获取京喜工厂配置文件
+Mar 31 21:50:14 
+Mar 31 21:50:14 tuanActiveId: i9ideMF_BUOdVtmbe1pSeA==
+Mar 31 21:50:14 共1个京东账号
+Mar 31 21:50:14 
+Mar 31 21:50:14 您提供了1个账号的京喜工厂助力码
+Mar 31 21:50:14 
+Mar 31 21:50:14 
+Mar 31 21:50:14 ******开始【京东账号1】burst3166*********
+Mar 31 21:50:14 
+Mar 31 21:50:14 再加1.60%电力可开红包
+Mar 31 21:50:14 
+Mar 31 21:50:14 当前电力：63
+Mar 31 21:50:14 当前等级：5
+Mar 31 21:50:14 
+Mar 31 21:50:14 【京东账号1（burst3166）的京喜工厂好友互助码】A1GAHQrpp1nm7pmfuDlKAg==
+Mar 31 21:50:14 已投入电力：263500
+Mar 31 21:50:14 所需电力：740000
+Mar 31 21:50:14 生产进度：35.61%
+Mar 31 21:50:14 
+Mar 31 21:50:14 
+Mar 31 21:50:14 你今日还能帮好友打工（0/3）次
+Mar 31 21:50:14 
+Mar 31 21:50:14 
+Mar 31 21:50:14 【今日招工进度】7/12
+Mar 31 21:50:14 
+Mar 31 21:50:14 今日助力好友机会已耗尽
+Mar 31 21:50:14 
+Mar 31 21:50:14 发电机：当前 359.7 电力，最大值 420 电力
+Mar 31 21:50:14 
+Mar 31 21:50:14 本次发电机电力集满分享后不可获得双倍电力，故现在收取电力
+Mar 31 21:50:14 
+Mar 31 21:50:14 收取电力成功: 共360 
+Mar 31 21:50:14 完成任务：共领取360电力
+Mar 31 21:50:14 成功投入电力400电力
+Mar 31 21:50:15 自家地下暂无零件可收
+Mar 31 21:50:15 查询好友列表完成，共31好友，下面开始拾取好友地下的零件
+Mar 31 21:50:15 
+Mar 31 21:50:15 开始收取第 1 个好友 1ysne6hoo-pwlVG7b_U0DQ== 地下零件
+Mar 31 21:50:16 好友【1ysne6hoo-pwlVG7b_U0DQ==】地下暂无零件可收
+Mar 31 21:50:16 开始收取第 2 个好友 8I4PGcZpjvt_Nq20R0r-4Q== 地下零件
+Mar 31 21:50:16 好友【8I4PGcZpjvt_Nq20R0r-4Q==】地下暂无零件可收
+Mar 31 21:50:16 开始收取第 3 个好友 lmOajc3zN-XR5JxkIqM5qA== 地下零件
+Mar 31 21:50:17 好友【lmOajc3zN-XR5JxkIqM5qA==】地下暂无零件可收
+Mar 31 21:50:17 开始收取第 4 个好友 4Ff3bUhMlfJaid8B4qm32Q== 地下零件
+Mar 31 21:50:17 好友【4Ff3bUhMlfJaid8B4qm32Q==】地下暂无零件可收
+Mar 31 21:50:17 开始收取第 5 个好友 MJix7oSghPKjPtH8uJFaEA== 地下零件
+Mar 31 21:50:18 好友【MJix7oSghPKjPtH8uJFaEA==】地下暂无零件可收
+Mar 31 21:50:18 开始收取第 6 个好友 Oa8unWu-KdPrmGzypTpgUg== 地下零件
+Mar 31 21:50:19 好友【Oa8unWu-KdPrmGzypTpgUg==】地下暂无零件可收
+Mar 31 21:50:19 开始收取第 7 个好友 hyykhYqbGaAs-0No8h6kVQ== 地下零件
+Mar 31 21:50:19 好友【hyykhYqbGaAs-0No8h6kVQ==】地下暂无零件可收
+Mar 31 21:50:19 开始收取第 8 个好友 SIQEUukDV19DwOQGjd9J5Q== 地下零件
+Mar 31 21:50:20 好友【SIQEUukDV19DwOQGjd9J5Q==】地下暂无零件可收
+Mar 31 21:50:20 开始收取第 9 个好友 N8QdMHreY_pd7rIHq9zlFw== 地下零件
+Mar 31 21:50:20 好友【N8QdMHreY_pd7rIHq9zlFw==】地下暂无零件可收
+Mar 31 21:50:20 开始收取第 10 个好友 CJvUmDW5_In4nqFPr7BkVg== 地下零件
+Mar 31 21:50:21 好友【CJvUmDW5_In4nqFPr7BkVg==】地下暂无零件可收
+Mar 31 21:50:21 开始收取第 11 个好友 juHlWyZK6YCYEaIui-9O9A== 地下零件
+Mar 31 21:50:21 好友【juHlWyZK6YCYEaIui-9O9A==】地下暂无零件可收
+Mar 31 21:50:21 开始收取第 12 个好友 LAxdowQnMU3ox65OdwNwZA== 地下零件
+Mar 31 21:50:22 好友【LAxdowQnMU3ox65OdwNwZA==】地下暂无零件可收
+Mar 31 21:50:22 开始收取第 13 个好友 IsB_WWCxAQMMIfeGu9BpWg== 地下零件
+Mar 31 21:50:22 好友【IsB_WWCxAQMMIfeGu9BpWg==】地下暂无零件可收
+Mar 31 21:50:22 开始收取第 14 个好友 iGVfdqPLy34R5FOSbAq0qA== 地下零件
+Mar 31 21:50:23 好友【iGVfdqPLy34R5FOSbAq0qA==】地下暂无零件可收
+Mar 31 21:50:23 开始收取第 15 个好友 LLngJORM-9zh8UYMGcfd2A== 地下零件
+Mar 31 21:50:24 好友【LLngJORM-9zh8UYMGcfd2A==】地下暂无零件可收
+Mar 31 21:50:24 开始收取第 16 个好友 MJMF4orse-sJYN5pcyklXQ== 地下零件
+Mar 31 21:50:24 好友【MJMF4orse-sJYN5pcyklXQ==】地下暂无零件可收
+Mar 31 21:50:24 开始收取第 17 个好友 J0ZdwtZszB5pnvxDv6l8tQ== 地下零件
+Mar 31 21:50:25 好友【J0ZdwtZszB5pnvxDv6l8tQ==】地下暂无零件可收
+Mar 31 21:50:25 开始收取第 18 个好友 guBovILfmX3SJTf_AQNDRg== 地下零件
+Mar 31 21:50:25 好友【guBovILfmX3SJTf_AQNDRg==】地下暂无零件可收
+Mar 31 21:50:25 开始收取第 19 个好友 X6RooQQkq_I28EjOEpv3Lg== 地下零件
+Mar 31 21:50:26 好友【X6RooQQkq_I28EjOEpv3Lg==】地下暂无零件可收
+Mar 31 21:50:26 开始收取第 20 个好友 uhcZW_ZiVE0UsO11648SHA== 地下零件
+Mar 31 21:50:26 好友【uhcZW_ZiVE0UsO11648SHA==】地下暂无零件可收
+Mar 31 21:50:26 开始收取第 21 个好友 F-LnusDb7uc82e3xbgcq7g== 地下零件
+Mar 31 21:50:27 好友【F-LnusDb7uc82e3xbgcq7g==】地下暂无零件可收
+Mar 31 21:50:27 开始收取第 22 个好友 Sqhj-l0-WiKejPGYH5sEJQ== 地下零件
+Mar 31 21:50:27 GetUserComponent失败：{"msg":"操作太频繁，请稍后再试~","nowTime":1617198627,"ret":10004}
+Mar 31 21:50:27 开始收取第 23 个好友 i55e65wxNYfC4tZ2R8bvdA== 地下零件
+Mar 31 21:50:28 GetUserComponent失败：{"msg":"操作太频繁，请稍后再试~","nowTime":1617198628,"ret":10004}
+Mar 31 21:50:28 开始收取第 24 个好友 uJ0m1yiLaG6xNqOVpfLfncFZphSvO5VIUlgMcT9fV5E= 地下零件
+Mar 31 21:50:29 GetUserComponent失败：{"msg":"操作太频繁，请稍后再试~","nowTime":1617198629,"ret":10004}
+Mar 31 21:50:29 开始收取第 25 个好友 v8gwk5IrNis2alvqFJbmpw== 地下零件
+Mar 31 21:50:29 GetUserComponent失败：{"msg":"操作太频繁，请稍后再试~","nowTime":1617198629,"ret":10004}
+Mar 31 21:50:29 开始收取第 26 个好友 3JehqRP1jBOq-0vpydgxow== 地下零件
+Mar 31 21:50:30 好友【3JehqRP1jBOq-0vpydgxow==】地下暂无零件可收
+Mar 31 21:50:30 开始收取第 27 个好友 7fzlmybQNCsUvyimRAXUOA== 地下零件
+Mar 31 21:50:30 好友【7fzlmybQNCsUvyimRAXUOA==】地下暂无零件可收
+Mar 31 21:50:30 开始收取第 28 个好友 pBFolkAT7mLHZPTHo8rkbA== 地下零件
+Mar 31 21:50:31 好友【pBFolkAT7mLHZPTHo8rkbA==】地下暂无零件可收
+Mar 31 21:50:31 开始收取第 29 个好友 Z4EkI5Mzd0IllHBOOSXwsA== 地下零件
+Mar 31 21:50:31 好友【Z4EkI5Mzd0IllHBOOSXwsA==】地下暂无零件可收
+Mar 31 21:50:31 开始收取第 30 个好友 m2LC0Qsqnr3rK8e3ApvsuQ== 地下零件
+Mar 31 21:50:32 好友【m2LC0Qsqnr3rK8e3ApvsuQ==】地下暂无零件可收
+Mar 31 21:50:32 开始收取第 31 个好友 5LcqlK-8sBkaG8Mg7mCYvQ== 地下零件
+Mar 31 21:50:32 好友【5LcqlK-8sBkaG8Mg7mCYvQ==】地下暂无零件可收
+Mar 31 21:50:32 
+Mar 31 21:50:32 团活动ID  i9ideMF_BUOdVtmbe1pSeA==
+Mar 31 21:50:32 团ID  cwFMDA1z9S3bKeKg4hg3xA==
+Mar 31 21:50:32 
+Mar 31 21:50:32 今日剩余开团次数：1次
+Mar 31 21:50:33 
+Mar 31 21:50:33 开团情况:1/6
+Mar 31 21:50:33 
+Mar 31 21:50:33 
+Mar 31 21:50:33 此团未达领取团奖励人数：6人
+Mar 31 21:50:33 
+Mar 31 21:50:33 3/29/2021, 11:51:13 PM参加团主【A1GAHQrpp1nm7pmfuDlKAg==】失败
+Mar 31 21:50:33 3/29/2021, 10:50:37 AM参加团主【A1GAHQrpp1nm7pmfuDlKAg==】失败
+Mar 31 21:50:33 3/28/2021, 10:49:59 PM参加团主【A1GAHQrpp1nm7pmfuDlKAg==】失败
+Mar 31 21:50:33 3/28/2021, 8:56:28 PM参加团主【N8QdMHreY_pd7rIHq9zlFw==】失败
+Mar 31 21:50:33 3/28/2021, 10:32:41 AM参加团主【A1GAHQrpp1nm7pmfuDlKAg==】失败
+Mar 31 21:50:33 3/27/2021, 9:50:38 PM参加团主【A1GAHQrpp1nm7pmfuDlKAg==】失败
+Mar 31 21:50:33 3/27/2021, 8:50:35 AM参加团主【A1GAHQrpp1nm7pmfuDlKAg==】失败
+Mar 31 21:50:33 3/31/2021, 1:50:51 PM参加团主【A1GAHQrpp1nm7pmfuDlKAg==】失败
+Mar 31 21:50:33 3/31/2021, 12:51:04 AM参加团主【A1GAHQrpp1nm7pmfuDlKAg==】失败
+Mar 31 21:50:33 3/30/2021, 12:50:36 PM参加团主【A1GAHQrpp1nm7pmfuDlKAg==】失败
+Mar 31 21:50:33 
+Mar 31 21:50:33   商品名     兑换状态
+Mar 31 21:50:33 三合一数据线    已兑换
+Mar 31 21:50:33 多味花生3袋    已兑换
+Mar 31 21:50:33 刀具三件套    已兑换
+Mar 31 21:50:33 
+Mar 31 21:50:33 【京东账号1】burst3166
+Mar 31 21:50:33 【生产商品】巴旦木
+Mar 31 21:50:33 【当前等级】高级工程师 5
+Mar 31 21:50:33 【生产进度】35.61%
+Mar 31 21:50:33 【招工进度】7/12
+Mar 31 21:50:33 【收取发电站】收取成功，获得 360 电力
+Mar 31 21:50:33 【每日任务】领奖成功，共计 360 电力
+Mar 31 21:50:33 【投入电力】投入成功，共计 400 电力
+Mar 31 21:50:33 【收取自己零件】今日已达上限
+Mar 31 21:50:33 【收取好友零件】今日已达上限
+Mar 31 21:50:33 
+Mar 31 21:50:33 
+Mar 31 21:50:33 参加作者的团
+Mar 31 21:50:33 
+Mar 31 21:50:35 
+Mar 31 21:50:35 🔔京喜工厂, 结束! 🕛 22.548 秒
+Mar 31 21:50:35 
+Mar 31 22:50:07 
+Mar 31 22:50:07 🔔京喜工厂, 开始!
+Mar 31 22:50:07 
+Mar 31 22:50:07 ====================共1个京东账号Cookie=========
+Mar 31 22:50:07 
+Mar 31 22:50:07 ==================脚本执行- 北京时间(UTC+8)：3/31/2021, 10:50:07 PM=====================
+Mar 31 22:50:07 
+Mar 31 22:50:08 获取签名参数成功！
+Mar 31 22:50:08 fp: 3641947623058161
+Mar 31 22:50:08 token: tk01wc3711c6ea8nUXlBZkpNWksv9cRWg2+GvoZGQMDsYLAxTTwW/A4Y9JtdpKkcQ+aVqUbe/y1VQpV/ES0egUBJzonE
+Mar 31 22:50:08 enCryptMethodJD: function test(token,fingerprint,timestamp,appId,algo){const random='KQ4ThqAPkEnF';const str=`${token}${fingerprint}${timestamp}${appId}${random}`;return algo.HmacSHA256(str,token)}
+Mar 31 22:50:08 开始获取京喜工厂配置文件
+Mar 31 22:50:08 
+Mar 31 22:50:08 tuanActiveId: i9ideMF_BUOdVtmbe1pSeA==
+Mar 31 22:50:08 共1个京东账号
+Mar 31 22:50:08 
+Mar 31 22:50:08 您提供了1个账号的京喜工厂助力码
+Mar 31 22:50:08 
+Mar 31 22:50:08 
+Mar 31 22:50:08 ******开始【京东账号1】burst3166*********
+Mar 31 22:50:08 
+Mar 31 22:50:08 再加1.55%电力可开红包
+Mar 31 22:50:08 
+Mar 31 22:50:08 当前电力：23
+Mar 31 22:50:08 当前等级：5
+Mar 31 22:50:08 
+Mar 31 22:50:08 【京东账号1（burst3166）的京喜工厂好友互助码】A1GAHQrpp1nm7pmfuDlKAg==
+Mar 31 22:50:08 已投入电力：263900
+Mar 31 22:50:08 所需电力：740000
+Mar 31 22:50:08 生产进度：35.66%
+Mar 31 22:50:09 
+Mar 31 22:50:09 
+Mar 31 22:50:09 你今日还能帮好友打工（0/3）次
+Mar 31 22:50:09 
+Mar 31 22:50:09 
+Mar 31 22:50:09 【今日招工进度】7/12
+Mar 31 22:50:09 
+Mar 31 22:50:09 今日助力好友机会已耗尽
+Mar 31 22:50:09 
+Mar 31 22:50:09 发电机：当前 359.7 电力，最大值 420 电力
+Mar 31 22:50:09 
+Mar 31 22:50:09 本次发电机电力集满分享后不可获得双倍电力，故现在收取电力
+Mar 31 22:50:09 
+Mar 31 22:50:09 收取电力成功: 共360 
+Mar 31 22:50:09 完成任务：共领取360电力
+Mar 31 22:50:09 成功投入电力300电力
+Mar 31 22:50:09 自家地下暂无零件可收
+Mar 31 22:50:10 查询好友列表完成，共31好友，下面开始拾取好友地下的零件
+Mar 31 22:50:10 
+Mar 31 22:50:10 开始收取第 1 个好友 1ysne6hoo-pwlVG7b_U0DQ== 地下零件
+Mar 31 22:50:10 好友【1ysne6hoo-pwlVG7b_U0DQ==】地下暂无零件可收
+Mar 31 22:50:10 开始收取第 2 个好友 8I4PGcZpjvt_Nq20R0r-4Q== 地下零件
+Mar 31 22:50:11 好友【8I4PGcZpjvt_Nq20R0r-4Q==】地下暂无零件可收
+Mar 31 22:50:11 开始收取第 3 个好友 lmOajc3zN-XR5JxkIqM5qA== 地下零件
+Mar 31 22:50:12 好友【lmOajc3zN-XR5JxkIqM5qA==】地下暂无零件可收
+Mar 31 22:50:12 开始收取第 4 个好友 4Ff3bUhMlfJaid8B4qm32Q== 地下零件
+Mar 31 22:50:12 好友【4Ff3bUhMlfJaid8B4qm32Q==】地下暂无零件可收
+Mar 31 22:50:12 开始收取第 5 个好友 MJix7oSghPKjPtH8uJFaEA== 地下零件
+Mar 31 22:50:13 好友【MJix7oSghPKjPtH8uJFaEA==】地下暂无零件可收
+Mar 31 22:50:13 开始收取第 6 个好友 Oa8unWu-KdPrmGzypTpgUg== 地下零件
+Mar 31 22:50:13 好友【Oa8unWu-KdPrmGzypTpgUg==】地下暂无零件可收
+Mar 31 22:50:13 开始收取第 7 个好友 hyykhYqbGaAs-0No8h6kVQ== 地下零件
+Mar 31 22:50:14 好友【hyykhYqbGaAs-0No8h6kVQ==】地下暂无零件可收
+Mar 31 22:50:14 开始收取第 8 个好友 SIQEUukDV19DwOQGjd9J5Q== 地下零件
+Mar 31 22:50:14 好友【SIQEUukDV19DwOQGjd9J5Q==】地下暂无零件可收
+Mar 31 22:50:14 开始收取第 9 个好友 N8QdMHreY_pd7rIHq9zlFw== 地下零件
+Mar 31 22:50:15 好友【N8QdMHreY_pd7rIHq9zlFw==】地下暂无零件可收
+Mar 31 22:50:15 开始收取第 10 个好友 CJvUmDW5_In4nqFPr7BkVg== 地下零件
+Mar 31 22:50:15 好友【CJvUmDW5_In4nqFPr7BkVg==】地下暂无零件可收
+Mar 31 22:50:15 开始收取第 11 个好友 juHlWyZK6YCYEaIui-9O9A== 地下零件
+Mar 31 22:50:16 好友【juHlWyZK6YCYEaIui-9O9A==】地下暂无零件可收
+Mar 31 22:50:16 开始收取第 12 个好友 LAxdowQnMU3ox65OdwNwZA== 地下零件
+Mar 31 22:50:17 好友【LAxdowQnMU3ox65OdwNwZA==】地下暂无零件可收
+Mar 31 22:50:17 开始收取第 13 个好友 IsB_WWCxAQMMIfeGu9BpWg== 地下零件
+Mar 31 22:50:17 好友【IsB_WWCxAQMMIfeGu9BpWg==】地下暂无零件可收
+Mar 31 22:50:17 开始收取第 14 个好友 iGVfdqPLy34R5FOSbAq0qA== 地下零件
+Mar 31 22:50:18 好友【iGVfdqPLy34R5FOSbAq0qA==】地下暂无零件可收
+Mar 31 22:50:18 开始收取第 15 个好友 LLngJORM-9zh8UYMGcfd2A== 地下零件
+Mar 31 22:50:18 好友【LLngJORM-9zh8UYMGcfd2A==】地下暂无零件可收
+Mar 31 22:50:18 开始收取第 16 个好友 MJMF4orse-sJYN5pcyklXQ== 地下零件
+Mar 31 22:50:19 好友【MJMF4orse-sJYN5pcyklXQ==】地下暂无零件可收
+Mar 31 22:50:19 开始收取第 17 个好友 J0ZdwtZszB5pnvxDv6l8tQ== 地下零件
+Mar 31 22:50:19 好友【J0ZdwtZszB5pnvxDv6l8tQ==】地下暂无零件可收
+Mar 31 22:50:19 开始收取第 18 个好友 guBovILfmX3SJTf_AQNDRg== 地下零件
+Mar 31 22:50:20 好友【guBovILfmX3SJTf_AQNDRg==】地下暂无零件可收
+Mar 31 22:50:20 开始收取第 19 个好友 X6RooQQkq_I28EjOEpv3Lg== 地下零件
+Mar 31 22:50:20 好友【X6RooQQkq_I28EjOEpv3Lg==】地下暂无零件可收
+Mar 31 22:50:20 开始收取第 20 个好友 uhcZW_ZiVE0UsO11648SHA== 地下零件
+Mar 31 22:50:21 好友【uhcZW_ZiVE0UsO11648SHA==】地下暂无零件可收
+Mar 31 22:50:21 开始收取第 21 个好友 F-LnusDb7uc82e3xbgcq7g== 地下零件
+Mar 31 22:50:22 好友【F-LnusDb7uc82e3xbgcq7g==】地下暂无零件可收
+Mar 31 22:50:22 开始收取第 22 个好友 Sqhj-l0-WiKejPGYH5sEJQ== 地下零件
+Mar 31 22:50:22 好友【Sqhj-l0-WiKejPGYH5sEJQ==】地下暂无零件可收
+Mar 31 22:50:22 开始收取第 23 个好友 i55e65wxNYfC4tZ2R8bvdA== 地下零件
+Mar 31 22:50:23 好友【i55e65wxNYfC4tZ2R8bvdA==】地下暂无零件可收
+Mar 31 22:50:23 开始收取第 24 个好友 uJ0m1yiLaG6xNqOVpfLfncFZphSvO5VIUlgMcT9fV5E= 地下零件
+Mar 31 22:50:23 GetUserComponent失败：{"msg":"操作太频繁，请稍后再试~","nowTime":1617202225,"ret":10004}
+Mar 31 22:50:23 开始收取第 25 个好友 v8gwk5IrNis2alvqFJbmpw== 地下零件
+Mar 31 22:50:24 GetUserComponent失败：{"msg":"操作太频繁，请稍后再试~","nowTime":1617202226,"ret":10004}
+Mar 31 22:50:24 开始收取第 26 个好友 3JehqRP1jBOq-0vpydgxow== 地下零件
+Mar 31 22:50:24 GetUserComponent失败：{"msg":"操作太频繁，请稍后再试~","nowTime":1617202227,"ret":10004}
+Mar 31 22:50:24 开始收取第 27 个好友 7fzlmybQNCsUvyimRAXUOA== 地下零件
+Mar 31 22:50:25 GetUserComponent失败：{"msg":"操作太频繁，请稍后再试~","nowTime":1617202227,"ret":10004}
+Mar 31 22:50:25 开始收取第 28 个好友 pBFolkAT7mLHZPTHo8rkbA== 地下零件
+Mar 31 22:50:25 GetUserComponent失败：{"msg":"操作太频繁，请稍后再试~","nowTime":1617202228,"ret":10004}
+Mar 31 22:50:25 开始收取第 29 个好友 Z4EkI5Mzd0IllHBOOSXwsA== 地下零件
+Mar 31 22:50:26 GetUserComponent失败：{"msg":"操作太频繁，请稍后再试~","nowTime":1617202228,"ret":10004}
+Mar 31 22:50:26 开始收取第 30 个好友 m2LC0Qsqnr3rK8e3ApvsuQ== 地下零件
+Mar 31 22:50:26 GetUserComponent失败：{"msg":"操作太频繁，请稍后再试~","nowTime":1617202229,"ret":10004}
+Mar 31 22:50:26 开始收取第 31 个好友 5LcqlK-8sBkaG8Mg7mCYvQ== 地下零件
+Mar 31 22:50:27 GetUserComponent失败：{"msg":"操作太频繁，请稍后再试~","nowTime":1617202229,"ret":10004}
+Mar 31 22:50:27 
+Mar 31 22:50:27 团活动ID  i9ideMF_BUOdVtmbe1pSeA==
+Mar 31 22:50:27 团ID  cwFMDA1z9S3bKeKg4hg3xA==
+Mar 31 22:50:27 
+Mar 31 22:50:27 今日剩余开团次数：1次
+Mar 31 22:50:27 
+Mar 31 22:50:27 开团情况:1/6
+Mar 31 22:50:27 
+Mar 31 22:50:27 
+Mar 31 22:50:27 此团未达领取团奖励人数：6人
+Mar 31 22:50:27 
+Mar 31 22:50:27 3/29/2021, 11:51:13 PM参加团主【A1GAHQrpp1nm7pmfuDlKAg==】失败
+Mar 31 22:50:27 3/29/2021, 10:50:37 AM参加团主【A1GAHQrpp1nm7pmfuDlKAg==】失败
+Mar 31 22:50:27 3/28/2021, 10:49:59 PM参加团主【A1GAHQrpp1nm7pmfuDlKAg==】失败
+Mar 31 22:50:27 3/28/2021, 8:56:28 PM参加团主【N8QdMHreY_pd7rIHq9zlFw==】失败
+Mar 31 22:50:27 3/28/2021, 10:32:41 AM参加团主【A1GAHQrpp1nm7pmfuDlKAg==】失败
+Mar 31 22:50:27 3/27/2021, 9:50:38 PM参加团主【A1GAHQrpp1nm7pmfuDlKAg==】失败
+Mar 31 22:50:27 3/27/2021, 8:50:35 AM参加团主【A1GAHQrpp1nm7pmfuDlKAg==】失败
+Mar 31 22:50:27 3/31/2021, 1:50:51 PM参加团主【A1GAHQrpp1nm7pmfuDlKAg==】失败
+Mar 31 22:50:27 3/31/2021, 12:51:04 AM参加团主【A1GAHQrpp1nm7pmfuDlKAg==】失败
+Mar 31 22:50:27 3/30/2021, 12:50:36 PM参加团主【A1GAHQrpp1nm7pmfuDlKAg==】失败
+Mar 31 22:50:27 
+Mar 31 22:50:27   商品名     兑换状态
+Mar 31 22:50:27 三合一数据线    已兑换
+Mar 31 22:50:27 多味花生3袋    已兑换
+Mar 31 22:50:27 刀具三件套    已兑换
+Mar 31 22:50:27 
+Mar 31 22:50:27 ==============📣系统通知📣==============
+Mar 31 22:50:27 京喜工厂
+Mar 31 22:50:27 【京东账号1】burst3166
+Mar 31 22:50:27 【生产商品】巴旦木
+Mar 31 22:50:27 【当前等级】高级工程师 5
+Mar 31 22:50:27 【生产进度】35.66%
+Mar 31 22:50:27 【招工进度】7/12
+Mar 31 22:50:27 【收取发电站】收取成功，获得 360 电力
+Mar 31 22:50:27 【每日任务】领奖成功，共计 360 电力
+Mar 31 22:50:27 【投入电力】投入成功，共计 300 电力
+Mar 31 22:50:27 【收取自己零件】获得0电力
+Mar 31 22:50:27 【收取好友零件】获得0电力
+Mar 31 22:50:27 
+Mar 31 22:50:27 
+Mar 31 22:50:27 【京东账号1】burst3166
+Mar 31 22:50:27 【生产商品】巴旦木
+Mar 31 22:50:27 【当前等级】高级工程师 5
+Mar 31 22:50:27 【生产进度】35.66%
+Mar 31 22:50:27 【招工进度】7/12
+Mar 31 22:50:27 【收取发电站】收取成功，获得 360 电力
+Mar 31 22:50:27 【每日任务】领奖成功，共计 360 电力
+Mar 31 22:50:27 【投入电力】投入成功，共计 300 电力
+Mar 31 22:50:27 【收取自己零件】获得0电力
+Mar 31 22:50:27 【收取好友零件】获得0电力
+Mar 31 22:50:27 
+Mar 31 22:50:28 
+Mar 31 22:50:28 参加作者的团
+Mar 31 22:50:28 
+Mar 31 22:50:28 
+Mar 31 22:50:28 🔔京喜工厂, 结束! 🕛 21.248 秒
+Mar 31 22:50:28 
+Mar 31 23:50:13 
+Mar 31 23:50:13 🔔京喜工厂, 开始!
+Mar 31 23:50:13 
+Mar 31 23:50:14 ====================共1个京东账号Cookie=========
+Mar 31 23:50:14 
+Mar 31 23:50:14 ==================脚本执行- 北京时间(UTC+8)：3/31/2021, 11:50:13 PM=====================
+Mar 31 23:50:14 
+Mar 31 23:50:15 获取签名参数成功！
+Mar 31 23:50:15 fp: 3328841519675161
+Mar 31 23:50:15 token: tk01wbdc91c59a8nMGhHOXpJMDRytPOcrkKOxiFoOByw8GI4klWpU2dV3f88E4hPz4bQCQl+jVBxoUDSvL1AsVr8QqbT
+Mar 31 23:50:15 enCryptMethodJD: function test(token,fingerprint,timestamp,appId,algo){const random='mpPDD5zgruwF';const str=`${token}${fingerprint}${timestamp}${appId}${random}`;return algo.HmacSHA512(str,token)}
+Mar 31 23:50:15 开始获取京喜工厂配置文件
+Mar 31 23:50:15 
+Mar 31 23:50:15 tuanActiveId: i9ideMF_BUOdVtmbe1pSeA==
+Mar 31 23:50:15 共1个京东账号
+Mar 31 23:50:15 
+Mar 31 23:50:15 您提供了1个账号的京喜工厂助力码
+Mar 31 23:50:15 
+Mar 31 23:50:15 
+Mar 31 23:50:15 ******开始【京东账号1】burst3166*********
+Mar 31 23:50:15 
+Mar 31 23:50:15 再加1.50%电力可开红包
+Mar 31 23:50:15 
+Mar 31 23:50:15 当前电力：83
+Mar 31 23:50:15 当前等级：5
+Mar 31 23:50:15 
+Mar 31 23:50:15 【京东账号1（burst3166）的京喜工厂好友互助码】A1GAHQrpp1nm7pmfuDlKAg==
+Mar 31 23:50:15 已投入电力：264200
+Mar 31 23:50:15 所需电力：740000
+Mar 31 23:50:15 生产进度：35.70%
+Mar 31 23:50:15 
+Mar 31 23:50:15 
+Mar 31 23:50:15 你今日还能帮好友打工（0/3）次
+Mar 31 23:50:15 
+Mar 31 23:50:15 
+Mar 31 23:50:15 【今日招工进度】7/12
+Mar 31 23:50:15 
+Mar 31 23:50:15 今日助力好友机会已耗尽
+Mar 31 23:50:15 
+Mar 31 23:50:15 发电机：当前 360.6 电力，最大值 420 电力
+Mar 31 23:50:15 
+Mar 31 23:50:15 本次发电机电力集满分享后不可获得双倍电力，故现在收取电力
+Mar 31 23:50:15 
+Mar 31 23:50:15 收取电力成功: 共361 
+Mar 31 23:50:15 完成任务：共领取361电力
+Mar 31 23:50:15 成功投入电力400电力
+Mar 31 23:50:16 自家地下暂无零件可收
+Mar 31 23:50:16 查询好友列表完成，共31好友，下面开始拾取好友地下的零件
+Mar 31 23:50:16 
+Mar 31 23:50:16 开始收取第 1 个好友 1ysne6hoo-pwlVG7b_U0DQ== 地下零件
+Mar 31 23:50:17 好友【1ysne6hoo-pwlVG7b_U0DQ==】地下暂无零件可收
+Mar 31 23:50:17 开始收取第 2 个好友 8I4PGcZpjvt_Nq20R0r-4Q== 地下零件
+Mar 31 23:50:17 好友【8I4PGcZpjvt_Nq20R0r-4Q==】地下暂无零件可收
+Mar 31 23:50:17 开始收取第 3 个好友 lmOajc3zN-XR5JxkIqM5qA== 地下零件
+Mar 31 23:50:18 好友【lmOajc3zN-XR5JxkIqM5qA==】地下暂无零件可收
+Mar 31 23:50:18 开始收取第 4 个好友 4Ff3bUhMlfJaid8B4qm32Q== 地下零件
+Mar 31 23:50:19 好友【4Ff3bUhMlfJaid8B4qm32Q==】地下暂无零件可收
+Mar 31 23:50:19 开始收取第 5 个好友 MJix7oSghPKjPtH8uJFaEA== 地下零件
+Mar 31 23:50:19 好友【MJix7oSghPKjPtH8uJFaEA==】地下暂无零件可收
+Mar 31 23:50:19 开始收取第 6 个好友 Oa8unWu-KdPrmGzypTpgUg== 地下零件
+Mar 31 23:50:20 好友【Oa8unWu-KdPrmGzypTpgUg==】地下暂无零件可收
+Mar 31 23:50:20 开始收取第 7 个好友 hyykhYqbGaAs-0No8h6kVQ== 地下零件
+Mar 31 23:50:20 好友【hyykhYqbGaAs-0No8h6kVQ==】地下暂无零件可收
+Mar 31 23:50:20 开始收取第 8 个好友 SIQEUukDV19DwOQGjd9J5Q== 地下零件
+Mar 31 23:50:21 好友【SIQEUukDV19DwOQGjd9J5Q==】地下暂无零件可收
+Mar 31 23:50:21 开始收取第 9 个好友 N8QdMHreY_pd7rIHq9zlFw== 地下零件
+Mar 31 23:50:21 好友【N8QdMHreY_pd7rIHq9zlFw==】地下暂无零件可收
+Mar 31 23:50:21 开始收取第 10 个好友 CJvUmDW5_In4nqFPr7BkVg== 地下零件
+Mar 31 23:50:22 好友【CJvUmDW5_In4nqFPr7BkVg==】地下暂无零件可收
+Mar 31 23:50:22 开始收取第 11 个好友 juHlWyZK6YCYEaIui-9O9A== 地下零件
+Mar 31 23:50:22 好友【juHlWyZK6YCYEaIui-9O9A==】地下暂无零件可收
+Mar 31 23:50:22 开始收取第 12 个好友 LAxdowQnMU3ox65OdwNwZA== 地下零件
+Mar 31 23:50:23 好友【LAxdowQnMU3ox65OdwNwZA==】地下暂无零件可收
+Mar 31 23:50:23 开始收取第 13 个好友 IsB_WWCxAQMMIfeGu9BpWg== 地下零件
+Mar 31 23:50:24 好友【IsB_WWCxAQMMIfeGu9BpWg==】地下暂无零件可收
+Mar 31 23:50:24 开始收取第 14 个好友 iGVfdqPLy34R5FOSbAq0qA== 地下零件
+Mar 31 23:50:24 好友【iGVfdqPLy34R5FOSbAq0qA==】地下暂无零件可收
+Mar 31 23:50:24 开始收取第 15 个好友 LLngJORM-9zh8UYMGcfd2A== 地下零件
+Mar 31 23:50:25 好友【LLngJORM-9zh8UYMGcfd2A==】地下暂无零件可收
+Mar 31 23:50:25 开始收取第 16 个好友 MJMF4orse-sJYN5pcyklXQ== 地下零件
+Mar 31 23:50:25 好友【MJMF4orse-sJYN5pcyklXQ==】地下暂无零件可收
+Mar 31 23:50:25 开始收取第 17 个好友 J0ZdwtZszB5pnvxDv6l8tQ== 地下零件
+Mar 31 23:50:26 好友【J0ZdwtZszB5pnvxDv6l8tQ==】地下暂无零件可收
+Mar 31 23:50:26 开始收取第 18 个好友 guBovILfmX3SJTf_AQNDRg== 地下零件
+Mar 31 23:50:26 好友【guBovILfmX3SJTf_AQNDRg==】地下暂无零件可收
+Mar 31 23:50:26 开始收取第 19 个好友 X6RooQQkq_I28EjOEpv3Lg== 地下零件
+Mar 31 23:50:27 好友【X6RooQQkq_I28EjOEpv3Lg==】地下暂无零件可收
+Mar 31 23:50:27 开始收取第 20 个好友 uhcZW_ZiVE0UsO11648SHA== 地下零件
+Mar 31 23:50:27 好友【uhcZW_ZiVE0UsO11648SHA==】地下暂无零件可收
+Mar 31 23:50:27 开始收取第 21 个好友 F-LnusDb7uc82e3xbgcq7g== 地下零件
+Mar 31 23:50:28 好友【F-LnusDb7uc82e3xbgcq7g==】地下暂无零件可收
+Mar 31 23:50:28 开始收取第 22 个好友 Sqhj-l0-WiKejPGYH5sEJQ== 地下零件
+Mar 31 23:50:29 好友【Sqhj-l0-WiKejPGYH5sEJQ==】地下暂无零件可收
+Mar 31 23:50:29 开始收取第 23 个好友 i55e65wxNYfC4tZ2R8bvdA== 地下零件
+Mar 31 23:50:29 好友【i55e65wxNYfC4tZ2R8bvdA==】地下暂无零件可收
+Mar 31 23:50:29 开始收取第 24 个好友 uJ0m1yiLaG6xNqOVpfLfncFZphSvO5VIUlgMcT9fV5E= 地下零件
+Mar 31 23:50:30 好友【uJ0m1yiLaG6xNqOVpfLfncFZphSvO5VIUlgMcT9fV5E=】地下暂无零件可收
+Mar 31 23:50:30 开始收取第 25 个好友 v8gwk5IrNis2alvqFJbmpw== 地下零件
+Mar 31 23:50:30 好友【v8gwk5IrNis2alvqFJbmpw==】地下暂无零件可收
+Mar 31 23:50:30 开始收取第 26 个好友 3JehqRP1jBOq-0vpydgxow== 地下零件
+Mar 31 23:50:31 好友【3JehqRP1jBOq-0vpydgxow==】地下暂无零件可收
+Mar 31 23:50:31 开始收取第 27 个好友 7fzlmybQNCsUvyimRAXUOA== 地下零件
+Mar 31 23:50:31 好友【7fzlmybQNCsUvyimRAXUOA==】地下暂无零件可收
+Mar 31 23:50:31 开始收取第 28 个好友 pBFolkAT7mLHZPTHo8rkbA== 地下零件
+Mar 31 23:50:32 好友【pBFolkAT7mLHZPTHo8rkbA==】地下暂无零件可收
+Mar 31 23:50:32 开始收取第 29 个好友 Z4EkI5Mzd0IllHBOOSXwsA== 地下零件
+Mar 31 23:50:32 好友【Z4EkI5Mzd0IllHBOOSXwsA==】地下暂无零件可收
+Mar 31 23:50:32 开始收取第 30 个好友 m2LC0Qsqnr3rK8e3ApvsuQ== 地下零件
+Mar 31 23:50:33 好友【m2LC0Qsqnr3rK8e3ApvsuQ==】地下暂无零件可收
+Mar 31 23:50:33 开始收取第 31 个好友 5LcqlK-8sBkaG8Mg7mCYvQ== 地下零件
+Mar 31 23:50:33 好友【5LcqlK-8sBkaG8Mg7mCYvQ==】地下暂无零件可收
+Mar 31 23:50:34 
+Mar 31 23:50:34 团活动ID  i9ideMF_BUOdVtmbe1pSeA==
+Mar 31 23:50:34 团ID  cwFMDA1z9S3bKeKg4hg3xA==
+Mar 31 23:50:34 
+Mar 31 23:50:34 今日剩余开团次数：1次
+Mar 31 23:50:34 
+Mar 31 23:50:34 开团情况:1/6
+Mar 31 23:50:34 
+Mar 31 23:50:34 
+Mar 31 23:50:34 此团未达领取团奖励人数：6人
+Mar 31 23:50:34 
+Mar 31 23:50:34 3/29/2021, 11:51:13 PM参加团主【A1GAHQrpp1nm7pmfuDlKAg==】失败
+Mar 31 23:50:34 3/29/2021, 10:50:37 AM参加团主【A1GAHQrpp1nm7pmfuDlKAg==】失败
+Mar 31 23:50:34 3/28/2021, 10:49:59 PM参加团主【A1GAHQrpp1nm7pmfuDlKAg==】失败
+Mar 31 23:50:34 3/28/2021, 8:56:28 PM参加团主【N8QdMHreY_pd7rIHq9zlFw==】失败
+Mar 31 23:50:34 3/28/2021, 10:32:41 AM参加团主【A1GAHQrpp1nm7pmfuDlKAg==】失败
+Mar 31 23:50:34 3/27/2021, 9:50:38 PM参加团主【A1GAHQrpp1nm7pmfuDlKAg==】失败
+Mar 31 23:50:34 3/27/2021, 8:50:35 AM参加团主【A1GAHQrpp1nm7pmfuDlKAg==】失败
+Mar 31 23:50:34 3/31/2021, 1:50:51 PM参加团主【A1GAHQrpp1nm7pmfuDlKAg==】失败
+Mar 31 23:50:34 3/31/2021, 12:51:04 AM参加团主【A1GAHQrpp1nm7pmfuDlKAg==】失败
+Mar 31 23:50:34 3/30/2021, 12:50:36 PM参加团主【A1GAHQrpp1nm7pmfuDlKAg==】失败
+Mar 31 23:50:34 
+Mar 31 23:50:34   商品名     兑换状态
+Mar 31 23:50:34 三合一数据线    已兑换
+Mar 31 23:50:34 多味花生3袋    已兑换
+Mar 31 23:50:34 刀具三件套    已兑换
+Mar 31 23:50:34 
+Mar 31 23:50:34 【京东账号1】burst3166
+Mar 31 23:50:34 【生产商品】巴旦木
+Mar 31 23:50:34 【当前等级】高级工程师 5
+Mar 31 23:50:34 【生产进度】35.70%
+Mar 31 23:50:34 【招工进度】7/12
+Mar 31 23:50:34 【收取发电站】收取成功，获得 361 电力
+Mar 31 23:50:34 【每日任务】领奖成功，共计 361 电力
+Mar 31 23:50:34 【投入电力】投入成功，共计 400 电力
+Mar 31 23:50:34 【收取自己零件】今日已达上限
+Mar 31 23:50:34 【收取好友零件】今日已达上限
+Mar 31 23:50:34 
+Mar 31 23:50:34 
+Mar 31 23:50:34 参加作者的团
+Mar 31 23:50:34 
+Mar 31 23:50:35 
+Mar 31 23:50:35 🔔京喜工厂, 结束! 🕛 21.041 秒
+Mar 31 23:50:35 
+Apr 01 00:50:15 
+Apr 01 00:50:15 🔔京喜工厂, 开始!
+Apr 01 00:50:15 
+Apr 01 00:50:15 ====================共1个京东账号Cookie=========
+Apr 01 00:50:15 
+Apr 01 00:50:15 ==================脚本执行- 北京时间(UTC+8)：4/1/2021, 12:50:15 AM=====================
+Apr 01 00:50:15 
+Apr 01 00:50:17 获取签名参数成功！
+Apr 01 00:50:17 fp: 8405212561152161
+Apr 01 00:50:17 token: tk01w9a9f1b11a8ndG5EaWk5d2tNqtDEqpVbc5KHHlBxM5a1S6e7HFMvpjSUMQZu9ThG3Ex0ON1jd9oBHBcVUxN23BR+
+Apr 01 00:50:17 enCryptMethodJD: function test(token,fingerprint,timestamp,appId,algo){const random='0OUP7PvcWW/M';const str=`${token}${fingerprint}${timestamp}${appId}${random}`;return algo.HmacMD5(str,token)}
+Apr 01 00:50:17 开始获取京喜工厂配置文件
+Apr 01 00:50:17 
+Apr 01 00:50:17 tuanActiveId: i9ideMF_BUOdVtmbe1pSeA==
+Apr 01 00:50:17 共1个京东账号
+Apr 01 00:50:17 
+Apr 01 00:50:17 您提供了1个账号的京喜工厂助力码
+Apr 01 00:50:17 
+Apr 01 00:50:17 
+Apr 01 00:50:17 ******开始【京东账号1】burst3166*********
+Apr 01 00:50:17 
+Apr 01 00:50:17 再加1.10%电力可开红包
+Apr 01 00:50:17 
+Apr 01 00:50:17 当前电力：44
+Apr 01 00:50:17 当前等级：5
+Apr 01 00:50:17 
+Apr 01 00:50:17 【京东账号1（burst3166）的京喜工厂好友互助码】A1GAHQrpp1nm7pmfuDlKAg==
+Apr 01 00:50:17 已投入电力：267200
+Apr 01 00:50:17 所需电力：740000
+Apr 01 00:50:17 生产进度：36.11%
+Apr 01 00:50:17 
+Apr 01 00:50:17 
+Apr 01 00:50:17 你今日还能帮好友打工（3/3）次
+Apr 01 00:50:17 
+Apr 01 00:50:17 
+Apr 01 00:50:17 【今日招工进度】0/12
+Apr 01 00:50:17 
+Apr 01 00:50:17 未到招工时间(每日6-24点之间可招工)
+Apr 01 00:50:17 
+Apr 01 00:50:17 发电机：当前 360.2 电力，最大值 420 电力
+Apr 01 00:50:17 
+Apr 01 00:50:17 本次发电机电力集满分享后不可获得双倍电力，故现在收取电力
+Apr 01 00:50:17 
+Apr 01 00:50:17 收取电力成功: 共720 
+Apr 01 00:50:17 去做任务：*限时*邀5人得2万电!
+Apr 01 00:50:17 做任务完成！
+Apr 01 00:50:17 领取*限时*邀5人得2万电!任务奖励成功，收获：100电力
+Apr 01 00:50:18 去做任务：*限时*邀5人得2万电!
+Apr 01 00:50:18 DoTask异常：{"data":{"awardStatus":1,"completedTimes":1,"dateTypeExtra":"20210401","updateTime":1617209420,"userStatusConfigExtra":""},"msg":"亲,活动太火爆了,请稍后再试吧!","ret":1009}
+Apr 01 00:50:18 领取*限时*邀5人得2万电!任务奖励失败，任务已领奖
+Apr 01 00:50:20 去做任务：上集市做调研30s
+Apr 01 00:50:20 做任务完成！
+Apr 01 00:50:20 领取上集市做调研30s任务奖励成功，收获：300电力
+Apr 01 00:50:21 去做任务：上集市做调研30s
+Apr 01 00:50:21 DoTask异常：{"data":{"awardStatus":1,"completedTimes":1,"dateTypeExtra":"20210401","updateTime":1617209422,"userStatusConfigExtra":""},"msg":"亲,活动太火爆了,请稍后再试吧!","ret":1009}
+Apr 01 00:50:21 领取上集市做调研30s任务奖励失败，任务已领奖
+Apr 01 00:50:22 去做任务：去发现5件好物
+Apr 01 00:50:22 做任务完成！
+Apr 01 00:50:22 领取去发现5件好物任务奖励失败，任务已领奖
+Apr 01 00:50:23 去做任务：去发现5件好物
+Apr 01 00:50:23 做任务完成！
+Apr 01 00:50:23 领取去发现5件好物任务奖励失败，任务已领奖
+Apr 01 00:50:24 去做任务：去发现5件好物
+Apr 01 00:50:24 做任务完成！
+Apr 01 00:50:24 领取去发现5件好物任务奖励失败，任务已领奖
+Apr 01 00:50:25 去做任务：去发现5件好物
+Apr 01 00:50:25 做任务完成！
+Apr 01 00:50:25 领取去发现5件好物任务奖励失败，任务已领奖
+Apr 01 00:50:26 去做任务：去发现5件好物
+Apr 01 00:50:26 做任务完成！
+Apr 01 00:50:26 领取去发现5件好物任务奖励成功，收获：300电力
+Apr 01 00:50:27 去做任务：去发现5件好物
+Apr 01 00:50:27 DoTask异常：{"data":{"awardStatus":1,"completedTimes":5,"dateTypeExtra":"20210401","updateTime":1617209429,"userStatusConfigExtra":""},"msg":"亲,活动太火爆了,请稍后再试吧!","ret":1009}
+Apr 01 00:50:28 领取去发现5件好物任务奖励失败，任务已领奖
+Apr 01 00:50:29 去做任务：开宝箱找安全帽
+Apr 01 00:50:29 做任务完成！
+Apr 01 00:50:29 领取开宝箱找安全帽任务奖励成功，收获：300电力
+Apr 01 00:50:30 去做任务：开宝箱找安全帽
+Apr 01 00:50:30 DoTask异常：{"data":{"awardStatus":1,"completedTimes":1,"dateTypeExtra":"20210401","updateTime":1617209431,"userStatusConfigExtra":""},"msg":"亲,活动太火爆了,请稍后再试吧!","ret":1009}
+Apr 01 00:50:30 领取开宝箱找安全帽任务奖励失败，任务已领奖
+Apr 01 00:50:31 去做任务：去签到，可领现金提现
+Apr 01 00:50:31 做任务完成！
+Apr 01 00:50:31 领取去签到，可领现金提现任务奖励成功，收获：300电力
+Apr 01 00:50:32 去做任务：去签到，可领现金提现
+Apr 01 00:50:32 DoTask异常：{"data":{"awardStatus":1,"completedTimes":1,"dateTypeExtra":"20210401","updateTime":1617209433,"userStatusConfigExtra":""},"msg":"亲,活动太火爆了,请稍后再试吧!","ret":1009}
+Apr 01 00:50:32 领取去签到，可领现金提现任务奖励失败，任务已领奖
+Apr 01 00:50:33 去做任务：去京东会员领专属权益
+Apr 01 00:50:33 做任务完成！
+Apr 01 00:50:33 领取去京东会员领专属权益任务奖励成功，收获：100电力
+Apr 01 00:50:34 去做任务：去京东会员领专属权益
+Apr 01 00:50:34 DoTask异常：{"data":{"awardStatus":1,"completedTimes":1,"dateTypeExtra":"20210401","updateTime":1617209435,"userStatusConfigExtra":""},"msg":"亲,活动太火爆了,请稍后再试吧!","ret":1009}
+Apr 01 00:50:34 领取去京东会员领专属权益任务奖励失败，任务已领奖
+Apr 01 00:50:35 去做任务：上岛兑0元好物,逛农场免费领水果,出海寻宝领100元红包
+Apr 01 00:50:35 做任务完成！
+Apr 01 00:50:36 领取上岛兑0元好物,逛农场免费领水果,出海寻宝领100元红包任务奖励成功，收获：100电力
+Apr 01 00:50:37 去做任务：上岛兑0元好物,逛农场免费领水果,出海寻宝领100元红包
+Apr 01 00:50:37 做任务完成！
+Apr 01 00:50:37 领取上岛兑0元好物,逛农场免费领水果,出海寻宝领100元红包任务奖励成功，收获：100电力
+Apr 01 00:50:38 去做任务：上岛兑0元好物,逛农场免费领水果,出海寻宝领100元红包
+Apr 01 00:50:38 做任务完成！
+Apr 01 00:50:38 领取上岛兑0元好物,逛农场免费领水果,出海寻宝领100元红包任务奖励成功，收获：100电力
+Apr 01 00:50:39 去做任务：上岛兑0元好物,逛农场免费领水果,出海寻宝领100元红包
+Apr 01 00:50:39 DoTask异常：{"data":{"awardStatus":1,"completedTimes":3,"dateTypeExtra":"20210401","updateTime":1617209440,"userStatusConfigExtra":""},"msg":"亲,活动太火爆了,请稍后再试吧!","ret":1009}
+Apr 01 00:50:39 领取上岛兑0元好物,逛农场免费领水果,出海寻宝领100元红包任务奖励失败，任务已领奖
+Apr 01 00:50:40 完成任务：共领取2420电力
+Apr 01 00:50:40 成功投入电力2400电力
+Apr 01 00:50:40 打工电力：收取失败，6点后可领取
+Apr 01 00:50:41 自家地下暂无零件可收
+Apr 01 00:50:41 查询好友列表完成，共31好友，下面开始拾取好友地下的零件
+Apr 01 00:50:41 
+Apr 01 00:50:41 开始收取第 1 个好友 1ysne6hoo-pwlVG7b_U0DQ== 地下零件
+Apr 01 00:50:42 好友【1ysne6hoo-pwlVG7b_U0DQ==】地下暂无零件可收
+Apr 01 00:50:42 开始收取第 2 个好友 8I4PGcZpjvt_Nq20R0r-4Q== 地下零件
+Apr 01 00:50:42 好友【8I4PGcZpjvt_Nq20R0r-4Q==】地下暂无零件可收
+Apr 01 00:50:42 开始收取第 3 个好友 lmOajc3zN-XR5JxkIqM5qA== 地下零件
+Apr 01 00:50:43 好友【lmOajc3zN-XR5JxkIqM5qA==】地下暂无零件可收
+Apr 01 00:50:43 开始收取第 4 个好友 4Ff3bUhMlfJaid8B4qm32Q== 地下零件
+Apr 01 00:50:43 好友【4Ff3bUhMlfJaid8B4qm32Q==】地下暂无零件可收
+Apr 01 00:50:43 开始收取第 5 个好友 MJix7oSghPKjPtH8uJFaEA== 地下零件
+Apr 01 00:50:44 好友【MJix7oSghPKjPtH8uJFaEA==】地下暂无零件可收
+Apr 01 00:50:44 开始收取第 6 个好友 Oa8unWu-KdPrmGzypTpgUg== 地下零件
+Apr 01 00:50:44 好友【Oa8unWu-KdPrmGzypTpgUg==】地下暂无零件可收
+Apr 01 00:50:44 开始收取第 7 个好友 hyykhYqbGaAs-0No8h6kVQ== 地下零件
+Apr 01 00:50:45 好友【hyykhYqbGaAs-0No8h6kVQ==】地下暂无零件可收
+Apr 01 00:50:45 开始收取第 8 个好友 SIQEUukDV19DwOQGjd9J5Q== 地下零件
+Apr 01 00:50:45 好友【SIQEUukDV19DwOQGjd9J5Q==】地下暂无零件可收
+Apr 01 00:50:45 开始收取第 9 个好友 N8QdMHreY_pd7rIHq9zlFw== 地下零件
+Apr 01 00:50:46 好友【N8QdMHreY_pd7rIHq9zlFw==】地下暂无零件可收
+Apr 01 00:50:46 开始收取第 10 个好友 CJvUmDW5_In4nqFPr7BkVg== 地下零件
+Apr 01 00:50:47 好友【CJvUmDW5_In4nqFPr7BkVg==】地下暂无零件可收
+Apr 01 00:50:47 开始收取第 11 个好友 juHlWyZK6YCYEaIui-9O9A== 地下零件
+Apr 01 00:50:47 好友【juHlWyZK6YCYEaIui-9O9A==】地下暂无零件可收
+Apr 01 00:50:47 开始收取第 12 个好友 LAxdowQnMU3ox65OdwNwZA== 地下零件
+Apr 01 00:50:48 好友【LAxdowQnMU3ox65OdwNwZA==】地下暂无零件可收
+Apr 01 00:50:48 开始收取第 13 个好友 IsB_WWCxAQMMIfeGu9BpWg== 地下零件
+Apr 01 00:50:48 好友【IsB_WWCxAQMMIfeGu9BpWg==】地下暂无零件可收
+Apr 01 00:50:48 开始收取第 14 个好友 iGVfdqPLy34R5FOSbAq0qA== 地下零件
+Apr 01 00:50:49 好友【iGVfdqPLy34R5FOSbAq0qA==】地下暂无零件可收
+Apr 01 00:50:49 开始收取第 15 个好友 LLngJORM-9zh8UYMGcfd2A== 地下零件
+Apr 01 00:50:49 好友【LLngJORM-9zh8UYMGcfd2A==】地下暂无零件可收
+Apr 01 00:50:49 开始收取第 16 个好友 MJMF4orse-sJYN5pcyklXQ== 地下零件
+Apr 01 00:50:50 好友【MJMF4orse-sJYN5pcyklXQ==】地下暂无零件可收
+Apr 01 00:50:50 开始收取第 17 个好友 J0ZdwtZszB5pnvxDv6l8tQ== 地下零件
+Apr 01 00:50:50 好友【J0ZdwtZszB5pnvxDv6l8tQ==】地下暂无零件可收
+Apr 01 00:50:50 开始收取第 18 个好友 guBovILfmX3SJTf_AQNDRg== 地下零件
+Apr 01 00:50:51 好友【guBovILfmX3SJTf_AQNDRg==】地下暂无零件可收
+Apr 01 00:50:51 开始收取第 19 个好友 X6RooQQkq_I28EjOEpv3Lg== 地下零件
+Apr 01 00:50:52 好友【X6RooQQkq_I28EjOEpv3Lg==】地下暂无零件可收
+Apr 01 00:50:52 开始收取第 20 个好友 uhcZW_ZiVE0UsO11648SHA== 地下零件
+Apr 01 00:50:52 好友【uhcZW_ZiVE0UsO11648SHA==】地下暂无零件可收
+Apr 01 00:50:52 开始收取第 21 个好友 F-LnusDb7uc82e3xbgcq7g== 地下零件
+Apr 01 00:50:53 好友【F-LnusDb7uc82e3xbgcq7g==】地下暂无零件可收
+Apr 01 00:50:53 开始收取第 22 个好友 Sqhj-l0-WiKejPGYH5sEJQ== 地下零件
+Apr 01 00:50:53 好友【Sqhj-l0-WiKejPGYH5sEJQ==】地下暂无零件可收
+Apr 01 00:50:53 开始收取第 23 个好友 i55e65wxNYfC4tZ2R8bvdA== 地下零件
+Apr 01 00:50:54 好友【i55e65wxNYfC4tZ2R8bvdA==】地下暂无零件可收
+Apr 01 00:50:54 开始收取第 24 个好友 uJ0m1yiLaG6xNqOVpfLfncFZphSvO5VIUlgMcT9fV5E= 地下零件
+Apr 01 00:50:54 好友【uJ0m1yiLaG6xNqOVpfLfncFZphSvO5VIUlgMcT9fV5E=】地下暂无零件可收
+Apr 01 00:50:54 开始收取第 25 个好友 v8gwk5IrNis2alvqFJbmpw== 地下零件
+Apr 01 00:50:55 好友【v8gwk5IrNis2alvqFJbmpw==】地下暂无零件可收
+Apr 01 00:50:55 开始收取第 26 个好友 3JehqRP1jBOq-0vpydgxow== 地下零件
+Apr 01 00:50:55 好友【3JehqRP1jBOq-0vpydgxow==】地下暂无零件可收
+Apr 01 00:50:55 开始收取第 27 个好友 7fzlmybQNCsUvyimRAXUOA== 地下零件
+Apr 01 00:50:56 好友【7fzlmybQNCsUvyimRAXUOA==】地下暂无零件可收
+Apr 01 00:50:56 开始收取第 28 个好友 pBFolkAT7mLHZPTHo8rkbA== 地下零件
+Apr 01 00:50:57 好友【pBFolkAT7mLHZPTHo8rkbA==】地下暂无零件可收
+Apr 01 00:50:57 开始收取第 29 个好友 Z4EkI5Mzd0IllHBOOSXwsA== 地下零件
+Apr 01 00:50:57 好友【Z4EkI5Mzd0IllHBOOSXwsA==】地下暂无零件可收
+Apr 01 00:50:57 开始收取第 30 个好友 m2LC0Qsqnr3rK8e3ApvsuQ== 地下零件
+Apr 01 00:50:58 好友【m2LC0Qsqnr3rK8e3ApvsuQ==】地下暂无零件可收
+Apr 01 00:50:58 开始收取第 31 个好友 5LcqlK-8sBkaG8Mg7mCYvQ== 地下零件
+Apr 01 00:50:58 好友【5LcqlK-8sBkaG8Mg7mCYvQ==】地下暂无零件可收
+Apr 01 00:50:58 
+Apr 01 00:50:58 团活动ID  i9ideMF_BUOdVtmbe1pSeA==
+Apr 01 00:50:58 团ID  cwFMDA1z9S3bKeKg4hg3xA==
+Apr 01 00:50:58 
+Apr 01 00:50:58 今日剩余开团次数：3次
+Apr 01 00:50:58 之前的团已过期，准备重新开团
+Apr 01 00:50:58 
+Apr 01 00:50:58 开团异常：{"msg":"活动已结束，请稍后再试~","nowTime":1617209461,"ret":10218}
+Apr 01 00:50:58 
+Apr 01 00:50:58 开团情况:1/6
+Apr 01 00:50:58 
+Apr 01 00:50:58 
+Apr 01 00:50:58 此团未达领取团奖励人数：6人
+Apr 01 00:50:58 
+Apr 01 00:50:58 3/29/2021, 11:51:13 PM参加团主【A1GAHQrpp1nm7pmfuDlKAg==】失败
+Apr 01 00:50:58 3/29/2021, 10:50:37 AM参加团主【A1GAHQrpp1nm7pmfuDlKAg==】失败
+Apr 01 00:50:58 3/28/2021, 10:49:59 PM参加团主【A1GAHQrpp1nm7pmfuDlKAg==】失败
+Apr 01 00:50:58 3/28/2021, 8:56:28 PM参加团主【N8QdMHreY_pd7rIHq9zlFw==】失败
+Apr 01 00:50:58 3/28/2021, 10:32:41 AM参加团主【A1GAHQrpp1nm7pmfuDlKAg==】失败
+Apr 01 00:50:58 3/27/2021, 9:50:38 PM参加团主【A1GAHQrpp1nm7pmfuDlKAg==】失败
+Apr 01 00:50:58 3/27/2021, 8:50:35 AM参加团主【A1GAHQrpp1nm7pmfuDlKAg==】失败
+Apr 01 00:50:58 3/31/2021, 1:50:51 PM参加团主【A1GAHQrpp1nm7pmfuDlKAg==】失败
+Apr 01 00:50:58 3/31/2021, 12:51:04 AM参加团主【A1GAHQrpp1nm7pmfuDlKAg==】失败
+Apr 01 00:50:58 3/30/2021, 12:50:36 PM参加团主【A1GAHQrpp1nm7pmfuDlKAg==】失败
+Apr 01 00:50:58 
+Apr 01 00:50:58   商品名     兑换状态
+Apr 01 00:50:58 三合一数据线    已兑换
+Apr 01 00:50:58 多味花生3袋    已兑换
+Apr 01 00:50:58 刀具三件套    已兑换
+Apr 01 00:50:58 
+Apr 01 00:50:58 【京东账号1】burst3166
+Apr 01 00:50:58 【生产商品】巴旦木
+Apr 01 00:50:58 【当前等级】高级工程师 5
+Apr 01 00:50:58 【生产进度】36.11%
+Apr 01 00:50:58 【招工进度】0/12
+Apr 01 00:50:58 【收取发电站】收取成功，获得 720 电力
+Apr 01 00:50:58 【每日任务】领奖成功，共计 2420 电力
+Apr 01 00:50:58 【投入电力】投入成功，共计 2400 电力
+Apr 01 00:50:58 【打工电力】收取失败，6点后可领取
+Apr 01 00:50:58 【收取自己零件】今日已达上限
+Apr 01 00:50:58 【收取好友零件】今日已达上限
+Apr 01 00:50:58 
+Apr 01 00:50:59 
+Apr 01 00:50:59 参加作者的团
+Apr 01 00:50:59 
+Apr 01 00:50:59 
+Apr 01 00:50:59 🔔京喜工厂, 结束! 🕛 44.005 秒
+Apr 01 00:50:59 
+Apr 01 01:50:01 
+Apr 01 01:50:01 🔔京喜工厂, 开始!
+Apr 01 01:50:01 
+Apr 01 01:50:01 ====================共1个京东账号Cookie=========
+Apr 01 01:50:01 
+Apr 01 01:50:01 ==================脚本执行- 北京时间(UTC+8)：4/1/2021, 1:50:01 AM=====================
+Apr 01 01:50:01 
+Apr 01 01:50:02 获取签名参数成功！
+Apr 01 01:50:02 fp: 2013642162491161
+Apr 01 01:50:02 token: tk01wc2e71be1a8naU5SSzhDeTIxruwAeb1npbQ96nEWzfk928LM+slMMpiY+me7b6ftQoDq4e66NAMA25XS4UbtQNQU
+Apr 01 01:50:02 enCryptMethodJD: function test(token,fingerprint,timestamp,appId,algo){const random='pa7lcXApKk8E';const str=`${token}${fingerprint}${timestamp}${appId}${random}`;return algo.HmacSHA512(str,token)}
+Apr 01 01:50:05 开始获取京喜工厂配置文件
+Apr 01 01:50:05 
+Apr 01 01:50:05 tuanActiveId: 6S9y4sJUfA2vPQP6TLdVIQ==
+Apr 01 01:50:05 共1个京东账号
+Apr 01 01:50:05 
+Apr 01 01:50:05 您提供了1个账号的京喜工厂助力码
+Apr 01 01:50:05 
+Apr 01 01:50:05 
+Apr 01 01:50:05 ******开始【京东账号1】burst3166*********
+Apr 01 01:50:05 
+Apr 01 01:50:05 再加0.78%电力可开红包
+Apr 01 01:50:05 
+Apr 01 01:50:05 当前电力：64
+Apr 01 01:50:05 当前等级：5
+Apr 01 01:50:05 
+Apr 01 01:50:05 【京东账号1（burst3166）的京喜工厂好友互助码】A1GAHQrpp1nm7pmfuDlKAg==
+Apr 01 01:50:05 已投入电力：269600
+Apr 01 01:50:05 所需电力：740000
+Apr 01 01:50:05 生产进度：36.43%
+Apr 01 01:50:05 
+Apr 01 01:50:05 
+Apr 01 01:50:05 你今日还能帮好友打工（3/3）次
+Apr 01 01:50:05 
+Apr 01 01:50:05 
+Apr 01 01:50:05 【今日招工进度】0/12
+Apr 01 01:50:05 
+Apr 01 01:50:05 未到招工时间(每日6-24点之间可招工)
+Apr 01 01:50:05 
+Apr 01 01:50:05 发电机：当前 358.8 电力，最大值 420 电力
+Apr 01 01:50:05 
+Apr 01 01:50:05 本次发电机电力集满分享后不可获得双倍电力，故现在收取电力
+Apr 01 01:50:05 
+Apr 01 01:50:05 收取电力成功: 共718 
+Apr 01 01:50:05 完成任务：共领取718电力
+Apr 01 01:50:05 成功投入电力700电力
+Apr 01 01:50:06 打工电力：收取失败，6点后可领取
+Apr 01 01:50:06 "Response code 503 (Service Temporarily Unavailable)"
+Apr 01 01:50:06 自家地下暂无零件可收
+Apr 01 01:50:07 查询好友列表完成，共31好友，下面开始拾取好友地下的零件
+Apr 01 01:50:07 
+Apr 01 01:50:07 开始收取第 1 个好友 1ysne6hoo-pwlVG7b_U0DQ== 地下零件
+Apr 01 01:50:07 好友【1ysne6hoo-pwlVG7b_U0DQ==】地下暂无零件可收
+Apr 01 01:50:07 开始收取第 2 个好友 8I4PGcZpjvt_Nq20R0r-4Q== 地下零件
+Apr 01 01:50:08 好友【8I4PGcZpjvt_Nq20R0r-4Q==】地下暂无零件可收
+Apr 01 01:50:08 开始收取第 3 个好友 lmOajc3zN-XR5JxkIqM5qA== 地下零件
+Apr 01 01:50:08 好友【lmOajc3zN-XR5JxkIqM5qA==】地下暂无零件可收
+Apr 01 01:50:08 开始收取第 4 个好友 4Ff3bUhMlfJaid8B4qm32Q== 地下零件
+Apr 01 01:50:09 好友【4Ff3bUhMlfJaid8B4qm32Q==】地下暂无零件可收
+Apr 01 01:50:09 开始收取第 5 个好友 MJix7oSghPKjPtH8uJFaEA== 地下零件
+Apr 01 01:50:09 好友【MJix7oSghPKjPtH8uJFaEA==】地下暂无零件可收
+Apr 01 01:50:09 开始收取第 6 个好友 Oa8unWu-KdPrmGzypTpgUg== 地下零件
+Apr 01 01:50:10 好友【Oa8unWu-KdPrmGzypTpgUg==】地下暂无零件可收
+Apr 01 01:50:10 开始收取第 7 个好友 hyykhYqbGaAs-0No8h6kVQ== 地下零件
+Apr 01 01:50:10 好友【hyykhYqbGaAs-0No8h6kVQ==】地下暂无零件可收
+Apr 01 01:50:10 开始收取第 8 个好友 SIQEUukDV19DwOQGjd9J5Q== 地下零件
+Apr 01 01:50:11 好友【SIQEUukDV19DwOQGjd9J5Q==】地下暂无零件可收
+Apr 01 01:50:11 开始收取第 9 个好友 N8QdMHreY_pd7rIHq9zlFw== 地下零件
+Apr 01 01:50:12 好友【N8QdMHreY_pd7rIHq9zlFw==】地下暂无零件可收
+Apr 01 01:50:12 开始收取第 10 个好友 CJvUmDW5_In4nqFPr7BkVg== 地下零件
+Apr 01 01:50:12 好友【CJvUmDW5_In4nqFPr7BkVg==】地下暂无零件可收
+Apr 01 01:50:12 开始收取第 11 个好友 juHlWyZK6YCYEaIui-9O9A== 地下零件
+Apr 01 01:50:13 好友【juHlWyZK6YCYEaIui-9O9A==】地下暂无零件可收
+Apr 01 01:50:13 开始收取第 12 个好友 LAxdowQnMU3ox65OdwNwZA== 地下零件
+Apr 01 01:50:13 好友【LAxdowQnMU3ox65OdwNwZA==】地下暂无零件可收
+Apr 01 01:50:13 开始收取第 13 个好友 IsB_WWCxAQMMIfeGu9BpWg== 地下零件
+Apr 01 01:50:14 好友【IsB_WWCxAQMMIfeGu9BpWg==】地下暂无零件可收
+Apr 01 01:50:14 开始收取第 14 个好友 iGVfdqPLy34R5FOSbAq0qA== 地下零件
+Apr 01 01:50:14 好友【iGVfdqPLy34R5FOSbAq0qA==】地下暂无零件可收
+Apr 01 01:50:14 开始收取第 15 个好友 LLngJORM-9zh8UYMGcfd2A== 地下零件
+Apr 01 01:50:15 好友【LLngJORM-9zh8UYMGcfd2A==】地下暂无零件可收
+Apr 01 01:50:15 开始收取第 16 个好友 MJMF4orse-sJYN5pcyklXQ== 地下零件
+Apr 01 01:50:16 好友【MJMF4orse-sJYN5pcyklXQ==】地下暂无零件可收
+Apr 01 01:50:16 开始收取第 17 个好友 J0ZdwtZszB5pnvxDv6l8tQ== 地下零件
+Apr 01 01:50:16 好友【J0ZdwtZszB5pnvxDv6l8tQ==】地下暂无零件可收
+Apr 01 01:50:16 开始收取第 18 个好友 guBovILfmX3SJTf_AQNDRg== 地下零件
+Apr 01 01:50:17 好友【guBovILfmX3SJTf_AQNDRg==】地下暂无零件可收
+Apr 01 01:50:17 开始收取第 19 个好友 X6RooQQkq_I28EjOEpv3Lg== 地下零件
+Apr 01 01:50:17 好友【X6RooQQkq_I28EjOEpv3Lg==】地下暂无零件可收
+Apr 01 01:50:17 开始收取第 20 个好友 uhcZW_ZiVE0UsO11648SHA== 地下零件
+Apr 01 01:50:18 好友【uhcZW_ZiVE0UsO11648SHA==】地下暂无零件可收
+Apr 01 01:50:18 开始收取第 21 个好友 F-LnusDb7uc82e3xbgcq7g== 地下零件
+Apr 01 01:50:18 好友【F-LnusDb7uc82e3xbgcq7g==】地下暂无零件可收
+Apr 01 01:50:18 开始收取第 22 个好友 Sqhj-l0-WiKejPGYH5sEJQ== 地下零件
+Apr 01 01:50:19 好友【Sqhj-l0-WiKejPGYH5sEJQ==】地下暂无零件可收
+Apr 01 01:50:19 开始收取第 23 个好友 i55e65wxNYfC4tZ2R8bvdA== 地下零件
+Apr 01 01:50:19 好友【i55e65wxNYfC4tZ2R8bvdA==】地下暂无零件可收
+Apr 01 01:50:19 开始收取第 24 个好友 uJ0m1yiLaG6xNqOVpfLfncFZphSvO5VIUlgMcT9fV5E= 地下零件
+Apr 01 01:50:20 好友【uJ0m1yiLaG6xNqOVpfLfncFZphSvO5VIUlgMcT9fV5E=】地下暂无零件可收
+Apr 01 01:50:20 开始收取第 25 个好友 v8gwk5IrNis2alvqFJbmpw== 地下零件
+Apr 01 01:50:20 好友【v8gwk5IrNis2alvqFJbmpw==】地下暂无零件可收
+Apr 01 01:50:20 开始收取第 26 个好友 3JehqRP1jBOq-0vpydgxow== 地下零件
+Apr 01 01:50:21 好友【3JehqRP1jBOq-0vpydgxow==】地下暂无零件可收
+Apr 01 01:50:21 开始收取第 27 个好友 7fzlmybQNCsUvyimRAXUOA== 地下零件
+Apr 01 01:50:22 好友【7fzlmybQNCsUvyimRAXUOA==】地下暂无零件可收
+Apr 01 01:50:22 开始收取第 28 个好友 pBFolkAT7mLHZPTHo8rkbA== 地下零件
+Apr 01 01:50:22 好友【pBFolkAT7mLHZPTHo8rkbA==】地下暂无零件可收
+Apr 01 01:50:22 开始收取第 29 个好友 Z4EkI5Mzd0IllHBOOSXwsA== 地下零件
+Apr 01 01:50:23 好友【Z4EkI5Mzd0IllHBOOSXwsA==】地下暂无零件可收
+Apr 01 01:50:23 开始收取第 30 个好友 m2LC0Qsqnr3rK8e3ApvsuQ== 地下零件
+Apr 01 01:50:23 好友【m2LC0Qsqnr3rK8e3ApvsuQ==】地下暂无零件可收
+Apr 01 01:50:23 开始收取第 31 个好友 5LcqlK-8sBkaG8Mg7mCYvQ== 地下零件
+Apr 01 01:50:24 GetUserComponent失败：{"msg":"操作太频繁，请稍后再试~","nowTime":1617213026,"ret":10004}
+Apr 01 01:50:24 
+Apr 01 01:50:24 团活动ID  6S9y4sJUfA2vPQP6TLdVIQ==
+Apr 01 01:50:24 团ID  
+Apr 01 01:50:24 
+Apr 01 01:50:24 今日剩余开团次数：3次
+Apr 01 01:50:24 准备开团
+Apr 01 01:50:24 开团异常：{"msg":"活动已结束，请稍后再试~","nowTime":1617213026,"ret":10218}
+Apr 01 01:50:24 
+Apr 01 01:50:24   商品名     兑换状态
+Apr 01 01:50:24 三合一数据线    已兑换
+Apr 01 01:50:24 多味花生3袋    已兑换
+Apr 01 01:50:24 刀具三件套    已兑换
+Apr 01 01:50:24 
+Apr 01 01:50:24 【京东账号1】burst3166
+Apr 01 01:50:24 【生产商品】巴旦木
+Apr 01 01:50:24 【当前等级】高级工程师 5
+Apr 01 01:50:24 【生产进度】36.43%
+Apr 01 01:50:24 【招工进度】0/12
+Apr 01 01:50:24 【收取发电站】收取成功，获得 718 电力
+Apr 01 01:50:24 【每日任务】领奖成功，共计 718 电力
+Apr 01 01:50:24 【投入电力】投入成功，共计 700 电力
+Apr 01 01:50:24 【打工电力】收取失败，6点后可领取
+Apr 01 01:50:24 【收取自己零件】获得0电力
+Apr 01 01:50:24 【收取好友零件】获得0电力
+Apr 01 01:50:24 
+Apr 01 01:50:25 
+Apr 01 01:50:25 参加作者的团
+Apr 01 01:50:25 
+Apr 01 01:50:25 
+Apr 01 01:50:25 🔔京喜工厂, 结束! 🕛 23.911 秒
+Apr 01 01:50:25 
+Apr 01 02:50:02 
+Apr 01 02:50:02 🔔京喜工厂, 开始!
+Apr 01 02:50:02 
+Apr 01 02:50:02 ====================共1个京东账号Cookie=========
+Apr 01 02:50:02 
+Apr 01 02:50:02 ==================脚本执行- 北京时间(UTC+8)：4/1/2021, 2:50:02 AM=====================
+Apr 01 02:50:02 
+Apr 01 02:50:04 获取签名参数成功！
+Apr 01 02:50:04 fp: 0880447193799161
+Apr 01 02:50:04 token: tk01wc3dd1d2ca8nb09Kd0h1a0srsNN5ZfUGoUmWWrMawzcclZla5J6Phmg4PNlcNGfZsms4PQExnQV1j0Ymv1ctPqia
+Apr 01 02:50:04 enCryptMethodJD: function test(token,fingerprint,timestamp,appId,algo){const random='P2U81Y0XEE/1';const str=`${token}${fingerprint}${timestamp}${appId}${random}`;return algo.HmacMD5(str,token)}
+Apr 01 02:50:05 开始获取京喜工厂配置文件
+Apr 01 02:50:05 
+Apr 01 02:50:05 tuanActiveId: 6S9y4sJUfA2vPQP6TLdVIQ==
+Apr 01 02:50:05 共1个京东账号
+Apr 01 02:50:05 
+Apr 01 02:50:05 您提供了1个账号的京喜工厂助力码
+Apr 01 02:50:05 
+Apr 01 02:50:05 
+Apr 01 02:50:05 ******开始【京东账号1】burst3166*********
+Apr 01 02:50:05 
+Apr 01 02:50:05 再加0.68%电力可开红包
+Apr 01 02:50:05 
+Apr 01 02:50:05 当前电力：82
+Apr 01 02:50:05 当前等级：5
+Apr 01 02:50:05 
+Apr 01 02:50:05 【京东账号1（burst3166）的京喜工厂好友互助码】A1GAHQrpp1nm7pmfuDlKAg==
+Apr 01 02:50:05 已投入电力：270300
+Apr 01 02:50:05 所需电力：740000
+Apr 01 02:50:05 生产进度：36.53%
+Apr 01 02:50:05 
+Apr 01 02:50:05 
+Apr 01 02:50:05 你今日还能帮好友打工（3/3）次
+Apr 01 02:50:05 
+Apr 01 02:50:05 
+Apr 01 02:50:05 【今日招工进度】0/12
+Apr 01 02:50:05 
+Apr 01 02:50:05 未到招工时间(每日6-24点之间可招工)
+Apr 01 02:50:05 
+Apr 01 02:50:05 发电机：当前 360.1 电力，最大值 420 电力
+Apr 01 02:50:05 
+Apr 01 02:50:05 本次发电机电力集满分享后不可获得双倍电力，故现在收取电力
+Apr 01 02:50:05 
+Apr 01 02:50:06 收取电力成功: 共720 
+Apr 01 02:50:06 任务：今日收取发电机电力可完成
+Apr 01 02:50:06 领取今日收取发电机电力任务奖励成功，收获：500电力
+Apr 01 02:50:07 完成任务：共领取1220电力
+Apr 01 02:50:07 成功投入电力1300电力
+Apr 01 02:50:07 打工电力：收取失败，6点后可领取
+Apr 01 02:50:07 自家地下暂无零件可收
+Apr 01 02:50:08 查询好友列表完成，共31好友，下面开始拾取好友地下的零件
+Apr 01 02:50:08 
+Apr 01 02:50:08 开始收取第 1 个好友 1ysne6hoo-pwlVG7b_U0DQ== 地下零件
+Apr 01 02:50:08 好友【1ysne6hoo-pwlVG7b_U0DQ==】地下暂无零件可收
+Apr 01 02:50:08 开始收取第 2 个好友 8I4PGcZpjvt_Nq20R0r-4Q== 地下零件
+Apr 01 02:50:09 好友【8I4PGcZpjvt_Nq20R0r-4Q==】地下暂无零件可收
+Apr 01 02:50:09 开始收取第 3 个好友 lmOajc3zN-XR5JxkIqM5qA== 地下零件
+Apr 01 02:50:09 好友【lmOajc3zN-XR5JxkIqM5qA==】地下暂无零件可收
+Apr 01 02:50:09 开始收取第 4 个好友 4Ff3bUhMlfJaid8B4qm32Q== 地下零件
+Apr 01 02:50:10 好友【4Ff3bUhMlfJaid8B4qm32Q==】地下暂无零件可收
+Apr 01 02:50:10 开始收取第 5 个好友 MJix7oSghPKjPtH8uJFaEA== 地下零件
+Apr 01 02:50:11 好友【MJix7oSghPKjPtH8uJFaEA==】地下暂无零件可收
+Apr 01 02:50:11 开始收取第 6 个好友 Oa8unWu-KdPrmGzypTpgUg== 地下零件
+Apr 01 02:50:11 好友【Oa8unWu-KdPrmGzypTpgUg==】地下暂无零件可收
+Apr 01 02:50:11 开始收取第 7 个好友 hyykhYqbGaAs-0No8h6kVQ== 地下零件
+Apr 01 02:50:12 好友【hyykhYqbGaAs-0No8h6kVQ==】地下暂无零件可收
+Apr 01 02:50:12 开始收取第 8 个好友 SIQEUukDV19DwOQGjd9J5Q== 地下零件
+Apr 01 02:50:12 好友【SIQEUukDV19DwOQGjd9J5Q==】地下暂无零件可收
+Apr 01 02:50:12 开始收取第 9 个好友 N8QdMHreY_pd7rIHq9zlFw== 地下零件
+Apr 01 02:50:13 好友【N8QdMHreY_pd7rIHq9zlFw==】地下暂无零件可收
+Apr 01 02:50:13 开始收取第 10 个好友 CJvUmDW5_In4nqFPr7BkVg== 地下零件
+Apr 01 02:50:13 好友【CJvUmDW5_In4nqFPr7BkVg==】地下暂无零件可收
+Apr 01 02:50:13 开始收取第 11 个好友 juHlWyZK6YCYEaIui-9O9A== 地下零件
+Apr 01 02:50:14 好友【juHlWyZK6YCYEaIui-9O9A==】地下暂无零件可收
+Apr 01 02:50:14 开始收取第 12 个好友 LAxdowQnMU3ox65OdwNwZA== 地下零件
+Apr 01 02:50:14 好友【LAxdowQnMU3ox65OdwNwZA==】地下暂无零件可收
+Apr 01 02:50:14 开始收取第 13 个好友 IsB_WWCxAQMMIfeGu9BpWg== 地下零件
+Apr 01 02:50:15 好友【IsB_WWCxAQMMIfeGu9BpWg==】地下暂无零件可收
+Apr 01 02:50:15 开始收取第 14 个好友 iGVfdqPLy34R5FOSbAq0qA== 地下零件
+Apr 01 02:50:16 好友【iGVfdqPLy34R5FOSbAq0qA==】地下暂无零件可收
+Apr 01 02:50:16 开始收取第 15 个好友 LLngJORM-9zh8UYMGcfd2A== 地下零件
+Apr 01 02:50:16 好友【LLngJORM-9zh8UYMGcfd2A==】地下暂无零件可收
+Apr 01 02:50:16 开始收取第 16 个好友 MJMF4orse-sJYN5pcyklXQ== 地下零件
+Apr 01 02:50:17 好友【MJMF4orse-sJYN5pcyklXQ==】地下暂无零件可收
+Apr 01 02:50:17 开始收取第 17 个好友 J0ZdwtZszB5pnvxDv6l8tQ== 地下零件
+Apr 01 02:50:17 好友【J0ZdwtZszB5pnvxDv6l8tQ==】地下暂无零件可收
+Apr 01 02:50:17 开始收取第 18 个好友 guBovILfmX3SJTf_AQNDRg== 地下零件
+Apr 01 02:50:18 好友【guBovILfmX3SJTf_AQNDRg==】地下暂无零件可收
+Apr 01 02:50:18 开始收取第 19 个好友 X6RooQQkq_I28EjOEpv3Lg== 地下零件
+Apr 01 02:50:18 好友【X6RooQQkq_I28EjOEpv3Lg==】地下暂无零件可收
+Apr 01 02:50:18 开始收取第 20 个好友 uhcZW_ZiVE0UsO11648SHA== 地下零件
+Apr 01 02:50:19 好友【uhcZW_ZiVE0UsO11648SHA==】地下暂无零件可收
+Apr 01 02:50:19 开始收取第 21 个好友 F-LnusDb7uc82e3xbgcq7g== 地下零件
+Apr 01 02:50:20 好友【F-LnusDb7uc82e3xbgcq7g==】地下暂无零件可收
+Apr 01 02:50:20 开始收取第 22 个好友 Sqhj-l0-WiKejPGYH5sEJQ== 地下零件
+Apr 01 02:50:20 好友【Sqhj-l0-WiKejPGYH5sEJQ==】地下暂无零件可收
+Apr 01 02:50:20 开始收取第 23 个好友 i55e65wxNYfC4tZ2R8bvdA== 地下零件
+Apr 01 02:50:21 好友【i55e65wxNYfC4tZ2R8bvdA==】地下暂无零件可收
+Apr 01 02:50:21 开始收取第 24 个好友 uJ0m1yiLaG6xNqOVpfLfncFZphSvO5VIUlgMcT9fV5E= 地下零件
+Apr 01 02:50:21 好友【uJ0m1yiLaG6xNqOVpfLfncFZphSvO5VIUlgMcT9fV5E=】地下暂无零件可收
+Apr 01 02:50:21 开始收取第 25 个好友 v8gwk5IrNis2alvqFJbmpw== 地下零件
+Apr 01 02:50:22 好友【v8gwk5IrNis2alvqFJbmpw==】地下暂无零件可收
+Apr 01 02:50:22 开始收取第 26 个好友 3JehqRP1jBOq-0vpydgxow== 地下零件
+Apr 01 02:50:22 好友【3JehqRP1jBOq-0vpydgxow==】地下暂无零件可收
+Apr 01 02:50:22 开始收取第 27 个好友 7fzlmybQNCsUvyimRAXUOA== 地下零件
+Apr 01 02:50:23 好友【7fzlmybQNCsUvyimRAXUOA==】地下暂无零件可收
+Apr 01 02:50:23 开始收取第 28 个好友 pBFolkAT7mLHZPTHo8rkbA== 地下零件
+Apr 01 02:50:23 好友【pBFolkAT7mLHZPTHo8rkbA==】地下暂无零件可收
+Apr 01 02:50:23 开始收取第 29 个好友 Z4EkI5Mzd0IllHBOOSXwsA== 地下零件
+Apr 01 02:50:24 好友【Z4EkI5Mzd0IllHBOOSXwsA==】地下暂无零件可收
+Apr 01 02:50:24 开始收取第 30 个好友 m2LC0Qsqnr3rK8e3ApvsuQ== 地下零件
+Apr 01 02:50:25 GetUserComponent失败：{"msg":"操作太频繁，请稍后再试~","nowTime":1617216627,"ret":10004}
+Apr 01 02:50:25 开始收取第 31 个好友 5LcqlK-8sBkaG8Mg7mCYvQ== 地下零件
+Apr 01 02:50:25 GetUserComponent失败：{"msg":"操作太频繁，请稍后再试~","nowTime":1617216627,"ret":10004}
+Apr 01 02:50:25 
+Apr 01 02:50:25 团活动ID  6S9y4sJUfA2vPQP6TLdVIQ==
+Apr 01 02:50:25 团ID  
+Apr 01 02:50:25 
+Apr 01 02:50:25 今日剩余开团次数：3次
+Apr 01 02:50:25 准备开团
+Apr 01 02:50:25 开团异常：{"msg":"活动已结束，请稍后再试~","nowTime":1617216628,"ret":10218}
+Apr 01 02:50:25 
+Apr 01 02:50:25   商品名     兑换状态
+Apr 01 02:50:25 三合一数据线    已兑换
+Apr 01 02:50:25 多味花生3袋    已兑换
+Apr 01 02:50:25 刀具三件套    已兑换
+Apr 01 02:50:25 
+Apr 01 02:50:25 【京东账号1】burst3166
+Apr 01 02:50:25 【生产商品】巴旦木
+Apr 01 02:50:25 【当前等级】高级工程师 5
+Apr 01 02:50:25 【生产进度】36.53%
+Apr 01 02:50:25 【招工进度】0/12
+Apr 01 02:50:25 【收取发电站】收取成功，获得 720 电力
+Apr 01 02:50:25 【每日任务】领奖成功，共计 1220 电力
+Apr 01 02:50:25 【投入电力】投入成功，共计 1300 电力
+Apr 01 02:50:25 【打工电力】收取失败，6点后可领取
+Apr 01 02:50:25 【收取自己零件】获得0电力
+Apr 01 02:50:25 【收取好友零件】获得0电力
+Apr 01 02:50:25 
+Apr 01 02:50:26 
+Apr 01 02:50:26 参加作者的团
+Apr 01 02:50:26 
+Apr 01 02:50:26 
+Apr 01 02:50:26 🔔京喜工厂, 结束! 🕛 24.61 秒
+Apr 01 02:50:26 
+Apr 01 03:50:01 
+Apr 01 03:50:01 🔔京喜工厂, 开始!
+Apr 01 03:50:01 
+Apr 01 03:50:01 ====================共1个京东账号Cookie=========
+Apr 01 03:50:01 
+Apr 01 03:50:01 ==================脚本执行- 北京时间(UTC+8)：4/1/2021, 3:50:01 AM=====================
+Apr 01 03:50:01 
+Apr 01 03:50:02 获取签名参数成功！
+Apr 01 03:50:02 fp: 6022980027160161
+Apr 01 03:50:02 token: tk01w71351ad4a8nSDk3U0F6M0Qvo1HOn5nFqYuQjYKZDv5jiKIBj/P0ih7725SNg/YI80qp2eh8CIWm3lHMoHANcmUv
+Apr 01 03:50:02 enCryptMethodJD: function test(token,fingerprint,timestamp,appId,algo){const random='kKCeLZ/cPfmZ';const str=`${token}${fingerprint}${timestamp}${appId}${random}`;return algo.HmacSHA256(str,token)}
+Apr 01 03:50:04 开始获取京喜工厂配置文件
+Apr 01 03:50:04 
+Apr 01 03:50:04 tuanActiveId: 6S9y4sJUfA2vPQP6TLdVIQ==
+Apr 01 03:50:04 共1个京东账号
+Apr 01 03:50:04 
+Apr 01 03:50:04 您提供了1个账号的京喜工厂助力码
+Apr 01 03:50:04 
+Apr 01 03:50:04 
+Apr 01 03:50:04 ******开始【京东账号1】burst3166*********
+Apr 01 03:50:04 
+Apr 01 03:50:05 "Response code 502 (Bad Gateway)"
+Apr 01 03:50:05 再加0.50%电力可开红包
+Apr 01 03:50:05 
+Apr 01 03:50:05 当前电力：2
+Apr 01 03:50:05 当前等级：5
+Apr 01 03:50:05 
+Apr 01 03:50:05 【京东账号1（burst3166）的京喜工厂好友互助码】A1GAHQrpp1nm7pmfuDlKAg==
+Apr 01 03:50:05 已投入电力：271600
+Apr 01 03:50:05 所需电力：740000
+Apr 01 03:50:05 生产进度：36.70%
+Apr 01 03:50:05 
+Apr 01 03:50:05 
+Apr 01 03:50:05 你今日还能帮好友打工（3/3）次
+Apr 01 03:50:05 
+Apr 01 03:50:05 
+Apr 01 03:50:05 【今日招工进度】0/12
+Apr 01 03:50:05 
+Apr 01 03:50:05 未到招工时间(每日6-24点之间可招工)
+Apr 01 03:50:06 
+Apr 01 03:50:06 发电机：当前 359.8 电力，最大值 420 电力
+Apr 01 03:50:06 
+Apr 01 03:50:06 本次发电机电力集满分享后不可获得双倍电力，故现在收取电力
+Apr 01 03:50:06 
+Apr 01 03:50:06 收取电力成功: 共720 
+Apr 01 03:50:06 完成任务：共领取720电力
+Apr 01 03:50:06 成功投入电力700电力
+Apr 01 03:50:06 打工电力：收取失败，6点后可领取
+Apr 01 03:50:06 自家地下暂无零件可收
+Apr 01 03:50:07 查询好友列表完成，共31好友，下面开始拾取好友地下的零件
+Apr 01 03:50:07 
+Apr 01 03:50:07 开始收取第 1 个好友 1ysne6hoo-pwlVG7b_U0DQ== 地下零件
+Apr 01 03:50:07 好友【1ysne6hoo-pwlVG7b_U0DQ==】地下暂无零件可收
+Apr 01 03:50:07 开始收取第 2 个好友 8I4PGcZpjvt_Nq20R0r-4Q== 地下零件
+Apr 01 03:50:08 好友【8I4PGcZpjvt_Nq20R0r-4Q==】地下暂无零件可收
+Apr 01 03:50:08 开始收取第 3 个好友 lmOajc3zN-XR5JxkIqM5qA== 地下零件
+Apr 01 03:50:09 好友【lmOajc3zN-XR5JxkIqM5qA==】地下暂无零件可收
+Apr 01 03:50:09 开始收取第 4 个好友 4Ff3bUhMlfJaid8B4qm32Q== 地下零件
+Apr 01 03:50:09 好友【4Ff3bUhMlfJaid8B4qm32Q==】地下暂无零件可收
+Apr 01 03:50:09 开始收取第 5 个好友 MJix7oSghPKjPtH8uJFaEA== 地下零件
+Apr 01 03:50:10 好友【MJix7oSghPKjPtH8uJFaEA==】地下暂无零件可收
+Apr 01 03:50:10 开始收取第 6 个好友 Oa8unWu-KdPrmGzypTpgUg== 地下零件
+Apr 01 03:50:10 好友【Oa8unWu-KdPrmGzypTpgUg==】地下暂无零件可收
+Apr 01 03:50:10 开始收取第 7 个好友 hyykhYqbGaAs-0No8h6kVQ== 地下零件
+Apr 01 03:50:11 好友【hyykhYqbGaAs-0No8h6kVQ==】地下暂无零件可收
+Apr 01 03:50:11 开始收取第 8 个好友 SIQEUukDV19DwOQGjd9J5Q== 地下零件
+Apr 01 03:50:11 好友【SIQEUukDV19DwOQGjd9J5Q==】地下暂无零件可收
+Apr 01 03:50:11 开始收取第 9 个好友 N8QdMHreY_pd7rIHq9zlFw== 地下零件
+Apr 01 03:50:12 好友【N8QdMHreY_pd7rIHq9zlFw==】地下暂无零件可收
+Apr 01 03:50:12 开始收取第 10 个好友 CJvUmDW5_In4nqFPr7BkVg== 地下零件
+Apr 01 03:50:12 好友【CJvUmDW5_In4nqFPr7BkVg==】地下暂无零件可收
+Apr 01 03:50:12 开始收取第 11 个好友 juHlWyZK6YCYEaIui-9O9A== 地下零件
+Apr 01 03:50:13 好友【juHlWyZK6YCYEaIui-9O9A==】地下暂无零件可收
+Apr 01 03:50:13 开始收取第 12 个好友 LAxdowQnMU3ox65OdwNwZA== 地下零件
+Apr 01 03:50:14 好友【LAxdowQnMU3ox65OdwNwZA==】地下暂无零件可收
+Apr 01 03:50:14 开始收取第 13 个好友 IsB_WWCxAQMMIfeGu9BpWg== 地下零件
+Apr 01 03:50:14 好友【IsB_WWCxAQMMIfeGu9BpWg==】地下暂无零件可收
+Apr 01 03:50:14 开始收取第 14 个好友 iGVfdqPLy34R5FOSbAq0qA== 地下零件
+Apr 01 03:50:15 好友【iGVfdqPLy34R5FOSbAq0qA==】地下暂无零件可收
+Apr 01 03:50:15 开始收取第 15 个好友 LLngJORM-9zh8UYMGcfd2A== 地下零件
+Apr 01 03:50:15 好友【LLngJORM-9zh8UYMGcfd2A==】地下暂无零件可收
+Apr 01 03:50:15 开始收取第 16 个好友 MJMF4orse-sJYN5pcyklXQ== 地下零件
+Apr 01 03:50:16 好友【MJMF4orse-sJYN5pcyklXQ==】地下暂无零件可收
+Apr 01 03:50:16 开始收取第 17 个好友 J0ZdwtZszB5pnvxDv6l8tQ== 地下零件
+Apr 01 03:50:16 好友【J0ZdwtZszB5pnvxDv6l8tQ==】地下暂无零件可收
+Apr 01 03:50:16 开始收取第 18 个好友 guBovILfmX3SJTf_AQNDRg== 地下零件
+Apr 01 03:50:17 好友【guBovILfmX3SJTf_AQNDRg==】地下暂无零件可收
+Apr 01 03:50:17 开始收取第 19 个好友 X6RooQQkq_I28EjOEpv3Lg== 地下零件
+Apr 01 03:50:17 好友【X6RooQQkq_I28EjOEpv3Lg==】地下暂无零件可收
+Apr 01 03:50:17 开始收取第 20 个好友 uhcZW_ZiVE0UsO11648SHA== 地下零件
+Apr 01 03:50:18 好友【uhcZW_ZiVE0UsO11648SHA==】地下暂无零件可收
+Apr 01 03:50:18 开始收取第 21 个好友 F-LnusDb7uc82e3xbgcq7g== 地下零件
+Apr 01 03:50:19 好友【F-LnusDb7uc82e3xbgcq7g==】地下暂无零件可收
+Apr 01 03:50:19 开始收取第 22 个好友 Sqhj-l0-WiKejPGYH5sEJQ== 地下零件
+Apr 01 03:50:19 好友【Sqhj-l0-WiKejPGYH5sEJQ==】地下暂无零件可收
+Apr 01 03:50:19 开始收取第 23 个好友 i55e65wxNYfC4tZ2R8bvdA== 地下零件
+Apr 01 03:50:20 好友【i55e65wxNYfC4tZ2R8bvdA==】地下暂无零件可收
+Apr 01 03:50:20 开始收取第 24 个好友 uJ0m1yiLaG6xNqOVpfLfncFZphSvO5VIUlgMcT9fV5E= 地下零件
+Apr 01 03:50:20 好友【uJ0m1yiLaG6xNqOVpfLfncFZphSvO5VIUlgMcT9fV5E=】地下暂无零件可收
+Apr 01 03:50:20 开始收取第 25 个好友 v8gwk5IrNis2alvqFJbmpw== 地下零件
+Apr 01 03:50:21 好友【v8gwk5IrNis2alvqFJbmpw==】地下暂无零件可收
+Apr 01 03:50:21 开始收取第 26 个好友 3JehqRP1jBOq-0vpydgxow== 地下零件
+Apr 01 03:50:21 好友【3JehqRP1jBOq-0vpydgxow==】地下暂无零件可收
+Apr 01 03:50:21 开始收取第 27 个好友 7fzlmybQNCsUvyimRAXUOA== 地下零件
+Apr 01 03:50:22 好友【7fzlmybQNCsUvyimRAXUOA==】地下暂无零件可收
+Apr 01 03:50:22 开始收取第 28 个好友 pBFolkAT7mLHZPTHo8rkbA== 地下零件
+Apr 01 03:50:22 好友【pBFolkAT7mLHZPTHo8rkbA==】地下暂无零件可收
+Apr 01 03:50:22 开始收取第 29 个好友 Z4EkI5Mzd0IllHBOOSXwsA== 地下零件
+Apr 01 03:50:23 好友【Z4EkI5Mzd0IllHBOOSXwsA==】地下暂无零件可收
+Apr 01 03:50:23 开始收取第 30 个好友 m2LC0Qsqnr3rK8e3ApvsuQ== 地下零件
+Apr 01 03:50:24 好友【m2LC0Qsqnr3rK8e3ApvsuQ==】地下暂无零件可收
+Apr 01 03:50:24 开始收取第 31 个好友 5LcqlK-8sBkaG8Mg7mCYvQ== 地下零件
+Apr 01 03:50:24 GetUserComponent失败：{"msg":"操作太频繁，请稍后再试~","nowTime":1617220224,"ret":10004}
+Apr 01 03:50:24 
+Apr 01 03:50:24 团活动ID  6S9y4sJUfA2vPQP6TLdVIQ==
+Apr 01 03:50:24 团ID  
+Apr 01 03:50:24 
+Apr 01 03:50:24 今日剩余开团次数：3次
+Apr 01 03:50:24 准备开团
+Apr 01 03:50:24 开团异常：{"msg":"活动已结束，请稍后再试~","nowTime":1617220224,"ret":10218}
+Apr 01 03:50:24 
+Apr 01 03:50:24   商品名     兑换状态
+Apr 01 03:50:24 三合一数据线    已兑换
+Apr 01 03:50:24 多味花生3袋    已兑换
+Apr 01 03:50:24 刀具三件套    已兑换
+Apr 01 03:50:24 
+Apr 01 03:50:24 【京东账号1】burst3166
+Apr 01 03:50:24 【生产商品】巴旦木
+Apr 01 03:50:24 【当前等级】高级工程师 5
+Apr 01 03:50:24 【生产进度】36.70%
+Apr 01 03:50:24 【招工进度】0/12
+Apr 01 03:50:24 【收取发电站】收取成功，获得 720 电力
+Apr 01 03:50:24 【每日任务】领奖成功，共计 720 电力
+Apr 01 03:50:24 【投入电力】投入成功，共计 700 电力
+Apr 01 03:50:24 【打工电力】收取失败，6点后可领取
+Apr 01 03:50:24 【收取自己零件】获得0电力
+Apr 01 03:50:24 【收取好友零件】获得0电力
+Apr 01 03:50:24 
+Apr 01 03:50:25 
+Apr 01 03:50:25 参加作者的团
+Apr 01 03:50:25 
+Apr 01 03:50:25 
+Apr 01 03:50:25 🔔京喜工厂, 结束! 🕛 24.519 秒
+Apr 01 03:50:25 
+Apr 01 04:50:22 
+Apr 01 04:50:22 🔔京喜工厂, 开始!
+Apr 01 04:50:22 
+Apr 01 04:50:22 ====================共1个京东账号Cookie=========
+Apr 01 04:50:22 
+Apr 01 04:50:22 ==================脚本执行- 北京时间(UTC+8)：4/1/2021, 4:50:22 AM=====================
+Apr 01 04:50:22 
+Apr 01 04:50:23 获取签名参数成功！
+Apr 01 04:50:23 fp: 1095856390686161
+Apr 01 04:50:23 token: tk01wacab1c02a8nZzZjb2pvRGZB6c4PsfGOlm9s3Ci8cYIFZE6sWmm61VpmALV61RKSkBI2ijPVVW3qOPpxUlu6g8Ph
+Apr 01 04:50:23 enCryptMethodJD: function test(token,fingerprint,timestamp,appId,algo){const random='e6eN0R1candc';const str=`${token}${fingerprint}${timestamp}${appId}${random}`;return algo.SHA512(str)}
+Apr 01 04:50:23 开始获取京喜工厂配置文件
+Apr 01 04:50:23 
+Apr 01 04:50:23 tuanActiveId: i9ideMF_BUOdVtmbe1pSeA==
+Apr 01 04:50:23 共1个京东账号
+Apr 01 04:50:23 
+Apr 01 04:50:23 您提供了1个账号的京喜工厂助力码
+Apr 01 04:50:23 
+Apr 01 04:50:23 
+Apr 01 04:50:23 ******开始【京东账号1】burst3166*********
+Apr 01 04:50:23 
+Apr 01 04:50:24 再加0.41%电力可开红包
+Apr 01 04:50:24 
+Apr 01 04:50:24 当前电力：22
+Apr 01 04:50:24 当前等级：5
+Apr 01 04:50:24 
+Apr 01 04:50:24 【京东账号1（burst3166）的京喜工厂好友互助码】A1GAHQrpp1nm7pmfuDlKAg==
+Apr 01 04:50:24 已投入电力：272300
+Apr 01 04:50:24 所需电力：740000
+Apr 01 04:50:24 生产进度：36.80%
+Apr 01 04:50:24 
+Apr 01 04:50:24 
+Apr 01 04:50:24 你今日还能帮好友打工（3/3）次
+Apr 01 04:50:24 
+Apr 01 04:50:24 
+Apr 01 04:50:24 【今日招工进度】0/12
+Apr 01 04:50:24 
+Apr 01 04:50:24 未到招工时间(每日6-24点之间可招工)
+Apr 01 04:50:24 
+Apr 01 04:50:24 发电机：当前 361.8 电力，最大值 420 电力
+Apr 01 04:50:24 
+Apr 01 04:50:24 本次发电机电力集满分享后不可获得双倍电力，故现在收取电力
+Apr 01 04:50:24 
+Apr 01 04:50:24 收取电力成功: 共724 
+Apr 01 04:50:24 任务：累计收取发电机电力值可完成
+Apr 01 04:50:24 领取累计收取发电机电力值任务奖励成功，收获：500电力
+Apr 01 04:50:25 任务：今日收取发电机电力可完成
+Apr 01 04:50:25 领取今日收取发电机电力任务奖励成功，收获：500电力
+Apr 01 04:50:26 完成任务：共领取1724电力
+Apr 01 04:50:26 成功投入电力1700电力
+Apr 01 04:50:26 打工电力：收取失败，6点后可领取
+Apr 01 04:50:27 自家地下暂无零件可收
+Apr 01 04:50:27 查询好友列表完成，共31好友，下面开始拾取好友地下的零件
+Apr 01 04:50:27 
+Apr 01 04:50:27 开始收取第 1 个好友 1ysne6hoo-pwlVG7b_U0DQ== 地下零件
+Apr 01 04:50:28 好友【1ysne6hoo-pwlVG7b_U0DQ==】地下暂无零件可收
+Apr 01 04:50:28 开始收取第 2 个好友 8I4PGcZpjvt_Nq20R0r-4Q== 地下零件
+Apr 01 04:50:28 好友【8I4PGcZpjvt_Nq20R0r-4Q==】地下暂无零件可收
+Apr 01 04:50:28 开始收取第 3 个好友 lmOajc3zN-XR5JxkIqM5qA== 地下零件
+Apr 01 04:50:29 好友【lmOajc3zN-XR5JxkIqM5qA==】地下暂无零件可收
+Apr 01 04:50:29 开始收取第 4 个好友 4Ff3bUhMlfJaid8B4qm32Q== 地下零件
+Apr 01 04:50:29 好友【4Ff3bUhMlfJaid8B4qm32Q==】地下暂无零件可收
+Apr 01 04:50:29 开始收取第 5 个好友 MJix7oSghPKjPtH8uJFaEA== 地下零件
+Apr 01 04:50:30 好友【MJix7oSghPKjPtH8uJFaEA==】地下暂无零件可收
+Apr 01 04:50:30 开始收取第 6 个好友 Oa8unWu-KdPrmGzypTpgUg== 地下零件
+Apr 01 04:50:31 好友【Oa8unWu-KdPrmGzypTpgUg==】地下暂无零件可收
+Apr 01 04:50:31 开始收取第 7 个好友 hyykhYqbGaAs-0No8h6kVQ== 地下零件
+Apr 01 04:50:31 好友【hyykhYqbGaAs-0No8h6kVQ==】地下暂无零件可收
+Apr 01 04:50:31 开始收取第 8 个好友 SIQEUukDV19DwOQGjd9J5Q== 地下零件
+Apr 01 04:50:32 好友【SIQEUukDV19DwOQGjd9J5Q==】地下暂无零件可收
+Apr 01 04:50:32 开始收取第 9 个好友 N8QdMHreY_pd7rIHq9zlFw== 地下零件
+Apr 01 04:50:32 好友【N8QdMHreY_pd7rIHq9zlFw==】地下暂无零件可收
+Apr 01 04:50:32 开始收取第 10 个好友 CJvUmDW5_In4nqFPr7BkVg== 地下零件
+Apr 01 04:50:33 好友【CJvUmDW5_In4nqFPr7BkVg==】地下暂无零件可收
+Apr 01 04:50:33 开始收取第 11 个好友 juHlWyZK6YCYEaIui-9O9A== 地下零件
+Apr 01 04:50:33 好友【juHlWyZK6YCYEaIui-9O9A==】地下暂无零件可收
+Apr 01 04:50:33 开始收取第 12 个好友 LAxdowQnMU3ox65OdwNwZA== 地下零件
+Apr 01 04:50:34 好友【LAxdowQnMU3ox65OdwNwZA==】地下暂无零件可收
+Apr 01 04:50:34 开始收取第 13 个好友 IsB_WWCxAQMMIfeGu9BpWg== 地下零件
+Apr 01 04:50:34 好友【IsB_WWCxAQMMIfeGu9BpWg==】地下暂无零件可收
+Apr 01 04:50:34 开始收取第 14 个好友 iGVfdqPLy34R5FOSbAq0qA== 地下零件
+Apr 01 04:50:35 好友【iGVfdqPLy34R5FOSbAq0qA==】地下暂无零件可收
+Apr 01 04:50:35 开始收取第 15 个好友 LLngJORM-9zh8UYMGcfd2A== 地下零件
+Apr 01 04:50:36 好友【LLngJORM-9zh8UYMGcfd2A==】地下暂无零件可收
+Apr 01 04:50:36 开始收取第 16 个好友 MJMF4orse-sJYN5pcyklXQ== 地下零件
+Apr 01 04:50:36 好友【MJMF4orse-sJYN5pcyklXQ==】地下暂无零件可收
+Apr 01 04:50:36 开始收取第 17 个好友 J0ZdwtZszB5pnvxDv6l8tQ== 地下零件
+Apr 01 04:50:37 好友【J0ZdwtZszB5pnvxDv6l8tQ==】地下暂无零件可收
+Apr 01 04:50:37 开始收取第 18 个好友 guBovILfmX3SJTf_AQNDRg== 地下零件
+Apr 01 04:50:37 好友【guBovILfmX3SJTf_AQNDRg==】地下暂无零件可收
+Apr 01 04:50:37 开始收取第 19 个好友 X6RooQQkq_I28EjOEpv3Lg== 地下零件
+Apr 01 04:50:38 好友【X6RooQQkq_I28EjOEpv3Lg==】地下暂无零件可收
+Apr 01 04:50:38 开始收取第 20 个好友 uhcZW_ZiVE0UsO11648SHA== 地下零件
+Apr 01 04:50:38 好友【uhcZW_ZiVE0UsO11648SHA==】地下暂无零件可收
+Apr 01 04:50:38 开始收取第 21 个好友 F-LnusDb7uc82e3xbgcq7g== 地下零件
+Apr 01 04:50:39 好友【F-LnusDb7uc82e3xbgcq7g==】地下暂无零件可收
+Apr 01 04:50:39 开始收取第 22 个好友 Sqhj-l0-WiKejPGYH5sEJQ== 地下零件
+Apr 01 04:50:39 好友【Sqhj-l0-WiKejPGYH5sEJQ==】地下暂无零件可收
+Apr 01 04:50:39 开始收取第 23 个好友 i55e65wxNYfC4tZ2R8bvdA== 地下零件
+Apr 01 04:50:40 好友【i55e65wxNYfC4tZ2R8bvdA==】地下暂无零件可收
+Apr 01 04:50:40 开始收取第 24 个好友 uJ0m1yiLaG6xNqOVpfLfncFZphSvO5VIUlgMcT9fV5E= 地下零件
+Apr 01 04:50:41 好友【uJ0m1yiLaG6xNqOVpfLfncFZphSvO5VIUlgMcT9fV5E=】地下暂无零件可收
+Apr 01 04:50:41 开始收取第 25 个好友 v8gwk5IrNis2alvqFJbmpw== 地下零件
+Apr 01 04:50:41 好友【v8gwk5IrNis2alvqFJbmpw==】地下暂无零件可收
+Apr 01 04:50:41 开始收取第 26 个好友 3JehqRP1jBOq-0vpydgxow== 地下零件
+Apr 01 04:50:42 好友【3JehqRP1jBOq-0vpydgxow==】地下暂无零件可收
+Apr 01 04:50:42 开始收取第 27 个好友 7fzlmybQNCsUvyimRAXUOA== 地下零件
+Apr 01 04:50:42 好友【7fzlmybQNCsUvyimRAXUOA==】地下暂无零件可收
+Apr 01 04:50:42 开始收取第 28 个好友 pBFolkAT7mLHZPTHo8rkbA== 地下零件
+Apr 01 04:50:43 好友【pBFolkAT7mLHZPTHo8rkbA==】地下暂无零件可收
+Apr 01 04:50:43 开始收取第 29 个好友 Z4EkI5Mzd0IllHBOOSXwsA== 地下零件
+Apr 01 04:50:43 好友【Z4EkI5Mzd0IllHBOOSXwsA==】地下暂无零件可收
+Apr 01 04:50:43 开始收取第 30 个好友 m2LC0Qsqnr3rK8e3ApvsuQ== 地下零件
+Apr 01 04:50:44 好友【m2LC0Qsqnr3rK8e3ApvsuQ==】地下暂无零件可收
+Apr 01 04:50:44 开始收取第 31 个好友 5LcqlK-8sBkaG8Mg7mCYvQ== 地下零件
+Apr 01 04:50:44 好友【5LcqlK-8sBkaG8Mg7mCYvQ==】地下暂无零件可收
+Apr 01 04:50:44 
+Apr 01 04:50:44 团活动ID  i9ideMF_BUOdVtmbe1pSeA==
+Apr 01 04:50:44 团ID  cwFMDA1z9S3bKeKg4hg3xA==
+Apr 01 04:50:44 
+Apr 01 04:50:44 今日剩余开团次数：3次
+Apr 01 04:50:44 之前的团已过期，准备重新开团
+Apr 01 04:50:44 
+Apr 01 04:50:45 开团异常：{"msg":"活动已结束，请稍后再试~","nowTime":1617223845,"ret":10218}
+Apr 01 04:50:45 
+Apr 01 04:50:45 开团情况:1/6
+Apr 01 04:50:45 
+Apr 01 04:50:45 
+Apr 01 04:50:45 此团未达领取团奖励人数：6人
+Apr 01 04:50:45 
+Apr 01 04:50:45 3/29/2021, 11:51:13 PM参加团主【A1GAHQrpp1nm7pmfuDlKAg==】失败
+Apr 01 04:50:45 3/29/2021, 10:50:37 AM参加团主【A1GAHQrpp1nm7pmfuDlKAg==】失败
+Apr 01 04:50:45 3/28/2021, 10:49:59 PM参加团主【A1GAHQrpp1nm7pmfuDlKAg==】失败
+Apr 01 04:50:45 3/28/2021, 8:56:28 PM参加团主【N8QdMHreY_pd7rIHq9zlFw==】失败
+Apr 01 04:50:45 3/28/2021, 10:32:41 AM参加团主【A1GAHQrpp1nm7pmfuDlKAg==】失败
+Apr 01 04:50:45 3/27/2021, 9:50:38 PM参加团主【A1GAHQrpp1nm7pmfuDlKAg==】失败
+Apr 01 04:50:45 3/27/2021, 8:50:35 AM参加团主【A1GAHQrpp1nm7pmfuDlKAg==】失败
+Apr 01 04:50:45 3/31/2021, 1:50:51 PM参加团主【A1GAHQrpp1nm7pmfuDlKAg==】失败
+Apr 01 04:50:45 3/31/2021, 12:51:04 AM参加团主【A1GAHQrpp1nm7pmfuDlKAg==】失败
+Apr 01 04:50:45 3/30/2021, 12:50:36 PM参加团主【A1GAHQrpp1nm7pmfuDlKAg==】失败
+Apr 01 04:50:45 
+Apr 01 04:50:45   商品名     兑换状态
+Apr 01 04:50:45 三合一数据线    已兑换
+Apr 01 04:50:45 多味花生3袋    已兑换
+Apr 01 04:50:45 刀具三件套    已兑换
+Apr 01 04:50:45 
+Apr 01 04:50:45 【京东账号1】burst3166
+Apr 01 04:50:45 【生产商品】巴旦木
+Apr 01 04:50:45 【当前等级】高级工程师 5
+Apr 01 04:50:45 【生产进度】36.80%
+Apr 01 04:50:45 【招工进度】0/12
+Apr 01 04:50:45 【收取发电站】收取成功，获得 724 电力
+Apr 01 04:50:45 【每日任务】领奖成功，共计 1724 电力
+Apr 01 04:50:45 【投入电力】投入成功，共计 1700 电力
+Apr 01 04:50:45 【打工电力】收取失败，6点后可领取
+Apr 01 04:50:45 【收取自己零件】今日已达上限
+Apr 01 04:50:45 【收取好友零件】今日已达上限
+Apr 01 04:50:45 
+Apr 01 04:50:45 
+Apr 01 04:50:45 参加作者的团
+Apr 01 04:50:45 
+Apr 01 04:50:45 
+Apr 01 04:50:45 🔔京喜工厂, 结束! 🕛 23.506 秒
+Apr 01 04:50:45 
+Apr 01 05:50:26 
+Apr 01 05:50:26 🔔京喜工厂, 开始!
+Apr 01 05:50:26 
+Apr 01 05:50:26 ====================共1个京东账号Cookie=========
+Apr 01 05:50:26 
+Apr 01 05:50:26 ==================脚本执行- 北京时间(UTC+8)：4/1/2021, 5:50:26 AM=====================
+Apr 01 05:50:26 
+Apr 01 05:50:27 获取签名参数成功！
+Apr 01 05:50:27 fp: 2859987931586161
+Apr 01 05:50:27 token: tk01wc72c1cf3a8nVzBtcW9VZHBuXlEygI/cEeOoVPfxEd/KgVRCBQtHqUL9K4ob9fcZy1zMe7wcdo5nEY4fcplJxPfU
+Apr 01 05:50:27 enCryptMethodJD: function test(token,fingerprint,timestamp,appId,algo){const random='BrGNV29GEt5R';const str=`${token}${fingerprint}${timestamp}${appId}${random}`;return algo.MD5(str)}
+Apr 01 05:50:27 开始获取京喜工厂配置文件
+Apr 01 05:50:27 
+Apr 01 05:50:27 tuanActiveId: 0_pzMedR7KhclCkMIgkTkg==
+Apr 01 05:50:27 共1个京东账号
+Apr 01 05:50:27 
+Apr 01 05:50:27 您提供了1个账号的京喜工厂助力码
+Apr 01 05:50:27 
+Apr 01 05:50:27 
+Apr 01 05:50:27 ******开始【京东账号1】burst3166*********
+Apr 01 05:50:27 
+Apr 01 05:50:27 再加0.18%电力可开红包
+Apr 01 05:50:27 
+Apr 01 05:50:27 当前电力：46
+Apr 01 05:50:27 当前等级：5
+Apr 01 05:50:27 
+Apr 01 05:50:27 【京东账号1（burst3166）的京喜工厂好友互助码】A1GAHQrpp1nm7pmfuDlKAg==
+Apr 01 05:50:27 已投入电力：274000
+Apr 01 05:50:27 所需电力：740000
+Apr 01 05:50:27 生产进度：37.03%
+Apr 01 05:50:27 
+Apr 01 05:50:27 
+Apr 01 05:50:27 你今日还能帮好友打工（3/3）次
+Apr 01 05:50:27 
+Apr 01 05:50:27 
+Apr 01 05:50:27 【今日招工进度】0/12
+Apr 01 05:50:27 
+Apr 01 05:50:27 未到招工时间(每日6-24点之间可招工)
+Apr 01 05:50:27 
+Apr 01 05:50:27 发电机：当前 360.3 电力，最大值 420 电力
+Apr 01 05:50:27 
+Apr 01 05:50:27 本次发电机电力集满分享后不可获得双倍电力，故现在收取电力
+Apr 01 05:50:27 
+Apr 01 05:50:27 收取电力成功: 共721 
+Apr 01 05:50:27 完成任务：共领取721电力
+Apr 01 05:50:27 成功投入电力700电力
+Apr 01 05:50:28 打工电力：收取失败，6点后可领取
+Apr 01 05:50:28 自家地下暂无零件可收
+Apr 01 05:50:28 查询好友列表完成，共31好友，下面开始拾取好友地下的零件
+Apr 01 05:50:28 
+Apr 01 05:50:28 开始收取第 1 个好友 1ysne6hoo-pwlVG7b_U0DQ== 地下零件
+Apr 01 05:50:29 好友【1ysne6hoo-pwlVG7b_U0DQ==】地下暂无零件可收
+Apr 01 05:50:29 开始收取第 2 个好友 8I4PGcZpjvt_Nq20R0r-4Q== 地下零件
+Apr 01 05:50:30 好友【8I4PGcZpjvt_Nq20R0r-4Q==】地下暂无零件可收
+Apr 01 05:50:30 开始收取第 3 个好友 lmOajc3zN-XR5JxkIqM5qA== 地下零件
+Apr 01 05:50:30 好友【lmOajc3zN-XR5JxkIqM5qA==】地下暂无零件可收
+Apr 01 05:50:30 开始收取第 4 个好友 4Ff3bUhMlfJaid8B4qm32Q== 地下零件
+Apr 01 05:50:31 好友【4Ff3bUhMlfJaid8B4qm32Q==】地下暂无零件可收
+Apr 01 05:50:31 开始收取第 5 个好友 MJix7oSghPKjPtH8uJFaEA== 地下零件
+Apr 01 05:50:31 好友【MJix7oSghPKjPtH8uJFaEA==】地下暂无零件可收
+Apr 01 05:50:31 开始收取第 6 个好友 Oa8unWu-KdPrmGzypTpgUg== 地下零件
+Apr 01 05:50:32 好友【Oa8unWu-KdPrmGzypTpgUg==】地下暂无零件可收
+Apr 01 05:50:32 开始收取第 7 个好友 hyykhYqbGaAs-0No8h6kVQ== 地下零件
+Apr 01 05:50:32 好友【hyykhYqbGaAs-0No8h6kVQ==】地下暂无零件可收
+Apr 01 05:50:32 开始收取第 8 个好友 SIQEUukDV19DwOQGjd9J5Q== 地下零件
+Apr 01 05:50:33 好友【SIQEUukDV19DwOQGjd9J5Q==】地下暂无零件可收
+Apr 01 05:50:33 开始收取第 9 个好友 N8QdMHreY_pd7rIHq9zlFw== 地下零件
+Apr 01 05:50:33 好友【N8QdMHreY_pd7rIHq9zlFw==】地下暂无零件可收
+Apr 01 05:50:33 开始收取第 10 个好友 CJvUmDW5_In4nqFPr7BkVg== 地下零件
+Apr 01 05:50:34 好友【CJvUmDW5_In4nqFPr7BkVg==】地下暂无零件可收
+Apr 01 05:50:34 开始收取第 11 个好友 juHlWyZK6YCYEaIui-9O9A== 地下零件
+Apr 01 05:50:35 好友【juHlWyZK6YCYEaIui-9O9A==】地下暂无零件可收
+Apr 01 05:50:35 开始收取第 12 个好友 LAxdowQnMU3ox65OdwNwZA== 地下零件
+Apr 01 05:50:35 好友【LAxdowQnMU3ox65OdwNwZA==】地下暂无零件可收
+Apr 01 05:50:35 开始收取第 13 个好友 IsB_WWCxAQMMIfeGu9BpWg== 地下零件
+Apr 01 05:50:36 好友【IsB_WWCxAQMMIfeGu9BpWg==】地下暂无零件可收
+Apr 01 05:50:36 开始收取第 14 个好友 iGVfdqPLy34R5FOSbAq0qA== 地下零件
+Apr 01 05:50:36 好友【iGVfdqPLy34R5FOSbAq0qA==】地下暂无零件可收
+Apr 01 05:50:36 开始收取第 15 个好友 LLngJORM-9zh8UYMGcfd2A== 地下零件
+Apr 01 05:50:37 好友【LLngJORM-9zh8UYMGcfd2A==】地下暂无零件可收
+Apr 01 05:50:37 开始收取第 16 个好友 MJMF4orse-sJYN5pcyklXQ== 地下零件
+Apr 01 05:50:37 好友【MJMF4orse-sJYN5pcyklXQ==】地下暂无零件可收
+Apr 01 05:50:37 开始收取第 17 个好友 J0ZdwtZszB5pnvxDv6l8tQ== 地下零件
+Apr 01 05:50:38 好友【J0ZdwtZszB5pnvxDv6l8tQ==】地下暂无零件可收
+Apr 01 05:50:38 开始收取第 18 个好友 guBovILfmX3SJTf_AQNDRg== 地下零件
+Apr 01 05:50:39 好友【guBovILfmX3SJTf_AQNDRg==】地下暂无零件可收
+Apr 01 05:50:39 开始收取第 19 个好友 X6RooQQkq_I28EjOEpv3Lg== 地下零件
+Apr 01 05:50:39 好友【X6RooQQkq_I28EjOEpv3Lg==】地下暂无零件可收
+Apr 01 05:50:39 开始收取第 20 个好友 uhcZW_ZiVE0UsO11648SHA== 地下零件
+Apr 01 05:50:40 好友【uhcZW_ZiVE0UsO11648SHA==】地下暂无零件可收
+Apr 01 05:50:40 开始收取第 21 个好友 F-LnusDb7uc82e3xbgcq7g== 地下零件
+Apr 01 05:50:40 好友【F-LnusDb7uc82e3xbgcq7g==】地下暂无零件可收
+Apr 01 05:50:40 开始收取第 22 个好友 Sqhj-l0-WiKejPGYH5sEJQ== 地下零件
+Apr 01 05:50:41 好友【Sqhj-l0-WiKejPGYH5sEJQ==】地下暂无零件可收
+Apr 01 05:50:41 开始收取第 23 个好友 i55e65wxNYfC4tZ2R8bvdA== 地下零件
+Apr 01 05:50:41 好友【i55e65wxNYfC4tZ2R8bvdA==】地下暂无零件可收
+Apr 01 05:50:41 开始收取第 24 个好友 uJ0m1yiLaG6xNqOVpfLfncFZphSvO5VIUlgMcT9fV5E= 地下零件
+Apr 01 05:50:42 好友【uJ0m1yiLaG6xNqOVpfLfncFZphSvO5VIUlgMcT9fV5E=】地下暂无零件可收
+Apr 01 05:50:42 开始收取第 25 个好友 v8gwk5IrNis2alvqFJbmpw== 地下零件
+Apr 01 05:50:42 好友【v8gwk5IrNis2alvqFJbmpw==】地下暂无零件可收
+Apr 01 05:50:42 开始收取第 26 个好友 3JehqRP1jBOq-0vpydgxow== 地下零件
+Apr 01 05:50:43 好友【3JehqRP1jBOq-0vpydgxow==】地下暂无零件可收
+Apr 01 05:50:43 开始收取第 27 个好友 7fzlmybQNCsUvyimRAXUOA== 地下零件
+Apr 01 05:50:43 好友【7fzlmybQNCsUvyimRAXUOA==】地下暂无零件可收
+Apr 01 05:50:43 开始收取第 28 个好友 pBFolkAT7mLHZPTHo8rkbA== 地下零件
+Apr 01 05:50:44 好友【pBFolkAT7mLHZPTHo8rkbA==】地下暂无零件可收
+Apr 01 05:50:44 开始收取第 29 个好友 Z4EkI5Mzd0IllHBOOSXwsA== 地下零件
+Apr 01 05:50:45 好友【Z4EkI5Mzd0IllHBOOSXwsA==】地下暂无零件可收
+Apr 01 05:50:45 开始收取第 30 个好友 m2LC0Qsqnr3rK8e3ApvsuQ== 地下零件
+Apr 01 05:50:45 好友【m2LC0Qsqnr3rK8e3ApvsuQ==】地下暂无零件可收
+Apr 01 05:50:45 开始收取第 31 个好友 5LcqlK-8sBkaG8Mg7mCYvQ== 地下零件
+Apr 01 05:50:46 好友【5LcqlK-8sBkaG8Mg7mCYvQ==】地下暂无零件可收
+Apr 01 05:50:46 
+Apr 01 05:50:46 团活动ID  0_pzMedR7KhclCkMIgkTkg==
+Apr 01 05:50:46 团ID  
+Apr 01 05:50:46 
+Apr 01 05:50:46 今日剩余开团次数：3次
+Apr 01 05:50:46 准备开团
+Apr 01 05:50:46 开团成功tuanId为
+Apr 01 05:50:46 r2e9h25UIbc6XTSxcfwTiQ==
+Apr 01 05:50:46 4/1/2021, 5:50:46 AM参加团主【A1GAHQrpp1nm7pmfuDlKAg==】失败
+Apr 01 05:50:46 
+Apr 01 05:50:46   商品名     兑换状态
+Apr 01 05:50:46 三合一数据线    已兑换
+Apr 01 05:50:46 多味花生3袋    已兑换
+Apr 01 05:50:46 刀具三件套    已兑换
+Apr 01 05:50:46 
+Apr 01 05:50:46 【京东账号1】burst3166
+Apr 01 05:50:46 【生产商品】巴旦木
+Apr 01 05:50:46 【当前等级】高级工程师 5
+Apr 01 05:50:46 【生产进度】37.03%
+Apr 01 05:50:46 【招工进度】0/12
+Apr 01 05:50:46 【收取发电站】收取成功，获得 721 电力
+Apr 01 05:50:46 【每日任务】领奖成功，共计 721 电力
+Apr 01 05:50:46 【投入电力】投入成功，共计 700 电力
+Apr 01 05:50:46 【打工电力】收取失败，6点后可领取
+Apr 01 05:50:46 【收取自己零件】今日已达上限
+Apr 01 05:50:46 【收取好友零件】今日已达上限
+Apr 01 05:50:46 
+Apr 01 05:50:47 
+Apr 01 05:50:47 参加作者的团
+Apr 01 05:50:47 
+Apr 01 05:50:47 参团失败：{"msg":"您已成团","nowTime":1617227447,"ret":10209}
+Apr 01 05:50:47 参团失败：{"msg":"您已成团","nowTime":1617227447,"ret":10209}
+Apr 01 05:50:47 参团失败：{"msg":"您已成团","nowTime":1617227447,"ret":10209}
+Apr 01 05:50:47 参团失败：{"msg":"您已成团","nowTime":1617227447,"ret":10209}
+Apr 01 05:50:47 参团失败：{"msg":"您已成团","nowTime":1617227447,"ret":10209}
+Apr 01 05:50:47 参团失败：{"msg":"您已成团","nowTime":1617227447,"ret":10209}
+Apr 01 05:50:47 参团失败：{"msg":"您已成团","nowTime":1617227448,"ret":10209}
+Apr 01 05:50:48 参团失败：{"msg":"您已成团","nowTime":1617227448,"ret":10209}
+Apr 01 05:50:48 参团失败：{"msg":"您已成团","nowTime":1617227448,"ret":10209}
+Apr 01 05:50:48 参团失败：{"msg":"您已成团","nowTime":1617227448,"ret":10209}
+Apr 01 05:50:48 
+Apr 01 05:50:48 🔔京喜工厂, 结束! 🕛 22.328 秒
+Apr 01 05:50:48 
+Apr 01 06:50:06 
+Apr 01 06:50:06 🔔京喜工厂, 开始!
+Apr 01 06:50:06 
+Apr 01 06:50:06 ====================共1个京东账号Cookie=========
+Apr 01 06:50:06 
+Apr 01 06:50:06 ==================脚本执行- 北京时间(UTC+8)：4/1/2021, 6:50:06 AM=====================
+Apr 01 06:50:06 
+Apr 01 06:50:07 获取签名参数成功！
+Apr 01 06:50:07 fp: 8780583097457161
+Apr 01 06:50:07 token: tk01wc4411c60a8nckJmMktYMy9rxrsP/BbeET0TNw5+wt6Em+goT2675oa3Uwk4CeTPFRuC7lSNxhrtzj8mJUG0Ur0Y
+Apr 01 06:50:07 enCryptMethodJD: function test(token,fingerprint,timestamp,appId,algo){const random='Oud6ikGWujr+';const str=`${token}${fingerprint}${timestamp}${appId}${random}`;return algo.SHA512(str)}
+Apr 01 06:50:09 开始获取京喜工厂配置文件
+Apr 01 06:50:09 
+Apr 01 06:50:09 tuanActiveId: 0_pzMedR7KhclCkMIgkTkg==
+Apr 01 06:50:09 共1个京东账号
+Apr 01 06:50:09 
+Apr 01 06:50:09 您提供了1个账号的京喜工厂助力码
+Apr 01 06:50:09 
+Apr 01 06:50:09 
+Apr 01 06:50:09 ******开始【京东账号1】burst3166*********
+Apr 01 06:50:09 
+Apr 01 06:50:09 可以开红包了
+Apr 01 06:50:09 
+Apr 01 06:50:09 领取红包功能(测试中)：{"data":{"active":"","awardElectric":567,"bingoLevel":0},"msg":"OK","nowTime":1617231009,"ret":0}
+Apr 01 06:50:09 
+Apr 01 06:50:09 当前电力：67
+Apr 01 06:50:09 当前等级：5
+Apr 01 06:50:09 
+Apr 01 06:50:09 【京东账号1（burst3166）的京喜工厂好友互助码】A1GAHQrpp1nm7pmfuDlKAg==
+Apr 01 06:50:09 已投入电力：277300
+Apr 01 06:50:09 所需电力：740000
+Apr 01 06:50:09 生产进度：37.47%
+Apr 01 06:50:09 
+Apr 01 06:50:09 
+Apr 01 06:50:09 你今日还能帮好友打工（1/3）次
+Apr 01 06:50:09 
+Apr 01 06:50:09 
+Apr 01 06:50:09 【今日招工进度】1/12
+Apr 01 06:50:09 开始
+Apr 01 06:50:10 随机取20个码放到您固定的互助码后面(不影响已有固定互助)
+Apr 01 06:50:10 第1个京东账号将要助力的好友["8I4PGcZpjvt_Nq20R0r-4Q==","lmOajc3zN-XR5JxkIqM5qA==","1ysne6hoo-pwlVG7b_U0DQ==","LLngJORM-9zh8UYMGcfd2A==","MJMF4orse-sJYN5pcyklXQ==","J0ZdwtZszB5pnvxDv6l8tQ==","A1GAHQrpp1nm7pmfuDlKAg==","Gemy0a4Fchhinf_Fl2DHoQ==","v-iHo-K5zOeZscZ99Lu0lA==","WanVGXREp7pG03GUBzTsVQ==","4YzUQfWsD6dUmTYoswG7CQ==","CJ52eEdVkNcJfDxBZo5exlz2_SRh8kmBKL3TnZiliBU=","2_5wYDRI-pXxIJf0svE-YA==","_7L9mFQ_LxXn68QCfvTtsg==","u9uu_KIGTRohwFIFpjmRKg==","Z-zWORrhIFI3A3qkYqm4hw==","YeWNiNROQH_a5ss0Rnh2cQ==","LdWXKWq9BNlu82yRphb7tA==","dtiNF5u3RgWHIZFqbYIwmg==","usfcaRtqQBKYXLbph27-ZQ==","bT7WP8TBYl7Zovilq7jO8w==","jLqm5-ZePDMOlNjmoo4Tjg==","M3TCLK1eKYZY9buUfKI4bg==","n1imGI-ulVoQMTiL47nT7w==","o_mWYqimBXkldSuSWgBSuw==","C1tGNEIVVkdY5GX_NSUNKg==","oaRW2UKb4Bo5cUWtPRg5Tg=="]
+Apr 01 06:50:10 助力朋友[8I4PGcZpjvt_Nq20R0r-4Q==]失败：正在为niujie打工，28分钟后才能助力下一位好友～，跳出助力
+Apr 01 06:50:10 发电机：当前 358.3 电力，最大值 420 电力
+Apr 01 06:50:10 
+Apr 01 06:50:10 本次发电机电力集满分享后可获得双倍电力，故目前不收取电力
+Apr 01 06:50:10 
+Apr 01 06:50:10 任务：今日首次招工可完成
+Apr 01 06:50:10 领取今日首次招工任务奖励成功，收获：1000电力
+Apr 01 06:50:11 任务：累计招募工人数可完成
+Apr 01 06:50:11 领取累计招募工人数任务奖励成功，收获：800电力
+Apr 01 06:50:12 完成任务：共领取1800电力
+Apr 01 06:50:12 成功投入电力2400电力
+Apr 01 06:50:12 打工电力：收取成功
+Apr 01 06:50:13 自家地下暂无零件可收
+Apr 01 06:50:13 查询好友列表完成，共31好友，下面开始拾取好友地下的零件
+Apr 01 06:50:13 
+Apr 01 06:50:13 开始收取第 1 个好友 1ysne6hoo-pwlVG7b_U0DQ== 地下零件
+Apr 01 06:50:14 好友【1ysne6hoo-pwlVG7b_U0DQ==】地下暂无零件可收
+Apr 01 06:50:14 开始收取第 2 个好友 8I4PGcZpjvt_Nq20R0r-4Q== 地下零件
+Apr 01 06:50:14 好友【8I4PGcZpjvt_Nq20R0r-4Q==】地下暂无零件可收
+Apr 01 06:50:14 开始收取第 3 个好友 lmOajc3zN-XR5JxkIqM5qA== 地下零件
+Apr 01 06:50:15 好友【lmOajc3zN-XR5JxkIqM5qA==】地下暂无零件可收
+Apr 01 06:50:15 开始收取第 4 个好友 4Ff3bUhMlfJaid8B4qm32Q== 地下零件
+Apr 01 06:50:15 好友【4Ff3bUhMlfJaid8B4qm32Q==】地下暂无零件可收
+Apr 01 06:50:15 开始收取第 5 个好友 MJix7oSghPKjPtH8uJFaEA== 地下零件
+Apr 01 06:50:16 好友【MJix7oSghPKjPtH8uJFaEA==】地下暂无零件可收
+Apr 01 06:50:16 开始收取第 6 个好友 hyykhYqbGaAs-0No8h6kVQ== 地下零件
+Apr 01 06:50:17 好友【hyykhYqbGaAs-0No8h6kVQ==】地下暂无零件可收
+Apr 01 06:50:17 开始收取第 7 个好友 Oa8unWu-KdPrmGzypTpgUg== 地下零件
+Apr 01 06:50:17 好友【Oa8unWu-KdPrmGzypTpgUg==】地下暂无零件可收
+Apr 01 06:50:17 开始收取第 8 个好友 SIQEUukDV19DwOQGjd9J5Q== 地下零件
+Apr 01 06:50:18 好友【SIQEUukDV19DwOQGjd9J5Q==】地下暂无零件可收
+Apr 01 06:50:18 开始收取第 9 个好友 CJvUmDW5_In4nqFPr7BkVg== 地下零件
+Apr 01 06:50:18 好友【CJvUmDW5_In4nqFPr7BkVg==】地下暂无零件可收
+Apr 01 06:50:18 开始收取第 10 个好友 LAxdowQnMU3ox65OdwNwZA== 地下零件
+Apr 01 06:50:19 好友【LAxdowQnMU3ox65OdwNwZA==】地下暂无零件可收
+Apr 01 06:50:19 开始收取第 11 个好友 N8QdMHreY_pd7rIHq9zlFw== 地下零件
+Apr 01 06:50:19 好友【N8QdMHreY_pd7rIHq9zlFw==】地下暂无零件可收
+Apr 01 06:50:19 开始收取第 12 个好友 juHlWyZK6YCYEaIui-9O9A== 地下零件
+Apr 01 06:50:20 好友【juHlWyZK6YCYEaIui-9O9A==】地下暂无零件可收
+Apr 01 06:50:20 开始收取第 13 个好友 IsB_WWCxAQMMIfeGu9BpWg== 地下零件
+Apr 01 06:50:20 好友【IsB_WWCxAQMMIfeGu9BpWg==】地下暂无零件可收
+Apr 01 06:50:20 开始收取第 14 个好友 iGVfdqPLy34R5FOSbAq0qA== 地下零件
+Apr 01 06:50:21 好友【iGVfdqPLy34R5FOSbAq0qA==】地下暂无零件可收
+Apr 01 06:50:21 开始收取第 15 个好友 LLngJORM-9zh8UYMGcfd2A== 地下零件
+Apr 01 06:50:22 好友【LLngJORM-9zh8UYMGcfd2A==】地下暂无零件可收
+Apr 01 06:50:22 开始收取第 16 个好友 MJMF4orse-sJYN5pcyklXQ== 地下零件
+Apr 01 06:50:22 好友【MJMF4orse-sJYN5pcyklXQ==】地下暂无零件可收
+Apr 01 06:50:22 开始收取第 17 个好友 J0ZdwtZszB5pnvxDv6l8tQ== 地下零件
+Apr 01 06:50:23 好友【J0ZdwtZszB5pnvxDv6l8tQ==】地下暂无零件可收
+Apr 01 06:50:23 开始收取第 18 个好友 guBovILfmX3SJTf_AQNDRg== 地下零件
+Apr 01 06:50:23 好友【guBovILfmX3SJTf_AQNDRg==】地下暂无零件可收
+Apr 01 06:50:23 开始收取第 19 个好友 X6RooQQkq_I28EjOEpv3Lg== 地下零件
+Apr 01 06:50:24 好友【X6RooQQkq_I28EjOEpv3Lg==】地下暂无零件可收
+Apr 01 06:50:24 开始收取第 20 个好友 uhcZW_ZiVE0UsO11648SHA== 地下零件
+Apr 01 06:50:24 好友【uhcZW_ZiVE0UsO11648SHA==】地下暂无零件可收
+Apr 01 06:50:24 开始收取第 21 个好友 F-LnusDb7uc82e3xbgcq7g== 地下零件
+Apr 01 06:50:25 好友【F-LnusDb7uc82e3xbgcq7g==】地下暂无零件可收
+Apr 01 06:50:25 开始收取第 22 个好友 Sqhj-l0-WiKejPGYH5sEJQ== 地下零件
+Apr 01 06:50:25 好友【Sqhj-l0-WiKejPGYH5sEJQ==】地下暂无零件可收
+Apr 01 06:50:25 开始收取第 23 个好友 i55e65wxNYfC4tZ2R8bvdA== 地下零件
+Apr 01 06:50:26 好友【i55e65wxNYfC4tZ2R8bvdA==】地下暂无零件可收
+Apr 01 06:50:26 开始收取第 24 个好友 uJ0m1yiLaG6xNqOVpfLfncFZphSvO5VIUlgMcT9fV5E= 地下零件
+Apr 01 06:50:27 好友【uJ0m1yiLaG6xNqOVpfLfncFZphSvO5VIUlgMcT9fV5E=】地下暂无零件可收
+Apr 01 06:50:27 开始收取第 25 个好友 v8gwk5IrNis2alvqFJbmpw== 地下零件
+Apr 01 06:50:27 好友【v8gwk5IrNis2alvqFJbmpw==】地下暂无零件可收
+Apr 01 06:50:27 开始收取第 26 个好友 3JehqRP1jBOq-0vpydgxow== 地下零件
+Apr 01 06:50:28 好友【3JehqRP1jBOq-0vpydgxow==】地下暂无零件可收
+Apr 01 06:50:28 开始收取第 27 个好友 7fzlmybQNCsUvyimRAXUOA== 地下零件
+Apr 01 06:50:28 好友【7fzlmybQNCsUvyimRAXUOA==】地下暂无零件可收
+Apr 01 06:50:28 开始收取第 28 个好友 pBFolkAT7mLHZPTHo8rkbA== 地下零件
+Apr 01 06:50:29 好友【pBFolkAT7mLHZPTHo8rkbA==】地下暂无零件可收
+Apr 01 06:50:29 开始收取第 29 个好友 Z4EkI5Mzd0IllHBOOSXwsA== 地下零件
+Apr 01 06:50:29 好友【Z4EkI5Mzd0IllHBOOSXwsA==】地下暂无零件可收
+Apr 01 06:50:29 开始收取第 30 个好友 m2LC0Qsqnr3rK8e3ApvsuQ== 地下零件
+Apr 01 06:50:30 好友【m2LC0Qsqnr3rK8e3ApvsuQ==】地下暂无零件可收
+Apr 01 06:50:30 开始收取第 31 个好友 5LcqlK-8sBkaG8Mg7mCYvQ== 地下零件
+Apr 01 06:50:30 好友【5LcqlK-8sBkaG8Mg7mCYvQ==】地下暂无零件可收
+Apr 01 06:50:31 
+Apr 01 06:50:31 团活动ID  0_pzMedR7KhclCkMIgkTkg==
+Apr 01 06:50:31 团ID  r2e9h25UIbc6XTSxcfwTiQ==
+Apr 01 06:50:31 
+Apr 01 06:50:31 今日剩余开团次数：2次
+Apr 01 06:50:31 
+Apr 01 06:50:31 开团情况:1/6
+Apr 01 06:50:31 
+Apr 01 06:50:31 
+Apr 01 06:50:31 此团未达领取团奖励人数：6人
+Apr 01 06:50:31 
+Apr 01 06:50:31 4/1/2021, 5:50:46 AM参加团主【A1GAHQrpp1nm7pmfuDlKAg==】失败
+Apr 01 06:50:31 
+Apr 01 06:50:31   商品名     兑换状态
+Apr 01 06:50:31 三合一数据线    已兑换
+Apr 01 06:50:31 多味花生3袋    已兑换
+Apr 01 06:50:31 刀具三件套    已兑换
+Apr 01 06:50:31 
+Apr 01 06:50:31 【京东账号1】burst3166
+Apr 01 06:50:31 【生产商品】巴旦木
+Apr 01 06:50:31 【当前等级】高级工程师 5
+Apr 01 06:50:31 【生产进度】37.47%
+Apr 01 06:50:31 【招工进度】1/12
+Apr 01 06:50:31 【发电机电力】当前 358.3 电力，未达到收获标准
+Apr 01 06:50:31 【每日任务】领奖成功，共计 1800 电力
+Apr 01 06:50:31 【投入电力】投入成功，共计 2400 电力
+Apr 01 06:50:31 【打工电力】：收取成功
+Apr 01 06:50:31 【收取自己零件】今日已达上限
+Apr 01 06:50:31 【收取好友零件】今日已达上限
+Apr 01 06:50:31 
+Apr 01 06:50:31 
+Apr 01 06:50:31 参加作者的团
+Apr 01 06:50:31 
+Apr 01 06:50:31 参团失败：{"msg":"您已成团","nowTime":1617231031,"ret":10209}
+Apr 01 06:50:32 参团失败：{"msg":"您已成团","nowTime":1617231032,"ret":10209}
+Apr 01 06:50:32 参团失败：{"msg":"您已成团","nowTime":1617231032,"ret":10209}
+Apr 01 06:50:32 参团失败：{"msg":"您已成团","nowTime":1617231032,"ret":10209}
+Apr 01 06:50:32 参团失败：{"msg":"活动火爆，请稍后再试~","nowTime":1617231032,"ret":10203}
+Apr 01 06:50:32 参团失败：{"msg":"您已成团","nowTime":1617231032,"ret":10209}
+Apr 01 06:50:32 参团失败：{"msg":"您已成团","nowTime":1617231032,"ret":10209}
+Apr 01 06:50:32 参团失败：{"msg":"您已成团","nowTime":1617231032,"ret":10209}
+Apr 01 06:50:32 参团失败：{"msg":"您已成团","nowTime":1617231032,"ret":10209}
+Apr 01 06:50:32 参团失败：{"msg":"您已成团","nowTime":1617231032,"ret":10209}
+Apr 01 06:50:32 参团失败：{"msg":"您已成团","nowTime":1617231032,"ret":10209}
+Apr 01 06:50:32 参团失败：{"msg":"您已成团","nowTime":1617231032,"ret":10209}
+Apr 01 06:50:32 参团失败：{"msg":"您已成团","nowTime":1617231032,"ret":10209}
+Apr 01 06:50:32 参团失败：{"msg":"活动火爆，请稍后再试~","nowTime":1617231033,"ret":10203}
+Apr 01 06:50:33 参团失败：{"msg":"您已成团","nowTime":1617231033,"ret":10209}
+Apr 01 06:50:33 
+Apr 01 06:50:33 🔔京喜工厂, 结束! 🕛 26.988 秒
+Apr 01 06:50:33 
+Apr 01 07:50:26 
+Apr 01 07:50:26 🔔京喜工厂, 开始!
+Apr 01 07:50:26 
+Apr 01 07:50:26 ====================共1个京东账号Cookie=========
+Apr 01 07:50:26 
+Apr 01 07:50:26 ==================脚本执行- 北京时间(UTC+8)：4/1/2021, 7:50:26 AM=====================
+Apr 01 07:50:26 
+Apr 01 07:50:27 获取签名参数成功！
+Apr 01 07:50:27 fp: 6440493955696161
+Apr 01 07:50:27 token: tk01w88991bd8a8nV3dwL0FOa016mrjXw31OCd/r7CvL008ujgmC9dYpHX9yG5RuXrTsPegQZkIf2My0ATxp3jsLWKeZ
+Apr 01 07:50:27 enCryptMethodJD: function test(token,fingerprint,timestamp,appId,algo){const random='40EbhkqW70B2';const str=`${token}${fingerprint}${timestamp}${appId}${random}`;return algo.HmacMD5(str,token)}
+Apr 01 07:50:28 拼团活动ID: 获取成功 0_pzMedR7KhclCkMIgkTkg==
+Apr 01 07:50:28 开始获取京喜工厂配置文件
+Apr 01 07:50:28 
+Apr 01 07:50:28 共1个京东账号
+Apr 01 07:50:28 
+Apr 01 07:50:28 您提供了1个账号的京喜工厂助力码
+Apr 01 07:50:28 
+Apr 01 07:50:28 
+Apr 01 07:50:28 ******开始【京东账号1】burst3166*********
+Apr 01 07:50:28 
+Apr 01 07:50:28 再加3.00%电力可开红包
+Apr 01 07:50:28 
+Apr 01 07:50:28 当前电力：34
+Apr 01 07:50:28 当前等级：5
+Apr 01 07:50:28 
+Apr 01 07:50:28 【京东账号1（burst3166）的京喜工厂好友互助码】A1GAHQrpp1nm7pmfuDlKAg==
+Apr 01 07:50:28 已投入电力：312600
+Apr 01 07:50:28 所需电力：740000
+Apr 01 07:50:28 生产进度：42.24%
+Apr 01 07:50:28 
+Apr 01 07:50:28 
+Apr 01 07:50:28 你今日还能帮好友打工（0/3）次
+Apr 01 07:50:28 
+Apr 01 07:50:28 
+Apr 01 07:50:28 【今日招工进度】8/12
+Apr 01 07:50:28 
+Apr 01 07:50:28 今日助力好友机会已耗尽
+Apr 01 07:50:28 
+Apr 01 07:50:28 发电机：当前 420 电力，最大值 420 电力
+Apr 01 07:50:28 发电机：电力可翻倍并收获
+Apr 01 07:50:28 收取电力成功: 共840 
+Apr 01 07:50:28 任务：完成每日14大事项可完成
+Apr 01 07:50:28 领取完成每日14大事项任务奖励成功，收获：5000电力
+Apr 01 07:50:29 任务：给工厂招募工人可完成
+Apr 01 07:50:29 领取给工厂招募工人任务奖励成功，收获：800电力
+Apr 01 07:50:30 任务：今日收取发电机电力可完成
+Apr 01 07:50:30 领取今日收取发电机电力任务奖励成功，收获：500电力
+Apr 01 07:50:31 完成任务：共领取7140电力
+Apr 01 07:50:31 成功投入电力7100电力
+Apr 01 07:50:33 自家地下暂无零件可收
+Apr 01 07:50:33 
+Apr 01 07:50:33 查询好友列表完成，共26好友，下面开始拾取好友地下的零件
+Apr 01 07:50:33 
+Apr 01 07:50:33 
+Apr 01 07:50:33 开始收取第 1 个好友 【zacky】 地下零件 collectFlag：0
+Apr 01 07:50:35 好友【1ysne6hoo-pwlVG7b_U0DQ==】地下暂无零件可收
+Apr 01 07:50:35 
+Apr 01 07:50:35 
+Apr 01 07:50:35 开始收取第 2 个好友 【山无棱】 地下零件 collectFlag：0
+Apr 01 07:50:36 好友【8I4PGcZpjvt_Nq20R0r-4Q==】地下暂无零件可收
+Apr 01 07:50:36 
+Apr 01 07:50:36 
+Apr 01 07:50:36 开始收取第 3 个好友 【晨曦】 地下零件 collectFlag：0
+Apr 01 07:50:37 好友【lmOajc3zN-XR5JxkIqM5qA==】地下暂无零件可收
+Apr 01 07:50:37 
+Apr 01 07:50:37 
+Apr 01 07:50:37 开始收取第 4 个好友 【liuzhenli】 地下零件 collectFlag：0
+Apr 01 07:50:39 好友【4Ff3bUhMlfJaid8B4qm32Q==】地下暂无零件可收
+Apr 01 07:50:39 
+Apr 01 07:50:39 
+Apr 01 07:50:39 开始收取第 5 个好友 【SeaYe】 地下零件 collectFlag：0
+Apr 01 07:50:40 好友【hyykhYqbGaAs-0No8h6kVQ==】地下暂无零件可收
+Apr 01 07:50:40 
+Apr 01 07:50:40 
+Apr 01 07:50:40 开始收取第 6 个好友 【jd*c54】 地下零件 collectFlag：0
+Apr 01 07:50:41 好友【Oa8unWu-KdPrmGzypTpgUg==】地下暂无零件可收
+Apr 01 07:50:41 
+Apr 01 07:50:41 
+Apr 01 07:50:41 开始收取第 7 个好友 【小中族】 地下零件 collectFlag：0
+Apr 01 07:50:43 好友【J0ZdwtZszB5pnvxDv6l8tQ==】地下暂无零件可收
+Apr 01 07:50:43 
+Apr 01 07:50:43 
+Apr 01 07:50:43 开始收取第 8 个好友 【WANGJUAN】 地下零件 collectFlag：0
+Apr 01 07:50:44 好友【SIQEUukDV19DwOQGjd9J5Q==】地下暂无零件可收
+Apr 01 07:50:44 
+Apr 01 07:50:44 
+Apr 01 07:50:44 开始收取第 9 个好友 【薇薇】 地下零件 collectFlag：0
+Apr 01 07:50:45 好友【CJvUmDW5_In4nqFPr7BkVg==】地下暂无零件可收
+Apr 01 07:50:45 
+Apr 01 07:50:45 
+Apr 01 07:50:45 开始收取第 10 个好友 【Li 】 地下零件 collectFlag：0
+Apr 01 07:50:47 好友【juHlWyZK6YCYEaIui-9O9A==】地下暂无零件可收
+Apr 01 07:50:47 
+Apr 01 07:50:47 
+Apr 01 07:50:47 开始收取第 11 个好友 【niujie】 地下零件 collectFlag：0
+Apr 01 07:50:48 好友【LAxdowQnMU3ox65OdwNwZA==】地下暂无零件可收
+Apr 01 07:50:48 
+Apr 01 07:50:48 
+Apr 01 07:50:48 开始收取第 12 个好友 【迎伟】 地下零件 collectFlag：0
+Apr 01 07:50:49 好友【N8QdMHreY_pd7rIHq9zlFw==】地下暂无零件可收
+Apr 01 07:50:49 
+Apr 01 07:50:49 
+Apr 01 07:50:49 开始收取第 13 个好友 【sn*ars】 地下零件 collectFlag：0
+Apr 01 07:50:51 好友【LLngJORM-9zh8UYMGcfd2A==】地下暂无零件可收
+Apr 01 07:50:51 
+Apr 01 07:50:51 
+Apr 01 07:50:51 开始收取第 14 个好友 【侯浩】 地下零件 collectFlag：0
+Apr 01 07:50:52 好友【MJMF4orse-sJYN5pcyklXQ==】地下暂无零件可收
+Apr 01 07:50:52 
+Apr 01 07:50:52 
+Apr 01 07:50:52 开始收取第 15 个好友 【平凡】 地下零件 collectFlag：0
+Apr 01 07:50:54 好友【guBovILfmX3SJTf_AQNDRg==】地下暂无零件可收
+Apr 01 07:50:54 
+Apr 01 07:50:54 
+Apr 01 07:50:54 开始收取第 16 个好友 【小胖】 地下零件 collectFlag：0
+Apr 01 07:50:55 好友【X6RooQQkq_I28EjOEpv3Lg==】地下暂无零件可收
+Apr 01 07:50:55 
+Apr 01 07:50:55 
+Apr 01 07:50:55 开始收取第 17 个好友 【杨登兰】 地下零件 collectFlag：0
+Apr 01 07:50:56 好友【uhcZW_ZiVE0UsO11648SHA==】地下暂无零件可收
+Apr 01 07:50:56 
+Apr 01 07:50:56 
+Apr 01 07:50:56 开始收取第 18 个好友 【苹果01】 地下零件 collectFlag：0
+Apr 01 07:50:58 好友【F-LnusDb7uc82e3xbgcq7g==】地下暂无零件可收
+Apr 01 07:50:58 
+Apr 01 07:50:58 
+Apr 01 07:50:58 开始收取第 19 个好友 【婷婷】 地下零件 collectFlag：0
+Apr 01 07:50:59 好友【Sqhj-l0-WiKejPGYH5sEJQ==】地下暂无零件可收
+Apr 01 07:50:59 
+Apr 01 07:50:59 
+Apr 01 07:50:59 开始收取第 20 个好友 【JOY】 地下零件 collectFlag：0
+Apr 01 07:51:00 好友【i55e65wxNYfC4tZ2R8bvdA==】地下暂无零件可收
+Apr 01 07:51:00 
+Apr 01 07:51:00 
+Apr 01 07:51:00 开始收取第 21 个好友 【望乜撚野呀】 地下零件 collectFlag：0
+Apr 01 07:51:02 好友【uJ0m1yiLaG6xNqOVpfLfncFZphSvO5VIUlgMcT9fV5E=】地下暂无零件可收
+Apr 01 07:51:02 
+Apr 01 07:51:02 
+Apr 01 07:51:02 开始收取第 22 个好友 【百度杜小杜】 地下零件 collectFlag：0
+Apr 01 07:51:03 好友【v8gwk5IrNis2alvqFJbmpw==】地下暂无零件可收
+Apr 01 07:51:03 
+Apr 01 07:51:03 
+Apr 01 07:51:03 开始收取第 23 个好友 【山有木兮木有枝】 地下零件 collectFlag：0
+Apr 01 07:51:04 好友【7fzlmybQNCsUvyimRAXUOA==】地下暂无零件可收
+Apr 01 07:51:04 
+Apr 01 07:51:04 
+Apr 01 07:51:04 开始收取第 24 个好友 【Z】 地下零件 collectFlag：0
+Apr 01 07:51:06 好友【Z4EkI5Mzd0IllHBOOSXwsA==】地下暂无零件可收
+Apr 01 07:51:06 
+Apr 01 07:51:06 
+Apr 01 07:51:06 开始收取第 25 个好友 【明雩】 地下零件 collectFlag：0
+Apr 01 07:51:07 好友【m2LC0Qsqnr3rK8e3ApvsuQ==】地下暂无零件可收
+Apr 01 07:51:07 
+Apr 01 07:51:07 
+Apr 01 07:51:07 开始收取第 26 个好友 【jd*672】 地下零件 collectFlag：0
+Apr 01 07:51:08 好友【5LcqlK-8sBkaG8Mg7mCYvQ==】地下暂无零件可收
+Apr 01 07:51:08 
+Apr 01 07:51:09 
+Apr 01 07:51:09 团活动ID  0_pzMedR7KhclCkMIgkTkg==
+Apr 01 07:51:09 团ID  r2e9h25UIbc6XTSxcfwTiQ==
+Apr 01 07:51:09 
+Apr 01 07:51:09 今日剩余开团次数：2次
+Apr 01 07:51:09 
+Apr 01 07:51:09 开团情况:1/6
+Apr 01 07:51:09 
+Apr 01 07:51:09 
+Apr 01 07:51:09 此团未达领取团奖励人数：6人
+Apr 01 07:51:09 
+Apr 01 07:51:09 4/1/2021, 5:50:46 AM参加团主【A1GAHQrpp1nm7pmfuDlKAg==】失败
+Apr 01 07:51:09 
+Apr 01 07:51:09   商品名     兑换状态
+Apr 01 07:51:09 三合一数据线    已兑换
+Apr 01 07:51:09 多味花生3袋    已兑换
+Apr 01 07:51:09 刀具三件套    已兑换
+Apr 01 07:51:09 
+Apr 01 07:51:09 【京东账号1】burst3166
+Apr 01 07:51:09 【生产商品】巴旦木
+Apr 01 07:51:09 【当前等级】高级工程师 5
+Apr 01 07:51:09 【生产进度】42.24%
+Apr 01 07:51:09 【招工进度】8/12
+Apr 01 07:51:09 【收取发电站】收取成功，获得 840 电力
+Apr 01 07:51:09 【每日任务】领奖成功，共计 7140 电力
+Apr 01 07:51:09 【投入电力】投入成功，共计 7100 电力
+Apr 01 07:51:09 【收取自己零件】今日已达上限
+Apr 01 07:51:09 【收取好友零件】今日已达上限
+Apr 01 07:51:09 
+Apr 01 07:51:10 
+Apr 01 07:51:10 参加作者的团
+Apr 01 07:51:10 参团失败：{"msg":"您已成团","nowTime":1617234670,"ret":10209}
+Apr 01 07:51:10 
+Apr 01 07:51:10 参团失败：{"msg":"您已成团","nowTime":1617234670,"ret":10209}
+Apr 01 07:51:10 
+Apr 01 07:51:10 参团失败：{"msg":"您已成团","nowTime":1617234670,"ret":10209}
+Apr 01 07:51:10 
+Apr 01 07:51:10 参团失败：{"msg":"您已成团","nowTime":1617234670,"ret":10209}
+Apr 01 07:51:10 
+Apr 01 07:51:10 参团失败：{"msg":"您已成团","nowTime":1617234670,"ret":10209}
+Apr 01 07:51:10 
+Apr 01 07:51:10 参团失败：{"msg":"您已成团","nowTime":1617234670,"ret":10209}
+Apr 01 07:51:10 
+Apr 01 07:51:10 参团失败：{"msg":"您已成团","nowTime":1617234670,"ret":10209}
+Apr 01 07:51:10 
+Apr 01 07:51:10 参团失败：{"msg":"您已成团","nowTime":1617234670,"ret":10209}
+Apr 01 07:51:10 
+Apr 01 07:51:10 参团失败：{"msg":"活动火爆，请稍后再试~","nowTime":1617234670,"ret":10203}
+Apr 01 07:51:10 
+Apr 01 07:51:10 参团失败：{"msg":"您已成团","nowTime":1617234671,"ret":10209}
+Apr 01 07:51:10 
+Apr 01 07:51:11 参团失败：{"msg":"您已成团","nowTime":1617234671,"ret":10209}
+Apr 01 07:51:11 
+Apr 01 07:51:11 参团失败：{"msg":"您已成团","nowTime":1617234671,"ret":10209}
+Apr 01 07:51:11 
+Apr 01 07:51:11 参团失败：{"msg":"您已成团","nowTime":1617234671,"ret":10209}
+Apr 01 07:51:11 
+Apr 01 07:51:11 参团失败：{"msg":"您已成团","nowTime":1617234671,"ret":10209}
+Apr 01 07:51:11 
+Apr 01 07:51:11 
+Apr 01 07:51:11 🔔京喜工厂, 结束! 🕛 44.621 秒
+Apr 01 07:51:11 
+Apr 01 08:50:09 
+Apr 01 08:50:09 🔔京喜工厂, 开始!
+Apr 01 08:50:09 
+Apr 01 08:50:09 ====================共1个京东账号Cookie=========
+Apr 01 08:50:09 
+Apr 01 08:50:09 ==================脚本执行- 北京时间(UTC+8)：4/1/2021, 8:50:09 AM=====================
+Apr 01 08:50:09 
+Apr 01 08:50:11 获取签名参数成功！
+Apr 01 08:50:11 fp: 7442503665472161
+Apr 01 08:50:11 token: tk01wa5371bf4a8nYVJCbnphVURn25Pj4RJCaHenu/7daRKwVkYDe71iKs9ZMI8ArYUdyF3k+2Sw0dMlZEXelMkNTuKW
+Apr 01 08:50:11 enCryptMethodJD: function test(token,fingerprint,timestamp,appId,algo){const random='VC1AbSLDDNhE';const str=`${token}${fingerprint}${timestamp}${appId}${random}`;return algo.HmacSHA512(str,token)}
+Apr 01 08:50:14 拼团活动ID: 获取成功 0_pzMedR7KhclCkMIgkTkg==
+Apr 01 08:50:14 开始获取京喜工厂配置文件
+Apr 01 08:50:14 
+Apr 01 08:50:14 共1个京东账号
+Apr 01 08:50:14 
+Apr 01 08:50:14 您提供了1个账号的京喜工厂助力码
+Apr 01 08:50:14 
+Apr 01 08:50:14 
+Apr 01 08:50:14 ******开始【京东账号1】burst3166*********
+Apr 01 08:50:14 
+Apr 01 08:50:14 再加2.04%电力可开红包
+Apr 01 08:50:14 
+Apr 01 08:50:14 当前电力：74
+Apr 01 08:50:14 当前等级：5
+Apr 01 08:50:14 
+Apr 01 08:50:14 【京东账号1（burst3166）的京喜工厂好友互助码】A1GAHQrpp1nm7pmfuDlKAg==
+Apr 01 08:50:14 已投入电力：319700
+Apr 01 08:50:14 所需电力：740000
+Apr 01 08:50:14 生产进度：43.20%
+Apr 01 08:50:15 
+Apr 01 08:50:15 
+Apr 01 08:50:15 你今日还能帮好友打工（0/3）次
+Apr 01 08:50:15 
+Apr 01 08:50:15 
+Apr 01 08:50:15 【今日招工进度】12/12
+Apr 01 08:50:15 
+Apr 01 08:50:15 今日助力好友机会已耗尽
+Apr 01 08:50:15 
+Apr 01 08:50:15 发电机：当前 358.7 电力，最大值 420 电力
+Apr 01 08:50:15 
+Apr 01 08:50:15 本次发电机电力集满分享后可获得双倍电力，故目前不收取电力
+Apr 01 08:50:15 
+Apr 01 08:50:15 完成任务：共领取0电力
+Apr 01 08:50:15 投入失败，电力不足，快去做任务吧~
+Apr 01 08:50:16 自家地下暂无零件可收
+Apr 01 08:50:16 
+Apr 01 08:50:17 查询好友列表完成，共26好友，下面开始拾取好友地下的零件
+Apr 01 08:50:17 
+Apr 01 08:50:17 
+Apr 01 08:50:17 开始收取第 1 个好友 【zacky】 地下零件 collectFlag：0
+Apr 01 08:50:18 好友【1ysne6hoo-pwlVG7b_U0DQ==】地下暂无零件可收
+Apr 01 08:50:18 
+Apr 01 08:50:18 
+Apr 01 08:50:18 开始收取第 2 个好友 【山无棱】 地下零件 collectFlag：0
+Apr 01 08:50:19 好友【8I4PGcZpjvt_Nq20R0r-4Q==】地下暂无零件可收
+Apr 01 08:50:19 
+Apr 01 08:50:19 
+Apr 01 08:50:19 开始收取第 3 个好友 【晨曦】 地下零件 collectFlag：0
+Apr 01 08:50:21 好友【lmOajc3zN-XR5JxkIqM5qA==】地下暂无零件可收
+Apr 01 08:50:21 
+Apr 01 08:50:21 
+Apr 01 08:50:21 开始收取第 4 个好友 【sn*ars】 地下零件 collectFlag：0
+Apr 01 08:50:22 好友【LLngJORM-9zh8UYMGcfd2A==】地下暂无零件可收
+Apr 01 08:50:22 
+Apr 01 08:50:22 
+Apr 01 08:50:22 开始收取第 5 个好友 【侯浩】 地下零件 collectFlag：0
+Apr 01 08:50:23 好友【MJMF4orse-sJYN5pcyklXQ==】地下暂无零件可收
+Apr 01 08:50:23 
+Apr 01 08:50:23 
+Apr 01 08:50:23 开始收取第 6 个好友 【liuzhenli】 地下零件 collectFlag：0
+Apr 01 08:50:25 好友【4Ff3bUhMlfJaid8B4qm32Q==】地下暂无零件可收
+Apr 01 08:50:25 
+Apr 01 08:50:25 
+Apr 01 08:50:25 开始收取第 7 个好友 【SeaYe】 地下零件 collectFlag：0
+Apr 01 08:50:26 好友【hyykhYqbGaAs-0No8h6kVQ==】地下暂无零件可收
+Apr 01 08:50:26 
+Apr 01 08:50:26 
+Apr 01 08:50:26 开始收取第 8 个好友 【jd*c54】 地下零件 collectFlag：0
+Apr 01 08:50:28 好友【Oa8unWu-KdPrmGzypTpgUg==】地下暂无零件可收
+Apr 01 08:50:28 
+Apr 01 08:50:28 
+Apr 01 08:50:28 开始收取第 9 个好友 【小中族】 地下零件 collectFlag：0
+Apr 01 08:50:29 好友【J0ZdwtZszB5pnvxDv6l8tQ==】地下暂无零件可收
+Apr 01 08:50:29 
+Apr 01 08:50:29 
+Apr 01 08:50:29 开始收取第 10 个好友 【WANGJUAN】 地下零件 collectFlag：0
+Apr 01 08:50:30 好友【SIQEUukDV19DwOQGjd9J5Q==】地下暂无零件可收
+Apr 01 08:50:30 
+Apr 01 08:50:30 
+Apr 01 08:50:30 开始收取第 11 个好友 【薇薇】 地下零件 collectFlag：0
+Apr 01 08:50:32 好友【CJvUmDW5_In4nqFPr7BkVg==】地下暂无零件可收
+Apr 01 08:50:32 
+Apr 01 08:50:32 
+Apr 01 08:50:32 开始收取第 12 个好友 【Li 】 地下零件 collectFlag：0
+Apr 01 08:50:33 好友【juHlWyZK6YCYEaIui-9O9A==】地下暂无零件可收
+Apr 01 08:50:33 
+Apr 01 08:50:33 
+Apr 01 08:50:33 开始收取第 13 个好友 【niujie】 地下零件 collectFlag：0
+Apr 01 08:50:34 好友【LAxdowQnMU3ox65OdwNwZA==】地下暂无零件可收
+Apr 01 08:50:34 
+Apr 01 08:50:34 
+Apr 01 08:50:34 开始收取第 14 个好友 【迎伟】 地下零件 collectFlag：0
+Apr 01 08:50:36 好友【N8QdMHreY_pd7rIHq9zlFw==】地下暂无零件可收
+Apr 01 08:50:36 
+Apr 01 08:50:36 
+Apr 01 08:50:36 开始收取第 15 个好友 【平凡】 地下零件 collectFlag：0
+Apr 01 08:50:37 好友【guBovILfmX3SJTf_AQNDRg==】地下暂无零件可收
+Apr 01 08:50:37 
+Apr 01 08:50:37 
+Apr 01 08:50:37 开始收取第 16 个好友 【小胖】 地下零件 collectFlag：0
+Apr 01 08:50:38 好友【X6RooQQkq_I28EjOEpv3Lg==】地下暂无零件可收
+Apr 01 08:50:38 
+Apr 01 08:50:38 
+Apr 01 08:50:38 开始收取第 17 个好友 【杨登兰】 地下零件 collectFlag：0
+Apr 01 08:50:40 好友【uhcZW_ZiVE0UsO11648SHA==】地下暂无零件可收
+Apr 01 08:50:40 
+Apr 01 08:50:40 
+Apr 01 08:50:40 开始收取第 18 个好友 【苹果01】 地下零件 collectFlag：0
+Apr 01 08:50:41 好友【F-LnusDb7uc82e3xbgcq7g==】地下暂无零件可收
+Apr 01 08:50:41 
+Apr 01 08:50:41 
+Apr 01 08:50:41 开始收取第 19 个好友 【婷婷】 地下零件 collectFlag：0
+Apr 01 08:50:42 好友【Sqhj-l0-WiKejPGYH5sEJQ==】地下暂无零件可收
+Apr 01 08:50:42 
+Apr 01 08:50:42 
+Apr 01 08:50:42 开始收取第 20 个好友 【JOY】 地下零件 collectFlag：0
+Apr 01 08:50:44 好友【i55e65wxNYfC4tZ2R8bvdA==】地下暂无零件可收
+Apr 01 08:50:44 
+Apr 01 08:50:44 
+Apr 01 08:50:44 开始收取第 21 个好友 【望乜撚野呀】 地下零件 collectFlag：0
+Apr 01 08:50:45 好友【uJ0m1yiLaG6xNqOVpfLfncFZphSvO5VIUlgMcT9fV5E=】地下暂无零件可收
+Apr 01 08:50:45 
+Apr 01 08:50:45 
+Apr 01 08:50:45 开始收取第 22 个好友 【百度杜小杜】 地下零件 collectFlag：0
+Apr 01 08:50:47 好友【v8gwk5IrNis2alvqFJbmpw==】地下暂无零件可收
+Apr 01 08:50:47 
+Apr 01 08:50:47 
+Apr 01 08:50:47 开始收取第 23 个好友 【山有木兮木有枝】 地下零件 collectFlag：0
+Apr 01 08:50:48 好友【7fzlmybQNCsUvyimRAXUOA==】地下暂无零件可收
+Apr 01 08:50:48 
+Apr 01 08:50:48 
+Apr 01 08:50:48 开始收取第 24 个好友 【Z】 地下零件 collectFlag：0
+Apr 01 08:50:49 好友【Z4EkI5Mzd0IllHBOOSXwsA==】地下暂无零件可收
+Apr 01 08:50:49 
+Apr 01 08:50:49 
+Apr 01 08:50:49 开始收取第 25 个好友 【明雩】 地下零件 collectFlag：0
+Apr 01 08:50:51 好友【m2LC0Qsqnr3rK8e3ApvsuQ==】地下暂无零件可收
+Apr 01 08:50:51 
+Apr 01 08:50:51 
+Apr 01 08:50:51 开始收取第 26 个好友 【jd*672】 地下零件 collectFlag：0
+Apr 01 08:50:52 好友【5LcqlK-8sBkaG8Mg7mCYvQ==】地下暂无零件可收
+Apr 01 08:50:52 
+Apr 01 08:50:52 
+Apr 01 08:50:52 团活动ID  0_pzMedR7KhclCkMIgkTkg==
+Apr 01 08:50:52 团ID  r2e9h25UIbc6XTSxcfwTiQ==
+Apr 01 08:50:52 
+Apr 01 08:50:52 今日剩余开团次数：2次
+Apr 01 08:50:52 
+Apr 01 08:50:52 开团情况:1/6
+Apr 01 08:50:52 
+Apr 01 08:50:52 
+Apr 01 08:50:52 此团未达领取团奖励人数：6人
+Apr 01 08:50:52 
+Apr 01 08:50:52 4/1/2021, 5:50:46 AM参加团主【A1GAHQrpp1nm7pmfuDlKAg==】失败
+Apr 01 08:50:52 
+Apr 01 08:50:52   商品名     兑换状态
+Apr 01 08:50:52 三合一数据线    已兑换
+Apr 01 08:50:52 多味花生3袋    已兑换
+Apr 01 08:50:52 刀具三件套    已兑换
+Apr 01 08:50:52 
+Apr 01 08:50:52 【京东账号1】burst3166
+Apr 01 08:50:52 【生产商品】巴旦木
+Apr 01 08:50:52 【当前等级】高级工程师 5
+Apr 01 08:50:52 【生产进度】43.20%
+Apr 01 08:50:52 【招工进度】12/12
+Apr 01 08:50:52 【发电机电力】当前 358.7 电力，未达到收获标准
+Apr 01 08:50:52 【每日任务】领奖成功，共计 0 电力
+Apr 01 08:50:52 【投入电力】投入失败，电力不足，快去做任务吧~
+Apr 01 08:50:52 【收取自己零件】今日已达上限
+Apr 01 08:50:52 【收取好友零件】今日已达上限
+Apr 01 08:50:52 
+Apr 01 08:50:53 
+Apr 01 08:50:53 参加作者的团
+Apr 01 08:50:53 参团失败：{"msg":"您已成团","nowTime":1617238253,"ret":10209}
+Apr 01 08:50:53 
+Apr 01 08:50:53 参团失败：{"msg":"您已成团","nowTime":1617238253,"ret":10209}
+Apr 01 08:50:53 
+Apr 01 08:50:53 参团失败：{"msg":"您已成团","nowTime":1617238253,"ret":10209}
+Apr 01 08:50:53 
+Apr 01 08:50:53 参团失败：{"msg":"您已成团","nowTime":1617238253,"ret":10209}
+Apr 01 08:50:53 
+Apr 01 08:50:53 参团失败：{"msg":"您已成团","nowTime":1617238253,"ret":10209}
+Apr 01 08:50:53 
+Apr 01 08:50:53 参团失败：{"msg":"您已成团","nowTime":1617238254,"ret":10209}
+Apr 01 08:50:53 
+Apr 01 08:50:54 参团失败：{"msg":"您已成团","nowTime":1617238254,"ret":10209}
+Apr 01 08:50:54 
+Apr 01 08:50:54 
+Apr 01 08:50:54 🔔京喜工厂, 结束! 🕛 44.208 秒
+Apr 01 08:50:54 
+Apr 01 09:50:25 
+Apr 01 09:50:25 🔔京喜工厂, 开始!
+Apr 01 09:50:25 
+Apr 01 09:50:25 ====================共1个京东账号Cookie=========
+Apr 01 09:50:25 
+Apr 01 09:50:25 ==================脚本执行- 北京时间(UTC+8)：4/1/2021, 9:50:25 AM=====================
+Apr 01 09:50:25 
+Apr 01 09:50:26 获取签名参数成功！
+Apr 01 09:50:26 fp: 5269422667745161
+Apr 01 09:50:26 token: tk01wd39b1d63a8nRThpVFo0elFzq5Y2luxDeqTn9NC4K7Ed5pT5lYFfTqLyeeGrXtwbgJ6UypNr96e5AYvlUnyuxBNW
+Apr 01 09:50:26 enCryptMethodJD: function test(token,fingerprint,timestamp,appId,algo){const random='nKRlmzpj4j9E';const str=`${token}${fingerprint}${timestamp}${appId}${random}`;return algo.SHA256(str)}
+Apr 01 09:50:27 拼团活动ID: 获取成功 0_pzMedR7KhclCkMIgkTkg==
+Apr 01 09:50:27 开始获取京喜工厂配置文件
+Apr 01 09:50:27 
+Apr 01 09:50:27 共1个京东账号
+Apr 01 09:50:27 
+Apr 01 09:50:27 您提供了1个账号的京喜工厂助力码
+Apr 01 09:50:27 
+Apr 01 09:50:27 
+Apr 01 09:50:27 ******开始【京东账号1】burst3166*********
+Apr 01 09:50:27 
+Apr 01 09:50:27 再加2.04%电力可开红包
+Apr 01 09:50:27 
+Apr 01 09:50:27 当前电力：74
+Apr 01 09:50:27 当前等级：5
+Apr 01 09:50:27 
+Apr 01 09:50:27 【京东账号1（burst3166）的京喜工厂好友互助码】A1GAHQrpp1nm7pmfuDlKAg==
+Apr 01 09:50:27 已投入电力：319700
+Apr 01 09:50:27 所需电力：740000
+Apr 01 09:50:27 生产进度：43.20%
+Apr 01 09:50:27 
+Apr 01 09:50:27 
+Apr 01 09:50:27 你今日还能帮好友打工（0/3）次
+Apr 01 09:50:27 
+Apr 01 09:50:27 
+Apr 01 09:50:27 【今日招工进度】12/12
+Apr 01 09:50:27 
+Apr 01 09:50:27 今日助力好友机会已耗尽
+Apr 01 09:50:27 
+Apr 01 09:50:27 发电机：当前 420 电力，最大值 420 电力
+Apr 01 09:50:27 发电机：电力可翻倍并收获
+Apr 01 09:50:27 收取电力成功: 共840 
+Apr 01 09:50:27 完成任务：共领取840电力
+Apr 01 09:50:27 成功投入电力900电力
+Apr 01 09:50:29 自家地下暂无零件可收
+Apr 01 09:50:29 
+Apr 01 09:50:29 查询好友列表完成，共26好友，下面开始拾取好友地下的零件
+Apr 01 09:50:29 
+Apr 01 09:50:29 
+Apr 01 09:50:29 开始收取第 1 个好友 【zacky】 地下零件 collectFlag：0
+Apr 01 09:50:30 好友【1ysne6hoo-pwlVG7b_U0DQ==】地下暂无零件可收
+Apr 01 09:50:30 
+Apr 01 09:50:30 
+Apr 01 09:50:30 开始收取第 2 个好友 【山无棱】 地下零件 collectFlag：0
+Apr 01 09:50:32 好友【8I4PGcZpjvt_Nq20R0r-4Q==】地下暂无零件可收
+Apr 01 09:50:32 
+Apr 01 09:50:32 
+Apr 01 09:50:32 开始收取第 3 个好友 【晨曦】 地下零件 collectFlag：0
+Apr 01 09:50:33 好友【lmOajc3zN-XR5JxkIqM5qA==】地下暂无零件可收
+Apr 01 09:50:33 
+Apr 01 09:50:33 
+Apr 01 09:50:33 开始收取第 4 个好友 【sn*ars】 地下零件 collectFlag：0
+Apr 01 09:50:35 好友【LLngJORM-9zh8UYMGcfd2A==】地下暂无零件可收
+Apr 01 09:50:35 
+Apr 01 09:50:35 
+Apr 01 09:50:35 开始收取第 5 个好友 【侯浩】 地下零件 collectFlag：0
+Apr 01 09:50:36 好友【MJMF4orse-sJYN5pcyklXQ==】地下暂无零件可收
+Apr 01 09:50:36 
+Apr 01 09:50:36 
+Apr 01 09:50:36 开始收取第 6 个好友 【liuzhenli】 地下零件 collectFlag：0
+Apr 01 09:50:37 好友【4Ff3bUhMlfJaid8B4qm32Q==】地下暂无零件可收
+Apr 01 09:50:37 
+Apr 01 09:50:37 
+Apr 01 09:50:37 开始收取第 7 个好友 【SeaYe】 地下零件 collectFlag：0
+Apr 01 09:50:39 好友【hyykhYqbGaAs-0No8h6kVQ==】地下暂无零件可收
+Apr 01 09:50:39 
+Apr 01 09:50:39 
+Apr 01 09:50:39 开始收取第 8 个好友 【jd*c54】 地下零件 collectFlag：0
+Apr 01 09:50:40 好友【Oa8unWu-KdPrmGzypTpgUg==】地下暂无零件可收
+Apr 01 09:50:40 
+Apr 01 09:50:40 
+Apr 01 09:50:40 开始收取第 9 个好友 【小中族】 地下零件 collectFlag：0
+Apr 01 09:50:41 好友【J0ZdwtZszB5pnvxDv6l8tQ==】地下暂无零件可收
+Apr 01 09:50:41 
+Apr 01 09:50:41 
+Apr 01 09:50:41 开始收取第 10 个好友 【WANGJUAN】 地下零件 collectFlag：0
+Apr 01 09:50:43 好友【SIQEUukDV19DwOQGjd9J5Q==】地下暂无零件可收
+Apr 01 09:50:43 
+Apr 01 09:50:43 
+Apr 01 09:50:43 开始收取第 11 个好友 【薇薇】 地下零件 collectFlag：0
+Apr 01 09:50:44 好友【CJvUmDW5_In4nqFPr7BkVg==】地下暂无零件可收
+Apr 01 09:50:44 
+Apr 01 09:50:44 
+Apr 01 09:50:44 开始收取第 12 个好友 【Li 】 地下零件 collectFlag：0
+Apr 01 09:50:45 好友【juHlWyZK6YCYEaIui-9O9A==】地下暂无零件可收
+Apr 01 09:50:45 
+Apr 01 09:50:45 
+Apr 01 09:50:45 开始收取第 13 个好友 【niujie】 地下零件 collectFlag：0
+Apr 01 09:50:47 好友【LAxdowQnMU3ox65OdwNwZA==】地下暂无零件可收
+Apr 01 09:50:47 
+Apr 01 09:50:47 
+Apr 01 09:50:47 开始收取第 14 个好友 【迎伟】 地下零件 collectFlag：0
+Apr 01 09:50:48 好友【N8QdMHreY_pd7rIHq9zlFw==】地下暂无零件可收
+Apr 01 09:50:48 
+Apr 01 09:50:48 
+Apr 01 09:50:48 开始收取第 15 个好友 【平凡】 地下零件 collectFlag：0
+Apr 01 09:50:49 好友【guBovILfmX3SJTf_AQNDRg==】地下暂无零件可收
+Apr 01 09:50:49 
+Apr 01 09:50:49 
+Apr 01 09:50:49 开始收取第 16 个好友 【小胖】 地下零件 collectFlag：0
+Apr 01 09:50:51 好友【X6RooQQkq_I28EjOEpv3Lg==】地下暂无零件可收
+Apr 01 09:50:51 
+Apr 01 09:50:51 
+Apr 01 09:50:51 开始收取第 17 个好友 【杨登兰】 地下零件 collectFlag：0
+Apr 01 09:50:52 好友【uhcZW_ZiVE0UsO11648SHA==】地下暂无零件可收
+Apr 01 09:50:52 
+Apr 01 09:50:52 
+Apr 01 09:50:52 开始收取第 18 个好友 【苹果01】 地下零件 collectFlag：0
+Apr 01 09:50:54 好友【F-LnusDb7uc82e3xbgcq7g==】地下暂无零件可收
+Apr 01 09:50:54 
+Apr 01 09:50:54 
+Apr 01 09:50:54 开始收取第 19 个好友 【婷婷】 地下零件 collectFlag：0
+Apr 01 09:50:55 好友【Sqhj-l0-WiKejPGYH5sEJQ==】地下暂无零件可收
+Apr 01 09:50:55 
+Apr 01 09:50:55 
+Apr 01 09:50:55 开始收取第 20 个好友 【JOY】 地下零件 collectFlag：0
+Apr 01 09:50:56 好友【i55e65wxNYfC4tZ2R8bvdA==】地下暂无零件可收
+Apr 01 09:50:56 
+Apr 01 09:50:56 
+Apr 01 09:50:56 开始收取第 21 个好友 【望乜撚野呀】 地下零件 collectFlag：0
+Apr 01 09:50:58 好友【uJ0m1yiLaG6xNqOVpfLfncFZphSvO5VIUlgMcT9fV5E=】地下暂无零件可收
+Apr 01 09:50:58 
+Apr 01 09:50:58 
+Apr 01 09:50:58 开始收取第 22 个好友 【百度杜小杜】 地下零件 collectFlag：0
+Apr 01 09:50:59 好友【v8gwk5IrNis2alvqFJbmpw==】地下暂无零件可收
+Apr 01 09:50:59 
+Apr 01 09:50:59 
+Apr 01 09:50:59 开始收取第 23 个好友 【山有木兮木有枝】 地下零件 collectFlag：0
+Apr 01 09:51:00 好友【7fzlmybQNCsUvyimRAXUOA==】地下暂无零件可收
+Apr 01 09:51:00 
+Apr 01 09:51:00 
+Apr 01 09:51:00 开始收取第 24 个好友 【Z】 地下零件 collectFlag：0
+Apr 01 09:51:02 好友【Z4EkI5Mzd0IllHBOOSXwsA==】地下暂无零件可收
+Apr 01 09:51:02 
+Apr 01 09:51:02 
+Apr 01 09:51:02 开始收取第 25 个好友 【明雩】 地下零件 collectFlag：0
+Apr 01 09:51:03 好友【m2LC0Qsqnr3rK8e3ApvsuQ==】地下暂无零件可收
+Apr 01 09:51:03 
+Apr 01 09:51:03 
+Apr 01 09:51:03 开始收取第 26 个好友 【jd*672】 地下零件 collectFlag：0
+Apr 01 09:51:04 好友【5LcqlK-8sBkaG8Mg7mCYvQ==】地下暂无零件可收
+Apr 01 09:51:04 
+Apr 01 09:51:05 
+Apr 01 09:51:05 团活动ID  0_pzMedR7KhclCkMIgkTkg==
+Apr 01 09:51:05 团ID  r2e9h25UIbc6XTSxcfwTiQ==
+Apr 01 09:51:05 
+Apr 01 09:51:05 今日剩余开团次数：2次
+Apr 01 09:51:05 
+Apr 01 09:51:05 开团情况:1/6
+Apr 01 09:51:05 
+Apr 01 09:51:05 
+Apr 01 09:51:05 此团未达领取团奖励人数：6人
+Apr 01 09:51:05 
+Apr 01 09:51:05 4/1/2021, 5:50:46 AM参加团主【A1GAHQrpp1nm7pmfuDlKAg==】失败
+Apr 01 09:51:05 
+Apr 01 09:51:05   商品名     兑换状态
+Apr 01 09:51:05 三合一数据线    已兑换
+Apr 01 09:51:05 多味花生3袋    已兑换
+Apr 01 09:51:05 刀具三件套    已兑换
+Apr 01 09:51:05 
+Apr 01 09:51:05 【京东账号1】burst3166
+Apr 01 09:51:05 【生产商品】巴旦木
+Apr 01 09:51:05 【当前等级】高级工程师 5
+Apr 01 09:51:05 【生产进度】43.20%
+Apr 01 09:51:05 【招工进度】12/12
+Apr 01 09:51:05 【收取发电站】收取成功，获得 840 电力
+Apr 01 09:51:05 【每日任务】领奖成功，共计 840 电力
+Apr 01 09:51:05 【投入电力】投入成功，共计 900 电力
+Apr 01 09:51:05 【收取自己零件】今日已达上限
+Apr 01 09:51:05 【收取好友零件】今日已达上限
+Apr 01 09:51:05 
+Apr 01 09:51:06 
+Apr 01 09:51:06 参加作者的团
+Apr 01 09:51:06 参团失败：{"msg":"您已成团","nowTime":1617241866,"ret":10209}
+Apr 01 09:51:06 
+Apr 01 09:51:06 参团失败：{"msg":"您已成团","nowTime":1617241866,"ret":10209}
+Apr 01 09:51:06 
+Apr 01 09:51:06 参团失败：{"msg":"您已成团","nowTime":1617241866,"ret":10209}
+Apr 01 09:51:06 
+Apr 01 09:51:06 
+Apr 01 09:51:06 🔔京喜工厂, 结束! 🕛 40.752 秒
+Apr 01 09:51:06 
+Apr 01 10:50:03 
+Apr 01 10:50:03 🔔京喜工厂, 开始!
+Apr 01 10:50:03 
+Apr 01 10:50:03 ====================共1个京东账号Cookie=========
+Apr 01 10:50:03 
+Apr 01 10:50:03 ==================脚本执行- 北京时间(UTC+8)：4/1/2021, 10:50:03 AM=====================
+Apr 01 10:50:03 
+Apr 01 10:50:04 获取签名参数成功！
+Apr 01 10:50:04 fp: 8025854386184161
+Apr 01 10:50:04 token: tk01w98251b8ba8nS21McVR0Wng2dDmtW6d49xZioWtob/oIYzkc/eEMAF6wJx9//8XsGAHjc2EVPtIOMs0OYIURCXwe
+Apr 01 10:50:04 enCryptMethodJD: function test(token,fingerprint,timestamp,appId,algo){const random='s5tFskI617W5';const str=`${token}${fingerprint}${timestamp}${appId}${random}`;return algo.SHA256(str)}
+Apr 01 10:50:08 "Response code 503 (Service Temporarily Unavailable)"
+Apr 01 10:50:08 拼团活动ID：获取失败
+Apr 01 10:50:08 开始获取京喜工厂配置文件
+Apr 01 10:50:08 
+Apr 01 10:50:08 共1个京东账号
+Apr 01 10:50:08 
+Apr 01 10:50:08 您提供了1个账号的京喜工厂助力码
+Apr 01 10:50:08 
+Apr 01 10:50:09 
+Apr 01 10:50:09 ******开始【京东账号1】burst3166*********
+Apr 01 10:50:09 
+Apr 01 10:50:10 再加1.92%电力可开红包
+Apr 01 10:50:10 
+Apr 01 10:50:10 当前电力：14
+Apr 01 10:50:10 当前等级：5
+Apr 01 10:50:10 
+Apr 01 10:50:10 【京东账号1（burst3166）的京喜工厂好友互助码】A1GAHQrpp1nm7pmfuDlKAg==
+Apr 01 10:50:10 已投入电力：320600
+Apr 01 10:50:10 所需电力：740000
+Apr 01 10:50:10 生产进度：43.32%
+Apr 01 10:50:10 
+Apr 01 10:50:10 
+Apr 01 10:50:10 你今日还能帮好友打工（0/3）次
+Apr 01 10:50:10 
+Apr 01 10:50:10 
+Apr 01 10:50:10 【今日招工进度】12/12
+Apr 01 10:50:10 
+Apr 01 10:50:10 今日助力好友机会已耗尽
+Apr 01 10:50:10 
+Apr 01 10:50:10 发电机：当前 358.3 电力，最大值 420 电力
+Apr 01 10:50:10 
+Apr 01 10:50:10 本次发电机电力集满分享后可获得双倍电力，故目前不收取电力
+Apr 01 10:50:10 
+Apr 01 10:50:10 完成任务：共领取0电力
+Apr 01 10:50:10 投入失败，电力不足，快去做任务吧~
+Apr 01 10:50:11 自家地下暂无零件可收
+Apr 01 10:50:11 
+Apr 01 10:50:12 查询好友列表完成，共26好友，下面开始拾取好友地下的零件
+Apr 01 10:50:12 
+Apr 01 10:50:12 
+Apr 01 10:50:12 开始收取第 1 个好友 【zacky】 地下零件 collectFlag：0
+Apr 01 10:50:13 好友【1ysne6hoo-pwlVG7b_U0DQ==】地下暂无零件可收
+Apr 01 10:50:13 
+Apr 01 10:50:13 
+Apr 01 10:50:13 开始收取第 2 个好友 【山无棱】 地下零件 collectFlag：0
+Apr 01 10:50:14 好友【8I4PGcZpjvt_Nq20R0r-4Q==】地下暂无零件可收
+Apr 01 10:50:14 
+Apr 01 10:50:14 
+Apr 01 10:50:14 开始收取第 3 个好友 【晨曦】 地下零件 collectFlag：0
+Apr 01 10:50:17 好友【lmOajc3zN-XR5JxkIqM5qA==】地下暂无零件可收
+Apr 01 10:50:17 
+Apr 01 10:50:17 
+Apr 01 10:50:17 开始收取第 4 个好友 【sn*ars】 地下零件 collectFlag：0
+Apr 01 10:50:19 好友【LLngJORM-9zh8UYMGcfd2A==】地下暂无零件可收
+Apr 01 10:50:19 
+Apr 01 10:50:19 
+Apr 01 10:50:19 开始收取第 5 个好友 【侯浩】 地下零件 collectFlag：0
+Apr 01 10:50:20 好友【MJMF4orse-sJYN5pcyklXQ==】地下暂无零件可收
+Apr 01 10:50:20 
+Apr 01 10:50:20 
+Apr 01 10:50:20 开始收取第 6 个好友 【liuzhenli】 地下零件 collectFlag：0
+Apr 01 10:50:21 好友【4Ff3bUhMlfJaid8B4qm32Q==】地下暂无零件可收
+Apr 01 10:50:21 
+Apr 01 10:50:21 
+Apr 01 10:50:21 开始收取第 7 个好友 【SeaYe】 地下零件 collectFlag：0
+Apr 01 10:50:23 好友【hyykhYqbGaAs-0No8h6kVQ==】地下暂无零件可收
+Apr 01 10:50:23 
+Apr 01 10:50:23 
+Apr 01 10:50:23 开始收取第 8 个好友 【jd*c54】 地下零件 collectFlag：0
+Apr 01 10:50:24 好友【Oa8unWu-KdPrmGzypTpgUg==】地下暂无零件可收
+Apr 01 10:50:24 
+Apr 01 10:50:24 
+Apr 01 10:50:24 开始收取第 9 个好友 【小中族】 地下零件 collectFlag：0
+Apr 01 10:50:26 好友【J0ZdwtZszB5pnvxDv6l8tQ==】地下暂无零件可收
+Apr 01 10:50:26 
+Apr 01 10:50:26 
+Apr 01 10:50:26 开始收取第 10 个好友 【WANGJUAN】 地下零件 collectFlag：0
+Apr 01 10:50:27 好友【SIQEUukDV19DwOQGjd9J5Q==】地下暂无零件可收
+Apr 01 10:50:27 
+Apr 01 10:50:27 
+Apr 01 10:50:27 开始收取第 11 个好友 【薇薇】 地下零件 collectFlag：0
+Apr 01 10:50:28 好友【CJvUmDW5_In4nqFPr7BkVg==】地下暂无零件可收
+Apr 01 10:50:28 
+Apr 01 10:50:28 
+Apr 01 10:50:28 开始收取第 12 个好友 【Li 】 地下零件 collectFlag：0
+Apr 01 10:50:30 好友【juHlWyZK6YCYEaIui-9O9A==】地下暂无零件可收
+Apr 01 10:50:30 
+Apr 01 10:50:30 
+Apr 01 10:50:30 开始收取第 13 个好友 【niujie】 地下零件 collectFlag：0
+Apr 01 10:50:31 好友【LAxdowQnMU3ox65OdwNwZA==】地下暂无零件可收
+Apr 01 10:50:31 
+Apr 01 10:50:31 
+Apr 01 10:50:31 开始收取第 14 个好友 【迎伟】 地下零件 collectFlag：0
+Apr 01 10:50:32 好友【N8QdMHreY_pd7rIHq9zlFw==】地下暂无零件可收
+Apr 01 10:50:32 
+Apr 01 10:50:32 
+Apr 01 10:50:32 开始收取第 15 个好友 【平凡】 地下零件 collectFlag：0
+Apr 01 10:50:34 好友【guBovILfmX3SJTf_AQNDRg==】地下暂无零件可收
+Apr 01 10:50:34 
+Apr 01 10:50:34 
+Apr 01 10:50:34 开始收取第 16 个好友 【小胖】 地下零件 collectFlag：0
+Apr 01 10:50:35 好友【X6RooQQkq_I28EjOEpv3Lg==】地下暂无零件可收
+Apr 01 10:50:35 
+Apr 01 10:50:35 
+Apr 01 10:50:35 开始收取第 17 个好友 【杨登兰】 地下零件 collectFlag：0
+Apr 01 10:50:36 好友【uhcZW_ZiVE0UsO11648SHA==】地下暂无零件可收
+Apr 01 10:50:37 
+Apr 01 10:50:37 
+Apr 01 10:50:37 开始收取第 18 个好友 【苹果01】 地下零件 collectFlag：0
+Apr 01 10:50:38 好友【F-LnusDb7uc82e3xbgcq7g==】地下暂无零件可收
+Apr 01 10:50:38 
+Apr 01 10:50:38 
+Apr 01 10:50:38 开始收取第 19 个好友 【婷婷】 地下零件 collectFlag：0
+Apr 01 10:50:39 好友【Sqhj-l0-WiKejPGYH5sEJQ==】地下暂无零件可收
+Apr 01 10:50:39 
+Apr 01 10:50:39 
+Apr 01 10:50:39 开始收取第 20 个好友 【JOY】 地下零件 collectFlag：0
+Apr 01 10:50:41 好友【i55e65wxNYfC4tZ2R8bvdA==】地下暂无零件可收
+Apr 01 10:50:41 
+Apr 01 10:50:41 
+Apr 01 10:50:41 开始收取第 21 个好友 【望乜撚野呀】 地下零件 collectFlag：0
+Apr 01 10:50:42 好友【uJ0m1yiLaG6xNqOVpfLfncFZphSvO5VIUlgMcT9fV5E=】地下暂无零件可收
+Apr 01 10:50:42 
+Apr 01 10:50:42 
+Apr 01 10:50:42 开始收取第 22 个好友 【百度杜小杜】 地下零件 collectFlag：0
+Apr 01 10:50:43 好友【v8gwk5IrNis2alvqFJbmpw==】地下暂无零件可收
+Apr 01 10:50:43 
+Apr 01 10:50:43 
+Apr 01 10:50:43 开始收取第 23 个好友 【山有木兮木有枝】 地下零件 collectFlag：0
+Apr 01 10:50:45 好友【7fzlmybQNCsUvyimRAXUOA==】地下暂无零件可收
+Apr 01 10:50:45 
+Apr 01 10:50:45 
+Apr 01 10:50:45 开始收取第 24 个好友 【Z】 地下零件 collectFlag：0
+Apr 01 10:50:46 好友【Z4EkI5Mzd0IllHBOOSXwsA==】地下暂无零件可收
+Apr 01 10:50:46 
+Apr 01 10:50:46 
+Apr 01 10:50:46 开始收取第 25 个好友 【明雩】 地下零件 collectFlag：0
+Apr 01 10:50:47 好友【m2LC0Qsqnr3rK8e3ApvsuQ==】地下暂无零件可收
+Apr 01 10:50:47 
+Apr 01 10:50:47 
+Apr 01 10:50:47 开始收取第 26 个好友 【jd*672】 地下零件 collectFlag：0
+Apr 01 10:50:49 好友【5LcqlK-8sBkaG8Mg7mCYvQ==】地下暂无零件可收
+Apr 01 10:50:49 
+Apr 01 10:50:49 
+Apr 01 10:50:49 团活动ID  6S9y4sJUfA2vPQP6TLdVIQ==
+Apr 01 10:50:49 团ID  
+Apr 01 10:50:49 
+Apr 01 10:50:49 今日剩余开团次数：3次
+Apr 01 10:50:49 准备开团
+Apr 01 10:50:49 开团异常：{"msg":"活动已结束，请稍后再试~","nowTime":1617245449,"ret":10218}
+Apr 01 10:50:49 
+Apr 01 10:50:49   商品名     兑换状态
+Apr 01 10:50:49 三合一数据线    已兑换
+Apr 01 10:50:49 多味花生3袋    已兑换
+Apr 01 10:50:49 刀具三件套    已兑换
+Apr 01 10:50:49 
+Apr 01 10:50:49 【京东账号1】burst3166
+Apr 01 10:50:49 【生产商品】巴旦木
+Apr 01 10:50:49 【当前等级】高级工程师 5
+Apr 01 10:50:49 【生产进度】43.32%
+Apr 01 10:50:49 【招工进度】12/12
+Apr 01 10:50:49 【发电机电力】当前 358.3 电力，未达到收获标准
+Apr 01 10:50:49 【每日任务】领奖成功，共计 0 电力
+Apr 01 10:50:49 【投入电力】投入失败，电力不足，快去做任务吧~
+Apr 01 10:50:49 【收取自己零件】今日已达上限
+Apr 01 10:50:49 【收取好友零件】今日已达上限
+Apr 01 10:50:49 
+Apr 01 10:50:50 
+Apr 01 10:50:50 参加作者的团
+Apr 01 10:50:50 参团失败：{"msg":"活动已结束，请稍后再试~","nowTime":1617245450,"ret":10218}
+Apr 01 10:50:50 
+Apr 01 10:50:50 参团失败：{"msg":"活动已结束，请稍后再试~","nowTime":1617245450,"ret":10218}
+Apr 01 10:50:50 
+Apr 01 10:50:50 
+Apr 01 10:50:50 🔔京喜工厂, 结束! 🕛 47.228 秒
+Apr 01 10:50:50 
+Apr 01 11:50:15 
+Apr 01 11:50:15 🔔京喜工厂, 开始!
+Apr 01 11:50:15 
+Apr 01 11:50:15 ====================共1个京东账号Cookie=========
+Apr 01 11:50:15 
+Apr 01 11:50:15 ==================脚本执行- 北京时间(UTC+8)：4/1/2021, 11:50:15 AM=====================
+Apr 01 11:50:15 
+Apr 01 11:50:16 获取签名参数成功！
+Apr 01 11:50:16 fp: 6104215434142161
+Apr 01 11:50:16 token: tk01wb7581cb7a8nSzAvZ2cwaE11Qo4XD83YQVHDofOTwpOKgiqKC3NceXxuh7lp0PyWNsCPmNjudyqu1+UqTALYWIpA
+Apr 01 11:50:16 enCryptMethodJD: function test(token,fingerprint,timestamp,appId,algo){const random='QW6lSo6RqDEV';const str=`${token}${fingerprint}${timestamp}${appId}${random}`;return algo.HmacSHA512(str,token)}
+Apr 01 11:50:16 拼团活动ID: 获取成功 0_pzMedR7KhclCkMIgkTkg==
+Apr 01 11:50:16 开始获取京喜工厂配置文件
+Apr 01 11:50:16 
+Apr 01 11:50:16 共1个京东账号
+Apr 01 11:50:16 
+Apr 01 11:50:16 您提供了1个账号的京喜工厂助力码
+Apr 01 11:50:16 
+Apr 01 11:50:16 
+Apr 01 11:50:16 ******开始【京东账号1】burst3166*********
+Apr 01 11:50:16 
+Apr 01 11:50:16 再加1.78%电力可开红包
+Apr 01 11:50:16 
+Apr 01 11:50:16 当前电力：14
+Apr 01 11:50:16 当前等级：5
+Apr 01 11:50:16 
+Apr 01 11:50:16 【京东账号1（burst3166）的京喜工厂好友互助码】A1GAHQrpp1nm7pmfuDlKAg==
+Apr 01 11:50:16 已投入电力：321600
+Apr 01 11:50:16 所需电力：740000
+Apr 01 11:50:16 生产进度：43.46%
+Apr 01 11:50:16 
+Apr 01 11:50:16 
+Apr 01 11:50:16 你今日还能帮好友打工（0/3）次
+Apr 01 11:50:16 
+Apr 01 11:50:16 
+Apr 01 11:50:16 【今日招工进度】12/12
+Apr 01 11:50:16 
+Apr 01 11:50:16 今日助力好友机会已耗尽
+Apr 01 11:50:16 
+Apr 01 11:50:16 发电机：当前 420 电力，最大值 420 电力
+Apr 01 11:50:16 发电机：电力可翻倍并收获
+Apr 01 11:50:17 收取电力成功: 共840 
+Apr 01 11:50:17 完成任务：共领取840电力
+Apr 01 11:50:17 成功投入电力800电力
+Apr 01 11:50:18 自家地下暂无零件可收
+Apr 01 11:50:18 
+Apr 01 11:50:18 查询好友列表完成，共26好友，下面开始拾取好友地下的零件
+Apr 01 11:50:18 
+Apr 01 11:50:18 
+Apr 01 11:50:18 开始收取第 1 个好友 【zacky】 地下零件 collectFlag：0
+Apr 01 11:50:20 好友【1ysne6hoo-pwlVG7b_U0DQ==】地下暂无零件可收
+Apr 01 11:50:20 
+Apr 01 11:50:20 
+Apr 01 11:50:20 开始收取第 2 个好友 【山无棱】 地下零件 collectFlag：0
+Apr 01 11:50:21 好友【8I4PGcZpjvt_Nq20R0r-4Q==】地下暂无零件可收
+Apr 01 11:50:21 
+Apr 01 11:50:21 
+Apr 01 11:50:21 开始收取第 3 个好友 【晨曦】 地下零件 collectFlag：0
+Apr 01 11:50:22 好友【lmOajc3zN-XR5JxkIqM5qA==】地下暂无零件可收
+Apr 01 11:50:22 
+Apr 01 11:50:22 
+Apr 01 11:50:22 开始收取第 4 个好友 【sn*ars】 地下零件 collectFlag：0
+Apr 01 11:50:24 好友【LLngJORM-9zh8UYMGcfd2A==】地下暂无零件可收
+Apr 01 11:50:24 
+Apr 01 11:50:24 
+Apr 01 11:50:24 开始收取第 5 个好友 【侯浩】 地下零件 collectFlag：0
+Apr 01 11:50:25 好友【MJMF4orse-sJYN5pcyklXQ==】地下暂无零件可收
+Apr 01 11:50:25 
+Apr 01 11:50:25 
+Apr 01 11:50:25 开始收取第 6 个好友 【liuzhenli】 地下零件 collectFlag：0
+Apr 01 11:50:27 好友【4Ff3bUhMlfJaid8B4qm32Q==】地下暂无零件可收
+Apr 01 11:50:27 
+Apr 01 11:50:27 
+Apr 01 11:50:27 开始收取第 7 个好友 【SeaYe】 地下零件 collectFlag：0
+Apr 01 11:50:28 好友【hyykhYqbGaAs-0No8h6kVQ==】地下暂无零件可收
+Apr 01 11:50:28 
+Apr 01 11:50:28 
+Apr 01 11:50:28 开始收取第 8 个好友 【jd*c54】 地下零件 collectFlag：0
+Apr 01 11:50:29 好友【Oa8unWu-KdPrmGzypTpgUg==】地下暂无零件可收
+Apr 01 11:50:29 
+Apr 01 11:50:29 
+Apr 01 11:50:29 开始收取第 9 个好友 【小中族】 地下零件 collectFlag：0
+Apr 01 11:50:31 好友【J0ZdwtZszB5pnvxDv6l8tQ==】地下暂无零件可收
+Apr 01 11:50:31 
+Apr 01 11:50:31 
+Apr 01 11:50:31 开始收取第 10 个好友 【WANGJUAN】 地下零件 collectFlag：0
+Apr 01 11:50:32 好友【SIQEUukDV19DwOQGjd9J5Q==】地下暂无零件可收
+Apr 01 11:50:32 
+Apr 01 11:50:32 
+Apr 01 11:50:32 开始收取第 11 个好友 【薇薇】 地下零件 collectFlag：0
+Apr 01 11:50:33 好友【CJvUmDW5_In4nqFPr7BkVg==】地下暂无零件可收
+Apr 01 11:50:33 
+Apr 01 11:50:33 
+Apr 01 11:50:33 开始收取第 12 个好友 【Li 】 地下零件 collectFlag：0
+Apr 01 11:50:35 好友【juHlWyZK6YCYEaIui-9O9A==】地下暂无零件可收
+Apr 01 11:50:35 
+Apr 01 11:50:35 
+Apr 01 11:50:35 开始收取第 13 个好友 【niujie】 地下零件 collectFlag：0
+Apr 01 11:50:36 好友【LAxdowQnMU3ox65OdwNwZA==】地下暂无零件可收
+Apr 01 11:50:36 
+Apr 01 11:50:36 
+Apr 01 11:50:36 开始收取第 14 个好友 【迎伟】 地下零件 collectFlag：0
+Apr 01 11:50:37 好友【N8QdMHreY_pd7rIHq9zlFw==】地下暂无零件可收
+Apr 01 11:50:37 
+Apr 01 11:50:37 
+Apr 01 11:50:37 开始收取第 15 个好友 【平凡】 地下零件 collectFlag：0
+Apr 01 11:50:39 好友【guBovILfmX3SJTf_AQNDRg==】地下暂无零件可收
+Apr 01 11:50:39 
+Apr 01 11:50:39 
+Apr 01 11:50:39 开始收取第 16 个好友 【小胖】 地下零件 collectFlag：0
+Apr 01 11:50:40 好友【X6RooQQkq_I28EjOEpv3Lg==】地下暂无零件可收
+Apr 01 11:50:40 
+Apr 01 11:50:40 
+Apr 01 11:50:40 开始收取第 17 个好友 【杨登兰】 地下零件 collectFlag：0
+Apr 01 11:50:41 好友【uhcZW_ZiVE0UsO11648SHA==】地下暂无零件可收
+Apr 01 11:50:41 
+Apr 01 11:50:41 
+Apr 01 11:50:41 开始收取第 18 个好友 【苹果01】 地下零件 collectFlag：0
+Apr 01 11:50:43 好友【F-LnusDb7uc82e3xbgcq7g==】地下暂无零件可收
+Apr 01 11:50:43 
+Apr 01 11:50:43 
+Apr 01 11:50:43 开始收取第 19 个好友 【婷婷】 地下零件 collectFlag：0
+Apr 01 11:50:44 好友【Sqhj-l0-WiKejPGYH5sEJQ==】地下暂无零件可收
+Apr 01 11:50:44 
+Apr 01 11:50:44 
+Apr 01 11:50:44 开始收取第 20 个好友 【JOY】 地下零件 collectFlag：0
+Apr 01 11:50:46 好友【i55e65wxNYfC4tZ2R8bvdA==】地下暂无零件可收
+Apr 01 11:50:46 
+Apr 01 11:50:46 
+Apr 01 11:50:46 开始收取第 21 个好友 【望乜撚野呀】 地下零件 collectFlag：0
+Apr 01 11:50:47 好友【uJ0m1yiLaG6xNqOVpfLfncFZphSvO5VIUlgMcT9fV5E=】地下暂无零件可收
+Apr 01 11:50:47 
+Apr 01 11:50:47 
+Apr 01 11:50:47 开始收取第 22 个好友 【百度杜小杜】 地下零件 collectFlag：0
+Apr 01 11:50:48 好友【v8gwk5IrNis2alvqFJbmpw==】地下暂无零件可收
+Apr 01 11:50:48 
+Apr 01 11:50:48 
+Apr 01 11:50:48 开始收取第 23 个好友 【山有木兮木有枝】 地下零件 collectFlag：0
+Apr 01 11:50:50 好友【7fzlmybQNCsUvyimRAXUOA==】地下暂无零件可收
+Apr 01 11:50:50 
+Apr 01 11:50:50 
+Apr 01 11:50:50 开始收取第 24 个好友 【Z】 地下零件 collectFlag：0
+Apr 01 11:50:51 好友【Z4EkI5Mzd0IllHBOOSXwsA==】地下暂无零件可收
+Apr 01 11:50:51 
+Apr 01 11:50:51 
+Apr 01 11:50:51 开始收取第 25 个好友 【明雩】 地下零件 collectFlag：0
+Apr 01 11:50:52 好友【m2LC0Qsqnr3rK8e3ApvsuQ==】地下暂无零件可收
+Apr 01 11:50:52 
+Apr 01 11:50:52 
+Apr 01 11:50:52 开始收取第 26 个好友 【jd*672】 地下零件 collectFlag：0
+Apr 01 11:50:54 好友【5LcqlK-8sBkaG8Mg7mCYvQ==】地下暂无零件可收
+Apr 01 11:50:54 
+Apr 01 11:50:54 
+Apr 01 11:50:54 团活动ID  0_pzMedR7KhclCkMIgkTkg==
+Apr 01 11:50:54 团ID  r2e9h25UIbc6XTSxcfwTiQ==
+Apr 01 11:50:54 
+Apr 01 11:50:54 今日剩余开团次数：2次
+Apr 01 11:50:54 
+Apr 01 11:50:54 开团情况:1/6
+Apr 01 11:50:54 
+Apr 01 11:50:54 
+Apr 01 11:50:54 此团未达领取团奖励人数：6人
+Apr 01 11:50:54 
+Apr 01 11:50:54 4/1/2021, 5:50:46 AM参加团主【A1GAHQrpp1nm7pmfuDlKAg==】失败
+Apr 01 11:50:54 
+Apr 01 11:50:54   商品名     兑换状态
+Apr 01 11:50:54 三合一数据线    已兑换
+Apr 01 11:50:54 多味花生3袋    已兑换
+Apr 01 11:50:54 刀具三件套    已兑换
+Apr 01 11:50:54 
+Apr 01 11:50:54 【京东账号1】burst3166
+Apr 01 11:50:54 【生产商品】巴旦木
+Apr 01 11:50:54 【当前等级】高级工程师 5
+Apr 01 11:50:54 【生产进度】43.46%
+Apr 01 11:50:54 【招工进度】12/12
+Apr 01 11:50:54 【收取发电站】收取成功，获得 840 电力
+Apr 01 11:50:54 【每日任务】领奖成功，共计 840 电力
+Apr 01 11:50:54 【投入电力】投入成功，共计 800 电力
+Apr 01 11:50:54 【收取自己零件】今日已达上限
+Apr 01 11:50:54 【收取好友零件】今日已达上限
+Apr 01 11:50:54 
+Apr 01 11:50:55 
+Apr 01 11:50:55 🔔京喜工厂, 结束! 🕛 39.908 秒
+Apr 01 11:50:55 
+Apr 01 12:50:28 
+Apr 01 12:50:28 🔔京喜工厂, 开始!
+Apr 01 12:50:28 
+Apr 01 12:50:28 ====================共1个京东账号Cookie=========
+Apr 01 12:50:28 
+Apr 01 12:50:28 ==================脚本执行- 北京时间(UTC+8)：4/1/2021, 12:50:28 PM=====================
+Apr 01 12:50:28 
+Apr 01 12:50:29 获取签名参数成功！
+Apr 01 12:50:29 fp: 6152916148451161
+Apr 01 12:50:29 token: tk01w99311b46a8nNzZFVUl5RUxzH7Y3w8/O4ZMuvi4XV1o2ZOQbVzUUj3alTG/AK2OtlFZm2/mgCFOD+Kc6Z2cgn7Tl
+Apr 01 12:50:29 enCryptMethodJD: function test(token,fingerprint,timestamp,appId,algo){const random='q42M+Jij3NZp';const str=`${token}${fingerprint}${timestamp}${appId}${random}`;return algo.MD5(str)}
+Apr 01 12:50:29 拼团活动ID: 获取成功 0_pzMedR7KhclCkMIgkTkg==
+Apr 01 12:50:29 开始获取京喜工厂配置文件
+Apr 01 12:50:29 
+Apr 01 12:50:29 共1个京东账号
+Apr 01 12:50:29 
+Apr 01 12:50:29 您提供了1个账号的京喜工厂助力码
+Apr 01 12:50:29 
+Apr 01 12:50:29 
+Apr 01 12:50:29 ******开始【京东账号1】burst3166*********
+Apr 01 12:50:29 
+Apr 01 12:50:29 再加1.68%电力可开红包
+Apr 01 12:50:29 
+Apr 01 12:50:29 当前电力：54
+Apr 01 12:50:29 当前等级：5
+Apr 01 12:50:29 
+Apr 01 12:50:29 【京东账号1（burst3166）的京喜工厂好友互助码】A1GAHQrpp1nm7pmfuDlKAg==
+Apr 01 12:50:29 已投入电力：322400
+Apr 01 12:50:29 所需电力：740000
+Apr 01 12:50:29 生产进度：43.57%
+Apr 01 12:50:29 
+Apr 01 12:50:29 
+Apr 01 12:50:29 你今日还能帮好友打工（0/3）次
+Apr 01 12:50:29 
+Apr 01 12:50:29 
+Apr 01 12:50:29 【今日招工进度】12/12
+Apr 01 12:50:29 
+Apr 01 12:50:29 今日助力好友机会已耗尽
+Apr 01 12:50:29 
+Apr 01 12:50:30 发电机：当前 361.3 电力，最大值 420 电力
+Apr 01 12:50:30 
+Apr 01 12:50:30 本次发电机电力集满分享后可获得双倍电力，故目前不收取电力
+Apr 01 12:50:30 
+Apr 01 12:50:30 完成任务：共领取0电力
+Apr 01 12:50:30 投入失败，电力不足，快去做任务吧~
+Apr 01 12:50:31 自家地下暂无零件可收
+Apr 01 12:50:31 
+Apr 01 12:50:31 查询好友列表完成，共26好友，下面开始拾取好友地下的零件
+Apr 01 12:50:31 
+Apr 01 12:50:31 
+Apr 01 12:50:31 开始收取第 1 个好友 【zacky】 地下零件 collectFlag：0
+Apr 01 12:50:33 好友【1ysne6hoo-pwlVG7b_U0DQ==】地下暂无零件可收
+Apr 01 12:50:33 
+Apr 01 12:50:33 
+Apr 01 12:50:33 开始收取第 2 个好友 【山无棱】 地下零件 collectFlag：0
+Apr 01 12:50:34 好友【8I4PGcZpjvt_Nq20R0r-4Q==】地下暂无零件可收
+Apr 01 12:50:34 
+Apr 01 12:50:34 
+Apr 01 12:50:34 开始收取第 3 个好友 【晨曦】 地下零件 collectFlag：0
+Apr 01 12:50:35 好友【lmOajc3zN-XR5JxkIqM5qA==】地下暂无零件可收
+Apr 01 12:50:35 
+Apr 01 12:50:35 
+Apr 01 12:50:35 开始收取第 4 个好友 【sn*ars】 地下零件 collectFlag：0
+Apr 01 12:50:37 好友【LLngJORM-9zh8UYMGcfd2A==】地下暂无零件可收
+Apr 01 12:50:37 
+Apr 01 12:50:37 
+Apr 01 12:50:37 开始收取第 5 个好友 【侯浩】 地下零件 collectFlag：0
+Apr 01 12:50:38 好友【MJMF4orse-sJYN5pcyklXQ==】地下暂无零件可收
+Apr 01 12:50:38 
+Apr 01 12:50:38 
+Apr 01 12:50:38 开始收取第 6 个好友 【liuzhenli】 地下零件 collectFlag：0
+Apr 01 12:50:40 好友【4Ff3bUhMlfJaid8B4qm32Q==】地下暂无零件可收
+Apr 01 12:50:40 
+Apr 01 12:50:40 
+Apr 01 12:50:40 开始收取第 7 个好友 【SeaYe】 地下零件 collectFlag：0
+Apr 01 12:50:41 好友【hyykhYqbGaAs-0No8h6kVQ==】地下暂无零件可收
+Apr 01 12:50:41 
+Apr 01 12:50:41 
+Apr 01 12:50:41 开始收取第 8 个好友 【jd*c54】 地下零件 collectFlag：0
+Apr 01 12:50:42 好友【Oa8unWu-KdPrmGzypTpgUg==】地下暂无零件可收
+Apr 01 12:50:42 
+Apr 01 12:50:42 
+Apr 01 12:50:42 开始收取第 9 个好友 【小中族】 地下零件 collectFlag：0
+Apr 01 12:50:44 好友【J0ZdwtZszB5pnvxDv6l8tQ==】地下暂无零件可收
+Apr 01 12:50:44 
+Apr 01 12:50:44 
+Apr 01 12:50:44 开始收取第 10 个好友 【WANGJUAN】 地下零件 collectFlag：0
+Apr 01 12:50:45 好友【SIQEUukDV19DwOQGjd9J5Q==】地下暂无零件可收
+Apr 01 12:50:45 
+Apr 01 12:50:45 
+Apr 01 12:50:45 开始收取第 11 个好友 【薇薇】 地下零件 collectFlag：0
+Apr 01 12:50:46 好友【CJvUmDW5_In4nqFPr7BkVg==】地下暂无零件可收
+Apr 01 12:50:46 
+Apr 01 12:50:46 
+Apr 01 12:50:46 开始收取第 12 个好友 【Li 】 地下零件 collectFlag：0
+Apr 01 12:50:48 好友【juHlWyZK6YCYEaIui-9O9A==】地下暂无零件可收
+Apr 01 12:50:48 
+Apr 01 12:50:48 
+Apr 01 12:50:48 开始收取第 13 个好友 【niujie】 地下零件 collectFlag：0
+Apr 01 12:50:49 好友【LAxdowQnMU3ox65OdwNwZA==】地下暂无零件可收
+Apr 01 12:50:49 
+Apr 01 12:50:49 
+Apr 01 12:50:49 开始收取第 14 个好友 【迎伟】 地下零件 collectFlag：0
+Apr 01 12:50:50 好友【N8QdMHreY_pd7rIHq9zlFw==】地下暂无零件可收
+Apr 01 12:50:50 
+Apr 01 12:50:50 
+Apr 01 12:50:50 开始收取第 15 个好友 【平凡】 地下零件 collectFlag：0
+Apr 01 12:50:52 好友【guBovILfmX3SJTf_AQNDRg==】地下暂无零件可收
+Apr 01 12:50:52 
+Apr 01 12:50:52 
+Apr 01 12:50:52 开始收取第 16 个好友 【小胖】 地下零件 collectFlag：0
+Apr 01 12:50:53 好友【X6RooQQkq_I28EjOEpv3Lg==】地下暂无零件可收
+Apr 01 12:50:53 
+Apr 01 12:50:53 
+Apr 01 12:50:53 开始收取第 17 个好友 【杨登兰】 地下零件 collectFlag：0
+Apr 01 12:50:54 好友【uhcZW_ZiVE0UsO11648SHA==】地下暂无零件可收
+Apr 01 12:50:54 
+Apr 01 12:50:54 
+Apr 01 12:50:54 开始收取第 18 个好友 【苹果01】 地下零件 collectFlag：0
+Apr 01 12:50:56 好友【F-LnusDb7uc82e3xbgcq7g==】地下暂无零件可收
+Apr 01 12:50:56 
+Apr 01 12:50:56 
+Apr 01 12:50:56 开始收取第 19 个好友 【婷婷】 地下零件 collectFlag：0
+Apr 01 12:50:57 好友【Sqhj-l0-WiKejPGYH5sEJQ==】地下暂无零件可收
+Apr 01 12:50:57 
+Apr 01 12:50:57 
+Apr 01 12:50:57 开始收取第 20 个好友 【JOY】 地下零件 collectFlag：0
+Apr 01 12:50:59 好友【i55e65wxNYfC4tZ2R8bvdA==】地下暂无零件可收
+Apr 01 12:50:59 
+Apr 01 12:50:59 
+Apr 01 12:50:59 开始收取第 21 个好友 【望乜撚野呀】 地下零件 collectFlag：0
+Apr 01 12:51:00 好友【uJ0m1yiLaG6xNqOVpfLfncFZphSvO5VIUlgMcT9fV5E=】地下暂无零件可收
+Apr 01 12:51:00 
+Apr 01 12:51:00 
+Apr 01 12:51:00 开始收取第 22 个好友 【百度杜小杜】 地下零件 collectFlag：0
+Apr 01 12:51:01 好友【v8gwk5IrNis2alvqFJbmpw==】地下暂无零件可收
+Apr 01 12:51:01 
+Apr 01 12:51:01 
+Apr 01 12:51:01 开始收取第 23 个好友 【山有木兮木有枝】 地下零件 collectFlag：0
+Apr 01 12:51:03 好友【7fzlmybQNCsUvyimRAXUOA==】地下暂无零件可收
+Apr 01 12:51:03 
+Apr 01 12:51:03 
+Apr 01 12:51:03 开始收取第 24 个好友 【Z】 地下零件 collectFlag：0
+Apr 01 12:51:04 好友【Z4EkI5Mzd0IllHBOOSXwsA==】地下暂无零件可收
+Apr 01 12:51:04 
+Apr 01 12:51:04 
+Apr 01 12:51:04 开始收取第 25 个好友 【明雩】 地下零件 collectFlag：0
+Apr 01 12:51:05 好友【m2LC0Qsqnr3rK8e3ApvsuQ==】地下暂无零件可收
+Apr 01 12:51:05 
+Apr 01 12:51:05 
+Apr 01 12:51:05 开始收取第 26 个好友 【jd*672】 地下零件 collectFlag：0
+Apr 01 12:51:07 好友【5LcqlK-8sBkaG8Mg7mCYvQ==】地下暂无零件可收
+Apr 01 12:51:07 
+Apr 01 12:51:07 
+Apr 01 12:51:07 团活动ID  0_pzMedR7KhclCkMIgkTkg==
+Apr 01 12:51:07 团ID  r2e9h25UIbc6XTSxcfwTiQ==
+Apr 01 12:51:07 
+Apr 01 12:51:07 今日剩余开团次数：2次
+Apr 01 12:51:07 
+Apr 01 12:51:07 开团情况:1/6
+Apr 01 12:51:07 
+Apr 01 12:51:07 
+Apr 01 12:51:07 此团未达领取团奖励人数：6人
+Apr 01 12:51:07 
+Apr 01 12:51:07 4/1/2021, 5:50:46 AM参加团主【A1GAHQrpp1nm7pmfuDlKAg==】失败
+Apr 01 12:51:07 
+Apr 01 12:51:07   商品名     兑换状态
+Apr 01 12:51:07 三合一数据线    已兑换
+Apr 01 12:51:07 多味花生3袋    已兑换
+Apr 01 12:51:07 刀具三件套    已兑换
+Apr 01 12:51:07 
+Apr 01 12:51:07 【京东账号1】burst3166
+Apr 01 12:51:07 【生产商品】巴旦木
+Apr 01 12:51:07 【当前等级】高级工程师 5
+Apr 01 12:51:07 【生产进度】43.57%
+Apr 01 12:51:07 【招工进度】12/12
+Apr 01 12:51:07 【发电机电力】当前 361.3 电力，未达到收获标准
+Apr 01 12:51:07 【每日任务】领奖成功，共计 0 电力
+Apr 01 12:51:07 【投入电力】投入失败，电力不足，快去做任务吧~
+Apr 01 12:51:07 【收取自己零件】今日已达上限
+Apr 01 12:51:07 【收取好友零件】今日已达上限
+Apr 01 12:51:07 
+Apr 01 12:51:08 
+Apr 01 12:51:08 🔔京喜工厂, 结束! 🕛 39.789 秒
+Apr 01 12:51:08 
+Apr 01 13:50:07 
+Apr 01 13:50:07 🔔京喜工厂, 开始!
+Apr 01 13:50:07 
+Apr 01 13:50:07 ====================共1个京东账号Cookie=========
+Apr 01 13:50:07 
+Apr 01 13:50:07 ==================脚本执行- 北京时间(UTC+8)：4/1/2021, 1:50:07 PM=====================
+Apr 01 13:50:07 
+Apr 01 13:50:08 获取签名参数成功！
+Apr 01 13:50:08 fp: 1993989034939161
+Apr 01 13:50:08 token: tk01w9b431c37a8nSXhMZTFkR0Np1g3Z+Ggp7uNwI5fneC882VG1Bgfpco/YsWPoCHsnWvG5LydBJxlQKnW5NPWIhzwS
+Apr 01 13:50:08 enCryptMethodJD: function test(token,fingerprint,timestamp,appId,algo){const random='VBMZ2k7NJFxm';const str=`${token}${fingerprint}${timestamp}${appId}${random}`;return algo.HmacSHA256(str,token)}
+Apr 01 13:50:10 拼团活动ID: 获取成功 0_pzMedR7KhclCkMIgkTkg==
+Apr 01 13:50:10 开始获取京喜工厂配置文件
+Apr 01 13:50:10 
+Apr 01 13:50:10 共1个京东账号
+Apr 01 13:50:10 
+Apr 01 13:50:10 您提供了1个账号的京喜工厂助力码
+Apr 01 13:50:10 
+Apr 01 13:50:10 
+Apr 01 13:50:10 ******开始【京东账号1】burst3166*********
+Apr 01 13:50:10 
+Apr 01 13:50:10 再加1.68%电力可开红包
+Apr 01 13:50:10 
+Apr 01 13:50:10 当前电力：54
+Apr 01 13:50:10 当前等级：5
+Apr 01 13:50:10 
+Apr 01 13:50:10 【京东账号1（burst3166）的京喜工厂好友互助码】A1GAHQrpp1nm7pmfuDlKAg==
+Apr 01 13:50:10 已投入电力：322400
+Apr 01 13:50:10 所需电力：740000
+Apr 01 13:50:10 生产进度：43.57%
+Apr 01 13:50:10 
+Apr 01 13:50:10 
+Apr 01 13:50:10 你今日还能帮好友打工（0/3）次
+Apr 01 13:50:10 
+Apr 01 13:50:10 
+Apr 01 13:50:10 【今日招工进度】12/12
+Apr 01 13:50:10 
+Apr 01 13:50:10 今日助力好友机会已耗尽
+Apr 01 13:50:10 
+Apr 01 13:50:10 发电机：当前 420 电力，最大值 420 电力
+Apr 01 13:50:10 发电机：电力可翻倍并收获
+Apr 01 13:50:10 收取电力成功: 共840 
+Apr 01 13:50:10 完成任务：共领取840电力
+Apr 01 13:50:10 成功投入电力800电力
+Apr 01 13:50:12 自家地下暂无零件可收
+Apr 01 13:50:12 
+Apr 01 13:50:12 查询好友列表完成，共26好友，下面开始拾取好友地下的零件
+Apr 01 13:50:12 
+Apr 01 13:50:12 
+Apr 01 13:50:12 开始收取第 1 个好友 【zacky】 地下零件 collectFlag：0
+Apr 01 13:50:13 好友【1ysne6hoo-pwlVG7b_U0DQ==】地下暂无零件可收
+Apr 01 13:50:13 
+Apr 01 13:50:13 
+Apr 01 13:50:13 开始收取第 2 个好友 【山无棱】 地下零件 collectFlag：0
+Apr 01 13:50:15 好友【8I4PGcZpjvt_Nq20R0r-4Q==】地下暂无零件可收
+Apr 01 13:50:15 
+Apr 01 13:50:15 
+Apr 01 13:50:15 开始收取第 3 个好友 【晨曦】 地下零件 collectFlag：0
+Apr 01 13:50:16 好友【lmOajc3zN-XR5JxkIqM5qA==】地下暂无零件可收
+Apr 01 13:50:16 
+Apr 01 13:50:16 
+Apr 01 13:50:16 开始收取第 4 个好友 【sn*ars】 地下零件 collectFlag：0
+Apr 01 13:50:17 好友【LLngJORM-9zh8UYMGcfd2A==】地下暂无零件可收
+Apr 01 13:50:17 
+Apr 01 13:50:17 
+Apr 01 13:50:17 开始收取第 5 个好友 【侯浩】 地下零件 collectFlag：0
+Apr 01 13:50:19 好友【MJMF4orse-sJYN5pcyklXQ==】地下暂无零件可收
+Apr 01 13:50:19 
+Apr 01 13:50:19 
+Apr 01 13:50:19 开始收取第 6 个好友 【liuzhenli】 地下零件 collectFlag：0
+Apr 01 13:50:20 好友【4Ff3bUhMlfJaid8B4qm32Q==】地下暂无零件可收
+Apr 01 13:50:20 
+Apr 01 13:50:20 
+Apr 01 13:50:20 开始收取第 7 个好友 【SeaYe】 地下零件 collectFlag：0
+Apr 01 13:50:22 好友【hyykhYqbGaAs-0No8h6kVQ==】地下暂无零件可收
+Apr 01 13:50:22 
+Apr 01 13:50:22 
+Apr 01 13:50:22 开始收取第 8 个好友 【jd*c54】 地下零件 collectFlag：0
+Apr 01 13:50:23 好友【Oa8unWu-KdPrmGzypTpgUg==】地下暂无零件可收
+Apr 01 13:50:23 
+Apr 01 13:50:23 
+Apr 01 13:50:23 开始收取第 9 个好友 【小中族】 地下零件 collectFlag：0
+Apr 01 13:50:24 好友【J0ZdwtZszB5pnvxDv6l8tQ==】地下暂无零件可收
+Apr 01 13:50:24 
+Apr 01 13:50:24 
+Apr 01 13:50:24 开始收取第 10 个好友 【WANGJUAN】 地下零件 collectFlag：0
+Apr 01 13:50:26 好友【SIQEUukDV19DwOQGjd9J5Q==】地下暂无零件可收
+Apr 01 13:50:26 
+Apr 01 13:50:26 
+Apr 01 13:50:26 开始收取第 11 个好友 【薇薇】 地下零件 collectFlag：0
+Apr 01 13:50:27 好友【CJvUmDW5_In4nqFPr7BkVg==】地下暂无零件可收
+Apr 01 13:50:27 
+Apr 01 13:50:27 
+Apr 01 13:50:27 开始收取第 12 个好友 【Li 】 地下零件 collectFlag：0
+Apr 01 13:50:28 好友【juHlWyZK6YCYEaIui-9O9A==】地下暂无零件可收
+Apr 01 13:50:28 
+Apr 01 13:50:28 
+Apr 01 13:50:28 开始收取第 13 个好友 【niujie】 地下零件 collectFlag：0
+Apr 01 13:50:30 好友【LAxdowQnMU3ox65OdwNwZA==】地下暂无零件可收
+Apr 01 13:50:30 
+Apr 01 13:50:30 
+Apr 01 13:50:30 开始收取第 14 个好友 【迎伟】 地下零件 collectFlag：0
+Apr 01 13:50:31 好友【N8QdMHreY_pd7rIHq9zlFw==】地下暂无零件可收
+Apr 01 13:50:31 
+Apr 01 13:50:31 
+Apr 01 13:50:31 开始收取第 15 个好友 【平凡】 地下零件 collectFlag：0
+Apr 01 13:50:32 好友【guBovILfmX3SJTf_AQNDRg==】地下暂无零件可收
+Apr 01 13:50:32 
+Apr 01 13:50:32 
+Apr 01 13:50:32 开始收取第 16 个好友 【小胖】 地下零件 collectFlag：0
+Apr 01 13:50:34 好友【X6RooQQkq_I28EjOEpv3Lg==】地下暂无零件可收
+Apr 01 13:50:34 
+Apr 01 13:50:34 
+Apr 01 13:50:34 开始收取第 17 个好友 【杨登兰】 地下零件 collectFlag：0
+Apr 01 13:50:35 好友【uhcZW_ZiVE0UsO11648SHA==】地下暂无零件可收
+Apr 01 13:50:35 
+Apr 01 13:50:35 
+Apr 01 13:50:35 开始收取第 18 个好友 【苹果01】 地下零件 collectFlag：0
+Apr 01 13:50:36 好友【F-LnusDb7uc82e3xbgcq7g==】地下暂无零件可收
+Apr 01 13:50:36 
+Apr 01 13:50:36 
+Apr 01 13:50:36 开始收取第 19 个好友 【婷婷】 地下零件 collectFlag：0
+Apr 01 13:50:38 好友【Sqhj-l0-WiKejPGYH5sEJQ==】地下暂无零件可收
+Apr 01 13:50:38 
+Apr 01 13:50:38 
+Apr 01 13:50:38 开始收取第 20 个好友 【JOY】 地下零件 collectFlag：0
+Apr 01 13:50:39 好友【i55e65wxNYfC4tZ2R8bvdA==】地下暂无零件可收
+Apr 01 13:50:39 
+Apr 01 13:50:39 
+Apr 01 13:50:39 开始收取第 21 个好友 【望乜撚野呀】 地下零件 collectFlag：0
+Apr 01 13:50:41 好友【uJ0m1yiLaG6xNqOVpfLfncFZphSvO5VIUlgMcT9fV5E=】地下暂无零件可收
+Apr 01 13:50:41 
+Apr 01 13:50:41 
+Apr 01 13:50:41 开始收取第 22 个好友 【百度杜小杜】 地下零件 collectFlag：0
+Apr 01 13:50:42 好友【v8gwk5IrNis2alvqFJbmpw==】地下暂无零件可收
+Apr 01 13:50:42 
+Apr 01 13:50:42 
+Apr 01 13:50:42 开始收取第 23 个好友 【山有木兮木有枝】 地下零件 collectFlag：0
+Apr 01 13:50:43 好友【7fzlmybQNCsUvyimRAXUOA==】地下暂无零件可收
+Apr 01 13:50:43 
+Apr 01 13:50:43 
+Apr 01 13:50:43 开始收取第 24 个好友 【Z】 地下零件 collectFlag：0
+Apr 01 13:50:45 好友【Z4EkI5Mzd0IllHBOOSXwsA==】地下暂无零件可收
+Apr 01 13:50:45 
+Apr 01 13:50:45 
+Apr 01 13:50:45 开始收取第 25 个好友 【明雩】 地下零件 collectFlag：0
+Apr 01 13:50:46 好友【m2LC0Qsqnr3rK8e3ApvsuQ==】地下暂无零件可收
+Apr 01 13:50:46 
+Apr 01 13:50:46 
+Apr 01 13:50:46 开始收取第 26 个好友 【jd*672】 地下零件 collectFlag：0
+Apr 01 13:50:47 好友【5LcqlK-8sBkaG8Mg7mCYvQ==】地下暂无零件可收
+Apr 01 13:50:47 
+Apr 01 13:50:48 
+Apr 01 13:50:48 团活动ID  0_pzMedR7KhclCkMIgkTkg==
+Apr 01 13:50:48 团ID  r2e9h25UIbc6XTSxcfwTiQ==
+Apr 01 13:50:48 
+Apr 01 13:50:48 今日剩余开团次数：2次
+Apr 01 13:50:48 
+Apr 01 13:50:48 开团情况:1/6
+Apr 01 13:50:48 
+Apr 01 13:50:48 
+Apr 01 13:50:48 此团未达领取团奖励人数：6人
+Apr 01 13:50:48 
+Apr 01 13:50:48 4/1/2021, 5:50:46 AM参加团主【A1GAHQrpp1nm7pmfuDlKAg==】失败
+Apr 01 13:50:48 
+Apr 01 13:50:48   商品名     兑换状态
+Apr 01 13:50:48 三合一数据线    已兑换
+Apr 01 13:50:48 多味花生3袋    已兑换
+Apr 01 13:50:48 刀具三件套    已兑换
+Apr 01 13:50:48 
+Apr 01 13:50:48 【京东账号1】burst3166
+Apr 01 13:50:48 【生产商品】巴旦木
+Apr 01 13:50:48 【当前等级】高级工程师 5
+Apr 01 13:50:48 【生产进度】43.57%
+Apr 01 13:50:48 【招工进度】12/12
+Apr 01 13:50:48 【收取发电站】收取成功，获得 840 电力
+Apr 01 13:50:48 【每日任务】领奖成功，共计 840 电力
+Apr 01 13:50:48 【投入电力】投入成功，共计 800 电力
+Apr 01 13:50:48 【收取自己零件】今日已达上限
+Apr 01 13:50:48 【收取好友零件】今日已达上限
+Apr 01 13:50:48 
+Apr 01 13:50:49 
+Apr 01 13:50:49 🔔京喜工厂, 结束! 🕛 41.422 秒
+Apr 01 13:50:49 
+Apr 01 14:50:17 
+Apr 01 14:50:17 🔔京喜工厂, 开始!
+Apr 01 14:50:17 
+Apr 01 14:50:17 ====================共1个京东账号Cookie=========
+Apr 01 14:50:17 
+Apr 01 14:50:17 ==================脚本执行- 北京时间(UTC+8)：4/1/2021, 2:50:17 PM=====================
+Apr 01 14:50:17 
+Apr 01 14:50:18 获取签名参数成功！
+Apr 01 14:50:18 fp: 6417630070396161
+Apr 01 14:50:18 token: tk01waaef1c16a8nVThDbENXdWFZOoE0qY/c1pEG3DNzJiSdcSQleETIFnIlSney4XgHcrv3XXY/fsPi2c0fwe71uOK1
+Apr 01 14:50:18 enCryptMethodJD: function test(token,fingerprint,timestamp,appId,algo){const random='oFF1MPf+GFK9';const str=`${token}${fingerprint}${timestamp}${appId}${random}`;return algo.MD5(str)}
+Apr 01 14:50:18 拼团活动ID: 获取成功 0_pzMedR7KhclCkMIgkTkg==
+Apr 01 14:50:18 开始获取京喜工厂配置文件
+Apr 01 14:50:18 
+Apr 01 14:50:18 共1个京东账号
+Apr 01 14:50:18 
+Apr 01 14:50:18 您提供了1个账号的京喜工厂助力码
+Apr 01 14:50:18 
+Apr 01 14:50:19 
+Apr 01 14:50:19 ******开始【京东账号1】IS_FREEDOM*********
+Apr 01 14:50:19 
+Apr 01 14:50:19 再加1.57%电力可开红包
+Apr 01 14:50:19 
+Apr 01 14:50:19 当前电力：94
+Apr 01 14:50:19 当前等级：5
+Apr 01 14:50:19 
+Apr 01 14:50:19 【京东账号1（burst3166）的京喜工厂好友互助码】A1GAHQrpp1nm7pmfuDlKAg==
+Apr 01 14:50:19 已投入电力：323200
+Apr 01 14:50:19 所需电力：740000
+Apr 01 14:50:19 生产进度：43.68%
+Apr 01 14:50:19 
+Apr 01 14:50:19 
+Apr 01 14:50:19 你今日还能帮好友打工（0/3）次
+Apr 01 14:50:19 
+Apr 01 14:50:19 
+Apr 01 14:50:19 【今日招工进度】12/12
+Apr 01 14:50:19 
+Apr 01 14:50:19 今日助力好友机会已耗尽
+Apr 01 14:50:19 
+Apr 01 14:50:19 发电机：当前 360.9 电力，最大值 420 电力
+Apr 01 14:50:19 
+Apr 01 14:50:19 本次发电机电力集满分享后不可获得双倍电力，故现在收取电力
+Apr 01 14:50:19 
+Apr 01 14:50:19 收取电力成功: 共361 
+Apr 01 14:50:20 完成任务：共领取361电力
+Apr 01 14:50:20 成功投入电力400电力
+Apr 01 14:50:21 自家地下暂无零件可收
+Apr 01 14:50:21 
+Apr 01 14:50:21 查询好友列表完成，共26好友，下面开始拾取好友地下的零件
+Apr 01 14:50:21 
+Apr 01 14:50:21 
+Apr 01 14:50:21 开始收取第 1 个好友 【zacky】 地下零件 collectFlag：0
+Apr 01 14:50:23 好友【1ysne6hoo-pwlVG7b_U0DQ==】地下暂无零件可收
+Apr 01 14:50:23 
+Apr 01 14:50:23 
+Apr 01 14:50:23 开始收取第 2 个好友 【山无棱】 地下零件 collectFlag：0
+Apr 01 14:50:24 好友【8I4PGcZpjvt_Nq20R0r-4Q==】地下暂无零件可收
+Apr 01 14:50:24 
+Apr 01 14:50:24 
+Apr 01 14:50:24 开始收取第 3 个好友 【晨曦】 地下零件 collectFlag：0
+Apr 01 14:50:26 好友【lmOajc3zN-XR5JxkIqM5qA==】地下暂无零件可收
+Apr 01 14:50:26 
+Apr 01 14:50:26 
+Apr 01 14:50:26 开始收取第 4 个好友 【sn*ars】 地下零件 collectFlag：0
+Apr 01 14:50:27 好友【LLngJORM-9zh8UYMGcfd2A==】地下暂无零件可收
+Apr 01 14:50:27 
+Apr 01 14:50:27 
+Apr 01 14:50:27 开始收取第 5 个好友 【侯浩】 地下零件 collectFlag：0
+Apr 01 14:50:30 好友【MJMF4orse-sJYN5pcyklXQ==】地下暂无零件可收
+Apr 01 14:50:30 
+Apr 01 14:50:30 
+Apr 01 14:50:30 开始收取第 6 个好友 【liuzhenli】 地下零件 collectFlag：0
+Apr 01 14:50:31 好友【4Ff3bUhMlfJaid8B4qm32Q==】地下暂无零件可收
+Apr 01 14:50:31 
+Apr 01 14:50:31 
+Apr 01 14:50:31 开始收取第 7 个好友 【SeaYe】 地下零件 collectFlag：0
+Apr 01 14:50:32 好友【hyykhYqbGaAs-0No8h6kVQ==】地下暂无零件可收
+Apr 01 14:50:32 
+Apr 01 14:50:32 
+Apr 01 14:50:32 开始收取第 8 个好友 【jd*c54】 地下零件 collectFlag：0
+Apr 01 14:50:34 好友【Oa8unWu-KdPrmGzypTpgUg==】地下暂无零件可收
+Apr 01 14:50:34 
+Apr 01 14:50:34 
+Apr 01 14:50:34 开始收取第 9 个好友 【小中族】 地下零件 collectFlag：0
+Apr 01 14:50:35 好友【J0ZdwtZszB5pnvxDv6l8tQ==】地下暂无零件可收
+Apr 01 14:50:35 
+Apr 01 14:50:35 
+Apr 01 14:50:35 开始收取第 10 个好友 【WANGJUAN】 地下零件 collectFlag：0
+Apr 01 14:50:37 好友【SIQEUukDV19DwOQGjd9J5Q==】地下暂无零件可收
+Apr 01 14:50:37 
+Apr 01 14:50:37 
+Apr 01 14:50:37 开始收取第 11 个好友 【薇薇】 地下零件 collectFlag：0
+Apr 01 14:50:38 好友【CJvUmDW5_In4nqFPr7BkVg==】地下暂无零件可收
+Apr 01 14:50:38 
+Apr 01 14:50:38 
+Apr 01 14:50:38 开始收取第 12 个好友 【Li 】 地下零件 collectFlag：0
+Apr 01 14:50:39 好友【juHlWyZK6YCYEaIui-9O9A==】地下暂无零件可收
+Apr 01 14:50:39 
+Apr 01 14:50:39 
+Apr 01 14:50:39 开始收取第 13 个好友 【niujie】 地下零件 collectFlag：0
+Apr 01 14:50:41 好友【LAxdowQnMU3ox65OdwNwZA==】地下暂无零件可收
+Apr 01 14:50:41 
+Apr 01 14:50:41 
+Apr 01 14:50:41 开始收取第 14 个好友 【迎伟】 地下零件 collectFlag：0
+Apr 01 14:50:42 好友【N8QdMHreY_pd7rIHq9zlFw==】地下暂无零件可收
+Apr 01 14:50:42 
+Apr 01 14:50:42 
+Apr 01 14:50:42 开始收取第 15 个好友 【平凡】 地下零件 collectFlag：0
+Apr 01 14:50:43 好友【guBovILfmX3SJTf_AQNDRg==】地下暂无零件可收
+Apr 01 14:50:43 
+Apr 01 14:50:43 
+Apr 01 14:50:43 开始收取第 16 个好友 【小胖】 地下零件 collectFlag：0
+Apr 01 14:50:45 好友【X6RooQQkq_I28EjOEpv3Lg==】地下暂无零件可收
+Apr 01 14:50:45 
+Apr 01 14:50:45 
+Apr 01 14:50:45 开始收取第 17 个好友 【杨登兰】 地下零件 collectFlag：0
+Apr 01 14:50:46 好友【uhcZW_ZiVE0UsO11648SHA==】地下暂无零件可收
+Apr 01 14:50:46 
+Apr 01 14:50:46 
+Apr 01 14:50:46 开始收取第 18 个好友 【苹果01】 地下零件 collectFlag：0
+Apr 01 14:50:47 好友【F-LnusDb7uc82e3xbgcq7g==】地下暂无零件可收
+Apr 01 14:50:47 
+Apr 01 14:50:47 
+Apr 01 14:50:47 开始收取第 19 个好友 【婷婷】 地下零件 collectFlag：0
+Apr 01 14:50:49 好友【Sqhj-l0-WiKejPGYH5sEJQ==】地下暂无零件可收
+Apr 01 14:50:49 
+Apr 01 14:50:49 
+Apr 01 14:50:49 开始收取第 20 个好友 【JOY】 地下零件 collectFlag：0
+Apr 01 14:50:50 好友【i55e65wxNYfC4tZ2R8bvdA==】地下暂无零件可收
+Apr 01 14:50:50 
+Apr 01 14:50:50 
+Apr 01 14:50:50 开始收取第 21 个好友 【望乜撚野呀】 地下零件 collectFlag：0
+Apr 01 14:50:52 好友【uJ0m1yiLaG6xNqOVpfLfncFZphSvO5VIUlgMcT9fV5E=】地下暂无零件可收
+Apr 01 14:50:52 
+Apr 01 14:50:52 
+Apr 01 14:50:52 开始收取第 22 个好友 【百度杜小杜】 地下零件 collectFlag：0
+Apr 01 14:50:53 GetUserComponent失败：{"msg":"操作太频繁，请稍后再试~","nowTime":1617259853,"ret":10004}
+Apr 01 14:50:53 
+Apr 01 14:50:53 开始收取第 23 个好友 【山有木兮木有枝】 地下零件 collectFlag：0
+Apr 01 14:50:54 GetUserComponent失败：{"msg":"操作太频繁，请稍后再试~","nowTime":1617259854,"ret":10004}
+Apr 01 14:50:54 
+Apr 01 14:50:54 开始收取第 24 个好友 【Z】 地下零件 collectFlag：0
+Apr 01 14:50:56 GetUserComponent失败：{"msg":"操作太频繁，请稍后再试~","nowTime":1617259856,"ret":10004}
+Apr 01 14:50:56 
+Apr 01 14:50:56 开始收取第 25 个好友 【明雩】 地下零件 collectFlag：0
+Apr 01 14:50:57 GetUserComponent失败：{"msg":"操作太频繁，请稍后再试~","nowTime":1617259857,"ret":10004}
+Apr 01 14:50:57 
+Apr 01 14:50:57 开始收取第 26 个好友 【jd*672】 地下零件 collectFlag：0
+Apr 01 14:50:58 GetUserComponent失败：{"msg":"操作太频繁，请稍后再试~","nowTime":1617259858,"ret":10004}
+Apr 01 14:50:59 
+Apr 01 14:50:59 团活动ID  0_pzMedR7KhclCkMIgkTkg==
+Apr 01 14:50:59 团ID  r2e9h25UIbc6XTSxcfwTiQ==
+Apr 01 14:50:59 
+Apr 01 14:50:59 今日剩余开团次数：2次
+Apr 01 14:50:59 
+Apr 01 14:50:59 开团情况:1/6
+Apr 01 14:50:59 
+Apr 01 14:50:59 
+Apr 01 14:50:59 此团未达领取团奖励人数：6人
+Apr 01 14:50:59 
+Apr 01 14:50:59 4/1/2021, 5:50:46 AM参加团主【A1GAHQrpp1nm7pmfuDlKAg==】失败
+Apr 01 14:50:59 
+Apr 01 14:50:59   商品名     兑换状态
+Apr 01 14:50:59 三合一数据线    已兑换
+Apr 01 14:50:59 多味花生3袋    已兑换
+Apr 01 14:50:59 刀具三件套    已兑换
+Apr 01 14:50:59 
+Apr 01 14:50:59 【京东账号1】IS_FREEDOM
+Apr 01 14:50:59 【生产商品】巴旦木
+Apr 01 14:50:59 【当前等级】高级工程师 5
+Apr 01 14:50:59 【生产进度】43.68%
+Apr 01 14:50:59 【招工进度】12/12
+Apr 01 14:50:59 【收取发电站】收取成功，获得 361 电力
+Apr 01 14:50:59 【每日任务】领奖成功，共计 361 电力
+Apr 01 14:50:59 【投入电力】投入成功，共计 400 电力
+Apr 01 14:50:59 【收取自己零件】获得0电力
+Apr 01 14:50:59 【收取好友零件】获得0电力
+Apr 01 14:50:59 
+Apr 01 14:51:00 
+Apr 01 14:51:00 🔔京喜工厂, 结束! 🕛 43.276 秒
+Apr 01 14:51:00 
+Apr 01 15:50:02 
+Apr 01 15:50:02 🔔京喜工厂, 开始!
+Apr 01 15:50:02 
+Apr 01 15:50:02 ====================共1个京东账号Cookie=========
+Apr 01 15:50:02 
+Apr 01 15:50:02 ==================脚本执行- 北京时间(UTC+8)：4/1/2021, 3:50:02 PM=====================
+Apr 01 15:50:02 
+Apr 01 15:50:04 获取签名参数成功！
+Apr 01 15:50:04 fp: 5686836320269161
+Apr 01 15:50:04 token: tk01wbd221cdba8nQ0QxZkFBQjRtDTZbf1ShxPoHueISF+dU0+3CsmUeRb6SS6zXskb3lrfsPsNewZRSyfeFRcgY65Is
+Apr 01 15:50:04 enCryptMethodJD: function test(token,fingerprint,timestamp,appId,algo){const random='FhTiJUoUpIbi';const str=`${token}${fingerprint}${timestamp}${appId}${random}`;return algo.SHA256(str)}
+Apr 01 15:50:07 "Response code 503 (Service Temporarily Unavailable)"
+Apr 01 15:50:07 拼团活动ID：获取失败
+Apr 01 15:50:07 开始获取京喜工厂配置文件
+Apr 01 15:50:07 
+Apr 01 15:50:07 共1个京东账号
+Apr 01 15:50:07 
+Apr 01 15:50:07 您提供了1个账号的京喜工厂助力码
+Apr 01 15:50:07 
+Apr 01 15:50:07 
+Apr 01 15:50:07 ******开始【京东账号1】IS_FREEDOM*********
+Apr 01 15:50:07 
+Apr 01 15:50:08 再加1.51%电力可开红包
+Apr 01 15:50:08 
+Apr 01 15:50:08 当前电力：55
+Apr 01 15:50:08 当前等级：5
+Apr 01 15:50:08 
+Apr 01 15:50:08 【京东账号1（burst3166）的京喜工厂好友互助码】A1GAHQrpp1nm7pmfuDlKAg==
+Apr 01 15:50:08 已投入电力：323600
+Apr 01 15:50:08 所需电力：740000
+Apr 01 15:50:08 生产进度：43.73%
+Apr 01 15:50:08 
+Apr 01 15:50:08 
+Apr 01 15:50:08 你今日还能帮好友打工（0/3）次
+Apr 01 15:50:08 
+Apr 01 15:50:08 
+Apr 01 15:50:08 【今日招工进度】12/12
+Apr 01 15:50:08 
+Apr 01 15:50:08 今日助力好友机会已耗尽
+Apr 01 15:50:08 
+Apr 01 15:50:08 发电机：当前 358.9 电力，最大值 420 电力
+Apr 01 15:50:08 
+Apr 01 15:50:08 本次发电机电力集满分享后不可获得双倍电力，故现在收取电力
+Apr 01 15:50:08 
+Apr 01 15:50:08 收取电力成功: 共359 
+Apr 01 15:50:08 任务：累计收取发电机电力值可完成
+Apr 01 15:50:08 领取累计收取发电机电力值任务奖励成功，收获：500电力
+Apr 01 15:50:09 完成任务：共领取859电力
+Apr 01 15:50:09 成功投入电力900电力
+Apr 01 15:50:11 自家地下暂无零件可收
+Apr 01 15:50:11 
+Apr 01 15:50:11 查询好友列表完成，共26好友，下面开始拾取好友地下的零件
+Apr 01 15:50:11 
+Apr 01 15:50:11 
+Apr 01 15:50:11 开始收取第 1 个好友 【zacky】 地下零件 collectFlag：0
+Apr 01 15:50:13 好友【1ysne6hoo-pwlVG7b_U0DQ==】地下暂无零件可收
+Apr 01 15:50:13 
+Apr 01 15:50:13 
+Apr 01 15:50:13 开始收取第 2 个好友 【山无棱】 地下零件 collectFlag：0
+Apr 01 15:50:14 好友【8I4PGcZpjvt_Nq20R0r-4Q==】地下暂无零件可收
+Apr 01 15:50:14 
+Apr 01 15:50:14 
+Apr 01 15:50:14 开始收取第 3 个好友 【晨曦】 地下零件 collectFlag：0
+Apr 01 15:50:15 好友【lmOajc3zN-XR5JxkIqM5qA==】地下暂无零件可收
+Apr 01 15:50:15 
+Apr 01 15:50:15 
+Apr 01 15:50:15 开始收取第 4 个好友 【sn*ars】 地下零件 collectFlag：0
+Apr 01 15:50:17 好友【LLngJORM-9zh8UYMGcfd2A==】地下暂无零件可收
+Apr 01 15:50:17 
+Apr 01 15:50:17 
+Apr 01 15:50:17 开始收取第 5 个好友 【侯浩】 地下零件 collectFlag：0
+Apr 01 15:50:18 好友【MJMF4orse-sJYN5pcyklXQ==】地下暂无零件可收
+Apr 01 15:50:18 
+Apr 01 15:50:18 
+Apr 01 15:50:18 开始收取第 6 个好友 【liuzhenli】 地下零件 collectFlag：0
+Apr 01 15:50:19 好友【4Ff3bUhMlfJaid8B4qm32Q==】地下暂无零件可收
+Apr 01 15:50:19 
+Apr 01 15:50:19 
+Apr 01 15:50:19 开始收取第 7 个好友 【SeaYe】 地下零件 collectFlag：0
+Apr 01 15:50:21 好友【hyykhYqbGaAs-0No8h6kVQ==】地下暂无零件可收
+Apr 01 15:50:21 
+Apr 01 15:50:21 
+Apr 01 15:50:21 开始收取第 8 个好友 【jd*c54】 地下零件 collectFlag：0
+Apr 01 15:50:22 好友【Oa8unWu-KdPrmGzypTpgUg==】地下暂无零件可收
+Apr 01 15:50:22 
+Apr 01 15:50:22 
+Apr 01 15:50:22 开始收取第 9 个好友 【小中族】 地下零件 collectFlag：0
+Apr 01 15:50:24 好友【J0ZdwtZszB5pnvxDv6l8tQ==】地下暂无零件可收
+Apr 01 15:50:24 
+Apr 01 15:50:24 
+Apr 01 15:50:24 开始收取第 10 个好友 【WANGJUAN】 地下零件 collectFlag：0
+Apr 01 15:50:25 好友【SIQEUukDV19DwOQGjd9J5Q==】地下暂无零件可收
+Apr 01 15:50:25 
+Apr 01 15:50:25 
+Apr 01 15:50:25 开始收取第 11 个好友 【薇薇】 地下零件 collectFlag：0
+Apr 01 15:50:26 好友【CJvUmDW5_In4nqFPr7BkVg==】地下暂无零件可收
+Apr 01 15:50:26 
+Apr 01 15:50:26 
+Apr 01 15:50:26 开始收取第 12 个好友 【Li 】 地下零件 collectFlag：0
+Apr 01 15:50:28 好友【juHlWyZK6YCYEaIui-9O9A==】地下暂无零件可收
+Apr 01 15:50:28 
+Apr 01 15:50:28 
+Apr 01 15:50:28 开始收取第 13 个好友 【niujie】 地下零件 collectFlag：0
+Apr 01 15:50:29 好友【LAxdowQnMU3ox65OdwNwZA==】地下暂无零件可收
+Apr 01 15:50:29 
+Apr 01 15:50:29 
+Apr 01 15:50:29 开始收取第 14 个好友 【迎伟】 地下零件 collectFlag：0
+Apr 01 15:50:31 好友【N8QdMHreY_pd7rIHq9zlFw==】地下暂无零件可收
+Apr 01 15:50:31 
+Apr 01 15:50:31 
+Apr 01 15:50:31 开始收取第 15 个好友 【平凡】 地下零件 collectFlag：0
+Apr 01 15:50:33 好友【guBovILfmX3SJTf_AQNDRg==】地下暂无零件可收
+Apr 01 15:50:33 
+Apr 01 15:50:33 
+Apr 01 15:50:33 开始收取第 16 个好友 【小胖】 地下零件 collectFlag：0
+Apr 01 15:50:35 好友【X6RooQQkq_I28EjOEpv3Lg==】地下暂无零件可收
+Apr 01 15:50:35 
+Apr 01 15:50:35 
+Apr 01 15:50:35 开始收取第 17 个好友 【杨登兰】 地下零件 collectFlag：0
+Apr 01 15:50:36 好友【uhcZW_ZiVE0UsO11648SHA==】地下暂无零件可收
+Apr 01 15:50:36 
+Apr 01 15:50:36 
+Apr 01 15:50:36 开始收取第 18 个好友 【苹果01】 地下零件 collectFlag：0
+Apr 01 15:50:37 好友【F-LnusDb7uc82e3xbgcq7g==】地下暂无零件可收
+Apr 01 15:50:37 
+Apr 01 15:50:37 
+Apr 01 15:50:37 开始收取第 19 个好友 【婷婷】 地下零件 collectFlag：0
+Apr 01 15:50:39 好友【Sqhj-l0-WiKejPGYH5sEJQ==】地下暂无零件可收
+Apr 01 15:50:39 
+Apr 01 15:50:39 
+Apr 01 15:50:39 开始收取第 20 个好友 【JOY】 地下零件 collectFlag：0
+Apr 01 15:50:40 好友【i55e65wxNYfC4tZ2R8bvdA==】地下暂无零件可收
+Apr 01 15:50:40 
+Apr 01 15:50:40 
+Apr 01 15:50:40 开始收取第 21 个好友 【望乜撚野呀】 地下零件 collectFlag：0
+Apr 01 15:50:41 好友【uJ0m1yiLaG6xNqOVpfLfncFZphSvO5VIUlgMcT9fV5E=】地下暂无零件可收
+Apr 01 15:50:41 
+Apr 01 15:50:41 
+Apr 01 15:50:41 开始收取第 22 个好友 【百度杜小杜】 地下零件 collectFlag：0
+Apr 01 15:50:43 好友【v8gwk5IrNis2alvqFJbmpw==】地下暂无零件可收
+Apr 01 15:50:43 
+Apr 01 15:50:43 
+Apr 01 15:50:43 开始收取第 23 个好友 【山有木兮木有枝】 地下零件 collectFlag：0
+Apr 01 15:50:44 好友【7fzlmybQNCsUvyimRAXUOA==】地下暂无零件可收
+Apr 01 15:50:44 
+Apr 01 15:50:44 
+Apr 01 15:50:44 开始收取第 24 个好友 【Z】 地下零件 collectFlag：0
+Apr 01 15:50:46 好友【Z4EkI5Mzd0IllHBOOSXwsA==】地下暂无零件可收
+Apr 01 15:50:46 
+Apr 01 15:50:46 
+Apr 01 15:50:46 开始收取第 25 个好友 【明雩】 地下零件 collectFlag：0
+Apr 01 15:50:47 好友【m2LC0Qsqnr3rK8e3ApvsuQ==】地下暂无零件可收
+Apr 01 15:50:47 
+Apr 01 15:50:47 
+Apr 01 15:50:47 开始收取第 26 个好友 【jd*672】 地下零件 collectFlag：0
+Apr 01 15:50:48 好友【5LcqlK-8sBkaG8Mg7mCYvQ==】地下暂无零件可收
+Apr 01 15:50:48 
+Apr 01 15:50:48 
+Apr 01 15:50:48 团活动ID  6S9y4sJUfA2vPQP6TLdVIQ==
+Apr 01 15:50:48 团ID  
+Apr 01 15:50:48 
+Apr 01 15:50:48 今日剩余开团次数：3次
+Apr 01 15:50:48 准备开团
+Apr 01 15:50:49 开团异常：{"msg":"活动已结束，请稍后再试~","nowTime":1617263449,"ret":10218}
+Apr 01 15:50:49 
+Apr 01 15:50:49   商品名     兑换状态
+Apr 01 15:50:49 三合一数据线    已兑换
+Apr 01 15:50:49 多味花生3袋    已兑换
+Apr 01 15:50:49 刀具三件套    已兑换
+Apr 01 15:50:49 
+Apr 01 15:50:49 【京东账号1】IS_FREEDOM
+Apr 01 15:50:49 【生产商品】巴旦木
+Apr 01 15:50:49 【当前等级】高级工程师 5
+Apr 01 15:50:49 【生产进度】43.73%
+Apr 01 15:50:49 【招工进度】12/12
+Apr 01 15:50:49 【收取发电站】收取成功，获得 359 电力
+Apr 01 15:50:49 【每日任务】领奖成功，共计 859 电力
+Apr 01 15:50:49 【投入电力】投入成功，共计 900 电力
+Apr 01 15:50:49 【收取自己零件】今日已达上限
+Apr 01 15:50:49 【收取好友零件】今日已达上限
+Apr 01 15:50:49 
+Apr 01 15:50:50 
+Apr 01 15:50:50 🔔京喜工厂, 结束! 🕛 47.329 秒
+Apr 01 15:50:50 
+Apr 01 16:50:05 
+Apr 01 16:50:05 🔔京喜工厂, 开始!
+Apr 01 16:50:05 
+Apr 01 16:50:05 ====================共1个京东账号Cookie=========
+Apr 01 16:50:05 
+Apr 01 16:50:05 ==================脚本执行- 北京时间(UTC+8)：4/1/2021, 4:50:05 PM=====================
+Apr 01 16:50:05 
+Apr 01 16:50:06 获取签名参数成功！
+Apr 01 16:50:06 fp: 2075415424072161
+Apr 01 16:50:06 token: tk01wb7ca1c51a8nZTlwVS9JVkhh/YDoyoDb9VqF18I2Uw7fXuy31PxUJUE+UhLboPqfiXWL8hpQnEN93vt8ICOhrdWM
+Apr 01 16:50:06 enCryptMethodJD: function test(token,fingerprint,timestamp,appId,algo){const random='rlMf9OyWs1Dd';const str=`${token}${fingerprint}${timestamp}${appId}${random}`;return algo.SHA256(str)}
+Apr 01 16:50:10 "Response code 503 (Service Temporarily Unavailable)"
+Apr 01 16:50:10 拼团活动ID：获取失败
+Apr 01 16:50:10 开始获取京喜工厂配置文件
+Apr 01 16:50:10 
+Apr 01 16:50:10 共1个京东账号
+Apr 01 16:50:10 
+Apr 01 16:50:10 您提供了1个账号的京喜工厂助力码
+Apr 01 16:50:10 
+Apr 01 16:50:10 
+Apr 01 16:50:10 ******开始【京东账号1】IS_FREEDOM*********
+Apr 01 16:50:10 
+Apr 01 16:50:10 再加1.39%电力可开红包
+Apr 01 16:50:10 
+Apr 01 16:50:10 当前电力：14
+Apr 01 16:50:10 当前等级：5
+Apr 01 16:50:10 
+Apr 01 16:50:10 【京东账号1（burst3166）的京喜工厂好友互助码】A1GAHQrpp1nm7pmfuDlKAg==
+Apr 01 16:50:10 已投入电力：324500
+Apr 01 16:50:10 所需电力：740000
+Apr 01 16:50:10 生产进度：43.85%
+Apr 01 16:50:10 
+Apr 01 16:50:10 
+Apr 01 16:50:10 你今日还能帮好友打工（0/3）次
+Apr 01 16:50:10 
+Apr 01 16:50:10 
+Apr 01 16:50:10 【今日招工进度】12/12
+Apr 01 16:50:10 
+Apr 01 16:50:10 今日助力好友机会已耗尽
+Apr 01 16:50:10 
+Apr 01 16:50:11 发电机：当前 360.3 电力，最大值 420 电力
+Apr 01 16:50:11 
+Apr 01 16:50:11 本次发电机电力集满分享后不可获得双倍电力，故现在收取电力
+Apr 01 16:50:11 
+Apr 01 16:50:11 收取电力成功: 共360 
+Apr 01 16:50:11 完成任务：共领取360电力
+Apr 01 16:50:11 成功投入电力300电力
+Apr 01 16:50:12 自家地下暂无零件可收
+Apr 01 16:50:12 
+Apr 01 16:50:13 查询好友列表完成，共26好友，下面开始拾取好友地下的零件
+Apr 01 16:50:13 
+Apr 01 16:50:13 
+Apr 01 16:50:13 开始收取第 1 个好友 【zacky】 地下零件 collectFlag：0
+Apr 01 16:50:14 好友【1ysne6hoo-pwlVG7b_U0DQ==】地下暂无零件可收
+Apr 01 16:50:14 
+Apr 01 16:50:14 
+Apr 01 16:50:14 开始收取第 2 个好友 【山无棱】 地下零件 collectFlag：0
+Apr 01 16:50:15 好友【8I4PGcZpjvt_Nq20R0r-4Q==】地下暂无零件可收
+Apr 01 16:50:15 
+Apr 01 16:50:15 
+Apr 01 16:50:15 开始收取第 3 个好友 【晨曦】 地下零件 collectFlag：0
+Apr 01 16:50:17 好友【lmOajc3zN-XR5JxkIqM5qA==】地下暂无零件可收
+Apr 01 16:50:17 
+Apr 01 16:50:17 
+Apr 01 16:50:17 开始收取第 4 个好友 【sn*ars】 地下零件 collectFlag：0
+Apr 01 16:50:18 好友【LLngJORM-9zh8UYMGcfd2A==】地下暂无零件可收
+Apr 01 16:50:18 
+Apr 01 16:50:18 
+Apr 01 16:50:18 开始收取第 5 个好友 【侯浩】 地下零件 collectFlag：0
+Apr 01 16:50:20 好友【MJMF4orse-sJYN5pcyklXQ==】地下暂无零件可收
+Apr 01 16:50:20 
+Apr 01 16:50:20 
+Apr 01 16:50:20 开始收取第 6 个好友 【liuzhenli】 地下零件 collectFlag：0
+Apr 01 16:50:21 好友【4Ff3bUhMlfJaid8B4qm32Q==】地下暂无零件可收
+Apr 01 16:50:21 
+Apr 01 16:50:21 
+Apr 01 16:50:21 开始收取第 7 个好友 【SeaYe】 地下零件 collectFlag：0
+Apr 01 16:50:22 好友【hyykhYqbGaAs-0No8h6kVQ==】地下暂无零件可收
+Apr 01 16:50:22 
+Apr 01 16:50:22 
+Apr 01 16:50:22 开始收取第 8 个好友 【jd*c54】 地下零件 collectFlag：0
+Apr 01 16:50:24 好友【Oa8unWu-KdPrmGzypTpgUg==】地下暂无零件可收
+Apr 01 16:50:24 
+Apr 01 16:50:24 
+Apr 01 16:50:24 开始收取第 9 个好友 【小中族】 地下零件 collectFlag：0
+Apr 01 16:50:25 好友【J0ZdwtZszB5pnvxDv6l8tQ==】地下暂无零件可收
+Apr 01 16:50:25 
+Apr 01 16:50:25 
+Apr 01 16:50:25 开始收取第 10 个好友 【WANGJUAN】 地下零件 collectFlag：0
+Apr 01 16:50:26 好友【SIQEUukDV19DwOQGjd9J5Q==】地下暂无零件可收
+Apr 01 16:50:26 
+Apr 01 16:50:26 
+Apr 01 16:50:26 开始收取第 11 个好友 【薇薇】 地下零件 collectFlag：0
+Apr 01 16:50:28 好友【CJvUmDW5_In4nqFPr7BkVg==】地下暂无零件可收
+Apr 01 16:50:28 
+Apr 01 16:50:28 
+Apr 01 16:50:28 开始收取第 12 个好友 【Li 】 地下零件 collectFlag：0
+Apr 01 16:50:29 好友【juHlWyZK6YCYEaIui-9O9A==】地下暂无零件可收
+Apr 01 16:50:29 
+Apr 01 16:50:29 
+Apr 01 16:50:29 开始收取第 13 个好友 【niujie】 地下零件 collectFlag：0
+Apr 01 16:50:31 好友【LAxdowQnMU3ox65OdwNwZA==】地下暂无零件可收
+Apr 01 16:50:31 
+Apr 01 16:50:31 
+Apr 01 16:50:31 开始收取第 14 个好友 【迎伟】 地下零件 collectFlag：0
+Apr 01 16:50:32 好友【N8QdMHreY_pd7rIHq9zlFw==】地下暂无零件可收
+Apr 01 16:50:32 
+Apr 01 16:50:32 
+Apr 01 16:50:32 开始收取第 15 个好友 【平凡】 地下零件 collectFlag：0
+Apr 01 16:50:33 好友【guBovILfmX3SJTf_AQNDRg==】地下暂无零件可收
+Apr 01 16:50:33 
+Apr 01 16:50:33 
+Apr 01 16:50:33 开始收取第 16 个好友 【小胖】 地下零件 collectFlag：0
+Apr 01 16:50:35 好友【X6RooQQkq_I28EjOEpv3Lg==】地下暂无零件可收
+Apr 01 16:50:35 
+Apr 01 16:50:35 
+Apr 01 16:50:35 开始收取第 17 个好友 【杨登兰】 地下零件 collectFlag：0
+Apr 01 16:50:36 好友【uhcZW_ZiVE0UsO11648SHA==】地下暂无零件可收
+Apr 01 16:50:36 
+Apr 01 16:50:36 
+Apr 01 16:50:36 开始收取第 18 个好友 【苹果01】 地下零件 collectFlag：0
+Apr 01 16:50:38 好友【F-LnusDb7uc82e3xbgcq7g==】地下暂无零件可收
+Apr 01 16:50:38 
+Apr 01 16:50:38 
+Apr 01 16:50:38 开始收取第 19 个好友 【婷婷】 地下零件 collectFlag：0
+Apr 01 16:50:39 好友【Sqhj-l0-WiKejPGYH5sEJQ==】地下暂无零件可收
+Apr 01 16:50:39 
+Apr 01 16:50:39 
+Apr 01 16:50:39 开始收取第 20 个好友 【JOY】 地下零件 collectFlag：0
+Apr 01 16:50:40 好友【i55e65wxNYfC4tZ2R8bvdA==】地下暂无零件可收
+Apr 01 16:50:40 
+Apr 01 16:50:40 
+Apr 01 16:50:40 开始收取第 21 个好友 【望乜撚野呀】 地下零件 collectFlag：0
+Apr 01 16:50:42 好友【uJ0m1yiLaG6xNqOVpfLfncFZphSvO5VIUlgMcT9fV5E=】地下暂无零件可收
+Apr 01 16:50:42 
+Apr 01 16:50:42 
+Apr 01 16:50:42 开始收取第 22 个好友 【百度杜小杜】 地下零件 collectFlag：0
+Apr 01 16:50:43 好友【v8gwk5IrNis2alvqFJbmpw==】地下暂无零件可收
+Apr 01 16:50:43 
+Apr 01 16:50:43 
+Apr 01 16:50:43 开始收取第 23 个好友 【山有木兮木有枝】 地下零件 collectFlag：0
+Apr 01 16:50:44 好友【7fzlmybQNCsUvyimRAXUOA==】地下暂无零件可收
+Apr 01 16:50:44 
+Apr 01 16:50:44 
+Apr 01 16:50:44 开始收取第 24 个好友 【Z】 地下零件 collectFlag：0
+Apr 01 16:50:47 好友【Z4EkI5Mzd0IllHBOOSXwsA==】地下暂无零件可收
+Apr 01 16:50:47 
+Apr 01 16:50:47 
+Apr 01 16:50:47 开始收取第 25 个好友 【明雩】 地下零件 collectFlag：0
+Apr 01 16:50:49 好友【m2LC0Qsqnr3rK8e3ApvsuQ==】地下暂无零件可收
+Apr 01 16:50:49 
+Apr 01 16:50:49 
+Apr 01 16:50:49 开始收取第 26 个好友 【jd*672】 地下零件 collectFlag：0
+Apr 01 16:50:50 好友【5LcqlK-8sBkaG8Mg7mCYvQ==】地下暂无零件可收
+Apr 01 16:50:50 
+Apr 01 16:50:50 
+Apr 01 16:50:50 团活动ID  6S9y4sJUfA2vPQP6TLdVIQ==
+Apr 01 16:50:50 团ID  
+Apr 01 16:50:50 
+Apr 01 16:50:50 今日剩余开团次数：3次
+Apr 01 16:50:50 准备开团
+Apr 01 16:50:50 开团异常：{"msg":"活动已结束，请稍后再试~","nowTime":1617267050,"ret":10218}
+Apr 01 16:50:50 
+Apr 01 16:50:50   商品名     兑换状态
+Apr 01 16:50:50 三合一数据线    已兑换
+Apr 01 16:50:50 多味花生3袋    已兑换
+Apr 01 16:50:50 刀具三件套    已兑换
+Apr 01 16:50:50 
+Apr 01 16:50:50 【京东账号1】IS_FREEDOM
+Apr 01 16:50:50 【生产商品】巴旦木
+Apr 01 16:50:50 【当前等级】高级工程师 5
+Apr 01 16:50:50 【生产进度】43.85%
+Apr 01 16:50:50 【招工进度】12/12
+Apr 01 16:50:50 【收取发电站】收取成功，获得 360 电力
+Apr 01 16:50:50 【每日任务】领奖成功，共计 360 电力
+Apr 01 16:50:50 【投入电力】投入成功，共计 300 电力
+Apr 01 16:50:50 【收取自己零件】今日已达上限
+Apr 01 16:50:50 【收取好友零件】今日已达上限
+Apr 01 16:50:50 
+Apr 01 16:50:51 
+Apr 01 16:50:51 🔔京喜工厂, 结束! 🕛 46.196 秒
+Apr 01 16:50:51 

@@ -104,3 +104,122 @@ Mar 31 06:05:59 本次运行获得140里程，0京豆，共计3320里程
 Mar 31 06:05:59 
 Mar 31 06:05:59 🔔环球挑战赛, 结束! 🕛 31.325 秒
 Mar 31 06:05:59 
+Mar 31 22:05:21 
+Mar 31 22:05:21 🔔环球挑战赛, 开始!
+Mar 31 22:05:21 
+Mar 31 22:05:21 ====================共1个京东账号Cookie=========
+Mar 31 22:05:21 
+Mar 31 22:05:21 ==================脚本执行- 北京时间(UTC+8)：3/31/2021, 10:05:21 PM=====================
+Mar 31 22:05:21 
+Mar 31 22:05:21 开始获取环球挑战赛配置文件
+Mar 31 22:05:21 
+Mar 31 22:05:21 共1个京东账号
+Mar 31 22:05:21 
+Mar 31 22:05:21 您提供了0个账号的环球挑战赛PK助力码
+Mar 31 22:05:21 
+Mar 31 22:05:21 
+Mar 31 22:05:21 ******开始【京东账号1】burst3166*********
+Mar 31 22:05:21 
+Mar 31 22:05:21 由于您第1个京东账号未提供shareCode,将采纳本脚本自带的助力码
+Mar 31 22:05:21 
+Mar 31 22:05:21 开始
+Mar 31 22:05:31 第1个京东账号将要助力的好友["WmpHM2pndWh3OFphS2NsbTRLMmhqZz09","M3ozUGw0eExUZ25hSHBTZ2pJcTdpZz09","S2tETnZ0REtONy9Dc2Nqek1KNXpmWHFTNnF3OUtQQjJKZmJ2YUtSS3BQTT0=","a1RrenU1WExQaXRWS3VIZHgwMjlUYzJSeHhVMDlvZXgxR2RsdkZkRXZnOD0=","bHNsOVFIL2tQRTJhSndpRVNHVTlheXJLbzZRK09HaUtidjJUUFNQRXdqbz0=","M0JxTFVEbmxtV05uQWJVQVdyL2NxeTcycG1lcWtEbzVOc283bjR2MklkWT0="]
+Mar 31 22:05:32 
+Mar 31 22:05:32 ❗️环球挑战赛, 错误!
+Mar 31 22:05:32 TypeError: Cannot read property 'currDays' of undefined
+Mar 31 22:05:32     at /scripts/jd_global.js:155:55
+Mar 31 22:05:32     at isSurge.isLoon.isQuanX.isNode.got.on.then.message (/scripts/jd_global.js:489:4869)
+Mar 31 22:05:32     at processTicksAndRejections (internal/process/task_queues.js:97:5)
+Mar 31 22:05:32 
+Mar 31 22:05:32 ❗️环球挑战赛, 错误!
+Mar 31 22:05:32 TypeError: undefined is not iterable (cannot read property Symbol(Symbol.iterator))
+Mar 31 22:05:32     at /scripts/jd_global.js:182:26
+Mar 31 22:05:32     at isSurge.isLoon.isQuanX.isNode.got.on.then.message (/scripts/jd_global.js:489:4869)
+Mar 31 22:05:32     at processTicksAndRejections (internal/process/task_queues.js:97:5)
+Mar 31 22:05:32 
+Mar 31 22:05:32 ❗️环球挑战赛, 错误!
+Mar 31 22:05:32 TypeError: Cannot read property 'filter' of undefined
+Mar 31 22:05:32     at /scripts/jd_global.js:137:48
+Mar 31 22:05:32     at isSurge.isLoon.isQuanX.isNode.got.on.then.message (/scripts/jd_global.js:489:4869)
+Mar 31 22:05:32     at processTicksAndRejections (internal/process/task_queues.js:97:5)
+Mar 31 22:05:32 去助力好友WmpHM2pndWh3OFphS2NsbTRLMmhqZz09
+Mar 31 22:05:32 接口降级
+Mar 31 22:05:33 去助力好友M3ozUGw0eExUZ25hSHBTZ2pJcTdpZz09
+Mar 31 22:05:33 接口降级
+Mar 31 22:05:34 去助力好友S2tETnZ0REtONy9Dc2Nqek1KNXpmWHFTNnF3OUtQQjJKZmJ2YUtSS3BQTT0=
+Mar 31 22:05:34 接口降级
+Mar 31 22:05:35 随机取20个码放到您固定的互助码后面(不影响已有固定互助)
+Mar 31 22:05:35 去助力好友a1RrenU1WExQaXRWS3VIZHgwMjlUYzJSeHhVMDlvZXgxR2RsdkZkRXZnOD0=
+Mar 31 22:05:35 接口降级
+Mar 31 22:05:36 去助力好友bHNsOVFIL2tQRTJhSndpRVNHVTlheXJLbzZRK09HaUtidjJUUFNQRXdqbz0=
+Mar 31 22:05:36 接口降级
+Mar 31 22:05:37 去助力好友M0JxTFVEbmxtV05uQWJVQVdyL2NxeTcycG1lcWtEbzVOc283bjR2MklkWT0=
+Mar 31 22:05:37 接口降级
+Mar 31 22:05:38 
+Mar 31 22:05:38 ==============📣系统通知📣==============
+Mar 31 22:05:38 环球挑战赛
+Mar 31 22:05:38 京东账号1burst3166
+Mar 31 22:05:38 本次运行获得NaN里程，0京豆，共计0里程
+Mar 31 22:05:38 
+Mar 31 22:05:38 🔔环球挑战赛, 结束! 🕛 17.27 秒
+Mar 31 22:05:38 
+Apr 01 06:05:01 
+Apr 01 06:05:01 🔔环球挑战赛, 开始!
+Apr 01 06:05:01 
+Apr 01 06:05:01 ====================共1个京东账号Cookie=========
+Apr 01 06:05:01 
+Apr 01 06:05:01 ==================脚本执行- 北京时间(UTC+8)：4/1/2021, 6:05:01 AM=====================
+Apr 01 06:05:01 
+Apr 01 06:05:01 开始获取环球挑战赛配置文件
+Apr 01 06:05:01 
+Apr 01 06:05:01 共1个京东账号
+Apr 01 06:05:01 
+Apr 01 06:05:01 您提供了0个账号的环球挑战赛PK助力码
+Apr 01 06:05:01 
+Apr 01 06:05:02 
+Apr 01 06:05:02 ******开始【京东账号1】burst3166*********
+Apr 01 06:05:02 
+Apr 01 06:05:02 由于您第1个京东账号未提供shareCode,将采纳本脚本自带的助力码
+Apr 01 06:05:02 
+Apr 01 06:05:02 开始
+Apr 01 06:05:12 第1个京东账号将要助力的好友["WmpHM2pndWh3OFphS2NsbTRLMmhqZz09","M3ozUGw0eExUZ25hSHBTZ2pJcTdpZz09","S2tETnZ0REtONy9Dc2Nqek1KNXpmWHFTNnF3OUtQQjJKZmJ2YUtSS3BQTT0=","a1RrenU1WExQaXRWS3VIZHgwMjlUYzJSeHhVMDlvZXgxR2RsdkZkRXZnOD0=","bHNsOVFIL2tQRTJhSndpRVNHVTlheXJLbzZRK09HaUtidjJUUFNQRXdqbz0=","M0JxTFVEbmxtV05uQWJVQVdyL2NxeTcycG1lcWtEbzVOc283bjR2MklkWT0="]
+Apr 01 06:05:12 
+Apr 01 06:05:12 ❗️环球挑战赛, 错误!
+Apr 01 06:05:12 TypeError: Cannot read property 'currDays' of undefined
+Apr 01 06:05:12     at /scripts/jd_global.js:155:55
+Apr 01 06:05:12     at isSurge.isLoon.isQuanX.isNode.got.on.then.message (/scripts/jd_global.js:489:4869)
+Apr 01 06:05:12     at processTicksAndRejections (internal/process/task_queues.js:97:5)
+Apr 01 06:05:12 
+Apr 01 06:05:12 ❗️环球挑战赛, 错误!
+Apr 01 06:05:12 TypeError: undefined is not iterable (cannot read property Symbol(Symbol.iterator))
+Apr 01 06:05:12     at /scripts/jd_global.js:182:26
+Apr 01 06:05:12     at isSurge.isLoon.isQuanX.isNode.got.on.then.message (/scripts/jd_global.js:489:4869)
+Apr 01 06:05:12     at processTicksAndRejections (internal/process/task_queues.js:97:5)
+Apr 01 06:05:12 
+Apr 01 06:05:12 ❗️环球挑战赛, 错误!
+Apr 01 06:05:12 TypeError: Cannot read property 'filter' of undefined
+Apr 01 06:05:12     at /scripts/jd_global.js:137:48
+Apr 01 06:05:12     at isSurge.isLoon.isQuanX.isNode.got.on.then.message (/scripts/jd_global.js:489:4869)
+Apr 01 06:05:12     at processTicksAndRejections (internal/process/task_queues.js:97:5)
+Apr 01 06:05:12 去助力好友WmpHM2pndWh3OFphS2NsbTRLMmhqZz09
+Apr 01 06:05:12 接口降级
+Apr 01 06:05:13 去助力好友M3ozUGw0eExUZ25hSHBTZ2pJcTdpZz09
+Apr 01 06:05:13 接口降级
+Apr 01 06:05:14 去助力好友S2tETnZ0REtONy9Dc2Nqek1KNXpmWHFTNnF3OUtQQjJKZmJ2YUtSS3BQTT0=
+Apr 01 06:05:15 接口降级
+Apr 01 06:05:16 去助力好友a1RrenU1WExQaXRWS3VIZHgwMjlUYzJSeHhVMDlvZXgxR2RsdkZkRXZnOD0=
+Apr 01 06:05:16 活动已结束~
+Apr 01 06:05:17 去助力好友bHNsOVFIL2tQRTJhSndpRVNHVTlheXJLbzZRK09HaUtidjJUUFNQRXdqbz0=
+Apr 01 06:05:17 接口降级
+Apr 01 06:05:18 去助力好友M0JxTFVEbmxtV05uQWJVQVdyL2NxeTcycG1lcWtEbzVOc283bjR2MklkWT0=
+Apr 01 06:05:18 活动已结束~
+Apr 01 06:05:19 
+Apr 01 06:05:19 ==============📣系统通知📣==============
+Apr 01 06:05:19 环球挑战赛
+Apr 01 06:05:19 京东账号1burst3166
+Apr 01 06:05:19 本次运行获得NaN里程，0京豆，共计0里程
+Apr 01 06:05:19 
+Apr 01 06:05:19 🔔环球挑战赛, 结束! 🕛 17.768 秒
+Apr 01 06:05:19 
+Apr 01 06:05:30 "Response code 500 (Internal Server Error)"
+Apr 01 06:05:30 环球挑战赛 API请求失败，请检查网路重试
