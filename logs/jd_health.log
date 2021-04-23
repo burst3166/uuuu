@@ -1,0 +1,519 @@
+Apr 22 21:30:12 
+Apr 22 21:30:12 🔔东东健康社区, 开始!
+Apr 22 21:30:12 
+Apr 22 21:30:12 ====================共1个京东账号Cookie=========
+Apr 22 21:30:12 
+Apr 22 21:30:12 ==================脚本执行- 北京时间(UTC+8)：4/22/2021, 9:30:12 PM=====================
+Apr 22 21:30:12 
+Apr 22 21:30:12 如果出现提示 ?.data. 错误，请升级nodejs版本(进入容器后，apk add nodejs-current)
+Apr 22 21:30:12 开始获取东东健康社区配置文件
+Apr 22 21:30:12 
+Apr 22 21:30:12 共1个京东账号
+Apr 22 21:30:12 
+Apr 22 21:30:12 您提供了0个账号的东东健康社区助力码
+Apr 22 21:30:12 
+Apr 22 21:30:12 
+Apr 22 21:30:12 ******开始【京东账号1】jd_60103fd1c8cd9*********
+Apr 22 21:30:12 
+Apr 22 21:30:12 由于您第1个京东账号未提供shareCode,将采纳本脚本自带的助力码
+Apr 22 21:30:12 
+Apr 22 21:30:12 开始
+Apr 22 21:30:21 "Response code 520 (undefined)"
+Apr 22 21:30:21 东东健康社区 API请求失败，请检查网路重试
+Apr 22 21:30:21 第1个京东账号将要助力的好友["T019-aknAFRllhyoQlyI46gCjVfnoaW5kRrbA","T0225KkcRhcbp1CBJhv0wfZedQCjVfnoaW5kRrbA","T010_aU6SR8Q_QCjVfnoaW5kRrbA","T0225KkcREtN9lOGJUinl_dfcwCjVfnoaW5kRrbA","T0225KkcRBYdoFaGIxOnnPMJdACjVfnoaW5kRrbA","T027Zm_olqSxIOtH97BATGmKoWraLawCjVfnoaW5kRrbA","T0225KkcRk1N_FeCJhv3xvdfcQCjVfnoaW5kRrbA"]
+Apr 22 21:30:21 签到领健康能量任务，完成次数：0/1
+Apr 22 21:30:21 去完成签到领健康能量任务
+Apr 22 21:30:21 任务完成成功，获得：100能量
+Apr 22 21:30:21 
+Apr 22 21:30:21 【京东账号1（jd_60103fd1c8cd9）的东东健康社区好友互助码】T0225KkcRh4Y9VeBdBunnKRefQCjVfnoaW5kRrbA
+Apr 22 21:30:21 
+Apr 22 21:30:21 好友助力码：T0225KkcRh4Y9VeBdBunnKRefQCjVfnoaW5kRrbA
+Apr 22 21:30:21 参与瓜分千万京豆任务，完成次数：0/1
+Apr 22 21:30:21 去完成参与瓜分千万京豆任务
+Apr 22 21:30:21 任务领取结果：任务领取成功
+Apr 22 21:30:31 任务完成成功，获得：300能量
+Apr 22 21:30:31 加入母婴社群任务，完成次数：0/1
+Apr 22 21:30:31 去完成加入母婴社群任务
+Apr 22 21:30:31 任务完成成功，获得：300能量
+Apr 22 21:30:31 早起打卡(06:00-09:00)任务，完成次数：0/1
+Apr 22 21:30:31 去完成早起打卡(06:00-09:00)任务
+Apr 22 21:30:31 任务完成失败：不在打卡时间哦!
+Apr 22 21:30:31 下载京东健康APP任务，完成次数：0/1
+Apr 22 21:30:31 去完成下载京东健康APP任务
+Apr 22 21:30:31 任务领取结果：任务领取成功
+Apr 22 21:30:41 任务完成成功，获得：300能量
+Apr 22 21:30:41 浏览京东大药房会场任务，完成次数：0/1
+Apr 22 21:30:41 去完成浏览京东大药房会场任务
+Apr 22 21:30:41 任务领取结果：任务领取成功
+Apr 22 21:30:51 任务完成成功，获得：300能量
+Apr 22 21:30:51 关注医药馆1元抢好药任务，完成次数：0/1
+Apr 22 21:30:51 去完成关注医药馆1元抢好药任务
+Apr 22 21:30:51 任务完成成功，获得：500能量
+Apr 22 21:30:53 早起打卡(06:00-09:00)任务，完成次数：0/1
+Apr 22 21:30:53 去完成早起打卡(06:00-09:00)任务
+Apr 22 21:30:53 任务完成失败：不在打卡时间哦!
+Apr 22 21:30:53 西医亚健康测评任务，完成次数：0/1
+Apr 22 21:30:53 去完成西医亚健康测评任务
+Apr 22 21:30:53 汤臣倍健 维生素C橙子味240片 补充VC 成人男士女士vc咀嚼片两种口味随机发货任务，完成次数：0/3
+Apr 22 21:30:53 去完成汤臣倍健 维生素C橙子味240片 补充VC 成人男士女士vc咀嚼片两种口味随机发货任务
+Apr 22 21:30:53 任务领取结果：任务领取成功
+Apr 22 21:31:03 任务完成成功，获得：300能量
+Apr 22 21:31:03 去完成汤臣倍健 维生素C橙子味240片 补充VC 成人男士女士vc咀嚼片两种口味随机发货任务
+Apr 22 21:31:03 任务领取结果：任务领取成功
+Apr 22 21:31:13 任务完成成功，获得：300能量
+Apr 22 21:31:13 去完成汤臣倍健 维生素C橙子味240片 补充VC 成人男士女士vc咀嚼片两种口味随机发货任务
+Apr 22 21:31:13 任务领取结果：任务领取成功
+Apr 22 21:31:23 任务完成成功，获得：300能量
+Apr 22 21:31:23 浏览保健馆活动会场任务，完成次数：0/1
+Apr 22 21:31:23 去完成浏览保健馆活动会场任务
+Apr 22 21:31:23 任务领取结果：任务领取成功
+Apr 22 21:31:33 任务完成成功，获得：300能量
+Apr 22 21:31:33 【京东健康甄选】爱康国宾（ikang）体检卡 深爱老公老婆体检套餐 全国门店通用任务，完成次数：0/3
+Apr 22 21:31:33 去完成【京东健康甄选】爱康国宾（ikang）体检卡 深爱老公老婆体检套餐 全国门店通用任务
+Apr 22 21:31:33 任务领取结果：任务领取成功
+Apr 22 21:31:43 任务完成成功，获得：300能量
+Apr 22 21:31:43 去完成【京东健康甄选】爱康国宾（ikang）体检卡 深爱老公老婆体检套餐 全国门店通用任务
+Apr 22 21:31:43 任务领取结果：任务领取成功
+Apr 22 21:31:53 任务完成成功，获得：300能量
+Apr 22 21:31:53 去完成【京东健康甄选】爱康国宾（ikang）体检卡 深爱老公老婆体检套餐 全国门店通用任务
+Apr 22 21:31:53 任务领取结果：任务领取成功
+Apr 22 21:32:03 任务完成成功，获得：300能量
+Apr 22 21:32:03 浏览体检医美频道页任务，完成次数：0/1
+Apr 22 21:32:03 去完成浏览体检医美频道页任务
+Apr 22 21:32:03 任务领取结果：任务领取成功
+Apr 22 21:32:13 任务完成成功，获得：300能量
+Apr 22 21:32:15 早起打卡(06:00-09:00)任务，完成次数：0/1
+Apr 22 21:32:15 去完成早起打卡(06:00-09:00)任务
+Apr 22 21:32:15 任务完成失败：不在打卡时间哦!
+Apr 22 21:32:15 西医亚健康测评任务，完成次数：0/1
+Apr 22 21:32:15 去完成西医亚健康测评任务
+Apr 22 21:32:15 参与瓜分千万京豆任务，完成次数：1/1
+Apr 22 21:32:15 加入母婴社群任务，完成次数：1/1
+Apr 22 21:32:15 下载京东健康APP任务，完成次数：1/1
+Apr 22 21:32:15 浏览京东大药房会场任务，完成次数：1/1
+Apr 22 21:32:15 任务完成成功，获得：480能量
+Apr 22 21:32:15 去助力好友T019-aknAFRllhyoQlyI46gCjVfnoaW5kRrbA
+Apr 22 21:32:15 任务完成失败：助力失败丨助力已满员！谢谢你哦~
+Apr 22 21:32:16 去助力好友T0225KkcRhcbp1CBJhv0wfZedQCjVfnoaW5kRrbA
+Apr 22 21:32:16 任务完成失败：助力失败丨助力已满员！谢谢你哦~
+Apr 22 21:32:17 去助力好友T010_aU6SR8Q_QCjVfnoaW5kRrbA
+Apr 22 21:32:17 任务完成失败：助力失败丨助力已满员！谢谢你哦~
+Apr 22 21:32:18 去助力好友T0225KkcREtN9lOGJUinl_dfcwCjVfnoaW5kRrbA
+Apr 22 21:32:18 任务完成失败：助力失败丨助力已满员！谢谢你哦~
+Apr 22 21:32:19 去助力好友T0225KkcRBYdoFaGIxOnnPMJdACjVfnoaW5kRrbA
+Apr 22 21:32:19 任务完成失败：助力失败丨助力已满员！谢谢你哦~
+Apr 22 21:32:20 去助力好友T027Zm_olqSxIOtH97BATGmKoWraLawCjVfnoaW5kRrbA
+Apr 22 21:32:20 任务完成失败：助力失败丨助力已满员！谢谢你哦~
+Apr 22 21:32:21 去助力好友T0225KkcRk1N_FeCJhv3xvdfcQCjVfnoaW5kRrbA
+Apr 22 21:32:21 任务完成失败：助力失败丨助力已满员！谢谢你哦~
+Apr 22 21:32:22 
+Apr 22 21:32:22 ==============📣系统通知📣==============
+Apr 22 21:32:22 东东健康社区
+Apr 22 21:32:22 京东账号1 jd_60103fd1c8cd9
+Apr 22 21:32:22 本次获得4680健康值，累计4680健康值
+Apr 22 21:32:22 
+Apr 22 21:32:22 
+Apr 22 21:32:22 🔔东东健康社区, 结束! 🕛 130.044 秒
+Apr 22 21:32:22 
+Apr 23 00:30:19 
+Apr 23 00:30:19 🔔东东健康社区, 开始!
+Apr 23 00:30:19 
+Apr 23 00:30:19 ====================共1个京东账号Cookie=========
+Apr 23 00:30:19 
+Apr 23 00:30:19 ==================脚本执行- 北京时间(UTC+8)：4/23/2021, 12:30:19 AM=====================
+Apr 23 00:30:19 
+Apr 23 00:30:19 如果出现提示 ?.data. 错误，请升级nodejs版本(进入容器后，apk add nodejs-current)
+Apr 23 00:30:19 开始获取东东健康社区配置文件
+Apr 23 00:30:19 
+Apr 23 00:30:19 共1个京东账号
+Apr 23 00:30:19 
+Apr 23 00:30:19 您提供了0个账号的东东健康社区助力码
+Apr 23 00:30:19 
+Apr 23 00:30:19 
+Apr 23 00:30:19 ******开始【京东账号1】jd_60103fd1c8cd9*********
+Apr 23 00:30:19 
+Apr 23 00:30:19 由于您第1个京东账号未提供shareCode,将采纳本脚本自带的助力码
+Apr 23 00:30:19 
+Apr 23 00:30:19 开始
+Apr 23 00:30:25 "Response code 502 (Bad Gateway)"
+Apr 23 00:30:25 东东健康社区 API请求失败，请检查网路重试
+Apr 23 00:30:25 第1个京东账号将要助力的好友["T019-aknAFRllhyoQlyI46gCjVfnoaW5kRrbA","T0225KkcRhcbp1CBJhv0wfZedQCjVfnoaW5kRrbA","T010_aU6SR8Q_QCjVfnoaW5kRrbA","T0225KkcREtN9lOGJUinl_dfcwCjVfnoaW5kRrbA","T0225KkcRBYdoFaGIxOnnPMJdACjVfnoaW5kRrbA","T027Zm_olqSxIOtH97BATGmKoWraLawCjVfnoaW5kRrbA","T0225KkcRk1N_FeCJhv3xvdfcQCjVfnoaW5kRrbA"]
+Apr 23 00:30:25 签到领健康能量任务，完成次数：0/1
+Apr 23 00:30:25 去完成签到领健康能量任务
+Apr 23 00:30:25 任务完成成功，获得：200能量
+Apr 23 00:30:25 
+Apr 23 00:30:25 【京东账号1（jd_60103fd1c8cd9）的东东健康社区好友互助码】T0225KkcRh4Y9VeBdBunnKRefQCjVfnoaW5kRrbA
+Apr 23 00:30:25 
+Apr 23 00:30:25 好友助力码：T0225KkcRh4Y9VeBdBunnKRefQCjVfnoaW5kRrbA
+Apr 23 00:30:25 参与瓜分千万京豆任务，完成次数：0/1
+Apr 23 00:30:25 去完成参与瓜分千万京豆任务
+Apr 23 00:30:25 任务领取结果：任务领取成功
+Apr 23 00:30:35 任务完成成功，获得：300能量
+Apr 23 00:30:35 早起打卡(06:00-09:00)任务，完成次数：0/1
+Apr 23 00:30:35 去完成早起打卡(06:00-09:00)任务
+Apr 23 00:30:35 任务完成失败：不在打卡时间哦!
+Apr 23 00:30:35 下载京东健康APP任务，完成次数：0/1
+Apr 23 00:30:35 去完成下载京东健康APP任务
+Apr 23 00:30:35 任务领取结果：任务领取成功
+Apr 23 00:30:45 任务完成成功，获得：300能量
+Apr 23 00:30:45 浏览京东大药房会场任务，完成次数：0/1
+Apr 23 00:30:45 去完成浏览京东大药房会场任务
+Apr 23 00:30:45 任务领取结果：任务领取成功
+Apr 23 00:30:55 任务完成成功，获得：300能量
+Apr 23 00:30:55 关注医药馆1元抢好药任务，完成次数：0/1
+Apr 23 00:30:55 去完成关注医药馆1元抢好药任务
+Apr 23 00:30:56 任务完成成功，获得：500能量
+Apr 23 00:30:56 西医亚健康测评任务，完成次数：0/1
+Apr 23 00:30:56 去完成西医亚健康测评任务
+Apr 23 00:30:57 早起打卡(06:00-09:00)任务，完成次数：0/1
+Apr 23 00:30:57 去完成早起打卡(06:00-09:00)任务
+Apr 23 00:30:57 任务完成失败：不在打卡时间哦!
+Apr 23 00:30:57 西医亚健康测评任务，完成次数：0/1
+Apr 23 00:30:57 去完成西医亚健康测评任务
+Apr 23 00:30:57 【姐姐同款】Swisse斯维诗奶蓟草片护肝片120片/瓶草本精华成人养肝护肝加班熬夜烟酒常备澳洲进口任务，完成次数：0/3
+Apr 23 00:30:57 去完成【姐姐同款】Swisse斯维诗奶蓟草片护肝片120片/瓶草本精华成人养肝护肝加班熬夜烟酒常备澳洲进口任务
+Apr 23 00:30:57 任务领取结果：任务领取成功
+Apr 23 00:31:07 任务完成成功，获得：300能量
+Apr 23 00:31:07 去完成【姐姐同款】Swisse斯维诗奶蓟草片护肝片120片/瓶草本精华成人养肝护肝加班熬夜烟酒常备澳洲进口任务
+Apr 23 00:31:07 任务领取结果：任务领取成功
+Apr 23 00:31:17 任务完成成功，获得：300能量
+Apr 23 00:31:17 去完成【姐姐同款】Swisse斯维诗奶蓟草片护肝片120片/瓶草本精华成人养肝护肝加班熬夜烟酒常备澳洲进口任务
+Apr 23 00:31:17 任务领取结果：任务领取成功
+Apr 23 00:31:27 任务完成成功，获得：300能量
+Apr 23 00:31:27 浏览保健馆活动会场任务，完成次数：0/1
+Apr 23 00:31:27 去完成浏览保健馆活动会场任务
+Apr 23 00:31:27 任务领取结果：任务领取成功
+Apr 23 00:31:37 任务完成成功，获得：300能量
+Apr 23 00:31:37 【京东健康甄选】爱康国宾（ikang）体检卡 珍爱VIP深度体检套餐 全国门店通用任务，完成次数：0/3
+Apr 23 00:31:37 去完成【京东健康甄选】爱康国宾（ikang）体检卡 珍爱VIP深度体检套餐 全国门店通用任务
+Apr 23 00:31:37 任务领取结果：任务领取成功
+Apr 23 00:31:47 任务完成成功，获得：300能量
+Apr 23 00:31:47 去完成【京东健康甄选】爱康国宾（ikang）体检卡 珍爱VIP深度体检套餐 全国门店通用任务
+Apr 23 00:31:47 任务领取结果：任务领取成功
+Apr 23 00:31:57 任务完成成功，获得：300能量
+Apr 23 00:31:57 去完成【京东健康甄选】爱康国宾（ikang）体检卡 珍爱VIP深度体检套餐 全国门店通用任务
+Apr 23 00:31:57 任务领取结果：任务领取成功
+Apr 23 00:32:07 任务完成成功，获得：300能量
+Apr 23 00:32:07 浏览体检医美频道页任务，完成次数：0/1
+Apr 23 00:32:07 去完成浏览体检医美频道页任务
+Apr 23 00:32:07 任务领取结果：任务领取成功
+Apr 23 00:32:17 任务完成成功，获得：300能量
+Apr 23 00:32:19 早起打卡(06:00-09:00)任务，完成次数：0/1
+Apr 23 00:32:19 去完成早起打卡(06:00-09:00)任务
+Apr 23 00:32:19 任务完成失败：不在打卡时间哦!
+Apr 23 00:32:19 西医亚健康测评任务，完成次数：0/1
+Apr 23 00:32:19 去完成西医亚健康测评任务
+Apr 23 00:32:19 参与瓜分千万京豆任务，完成次数：1/1
+Apr 23 00:32:19 加入母婴社群任务，完成次数：1/1
+Apr 23 00:32:19 下载京东健康APP任务，完成次数：1/1
+Apr 23 00:32:19 浏览京东大药房会场任务，完成次数：1/1
+Apr 23 00:32:19 任务完成成功，获得：480能量
+Apr 23 00:32:19 去助力好友T019-aknAFRllhyoQlyI46gCjVfnoaW5kRrbA
+Apr 23 00:32:19 任务完成失败：助力失败丨助力已满员！谢谢你哦~
+Apr 23 00:32:20 去助力好友T0225KkcRhcbp1CBJhv0wfZedQCjVfnoaW5kRrbA
+Apr 23 00:32:20 任务完成失败：助力失败丨助力已满员！谢谢你哦~
+Apr 23 00:32:21 去助力好友T010_aU6SR8Q_QCjVfnoaW5kRrbA
+Apr 23 00:32:21 任务完成失败：助力失败丨助力已满员！谢谢你哦~
+Apr 23 00:32:22 去助力好友T0225KkcREtN9lOGJUinl_dfcwCjVfnoaW5kRrbA
+Apr 23 00:32:22 任务完成失败：助力失败丨助力已满员！谢谢你哦~
+Apr 23 00:32:23 去助力好友T0225KkcRBYdoFaGIxOnnPMJdACjVfnoaW5kRrbA
+Apr 23 00:32:23 任务完成失败：助力失败丨助力已满员！谢谢你哦~
+Apr 23 00:32:24 去助力好友T027Zm_olqSxIOtH97BATGmKoWraLawCjVfnoaW5kRrbA
+Apr 23 00:32:24 任务完成失败：助力失败丨助力已满员！谢谢你哦~
+Apr 23 00:32:25 去助力好友T0225KkcRk1N_FeCJhv3xvdfcQCjVfnoaW5kRrbA
+Apr 23 00:32:25 任务完成失败：助力失败丨助力已满员！谢谢你哦~
+Apr 23 00:32:26 
+Apr 23 00:32:26 ==============📣系统通知📣==============
+Apr 23 00:32:26 东东健康社区
+Apr 23 00:32:26 京东账号1 jd_60103fd1c8cd9
+Apr 23 00:32:26 本次获得4480健康值，累计9160健康值
+Apr 23 00:32:26 
+Apr 23 00:32:26 
+Apr 23 00:32:26 🔔东东健康社区, 结束! 🕛 127.105 秒
+Apr 23 00:32:26 
+Apr 23 03:30:30 
+Apr 23 03:30:30 🔔东东健康社区, 开始!
+Apr 23 03:30:30 
+Apr 23 03:30:30 ====================共1个京东账号Cookie=========
+Apr 23 03:30:30 
+Apr 23 03:30:30 ==================脚本执行- 北京时间(UTC+8)：4/23/2021, 3:30:30 AM=====================
+Apr 23 03:30:30 
+Apr 23 03:30:30 如果出现提示 ?.data. 错误，请升级nodejs版本(进入容器后，apk add nodejs-current)
+Apr 23 03:30:30 开始获取东东健康社区配置文件
+Apr 23 03:30:30 
+Apr 23 03:30:30 共1个京东账号
+Apr 23 03:30:30 
+Apr 23 03:30:30 您提供了0个账号的东东健康社区助力码
+Apr 23 03:30:30 
+Apr 23 03:30:30 
+Apr 23 03:30:30 ******开始【京东账号1】jd_60103fd1c8cd9*********
+Apr 23 03:30:30 
+Apr 23 03:30:30 由于您第1个京东账号未提供shareCode,将采纳本脚本自带的助力码
+Apr 23 03:30:30 
+Apr 23 03:30:30 开始
+Apr 23 03:30:40 第1个京东账号将要助力的好友["T019-aknAFRllhyoQlyI46gCjVfnoaW5kRrbA","T0225KkcRhcbp1CBJhv0wfZedQCjVfnoaW5kRrbA","T010_aU6SR8Q_QCjVfnoaW5kRrbA","T0225KkcREtN9lOGJUinl_dfcwCjVfnoaW5kRrbA","T0225KkcRBYdoFaGIxOnnPMJdACjVfnoaW5kRrbA","T027Zm_olqSxIOtH97BATGmKoWraLawCjVfnoaW5kRrbA","T0225KkcRk1N_FeCJhv3xvdfcQCjVfnoaW5kRrbA"]
+Apr 23 03:30:40 签到领健康能量任务，完成次数：1/1
+Apr 23 03:30:40 
+Apr 23 03:30:40 【京东账号1（jd_60103fd1c8cd9）的东东健康社区好友互助码】T0225KkcRh4Y9VeBdBunnKRefQCjVfnoaW5kRrbA
+Apr 23 03:30:40 
+Apr 23 03:30:40 好友助力码：T0225KkcRh4Y9VeBdBunnKRefQCjVfnoaW5kRrbA
+Apr 23 03:30:40 早起打卡(06:00-09:00)任务，完成次数：0/1
+Apr 23 03:30:40 去完成早起打卡(06:00-09:00)任务
+Apr 23 03:30:41 任务完成失败：不在打卡时间哦!
+Apr 23 03:30:41 西医亚健康测评任务，完成次数：0/1
+Apr 23 03:30:41 去完成西医亚健康测评任务
+Apr 23 03:30:41 参与瓜分千万京豆任务，完成次数：1/1
+Apr 23 03:30:41 加入母婴社群任务，完成次数：1/1
+Apr 23 03:30:41 下载京东健康APP任务，完成次数：1/1
+Apr 23 03:30:41 浏览京东大药房会场任务，完成次数：1/1
+Apr 23 03:30:41 任务完成成功，获得：480能量
+Apr 23 03:30:41 去助力好友T019-aknAFRllhyoQlyI46gCjVfnoaW5kRrbA
+Apr 23 03:30:41 任务完成失败：助力失败丨助力已满员！谢谢你哦~
+Apr 23 03:30:42 去助力好友T0225KkcRhcbp1CBJhv0wfZedQCjVfnoaW5kRrbA
+Apr 23 03:30:42 任务完成失败：助力失败丨助力已满员！谢谢你哦~
+Apr 23 03:30:43 去助力好友T010_aU6SR8Q_QCjVfnoaW5kRrbA
+Apr 23 03:30:43 任务完成失败：助力失败丨助力已满员！谢谢你哦~
+Apr 23 03:30:44 去助力好友T0225KkcREtN9lOGJUinl_dfcwCjVfnoaW5kRrbA
+Apr 23 03:30:44 任务完成失败：助力失败丨助力已满员！谢谢你哦~
+Apr 23 03:30:44 "Timeout awaiting 'request' for 10000ms"
+Apr 23 03:30:44 东东健康社区 API请求失败，请检查网路重试
+Apr 23 03:30:45 去助力好友T0225KkcRBYdoFaGIxOnnPMJdACjVfnoaW5kRrbA
+Apr 23 03:30:45 任务完成失败：助力失败丨助力已满员！谢谢你哦~
+Apr 23 03:30:46 去助力好友T027Zm_olqSxIOtH97BATGmKoWraLawCjVfnoaW5kRrbA
+Apr 23 03:30:46 任务完成失败：助力失败丨助力已满员！谢谢你哦~
+Apr 23 03:30:47 去助力好友T0225KkcRk1N_FeCJhv3xvdfcQCjVfnoaW5kRrbA
+Apr 23 03:30:47 任务完成失败：助力失败丨助力已满员！谢谢你哦~
+Apr 23 03:30:48 
+Apr 23 03:30:48 ==============📣系统通知📣==============
+Apr 23 03:30:48 东东健康社区
+Apr 23 03:30:48 京东账号1 jd_60103fd1c8cd9
+Apr 23 03:30:48 本次获得480健康值，累计9640健康值
+Apr 23 03:30:48 
+Apr 23 03:30:48 
+Apr 23 03:30:48 🔔东东健康社区, 结束! 🕛 18.542 秒
+Apr 23 03:30:48 
+Apr 23 06:30:20 
+Apr 23 06:30:20 🔔东东健康社区, 开始!
+Apr 23 06:30:20 
+Apr 23 06:30:20 ====================共1个京东账号Cookie=========
+Apr 23 06:30:20 
+Apr 23 06:30:20 ==================脚本执行- 北京时间(UTC+8)：4/23/2021, 6:30:20 AM=====================
+Apr 23 06:30:20 
+Apr 23 06:30:20 如果出现提示 ?.data. 错误，请升级nodejs版本(进入容器后，apk add nodejs-current)
+Apr 23 06:30:20 开始获取东东健康社区配置文件
+Apr 23 06:30:20 
+Apr 23 06:30:20 共1个京东账号
+Apr 23 06:30:20 
+Apr 23 06:30:20 您提供了0个账号的东东健康社区助力码
+Apr 23 06:30:20 
+Apr 23 06:30:20 
+Apr 23 06:30:20 ******开始【京东账号1】jd_60103fd1c8cd9*********
+Apr 23 06:30:20 
+Apr 23 06:30:20 由于您第1个京东账号未提供shareCode,将采纳本脚本自带的助力码
+Apr 23 06:30:20 
+Apr 23 06:30:20 开始
+Apr 23 06:30:31 第1个京东账号将要助力的好友["T019-aknAFRllhyoQlyI46gCjVfnoaW5kRrbA","T0225KkcRhcbp1CBJhv0wfZedQCjVfnoaW5kRrbA","T010_aU6SR8Q_QCjVfnoaW5kRrbA","T0225KkcREtN9lOGJUinl_dfcwCjVfnoaW5kRrbA","T0225KkcRBYdoFaGIxOnnPMJdACjVfnoaW5kRrbA","T027Zm_olqSxIOtH97BATGmKoWraLawCjVfnoaW5kRrbA","T0225KkcRk1N_FeCJhv3xvdfcQCjVfnoaW5kRrbA"]
+Apr 23 06:30:31 签到领健康能量任务，完成次数：1/1
+Apr 23 06:30:31 
+Apr 23 06:30:31 【京东账号1（jd_60103fd1c8cd9）的东东健康社区好友互助码】T0225KkcRh4Y9VeBdBunnKRefQCjVfnoaW5kRrbA
+Apr 23 06:30:31 
+Apr 23 06:30:31 好友助力码：T0225KkcRh4Y9VeBdBunnKRefQCjVfnoaW5kRrbA
+Apr 23 06:30:31 早起打卡(06:00-09:00)任务，完成次数：0/1
+Apr 23 06:30:31 去完成早起打卡(06:00-09:00)任务
+Apr 23 06:30:31 任务完成成功，获得：500能量
+Apr 23 06:30:31 西医亚健康测评任务，完成次数：0/1
+Apr 23 06:30:31 去完成西医亚健康测评任务
+Apr 23 06:30:31 参与瓜分千万京豆任务，完成次数：1/1
+Apr 23 06:30:31 加入母婴社群任务，完成次数：1/1
+Apr 23 06:30:31 下载京东健康APP任务，完成次数：1/1
+Apr 23 06:30:31 浏览京东大药房会场任务，完成次数：1/1
+Apr 23 06:30:32 西医亚健康测评任务，完成次数：0/1
+Apr 23 06:30:32 去完成西医亚健康测评任务
+Apr 23 06:30:32 参与瓜分千万京豆任务，完成次数：1/1
+Apr 23 06:30:32 加入母婴社群任务，完成次数：1/1
+Apr 23 06:30:32 早起打卡(06:00-09:00)任务，完成次数：1/1
+Apr 23 06:30:32 下载京东健康APP任务，完成次数：1/1
+Apr 23 06:30:32 浏览京东大药房会场任务，完成次数：1/1
+Apr 23 06:30:32 任务完成成功，获得：480能量
+Apr 23 06:30:32 去助力好友T019-aknAFRllhyoQlyI46gCjVfnoaW5kRrbA
+Apr 23 06:30:32 任务完成失败：助力失败丨助力已满员！谢谢你哦~
+Apr 23 06:30:33 去助力好友T0225KkcRhcbp1CBJhv0wfZedQCjVfnoaW5kRrbA
+Apr 23 06:30:33 任务完成失败：助力失败丨助力已满员！谢谢你哦~
+Apr 23 06:30:34 去助力好友T010_aU6SR8Q_QCjVfnoaW5kRrbA
+Apr 23 06:30:34 任务完成失败：助力失败丨助力已满员！谢谢你哦~
+Apr 23 06:30:35 去助力好友T0225KkcREtN9lOGJUinl_dfcwCjVfnoaW5kRrbA
+Apr 23 06:30:35 任务完成失败：助力失败丨助力已满员！谢谢你哦~
+Apr 23 06:30:36 "Timeout awaiting 'request' for 10000ms"
+Apr 23 06:30:36 东东健康社区 API请求失败，请检查网路重试
+Apr 23 06:30:36 去助力好友T0225KkcRBYdoFaGIxOnnPMJdACjVfnoaW5kRrbA
+Apr 23 06:30:37 任务完成失败：助力失败丨助力已满员！谢谢你哦~
+Apr 23 06:30:38 去助力好友T027Zm_olqSxIOtH97BATGmKoWraLawCjVfnoaW5kRrbA
+Apr 23 06:30:38 任务完成失败：助力失败丨助力已满员！谢谢你哦~
+Apr 23 06:30:39 去助力好友T0225KkcRk1N_FeCJhv3xvdfcQCjVfnoaW5kRrbA
+Apr 23 06:30:39 任务完成失败：助力失败丨助力已满员！谢谢你哦~
+Apr 23 06:30:40 
+Apr 23 06:30:40 ==============📣系统通知📣==============
+Apr 23 06:30:40 东东健康社区
+Apr 23 06:30:40 京东账号1 jd_60103fd1c8cd9
+Apr 23 06:30:40 本次获得980健康值，累计10620健康值
+Apr 23 06:30:40 
+Apr 23 06:30:40 
+Apr 23 06:30:40 🔔东东健康社区, 结束! 🕛 19.636 秒
+Apr 23 06:30:40 
+Apr 23 09:30:29 
+Apr 23 09:30:29 🔔东东健康社区, 开始!
+Apr 23 09:30:29 
+Apr 23 09:30:29 ====================共1个京东账号Cookie=========
+Apr 23 09:30:29 
+Apr 23 09:30:29 ==================脚本执行- 北京时间(UTC+8)：4/23/2021, 9:30:29 AM=====================
+Apr 23 09:30:29 
+Apr 23 09:30:29 如果出现提示 ?.data. 错误，请升级nodejs版本(进入容器后，apk add nodejs-current)
+Apr 23 09:30:29 开始获取东东健康社区配置文件
+Apr 23 09:30:29 
+Apr 23 09:30:29 共1个京东账号
+Apr 23 09:30:29 
+Apr 23 09:30:29 您提供了0个账号的东东健康社区助力码
+Apr 23 09:30:29 
+Apr 23 09:30:29 
+Apr 23 09:30:29 ******开始【京东账号1】jd_60103fd1c8cd9*********
+Apr 23 09:30:29 
+Apr 23 09:30:29 由于您第1个京东账号未提供shareCode,将采纳本脚本自带的助力码
+Apr 23 09:30:29 
+Apr 23 09:30:29 开始
+Apr 23 09:30:39 第1个京东账号将要助力的好友["T019-aknAFRllhyoQlyI46gCjVfnoaW5kRrbA","T0225KkcRhcbp1CBJhv0wfZedQCjVfnoaW5kRrbA","T010_aU6SR8Q_QCjVfnoaW5kRrbA","T0225KkcREtN9lOGJUinl_dfcwCjVfnoaW5kRrbA","T0225KkcRBYdoFaGIxOnnPMJdACjVfnoaW5kRrbA","T027Zm_olqSxIOtH97BATGmKoWraLawCjVfnoaW5kRrbA","T0225KkcRk1N_FeCJhv3xvdfcQCjVfnoaW5kRrbA"]
+Apr 23 09:30:40 签到领健康能量任务，完成次数：1/1
+Apr 23 09:30:40 
+Apr 23 09:30:40 【京东账号1（jd_60103fd1c8cd9）的东东健康社区好友互助码】T0225KkcRh4Y9VeBdBunnKRefQCjVfnoaW5kRrbA
+Apr 23 09:30:40 
+Apr 23 09:30:40 好友助力码：T0225KkcRh4Y9VeBdBunnKRefQCjVfnoaW5kRrbA
+Apr 23 09:30:40 西医亚健康测评任务，完成次数：0/1
+Apr 23 09:30:40 去完成西医亚健康测评任务
+Apr 23 09:30:40 参与瓜分千万京豆任务，完成次数：1/1
+Apr 23 09:30:40 加入母婴社群任务，完成次数：1/1
+Apr 23 09:30:40 早起打卡(06:00-09:00)任务，完成次数：1/1
+Apr 23 09:30:40 下载京东健康APP任务，完成次数：1/1
+Apr 23 09:30:40 浏览京东大药房会场任务，完成次数：1/1
+Apr 23 09:30:40 任务完成成功，获得：480能量
+Apr 23 09:30:40 去助力好友T019-aknAFRllhyoQlyI46gCjVfnoaW5kRrbA
+Apr 23 09:30:40 任务完成失败：助力失败丨助力已满员！谢谢你哦~
+Apr 23 09:30:41 去助力好友T0225KkcRhcbp1CBJhv0wfZedQCjVfnoaW5kRrbA
+Apr 23 09:30:41 任务完成失败：助力失败丨助力已满员！谢谢你哦~
+Apr 23 09:30:42 去助力好友T010_aU6SR8Q_QCjVfnoaW5kRrbA
+Apr 23 09:30:42 任务完成失败：助力失败丨助力已满员！谢谢你哦~
+Apr 23 09:30:43 去助力好友T0225KkcREtN9lOGJUinl_dfcwCjVfnoaW5kRrbA
+Apr 23 09:30:43 任务完成失败：助力失败丨助力已满员！谢谢你哦~
+Apr 23 09:30:44 去助力好友T0225KkcRBYdoFaGIxOnnPMJdACjVfnoaW5kRrbA
+Apr 23 09:30:44 任务完成失败：助力失败丨助力已满员！谢谢你哦~
+Apr 23 09:30:45 去助力好友T027Zm_olqSxIOtH97BATGmKoWraLawCjVfnoaW5kRrbA
+Apr 23 09:30:45 任务完成失败：助力失败丨助力已满员！谢谢你哦~
+Apr 23 09:30:46 去助力好友T0225KkcRk1N_FeCJhv3xvdfcQCjVfnoaW5kRrbA
+Apr 23 09:30:46 任务完成失败：助力失败丨助力已满员！谢谢你哦~
+Apr 23 09:30:47 
+Apr 23 09:30:47 ==============📣系统通知📣==============
+Apr 23 09:30:47 东东健康社区
+Apr 23 09:30:47 京东账号1 jd_60103fd1c8cd9
+Apr 23 09:30:47 本次获得480健康值，累计11100健康值
+Apr 23 09:30:47 
+Apr 23 09:30:47 
+Apr 23 09:30:47 🔔东东健康社区, 结束! 🕛 18.603 秒
+Apr 23 09:30:47 
+Apr 23 09:30:53 "Response code 502 (Bad Gateway)"
+Apr 23 09:30:53 东东健康社区 API请求失败，请检查网路重试
+Apr 23 12:30:07 
+Apr 23 12:30:07 🔔东东健康社区, 开始!
+Apr 23 12:30:07 
+Apr 23 12:30:07 ====================共1个京东账号Cookie=========
+Apr 23 12:30:07 
+Apr 23 12:30:07 ==================脚本执行- 北京时间(UTC+8)：4/23/2021, 12:30:07 PM=====================
+Apr 23 12:30:07 
+Apr 23 12:30:07 如果出现提示 ?.data. 错误，请升级nodejs版本(进入容器后，apk add nodejs-current)
+Apr 23 12:30:07 开始获取东东健康社区配置文件
+Apr 23 12:30:07 
+Apr 23 12:30:07 共1个京东账号
+Apr 23 12:30:07 
+Apr 23 12:30:07 您提供了0个账号的东东健康社区助力码
+Apr 23 12:30:07 
+Apr 23 12:30:07 
+Apr 23 12:30:07 ******开始【京东账号1】jd_60103fd1c8cd9*********
+Apr 23 12:30:07 
+Apr 23 12:30:07 由于您第1个京东账号未提供shareCode,将采纳本脚本自带的助力码
+Apr 23 12:30:07 
+Apr 23 12:30:07 开始
+Apr 23 12:30:09 随机取20个码放到您固定的互助码后面(不影响已有固定互助)
+Apr 23 12:30:09 第1个京东账号将要助力的好友["T019-aknAFRllhyoQlyI46gCjVfnoaW5kRrbA","T0225KkcRhcbp1CBJhv0wfZedQCjVfnoaW5kRrbA","T010_aU6SR8Q_QCjVfnoaW5kRrbA","T0225KkcREtN9lOGJUinl_dfcwCjVfnoaW5kRrbA","T0225KkcRBYdoFaGIxOnnPMJdACjVfnoaW5kRrbA","T027Zm_olqSxIOtH97BATGmKoWraLawCjVfnoaW5kRrbA","T0225KkcRk1N_FeCJhv3xvdfcQCjVfnoaW5kRrbA","T0225KkcRBZM8FGBIBjzxvFYdwCjVfnoaW5kRrbA","T0205KkcE2VwtxaUWnqQ_I1-CjVfnoaW5kRrbA","T0225KkcRxlI_VaFJhr3x_FZdwCjVfnoaW5kRrbA","T015ufp2SRoa9lbUT0cCjVfnoaW5kRrbA","T010vP1zSEJMoACjVfnoaW5kRrbA","T0225KkcRh4d_VzUdUjynfIIJQCjVfnoaW5kRrbA","T0225KkcRBZP_QKGIBn1lfQPIACjVfnoaW5kRrbA","T014_aUqGkdMshedYQCjVfnoaW5kRrbA","T0074qcrE0ACjVfnoaW5kRrbA","T020anXKl4OgIMFx97xrQ0y4CjVfnoaW5kRrbA","T019-akvPUBGkiqeX1iG1qsCjVfnoaW5kRrbA","T0225KkcRxlMoF2BKR73l6RbJwCjVfnoaW5kRrbA","T0205KkcIEJflhG0ZkS855ZvCjVfnoaW5kRrbA","T0205KkcOVpAtDOeU32d8K9cCjVfnoaW5kRrbA","T016aFHLlJaiItBM-bZaCjVfnoaW5kRrbA","T020-agqG09A91PUIx_1kvIOCjVfnoaW5kRrbA","T01597g5FUBOqQWOT0cCjVfnoaW5kRrbA","T0225KkcRhse91zQcxOnxfIJIgCjVfnoaW5kRrbA","T0225KkcR0xKp1CCKUvzwvIIcgCjVfnoaW5kRrbA","T0225KkcR0tMp1PfIhr1laUMJwCjVfnoaW5kRrbA"]
+Apr 23 12:30:09 签到领健康能量任务，完成次数：1/1
+Apr 23 12:30:10 
+Apr 23 12:30:10 【京东账号1（jd_60103fd1c8cd9）的东东健康社区好友互助码】T0225KkcRh4Y9VeBdBunnKRefQCjVfnoaW5kRrbA
+Apr 23 12:30:10 
+Apr 23 12:30:10 好友助力码：T0225KkcRh4Y9VeBdBunnKRefQCjVfnoaW5kRrbA
+Apr 23 12:30:10 西医亚健康测评任务，完成次数：0/1
+Apr 23 12:30:10 去完成西医亚健康测评任务
+Apr 23 12:30:10 参与瓜分千万京豆任务，完成次数：1/1
+Apr 23 12:30:10 加入母婴社群任务，完成次数：1/1
+Apr 23 12:30:10 早起打卡(06:00-09:00)任务，完成次数：1/1
+Apr 23 12:30:10 下载京东健康APP任务，完成次数：1/1
+Apr 23 12:30:10 浏览京东大药房会场任务，完成次数：1/1
+Apr 23 12:30:10 任务完成成功，获得：480能量
+Apr 23 12:30:10 去助力好友T019-aknAFRllhyoQlyI46gCjVfnoaW5kRrbA
+Apr 23 12:30:10 任务完成失败：助力失败丨助力已满员！谢谢你哦~
+Apr 23 12:30:11 去助力好友T0225KkcRhcbp1CBJhv0wfZedQCjVfnoaW5kRrbA
+Apr 23 12:30:11 任务完成失败：助力失败丨助力已满员！谢谢你哦~
+Apr 23 12:30:12 去助力好友T010_aU6SR8Q_QCjVfnoaW5kRrbA
+Apr 23 12:30:12 任务完成失败：助力失败丨助力已满员！谢谢你哦~
+Apr 23 12:30:13 去助力好友T0225KkcREtN9lOGJUinl_dfcwCjVfnoaW5kRrbA
+Apr 23 12:30:13 任务完成失败：助力失败丨助力已满员！谢谢你哦~
+Apr 23 12:30:14 去助力好友T0225KkcRBYdoFaGIxOnnPMJdACjVfnoaW5kRrbA
+Apr 23 12:30:14 任务完成失败：助力失败丨助力已满员！谢谢你哦~
+Apr 23 12:30:15 去助力好友T027Zm_olqSxIOtH97BATGmKoWraLawCjVfnoaW5kRrbA
+Apr 23 12:30:15 任务完成失败：助力失败丨助力已满员！谢谢你哦~
+Apr 23 12:30:16 去助力好友T0225KkcRk1N_FeCJhv3xvdfcQCjVfnoaW5kRrbA
+Apr 23 12:30:16 任务完成失败：助力失败丨助力已满员！谢谢你哦~
+Apr 23 12:30:17 去助力好友T0225KkcRBZM8FGBIBjzxvFYdwCjVfnoaW5kRrbA
+Apr 23 12:30:17 任务完成失败：助力失败丨助力已满员！谢谢你哦~
+Apr 23 12:30:18 去助力好友T0205KkcE2VwtxaUWnqQ_I1-CjVfnoaW5kRrbA
+Apr 23 12:30:18 任务完成失败：助力失败丨助力已满员！谢谢你哦~
+Apr 23 12:30:19 去助力好友T0225KkcRxlI_VaFJhr3x_FZdwCjVfnoaW5kRrbA
+Apr 23 12:30:52 任务完成失败：助力失败丨助力已满员！谢谢你哦~
+Apr 23 12:30:53 去助力好友T015ufp2SRoa9lbUT0cCjVfnoaW5kRrbA
+Apr 23 12:30:54 任务完成失败：助力失败丨助力已满员！谢谢你哦~
+Apr 23 12:30:55 去助力好友T010vP1zSEJMoACjVfnoaW5kRrbA
+Apr 23 12:30:55 任务完成失败：助力失败丨助力已满员！谢谢你哦~
+Apr 23 12:30:56 去助力好友T0225KkcRh4d_VzUdUjynfIIJQCjVfnoaW5kRrbA
+Apr 23 12:30:56 任务完成失败：助力失败丨助力已满员！谢谢你哦~
+Apr 23 12:30:57 去助力好友T0225KkcRBZP_QKGIBn1lfQPIACjVfnoaW5kRrbA
+Apr 23 12:30:57 任务完成失败：助力失败丨助力已满员！谢谢你哦~
+Apr 23 12:30:58 去助力好友T014_aUqGkdMshedYQCjVfnoaW5kRrbA
+Apr 23 12:30:58 任务完成失败：助力失败丨助力已满员！谢谢你哦~
+Apr 23 12:30:59 去助力好友T0074qcrE0ACjVfnoaW5kRrbA
+Apr 23 12:30:59 任务完成失败：助力失败丨助力已满员！谢谢你哦~
+Apr 23 12:31:00 去助力好友T020anXKl4OgIMFx97xrQ0y4CjVfnoaW5kRrbA
+Apr 23 12:31:00 任务完成失败：助力失败丨助力已满员！谢谢你哦~
+Apr 23 12:31:01 去助力好友T019-akvPUBGkiqeX1iG1qsCjVfnoaW5kRrbA
+Apr 23 12:31:02 任务完成失败：助力失败丨助力已满员！谢谢你哦~
+Apr 23 12:31:03 去助力好友T0225KkcRxlMoF2BKR73l6RbJwCjVfnoaW5kRrbA
+Apr 23 12:31:03 任务完成失败：助力失败丨助力已满员！谢谢你哦~
+Apr 23 12:31:04 去助力好友T0205KkcIEJflhG0ZkS855ZvCjVfnoaW5kRrbA
+Apr 23 12:31:04 任务完成失败：助力失败丨助力已满员！谢谢你哦~
+Apr 23 12:31:05 去助力好友T0205KkcOVpAtDOeU32d8K9cCjVfnoaW5kRrbA
+Apr 23 12:31:05 任务完成失败：助力失败丨助力已满员！谢谢你哦~
+Apr 23 12:31:06 去助力好友T016aFHLlJaiItBM-bZaCjVfnoaW5kRrbA
+Apr 23 12:31:06 任务完成失败：助力失败丨助力已满员！谢谢你哦~
+Apr 23 12:31:07 去助力好友T020-agqG09A91PUIx_1kvIOCjVfnoaW5kRrbA
+Apr 23 12:31:07 任务完成失败：助力失败丨助力已满员！谢谢你哦~
+Apr 23 12:31:08 去助力好友T01597g5FUBOqQWOT0cCjVfnoaW5kRrbA
+Apr 23 12:31:08 任务完成失败：助力失败丨助力已满员！谢谢你哦~
+Apr 23 12:31:09 去助力好友T0225KkcRhse91zQcxOnxfIJIgCjVfnoaW5kRrbA
+Apr 23 12:31:09 任务完成失败：助力失败丨助力已满员！谢谢你哦~
+Apr 23 12:31:10 去助力好友T0225KkcR0xKp1CCKUvzwvIIcgCjVfnoaW5kRrbA
+Apr 23 12:31:10 任务完成失败：助力失败丨助力已满员！谢谢你哦~
+Apr 23 12:31:11 去助力好友T0225KkcR0tMp1PfIhr1laUMJwCjVfnoaW5kRrbA
+Apr 23 12:31:44 任务完成失败：助力失败丨助力已满员！谢谢你哦~
+Apr 23 12:31:45 
+Apr 23 12:31:45 ==============📣系统通知📣==============
+Apr 23 12:31:45 东东健康社区
+Apr 23 12:31:45 京东账号1 jd_60103fd1c8cd9
+Apr 23 12:31:45 本次获得480健康值，累计11580健康值
+Apr 23 12:31:45 
+Apr 23 12:31:45 
+Apr 23 12:31:45 🔔东东健康社区, 结束! 🕛 98.375 秒
+Apr 23 12:31:45 

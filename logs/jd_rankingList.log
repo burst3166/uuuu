@@ -1,49 +1,37 @@
-Mar 31 09:21:17 
-Mar 31 09:21:17 🔔京东排行榜, 开始!
-Mar 31 09:23:16 京东排行榜CDN缓存刷新成功
-Mar 31 09:24:37 "Client network socket disconnected before secure TLS connection was established"
-Mar 31 09:43:25 "Client network socket disconnected before secure TLS connection was established"
-Mar 31 09:43:25 京东排行榜 API请求失败，请检查网路重试
-Apr 01 09:21:25 
-Apr 01 09:21:25 🔔京东排行榜, 开始!
-Apr 01 09:21:26 
-Apr 01 09:21:26 🔔京东排行榜, 开始!
-Apr 01 09:21:26 
-Apr 01 09:21:26 ====================共1个京东账号Cookie=========
-Apr 01 09:21:26 
-Apr 01 09:21:26 ==================脚本执行- 北京时间(UTC+8)：4/1/2021, 9:21:26 AM=====================
-Apr 01 09:21:26 
-Apr 01 09:21:26 
-Apr 01 09:21:26 ❗️京东排行榜, 错误!
-Apr 01 09:21:26 TypeError: Cannot read property 'nickname' of undefined
-Apr 01 09:21:26     at eval (eval at main (/scripts/jd_rankingList.js:20:5), <anonymous>:79:38)
-Apr 01 09:21:26     at isSurge.isLoon.isQuanX.isNode.got.on.then.message (eval at main (/scripts/jd_rankingList.js:20:5), <anonymous>:229:4791)
-Apr 01 09:21:26     at processTicksAndRejections (internal/process/task_queues.js:97:5)
-Apr 01 09:21:26 今日王牌-逛商品
-Apr 01 09:21:28 响应成功
-Apr 01 09:21:28 今日王牌-逛商品
-Apr 01 09:21:29 响应成功
-Apr 01 09:21:29 今日王牌-逛商品
-Apr 01 09:22:01 
-Apr 01 09:22:01 ❗️京东排行榜, 错误!
-Apr 01 09:22:01 SyntaxError: Unexpected token u in JSON at position 0
-Apr 01 09:22:01     at JSON.parse (<anonymous>)
-Apr 01 09:22:01     at eval (eval at main (/scripts/jd_rankingList.js:20:5), <anonymous>:160:23)
-Apr 01 09:22:01     at eval (eval at main (/scripts/jd_rankingList.js:20:5), <anonymous>:229:5780)
-Apr 01 09:22:01     at processTicksAndRejections (internal/process/task_queues.js:97:5)
-Apr 01 09:22:01 今日王牌-逛会场
-Apr 01 09:22:02 响应成功
-Apr 01 09:22:02 今日王牌-关注店铺
-Apr 01 09:22:04 响应成功
-Apr 01 09:22:04 开始签到
-Apr 01 09:22:05 响应成功
-Apr 01 09:22:05 
-Apr 01 09:22:05 ==============📣系统通知📣==============
-Apr 01 09:22:05 京东排行榜
-Apr 01 09:22:05 京东账号：
-Apr 01 09:22:05 获得京豆：2个
-Apr 01 09:22:05 请点击通知跳转至APP查看
-Apr 01 09:22:05 
-Apr 01 09:22:05 🔔京东排行榜, 结束! 🕛 38.451 秒
-Apr 01 09:22:05 
-Apr 01 09:58:53 京东排行榜CDN缓存刷新成功
+Apr 23 09:21:10 
+Apr 23 09:21:10 🔔京东排行榜, 开始!
+Apr 23 09:21:11 
+Apr 23 09:21:11 🔔京东排行榜, 开始!
+Apr 23 09:21:11 
+Apr 23 09:21:11 ====================共1个京东账号Cookie=========
+Apr 23 09:21:11 
+Apr 23 09:21:11 ==================脚本执行- 北京时间(UTC+8)：4/23/2021, 9:21:11 AM=====================
+Apr 23 09:21:11 
+Apr 23 09:21:12 
+Apr 23 09:21:12 ❗️京东排行榜, 错误!
+Apr 23 09:21:12 TypeError: Cannot read property 'nickname' of undefined
+Apr 23 09:21:12     at eval (eval at main (/scripts/jd_rankingList.js:20:5), <anonymous>:79:38)
+Apr 23 09:21:12     at isSurge.isLoon.isQuanX.isNode.got.on.then.message (eval at main (/scripts/jd_rankingList.js:20:5), <anonymous>:229:4791)
+Apr 23 09:21:12     at processTicksAndRejections (internal/process/task_queues.js:93:5)
+Apr 23 09:21:12 今日王牌-逛商品
+Apr 23 09:21:12 京东排行榜CDN缓存刷新成功
+Apr 23 09:21:13 响应成功
+Apr 23 09:21:13 今日王牌-逛商品
+Apr 23 09:21:14 响应成功
+Apr 23 09:21:14 今日王牌-逛商品
+Apr 23 09:21:15 响应成功
+Apr 23 09:21:15 今日王牌-逛会场
+Apr 23 09:21:16 响应成功
+Apr 23 09:21:16 今日王牌-关注店铺
+Apr 23 09:21:17 响应成功
+Apr 23 09:21:17 开始签到
+Apr 23 09:21:18 响应成功
+Apr 23 09:21:18 
+Apr 23 09:21:18 ==============📣系统通知📣==============
+Apr 23 09:21:18 京东排行榜
+Apr 23 09:21:18 京东账号：
+Apr 23 09:21:18 获得京豆：3个
+Apr 23 09:21:18 请点击通知跳转至APP查看
+Apr 23 09:21:18 
+Apr 23 09:21:18 🔔京东排行榜, 结束! 🕛 7.031 秒
+Apr 23 09:21:18 

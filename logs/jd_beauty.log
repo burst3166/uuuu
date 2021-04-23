@@ -1,199 +1,110 @@
-Mar 31 07:41:30 
-Mar 31 07:41:30 🔔美丽研究院, 开始!
-Mar 31 07:41:30 
-Mar 31 07:41:30 ====================共1个京东账号Cookie=========
-Mar 31 07:41:30 
-Mar 31 07:41:30 ==================脚本执行- 北京时间(UTC+8)：3/31/2021, 7:41:30 AM=====================
-Mar 31 07:41:30 
-Mar 31 07:41:30 
-Mar 31 07:41:30 ******开始【京东账号1】burst3166*********
-Mar 31 07:41:30 
-Mar 31 07:41:30 AAEAILDBOYWRwba_rkO59D_L66_GUA-zbyL7kXZIlUETv9TQ0
-Mar 31 07:41:30 AAFgY7crADDcsoTtS-cImv10b8YUhiWiG9gazZznfwcF_y8oTFOyEImBJ9Jfe53LrZWUbVrLQZ4
-Mar 31 07:42:30 $.token eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJodHRwOlwvXC8xMjcuMC4wLjE6OTUwMlwvYXBpXC9hdXRoIiwiaWF0IjoxNjE3MTQ3NzUwLCJleHAiOjE2MTcxOTA5NTAsIm5iZiI6MTYxNzE0Nzc1MCwianRpIjoiV0tqYUZJYWpaM1kweDduNSIsInN1YiI6MTE1NzEyNiwicHJ2IjoiMjNiZDVjODk0OWY2MDBhZGIzOWU3MDFjNDAwODcyZGI3YTU5NzZmNyJ9.7kIjcJW5TPzFCnb7YhuihZV2-6eLVC5kujqn46a9WwQ
-Mar 31 07:42:30 wss://xinruimz-isv.isvjcloud.com/wss/?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJodHRwOlwvXC8xMjcuMC4wLjE6OTUwMlwvYXBpXC9hdXRoIiwiaWF0IjoxNjE3MTQ3NzUwLCJleHAiOjE2MTcxOTA5NTAsIm5iZiI6MTYxNzE0Nzc1MCwianRpIjoiV0tqYUZJYWpaM1kweDduNSIsInN1YiI6MTE1NzEyNiwicHJ2IjoiMjNiZDVjODk0OWY2MDBhZGIzOWU3MDFjNDAwODcyZGI3YTU5NzZmNyJ9.7kIjcJW5TPzFCnb7YhuihZV2-6eLVC5kujqn46a9WwQ
-Mar 31 07:42:37 美容研究院服务器连接成功
-Mar 31 07:42:37 去领取第1次签到奖励
-Mar 31 07:42:37 当前美妆币2850，用户等级1
-Mar 31 07:42:37 当期活动：美妆馆日常
-Mar 31 07:42:37 去做签到任务
-Mar 31 07:42:37 仓库信息:【乳化剂】89份 【油脂】89份 【保湿剂】89份 【矿物质水】89份 【颜料】89份 【滑石粉】89份 
-Mar 31 07:42:37 任务完成成功，获得100美妆币
-Mar 31 07:42:39 去做关注店铺任务
-Mar 31 07:42:39 去做关注店铺【兰芝京东自营官方旗舰店】
-Mar 31 07:42:39 任务完成成功，获得50美妆币
-Mar 31 07:42:40 收取产品【散粉】5份
-Mar 31 07:42:40 去做关注店铺【润百颜京东自营旗舰店】
-Mar 31 07:42:40 收取产品【爽肤水】5份
-Mar 31 07:42:40 收取产品【卸妆油】5份
-Mar 31 07:42:41 去做关注店铺【雪肌精京东自营官方旗舰店】
-Mar 31 07:42:42 ========原料生产信息========
-Mar 31 07:42:42 去做关注店铺【百雀羚京东自营官方旗舰店】
-Mar 31 07:42:43 任务完成成功，获得50美妆币
-Mar 31 07:42:43 仓库信息:【乳化剂】89份 【油脂】89份 【保湿剂】89份 【矿物质水】89份 【颜料】89份 【滑石粉】89份 
-Mar 31 07:42:43 ========可生产商品信息========
-Mar 31 07:42:43 生产【散粉】需要原料【滑石粉】2 份 （库存 89 份）【颜料】2 份 （库存 89 份），可生产 44份
-Mar 31 07:42:43 【散粉】可生产份数大于0，去生产
-Mar 31 07:42:43 去做关注店铺【OLAY玉兰油京东自营旗舰店】
-Mar 31 07:42:43 生产【爽肤水】需要原料【矿物质水】2 份 （库存 89 份）【保湿剂】2 份 （库存 89 份），可生产 44份
-Mar 31 07:42:43 【爽肤水】可生产份数大于0，去生产
-Mar 31 07:42:44 任务完成成功，获得50美妆币
-Mar 31 07:42:44 生产【卸妆油】需要原料【油脂】2 份 （库存 89 份）【乳化剂】2 份 （库存 89 份），可生产 44份
-Mar 31 07:42:44 【卸妆油】可生产份数大于0，去生产
-Mar 31 07:42:44 去做第1次浏览会场任务
-Mar 31 07:42:44 =======================
-Mar 31 07:42:45 【b1】上尚未开始生产
-Mar 31 07:42:45 
-Mar 31 07:42:45 去生产油脂
-Mar 31 07:42:45 【h1】上尚未开始生产
-Mar 31 07:42:45 
-Mar 31 07:42:45 去生产乳化剂
-Mar 31 07:42:45 【s1】上尚未开始生产
-Mar 31 07:42:45 
-Mar 31 07:42:45 去生产矿物质水
-Mar 31 07:42:45 【b2】上尚未开始生产
-Mar 31 07:42:45 
-Mar 31 07:42:45 去生产保湿剂
-Mar 31 07:42:45 【h2】上尚未开始生产
-Mar 31 07:42:45 
-Mar 31 07:42:45 去生产颜料
-Mar 31 07:42:45 【s2】上尚未开始生产
-Mar 31 07:42:45 
-Mar 31 07:42:45 去生产滑石粉
-Mar 31 07:42:45 当前任务【您好，这里卖卸妆油吗？】，需要【卸妆油】5/5份
-Mar 31 07:42:45 满足任务要求，去完成任务
-Mar 31 07:42:45 当前美妆币3200，用户等级1
-Mar 31 07:42:45 任务完成成功，获得50美妆币
-Mar 31 07:42:45 生产成功
-Mar 31 07:42:45 物品【1 京豆】需要100美妆币，库存1787436份
-Mar 31 07:42:45 物品【500颗京豆打包兑换】需要50000美妆币，库存740份
-Mar 31 07:42:46 任务完成成功，获得50美妆币
-Mar 31 07:42:46 去做第2次浏览会场任务
-Mar 31 07:42:47 生产成功
-Mar 31 07:42:47 生产成功
-Mar 31 07:42:48 任务完成成功，获得100美妆币
-Mar 31 07:42:48 【b1】上开始生产油脂
-Mar 31 07:42:48 去做第3次浏览会场任务
-Mar 31 07:42:48 【h1】上开始生产乳化剂
-Mar 31 07:42:49 【s1】上开始生产矿物质水
-Mar 31 07:42:49 【b2】上开始生产保湿剂
-Mar 31 07:42:50 【h2】上开始生产颜料
-Mar 31 07:42:50 【s2】上开始生产滑石粉
-Mar 31 07:42:50 去做第4次浏览会场任务
-Mar 31 07:42:50 任务完成成功，获得50美妆币
-Mar 31 07:42:51 任务完成成功，获得100美妆币
-Mar 31 07:42:51 雇佣助力码【ORt69t2X】
-Mar 31 07:42:51 任务完成成功，获得100美妆币
-Mar 31 07:42:51 雇佣助力码【k0o3lTq4】
-Mar 31 07:42:51 雇佣助力码【zxkqifI0】
-Mar 31 07:42:51 雇佣助力码【GkVGfPOp】
-Mar 31 07:42:51 雇佣助力码【QAqpjNTw】
-Mar 31 07:42:51 雇佣助力码【L5N0GRW6】
-Mar 31 07:42:51 任务完成成功，获得100美妆币
-Mar 31 07:42:52 去做第5次浏览会场任务
-Mar 31 07:42:52 任务完成成功，获得100美妆币
-Mar 31 07:42:54 去做第6次浏览会场任务
-Mar 31 07:42:54 任务完成成功，获得100美妆币
-Mar 31 07:42:56 去做第7次浏览会场任务
-Mar 31 07:42:56 任务完成成功，获得100美妆币
-Mar 31 07:42:58 去做每日问答任务
-Mar 31 07:43:03 任务完成成功，获得200美妆币
-Mar 31 07:44:03 本次运行获得美妆币1300
-Mar 31 07:44:03 服务器连接关闭
-Mar 31 07:44:04 
-Mar 31 07:44:04 ==============📣系统通知📣==============
-Mar 31 07:44:04 美丽研究院
-Mar 31 07:44:04 京东账号1burst3166
-Mar 31 07:44:04 本次运行获得美妆币1300枚
-Mar 31 07:44:04 当前美妆币4300
-Mar 31 07:44:04 
-Mar 31 07:44:04 🔔美丽研究院, 结束! 🕛 153.896 秒
-Mar 31 07:44:04 
-Mar 31 12:41:08 
-Mar 31 12:41:08 🔔美丽研究院, 开始!
-Mar 31 12:41:08 
-Mar 31 12:41:08 ====================共1个京东账号Cookie=========
-Mar 31 12:41:08 
-Mar 31 12:41:08 ==================脚本执行- 北京时间(UTC+8)：3/31/2021, 12:41:08 PM=====================
-Mar 31 12:41:08 
-Mar 31 12:41:09 
-Mar 31 12:41:09 ******开始【京东账号1】burst3166*********
-Mar 31 12:41:09 
-Mar 31 12:41:09 AAEAIH_nokFFU3EudYna6Txu-vgjLGXdDshZkw2suNDzqzSO0
-Mar 31 12:41:09 AAFgY_1lADAtTXZm8i6znILCoXYD70d1gE0UWFWuqIRSeUMEmVyPqQr01CSoxqdTDuaenaoJwl8
-Mar 31 12:41:09 "Response code 403 (Forbidden)"
-Mar 31 12:41:09 美丽研究院 API请求失败，请检查网路重试
-Mar 31 12:41:09 
-Mar 31 12:41:09 
-Mar 31 12:41:09 提示：请尝试换服务器ip或者设置"xinruimz-isv.isvjcloud.com"域名直连，或者自定义UA再次尝试(环境变量JD_USER_AGENT)
-Mar 31 12:41:09 
-Mar 31 12:41:09 
-Mar 31 12:41:09 
-Mar 31 12:41:09 🔔美丽研究院, 结束! 🕛 0.905 秒
-Mar 31 12:41:09 
-Mar 31 19:41:08 
-Mar 31 19:41:08 🔔美丽研究院, 开始!
-Mar 31 19:41:08 
-Mar 31 19:41:08 ====================共1个京东账号Cookie=========
-Mar 31 19:41:08 
-Mar 31 19:41:08 ==================脚本执行- 北京时间(UTC+8)：3/31/2021, 7:41:08 PM=====================
-Mar 31 19:41:08 
-Mar 31 19:41:09 
-Mar 31 19:41:09 ******开始【京东账号1】burst3166*********
-Mar 31 19:41:09 
-Mar 31 19:41:09 AAEAIFNTaIbsuonDI8KxFxpS-Uhyx9ivm-njPOEDbb2W-7Zi0
-Mar 31 19:41:09 AAFgZF_VADAP6RFQvruLXMvYfuuMOS4N5zyhAWePAjllU43oXHmukQLUbf4okr_BzwZfc2gA87o
-Mar 31 19:41:09 "Response code 403 (Forbidden)"
-Mar 31 19:41:09 美丽研究院 API请求失败，请检查网路重试
-Mar 31 19:41:09 
-Mar 31 19:41:09 
-Mar 31 19:41:09 提示：请尝试换服务器ip或者设置"xinruimz-isv.isvjcloud.com"域名直连，或者自定义UA再次尝试(环境变量JD_USER_AGENT)
-Mar 31 19:41:09 
-Mar 31 19:41:09 
-Mar 31 19:41:09 
-Mar 31 19:41:09 🔔美丽研究院, 结束! 🕛 0.884 秒
-Mar 31 19:41:09 
-Apr 01 07:41:01 
-Apr 01 07:41:01 🔔美丽研究院, 开始!
-Apr 01 07:41:01 
-Apr 01 07:41:01 ====================共1个京东账号Cookie=========
-Apr 01 07:41:01 
-Apr 01 07:41:01 ==================脚本执行- 北京时间(UTC+8)：4/1/2021, 7:41:01 AM=====================
-Apr 01 07:41:01 
-Apr 01 07:41:01 
-Apr 01 07:41:01 ******开始【京东账号1】burst3166*********
-Apr 01 07:41:01 
-Apr 01 07:41:01 AAEAIIotnPfRFnlR3kI7NWwxmqqNjUhJwNvW6s8b6ocRsLia0
-Apr 01 07:41:01 AAFgZQiNADBb37dAFJtJBOaGZ_PNzImTd1Nvkub1UejXLNFoN4rsBxV17YLuO3clRYNGeEJ6Nm4
-Apr 01 07:42:01 "Client network socket disconnected before secure TLS connection was established"
-Apr 01 07:42:01 美丽研究院 API请求失败，请检查网路重试
-Apr 01 07:42:01 
-Apr 01 07:42:01 
-Apr 01 07:42:01 提示：请尝试换服务器ip或者设置"xinruimz-isv.isvjcloud.com"域名直连，或者自定义UA再次尝试(环境变量JD_USER_AGENT)
-Apr 01 07:42:01 
-Apr 01 07:42:01 
-Apr 01 07:42:01 
-Apr 01 07:42:01 🔔美丽研究院, 结束! 🕛 60.792 秒
-Apr 01 07:42:01 
-Apr 01 12:41:13 
-Apr 01 12:41:13 🔔美丽研究院, 开始!
-Apr 01 12:41:13 
-Apr 01 12:41:13 ====================共1个京东账号Cookie=========
-Apr 01 12:41:13 
-Apr 01 12:41:13 ==================脚本执行- 北京时间(UTC+8)：4/1/2021, 12:41:13 PM=====================
-Apr 01 12:41:13 
-Apr 01 12:41:14 
-Apr 01 12:41:14 ******开始【京东账号1】burst3166*********
-Apr 01 12:41:14 
-Apr 01 12:41:14 AAEAIMk-NQWiizM_j38dhwTM-A4nJh9DpHRCSOORvv48qDlI0
-Apr 01 12:41:14 AAFgZU7qADAqBcsK3HgHLCwDBcPvPXpimfKSqF2kSxhidOBx4Q7I2D7GuJI7YbltQWstcPVki1E
-Apr 01 12:41:14 "Response code 403 (Forbidden)"
-Apr 01 12:41:14 美丽研究院 API请求失败，请检查网路重试
-Apr 01 12:41:14 
-Apr 01 12:41:14 
-Apr 01 12:41:14 提示：请尝试换服务器ip或者设置"xinruimz-isv.isvjcloud.com"域名直连，或者自定义UA再次尝试(环境变量JD_USER_AGENT)
-Apr 01 12:41:14 
-Apr 01 12:41:14 
-Apr 01 12:41:14 
-Apr 01 12:41:14 🔔美丽研究院, 结束! 🕛 0.845 秒
-Apr 01 12:41:14 
+Apr 22 07:41:25 
+Apr 22 07:41:25 🔔美丽研究院, 开始!
+Apr 22 07:41:25 
+Apr 22 07:41:25 ====================共1个京东账号Cookie=========
+Apr 22 07:41:25 
+Apr 22 07:41:25 ==================脚本执行- 北京时间(UTC+8)：4/22/2021, 7:41:25 AM=====================
+Apr 22 07:41:25 
+Apr 22 07:41:26 
+Apr 22 07:41:26 ******开始【京东账号1】jd_60103fd1c8cd9*********
+Apr 22 07:41:26 
+Apr 22 07:41:26 AAEAIJfThDdAbrFmW0m0_NNG3yz2SXW9oHTXouuJbg2Q6NDF0
+Apr 22 07:41:26 AAFggLgmADB1OotzWNiDRXjLsYo5To07_ji5xl-PEqkeV_kcJD9BSRJMpDDAC6oQ3GR_Y-FLF84
+Apr 22 07:41:26 "Response code 403 (Forbidden)"
+Apr 22 07:41:26 美丽研究院 API请求失败，请检查网路重试
+Apr 22 07:41:26 
+Apr 22 07:41:26 
+Apr 22 07:41:26 提示：请尝试换服务器ip或者设置"xinruimz-isv.isvjcloud.com"域名直连，或者自定义UA再次尝试(环境变量JD_USER_AGENT)
+Apr 22 07:41:26 
+Apr 22 07:41:26 
+Apr 22 07:41:26 
+Apr 22 07:41:26 🔔美丽研究院, 结束! 🕛 0.897 秒
+Apr 22 07:41:26 
+Apr 22 12:41:11 
+Apr 22 12:41:11 🔔美丽研究院, 开始!
+Apr 22 12:41:11 
+Apr 22 12:41:11 ====================共1个京东账号Cookie=========
+Apr 22 12:41:11 
+Apr 22 12:41:11 ==================脚本执行- 北京时间(UTC+8)：4/22/2021, 12:41:11 PM=====================
+Apr 22 12:41:11 
+Apr 22 12:41:12 
+Apr 22 12:41:12 ******开始【京东账号1】jd_60103fd1c8cd9*********
+Apr 22 12:41:12 
+Apr 22 12:41:12 AAEAIP-EUzM77FFkbIG0p5bbYaQhE_iX7vsJamaOZ31HoJqV0
+Apr 22 12:41:12 AAFggP5oADA3q9iF1hAs0i2Mw_6GNcLx_GNQpPsSQXHSnlfNJ9_Ssi-IOE1pPU1EYWwyJDfV4Bw
+Apr 22 12:41:12 "Response code 403 (Forbidden)"
+Apr 22 12:41:12 美丽研究院 API请求失败，请检查网路重试
+Apr 22 12:41:12 
+Apr 22 12:41:12 
+Apr 22 12:41:12 提示：请尝试换服务器ip或者设置"xinruimz-isv.isvjcloud.com"域名直连，或者自定义UA再次尝试(环境变量JD_USER_AGENT)
+Apr 22 12:41:12 
+Apr 22 12:41:12 
+Apr 22 12:41:12 
+Apr 22 12:41:12 🔔美丽研究院, 结束! 🕛 0.994 秒
+Apr 22 12:41:12 
+Apr 22 19:41:26 
+Apr 22 19:41:26 🔔美丽研究院, 开始!
+Apr 22 19:41:26 
+Apr 22 19:41:26 ====================共1个京东账号Cookie=========
+Apr 22 19:41:26 
+Apr 22 19:41:27 ==================脚本执行- 北京时间(UTC+8)：4/22/2021, 7:41:26 PM=====================
+Apr 22 19:41:27 
+Apr 22 19:41:27 
+Apr 22 19:41:27 ******开始【京东账号1】jd_60103fd1c8cd9*********
+Apr 22 19:41:27 
+Apr 22 19:41:27 AAEAIBKeGFZ0i5d4wNqXybflqL0rVo3uxlsikunEBBxU3O380
+Apr 22 19:41:27 AAFggWDnADDNPBFSNKRu9wdCfKlc1S95xjNREP1ku8iWM_QBqR9XBRm5b-n9sqZswnE7McGVPh4
+Apr 22 19:41:27 "Response code 403 (Forbidden)"
+Apr 22 19:41:27 美丽研究院 API请求失败，请检查网路重试
+Apr 22 19:41:27 
+Apr 22 19:41:27 
+Apr 22 19:41:27 提示：请尝试换服务器ip或者设置"xinruimz-isv.isvjcloud.com"域名直连，或者自定义UA再次尝试(环境变量JD_USER_AGENT)
+Apr 22 19:41:27 
+Apr 22 19:41:27 
+Apr 22 19:41:27 
+Apr 22 19:41:27 🔔美丽研究院, 结束! 🕛 1.097 秒
+Apr 22 19:41:27 
+Apr 23 07:41:12 
+Apr 23 07:41:12 🔔美丽研究院, 开始!
+Apr 23 07:41:12 
+Apr 23 07:41:12 ====================共1个京东账号Cookie=========
+Apr 23 07:41:12 
+Apr 23 07:41:12 ==================脚本执行- 北京时间(UTC+8)：4/23/2021, 7:41:12 AM=====================
+Apr 23 07:41:12 
+Apr 23 07:41:13 
+Apr 23 07:41:13 ******开始【京东账号1】jd_60103fd1c8cd9*********
+Apr 23 07:41:13 
+Apr 23 07:41:13 AAEAIOnr8hb0UuStyEUstgOufAr-yjzqYMoy0BwER9LCUqEK0
+Apr 23 07:41:13 AAFgggmZADBblIfUPCRJ7qmw9VPgLEwn6kB1ZVM_YXHrGKteDvd5FGAkI6DVdd0IFNXicBPiUB0
+Apr 23 07:41:13 "Response code 403 (Forbidden)"
+Apr 23 07:41:13 美丽研究院 API请求失败，请检查网路重试
+Apr 23 07:41:13 
+Apr 23 07:41:13 
+Apr 23 07:41:13 提示：请尝试换服务器ip或者设置"xinruimz-isv.isvjcloud.com"域名直连，或者自定义UA再次尝试(环境变量JD_USER_AGENT)
+Apr 23 07:41:13 
+Apr 23 07:41:13 
+Apr 23 07:41:13 
+Apr 23 07:41:13 🔔美丽研究院, 结束! 🕛 1.101 秒
+Apr 23 07:41:13 
+Apr 23 12:41:02 
+Apr 23 12:41:02 🔔美丽研究院, 开始!
+Apr 23 12:41:02 
+Apr 23 12:41:02 ====================共1个京东账号Cookie=========
+Apr 23 12:41:02 
+Apr 23 12:41:03 ==================脚本执行- 北京时间(UTC+8)：4/23/2021, 12:41:02 PM=====================
+Apr 23 12:41:03 
+Apr 23 12:41:03 
+Apr 23 12:41:03 ******开始【京东账号1】jd_60103fd1c8cd9*********
+Apr 23 12:41:03 
+Apr 23 12:41:03 AAEAIONgI3LDGztbXeXmoA-rEAIN3_iDPc_PXbvyvr7ntoeU0
+Apr 23 12:41:03 AAFggk_fADBXqIqqEXQbeoMl1mPfhUcZ9Dc7qZq9oC-NvGJ31kg9Z48z0rPr6mgm_UMlmO7Ng1Q
+Apr 23 12:41:03 "Response code 403 (Forbidden)"
+Apr 23 12:41:03 美丽研究院 API请求失败，请检查网路重试
+Apr 23 12:41:03 
+Apr 23 12:41:03 
+Apr 23 12:41:03 提示：请尝试换服务器ip或者设置"xinruimz-isv.isvjcloud.com"域名直连，或者自定义UA再次尝试(环境变量JD_USER_AGENT)
+Apr 23 12:41:03 
+Apr 23 12:41:03 
+Apr 23 12:41:03 
+Apr 23 12:41:03 🔔美丽研究院, 结束! 🕛 1.09 秒
+Apr 23 12:41:03 
