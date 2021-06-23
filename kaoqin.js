@@ -18,7 +18,7 @@ let obj = JSON.parse(body);
 let records = obj.data.records;
 var total = 0;
 for(let i = 0; i < records.length; i++) {
-    if (records[i].is_workday == 1) {
+    if (records[i].isWorkday == 1) {
         if (records[i].signTimeList) {
             if (records[i]?.signTimeList?.length==2){
 
@@ -52,5 +52,5 @@ for(let i = 0; i < records.length; i++) {
     }
     
 }
-obj.data.attendance_statistics["leave_early_num"] = total;
+obj.data.attendanceStatistics["leaveEarlyNum"] = total;
 $done({ body: JSON.stringify(obj) });
