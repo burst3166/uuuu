@@ -60,6 +60,8 @@ if (url.indexOf(path2) != -1) {
             commodity_info.data.yuyueInfo.buyStartDate = 1702088278000
             commodity_info.data.yuyueInfo.startTime = 1702088278
             commodity_info.data.yuyueInfo.buyStartTime = 0
+            commodity_info.data.yuyueInfo.yuYueEndTime = 0
+            commodity_info.data.yuyueInfo.yuYueStartTime = -7199
             commodity_info.data.bottomButtonInfo.leftButtonInfo.buttonEnable = true
             $done({ body: JSON.stringify(obj) });
         } else {
