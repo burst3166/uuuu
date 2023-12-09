@@ -59,13 +59,11 @@ if (url.indexOf(path2) != -1) {
             }
             commodity_info.data.yuyueInfo.buyStartDate = 1702088278000
             commodity_info.data.yuyueInfo.startTime = 1702088278
-            commodity_info.data.yuyueInfo.buyStartTime = 0
-            commodity_info.data.yuyueInfo.yuYueEndTime = 0
-            commodity_info.data.yuyueInfo.yuYueStartTime = -7199
-            commodity_info.data.yuyueInfo.isYuYue = false
-            commodity_info.data.yuyueInfo.isbuyTime = false
-            commodity_info.data.yuyueInfo.yuYue = false
+            commodity_info.data.yuyueInfo.buyStartTime = -1
+            commodity_info.data.yuyueInfo.yuYueEndTime = -1
+            commodity_info.data.yuyueInfo.yuYueStartTime = -7200
             
+
             commodity_info.data.bottomButtonInfo.leftButtonInfo.buttonEnable = true
             $done({ body: JSON.stringify(obj) });
         } else {
