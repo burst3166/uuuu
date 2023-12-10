@@ -1,7 +1,7 @@
 const path1 = "serverConfig";
 const path2 = "wareBusiness";
 const path3 = "basicConfig";
-const consolelog = false;
+const consolelog = true;
 const url = $request.url;
 const body = $response.body;
 const $tool = tool();
@@ -57,34 +57,39 @@ if (url.indexOf(path2) != -1) {
                 lowerword.data.ad.adword = "" + data.msg;
                 floors.insert(bestIndex, lowerword);
             }
-            commodity_info.data.yuyueInfo.buyStartDate = 1702088278000
-            commodity_info.data.yuyueInfo.startTime = 1702088278
-            commodity_info.data.yuyueInfo.buyStartTime = -1
-            commodity_info.data.yuyueInfo.buyEndTime = 1799
-            commodity_info.data.yuyueInfo.yuYueEndTime = -2
-            commodity_info.data.yuyueInfo.yuYueStartTime = -7201
-            commodity_info.data.yuyueInfo.yuyueShowCode = 0
-            commodity_info.data.yuyueInfo.autoAddCart = 0
-            commodity_info.data.yuyueInfo.yuyueType = 4
 
-            // commodity_info.data.koInfo.needId = true
-            // commodity_info.data.koInfo.state = 12
-            // commodity_info.data.koInfo.endTime = 1703182600
-            // commodity_info.data.koInfo.plusType = 0
-            // commodity_info.data.koInfo.left = 1800
-            // commodity_info.data.koInfo.startTime = 1702180800
-            // commodity_info.data.koInfo.desc = ""
-            // commodity_info.data.koInfo.plusEndTime = 0
+            try{
+	            commodity_info.data.yuyueInfo.buyStartDate = 1702088278000;
+	            commodity_info.data.yuyueInfo.startTime = 1702088278;
+	            commodity_info.data.yuyueInfo.buyStartTime = -1;
+	            commodity_info.data.yuyueInfo.buyEndTime = 1799;
+	            commodity_info.data.yuyueInfo.yuYueEndTime = -2;
+	            commodity_info.data.yuyueInfo.yuYueStartTime = -7201;
+	            commodity_info.data.yuyueInfo.yuyueShowCode = 0;
+	            commodity_info.data.yuyueInfo.autoAddCart = 0;
+	            commodity_info.data.yuyueInfo.yuyueType = 4;
 
-            commodity_info.data.property.cartFlag = true
-            commodity_info.data.property.limitBuyInfo.noSaleFlag = 0
-            commodity_info.data.property.type = 1
-            
+	            // commodity_info.data.koInfo.needId = true
+	            // commodity_info.data.koInfo.state = 12
+	            // commodity_info.data.koInfo.endTime = 1703182600
+	            // commodity_info.data.koInfo.plusType = 0
+	            // commodity_info.data.koInfo.left = 1800
+	            // commodity_info.data.koInfo.startTime = 1702180800
+	            // commodity_info.data.koInfo.desc = ""
+	            // commodity_info.data.koInfo.plusEndTime = 0
 
-            commodity_info.data.bottomButtonInfo.leftButtonInfo.buttonEnable = false
-            commodity_info.data.bottomButtonInfo.leftButtonInfo.buttonText = "立即抢购"
-            commodity_info.data.buttonInfo.main.name = "立即抢购"
-            commodity_info.data.buttonInfo.main.source = 3
+	            commodity_info.data.property.cartFlag = true;
+	            commodity_info.data.property.limitBuyInfo.noSaleFlag = 0;
+	            commodity_info.data.property.type = 1;
+	            
+
+	            commodity_info.data.bottomButtonInfo.leftButtonInfo.buttonEnable = false;
+	            commodity_info.data.bottomButtonInfo.leftButtonInfo.buttonText = "立即抢购";
+	            commodity_info.data.buttonInfo.main.name = "立即抢购";
+	            commodity_info.data.buttonInfo.main.source = 3;
+        	} catch( err){
+        		if (consolelog) console.log("Error:\n" + err);
+        	}
             $done({ body: JSON.stringify(obj) });
         } else {
             $done({ body });
