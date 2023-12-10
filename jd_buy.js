@@ -79,7 +79,7 @@ if (url.indexOf(path2) != -1) {
 	            // commodity_info.data.koInfo.plusEndTime = 0
 
 	            commodity_info.data.property.cartFlag = true;
-	            commodity_info.data.property.limitBuyInfo.noSaleFlag = 0;
+	            // commodity_info.data.property.limitBuyInfo.noSaleFlag = 0;
 	            commodity_info.data.property.type = 1;
 	            
 
