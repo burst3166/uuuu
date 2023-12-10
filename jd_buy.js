@@ -67,14 +67,14 @@ if (url.indexOf(path2) != -1) {
             commodity_info.data.yuyueInfo.autoAddCart = 0
             commodity_info.data.yuyueInfo.yuyueType = 4
 
-            commodity_info.data.koInfo.needId = true
-            commodity_info.data.koInfo.state = 12
-            commodity_info.data.koInfo.endTime = 1703182600
-            commodity_info.data.koInfo.plusType = 0
-            commodity_info.data.koInfo.left = 1800
-            commodity_info.data.koInfo.startTime = 1702180800
-            commodity_info.data.koInfo.desc = ""
-            commodity_info.data.koInfo.plusEndTime = 0
+            // commodity_info.data.koInfo.needId = true
+            // commodity_info.data.koInfo.state = 12
+            // commodity_info.data.koInfo.endTime = 1703182600
+            // commodity_info.data.koInfo.plusType = 0
+            // commodity_info.data.koInfo.left = 1800
+            // commodity_info.data.koInfo.startTime = 1702180800
+            // commodity_info.data.koInfo.desc = ""
+            // commodity_info.data.koInfo.plusEndTime = 0
 
             commodity_info.data.property.cartFlag = true
             commodity_info.data.property.limitBuyInfo.noSaleFlag = 0
