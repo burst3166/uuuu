@@ -59,8 +59,8 @@ if (url.indexOf(path2) != -1) {
             }
 
             try{
-	            commodity_info.data.yuyueInfo.buyStartDate = 1702088278000;
-	            commodity_info.data.yuyueInfo.startTime = 1702088278;
+	            commodity_info.data.yuyueInfo.buyStartDate = 1702260880000;
+	            commodity_info.data.yuyueInfo.startTime = 1702260880;
 	            commodity_info.data.yuyueInfo.buyStartTime = -1;
 	            commodity_info.data.yuyueInfo.buyEndTime = 1799;
 	            commodity_info.data.yuyueInfo.yuYueEndTime = -2;
